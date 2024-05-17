@@ -1,0 +1,6 @@
+[submodule "veri/doktorsitesi"]
+	path = veri/doktorsitesi
+	url = https://github.com/malibayram/dr-veri-toplama-doktorsitesi
+[submodule "video_ve_ozet_havuzu/local-llm-on-apple-silicon"]
+	path = video_ve_ozet_havuzu/local-llm-on-apple-silicon
+	url = https://github.com/malibayram/dr-video-local-llm-on-apple-silicon
