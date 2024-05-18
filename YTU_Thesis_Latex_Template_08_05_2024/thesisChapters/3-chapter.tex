@@ -1,0 +1,67 @@
+\chapter{EXAMPLES OF REFERENCES/ATIF ÖRNEKLERİ}
+
+\section{Atıf Örnekleri}
+Bu tezde IEEE ya da APA stili, kaynakça gösteriminde kullanılmalıdır. "main.tex" isimli dosyada bunu belirtebilirsiniz. Varsayılan ayar IEEE şeklindedir. Eğer APA stilini kullanmak isterseniz:
+
+$usepackage[eng, phd]{ytuthesis}$
+
+satırına 3. parametre olarak authoryear eklemeniz gerekmektedir.
+
+$usepackage[eng, phd, authoryear]{ytuthesis}$ gibi
+
+Kaynak atıfları, noktadan önceki en son öge olmalıdır. Şekil, tablo vs. ye yapılan atıflar, kaynak atıfından önce olmalıdır.
+
+Kaynakları bibtex formatında Google Scholar'dan edinmenizi öneririz. Edindiğiniz bu bilgileri, tezdeki "references.bib" dosyasına yapıştırın.
+
+%Şu an yazdığımız if komutunu KULLANMAYIN. Bu komut sadece ieee ve apa stillerini ayrı ayrı gösterebilmek için kullanılmıştır. IEEE için cite, APA için textcite komutlarını kullanacaksınız. Aşağıdaki ifadelere ve örneklere dikkat edin.
+
+\if@ieeetrue
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  ~\cite{biopsy}. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  ~\cite{mohan2018textbook}. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna, ~\cite{van2007experimental} ut labore et dolore magna aliqua.  ~\cite{xing2016robust}."
+
+\else
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  ~\parencite{biopsy}'em ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ~\parencite{mohan2018textbook}'rem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ~\parencite{van2007experimental, xing2016robust} ut labore et dolore magna aliqua." 
+\fi
+
+Kaynakça sayfası ve kaynak numaralandırılması, eklediğiniz bilgiler ve yerleri çerçevesinde otomatik olarak oluşturulacaktır.
+
+
+\section{Examples of References}
+
+
+
+\section{Maddelendirme / Numbering}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+\begin{itemize}
+%\setlength{\itemsep}{0pt}
+\item Lorem ipsum dolor sit amet
+\item Consectetur adipiscing elit
+\item Sed do eiusmod tempor incididunt ut
+\item Lorem ipsum dolor
+\item Lorem ipsum 
+\end{itemize}
+
+\section{Example of Table / Tablo Örneği}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\begin{table}[!ht]
+\caption{Table title / tablo başlığı}
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Lorem} & \textbf{ipsum dolor}      \\ \hline
+1                  & Consectetur adipiscing elit \\ \hline
+2                  & Ut enim ad minim veniam               \\ \hline
+3                  & Ut enim             \\ \hline
+4                  & Quis nostrud            \\ \hline
+5                  & Ex ea commodo consequat          \\ \hline
+6                  & Exercitation ullamco             \\ \hline
+7                  & Exercitation              \\ \hline
+8                  & Consectetur                \\ \hline
+9                  & Sed do eiusmod tempor  \\ \hline
+10                 & Lorem                \\ \hline
+\end{tabular}
+\end{table}
+
+But if you want to exchange cash, plenty of places will do it for you. Currency Exchange Offices  are found in tourist and market areas. They offer better exchange rates than most banks, and may or may not charge a commission. Offices in market areas tend to offer better exchange rates than those in tourist areas. Shop around for the best rate and the lowest (or no) commission.
+

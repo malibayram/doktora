@@ -1,0 +1,63 @@
+\documentclass[a4paper,12pt,oneside,openany]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%      THESIS PARAMETERS       %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Language Option: "tr" or "eng"                (default: "eng")
+% Degree Option: "ms" or "phd"                  (default: "ms")
+% For Thesis Monitoring Committee Report: "tmc"
+% Bibliography Option: "ieee" or "authoryear"   (default: "ieee")
+
+% Example:   \usepackage[tr, phd, tmc]{ytuthesis}
+%            \usepackage[eng, ms]{ytuthesis}
+%            \usepackage[tr, ms, authoryear]{ytuthesis}
+
+\usepackage[tr, phd]{ytuthesis}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%         REFERENCES       %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addbibresource{references.bib} 
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%         FRONT PAGES      %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input {frontPages.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%      CHAPTERS     %%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input {thesisChapters/1-chapter.tex}
+\input {thesisChapters/2-chapter.tex}
+\input {thesisChapters/3-chapter.tex}
+\input {thesisChapters/4-chapter.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%         REFERENCES       %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\addcontentsline{toc}{chapter}{\bibName}
+\singlespacing
+\printbibliography[title={\bibName}]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%      APPENDICES     %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage\appendix
+
+\input {thesisChapters/A-appendix.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%     PUBLICATIONS FROM THESIS     %%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifnum\tmc=0
+\newpage
+\addcontentsline{toc}{chapter}{\cvpub}
+\input {publications.tex}
+\fi
+
+\end{document}

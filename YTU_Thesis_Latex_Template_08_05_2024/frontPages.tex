@@ -1,0 +1,488 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%% BU DOSYA ÜZERİNDE OYNAMA YAPMAYINIZ %%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\onehalfspacing
+\pagenumbering{roman}
+
+
+\ifnum\tmc=1
+\begin{titlepage}
+    \begin{center}
+    
+        \large
+        
+        \textbf{\country\\ \university \\ \institue}
+    
+        \includegraphics[width=0.25\textwidth]{ytu_logo.png}
+        
+        \vspace*{1.5cm}
+        \Large
+        \parbox[][1cm][c]{1.0\textwidth}{
+            \centering
+            \textbf{\titleOfThesis}
+        }
+        
+        \vspace{4cm}
+        
+        {\student}
+        
+        \vspace{2.5cm}
+        
+        \large
+        \textbf{\TMC}
+
+        
+        \vspace{2cm}
+        
+        \normalsize
+        {\advisorT\\\advisor}
+        
+        \vspace{1.5cm}
+        
+        \large
+        \date
+    \end{center}
+\end{titlepage}
+
+\else
+\begin{titlepage}
+    \begin{center}
+    
+        \large
+        
+        \textbf{\country\\ \university \\ \institue}
+    
+        \vspace*{3.5cm}
+        \Large
+        
+        \parbox[][1cm][c]{1.0\textwidth}{
+            \centering
+            \textbf{\titleOfThesis}
+        }
+        
+        \vspace{3cm}
+        
+        \textbf{\student}
+        
+        \vspace{1.5cm}
+        
+        \large
+        { \thesisType \\ \department\\ \program}
+        
+        \vspace{2cm}
+        
+        \advisorT\\\advisor
+        
+        \ifnum\isThereCoAdvisor=1
+        \coadvisorT\\\coadvisor
+        \fi        
+        \vfill
+        
+        \date
+    \end{center}
+\end{titlepage}
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% İMZA SAYFASI %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ifnum\tmc=0
+\newpage
+\thispagestyle{empty}
+\begin{center}
+    \large
+    \textbf{\country\\ \university \\ \institue}
+    \vspace*{0.5cm}
+    
+    \textbf{\titleOfThesis}
+\end{center}
+
+\signText
+
+\vspace*{0.5cm}
+
+\begin{minipage}{0.45\textwidth}
+\centering
+\singlespacing
+{ \advisor\\ \advisorUni \\ \advisorT }
+\end{minipage}
+\ifnum\isThereCoAdvisor=1
+\hfill
+\begin{minipage}{0.45\textwidth}
+\centering
+\singlespacing
+{ \coadvisor\\ \coadvisorUni \\ \coadvisorT }
+\end{minipage}
+%\begin{center}
+%    {\advisor\hfill\coadvisor\\ \advisorT\hfill\coadvisorT \\ \advisorUni\hfill\coadvisorUni }
+%\end{center} 
+\fi
+
+\vspace*{1cm}
+
+{{\bfseries \signmember}}
+
+\ifnum\thesisDegree=1
+{ \advisor, \advisorT \\ \advisorUni \hfill\rule{5cm}{1pt} }
+
+{ \memberi, \memberT \\ \memberiUni \hfill\rule{5cm}{1pt} }
+
+{ \memberii, \memberT \\ \memberiiUni \hfill\rule{5cm}{1pt} }
+
+{ \memberiii, \memberT \\ \memberiiiUni \hfill\rule{5cm}{1pt} }
+
+{ \memberiv, \memberT \\ \memberivUni \hfill\rule{5cm}{1pt} }
+
+\else
+
+{ \advisor, \advisorT \\ \advisorUni \hfill\rule{5cm}{1pt} }
+
+{ \memberi, \memberT \\ \memberiUni \hfill\rule{5cm}{1pt} }
+
+{ \memberii, \memberT \\ \memberiiUni \hfill\rule{5cm}{1pt} }
+
+\fi
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%% İNTİHAL SAYFASI %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ifnum\tmc=0
+\newpage
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\plagirismText
+
+\hfill\parbox{5.8cm}{
+\centering \normalsize \student\\
+\vspace{0.5cm}
+\footnotesize \centering \sign
+}
+
+\vspace*{\fill}
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%% DESTEK SAYFASI %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setbox0=\hbox{\supports \unskip}\ifdim\wd0=0pt
+
+\else
+    \ifnum\tmc=0
+    \newpage
+    \thispagestyle{empty}
+    \par\vspace*{\fill}
+    \noindent 
+    \supports 
+    \fi
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%% İTHAF SAYFASI %%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ifnum\tmc=0
+
+\begin{dedication}
+\dedicationText
+\end{dedication}
+
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% TEŞEKKÜR SAYFASI %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ifnum\tmc=0
+\newpage
+\chapter*{\acknowledgements}
+
+\acknowledgementText
+
+\hfill \student
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% İÇİNDEKİLER SAYFASI %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{fancy}
+\newpage
+\chapter*{\contents}
+\renewcommand\contentsname{\vspace{-3.6em}}
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% SEMBOLLER SAYFASI %%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setbox0=\vbox{\symbols\unskip}\ifdim\wd0=0pt
+
+\else
+    \newpage
+    \chapter*{\symbolName}
+    \addcontentsline{toc}{chapter}{\symbolName}
+    \vspace{-0.3em}
+    \symbols
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% KISALTMALAR SAYFASI %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setbox0=\vbox{\abbrevations\unskip}\ifdim\wd0=0pt
+
+\else
+    \newpage
+    \chapter*{\abbreviationName}
+    \addcontentsline{toc}{chapter}{\abbreviationName}
+    \vspace{-0.3em}
+    \abbrevations
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%    TABLO, ŞEKİL, HARİTA LİSTESİ SAYFASI    %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newlength{\mylen}
+\newlength{\tempp}
+\setlength{\tempp}{\cftfignumwidth}
+
+\iffigures
+    \newpage
+    \setlength{\cftfigindent}{0pt}
+    \renewcommand{\figurename}{\figureName}
+    
+    \renewcommand\cftfigpresnum{\bfseries \figurename~}
+    \renewcommand\cftfigaftersnum{\normalfont}
+    
+    \settowidth{\mylen}{\cftfigpresnum\cftfigaftersnum}
+    \addtolength{\cftfignumwidth}{\mylen}
+    
+    \chapter*{\listfigures}
+    \renewcommand\listfigurename{\vspace{-3.2em}}
+    \addcontentsline{toc}{chapter}{\listfigures}
+    \listoffigures
+\fi
+
+\iftables
+    \newpage
+    \setlength{\cfttabindent}{0pt}
+    \renewcommand{\tablename}{\tableName}
+    
+    \renewcommand\cfttabpresnum{\bfseries \tablename~}
+    \renewcommand\cfttabaftersnum{\normalfont}
+    
+    \settowidth{\mylen}{\cfttabpresnum\cfttabaftersnum}
+    \addtolength{\cfttabnumwidth}{\mylen}
+    
+    \chapter*{\listtables}
+    \renewcommand\listtablename{\vspace{-3.2em}}
+    \addcontentsline{toc}{chapter}{\listtables}
+    
+    \listoftables
+\fi
+
+\ifmaps
+    \newpage
+    \setlength{\cftfigindent}{0pt}
+    \addcontentsline{toc}{chapter}{\listmaps}
+    
+    \renewcommand\cftfigpresnum{\bfseries \mapName~ }
+    \renewcommand\cftfigaftersnum{\normalfont}
+    
+    \setlength{\cftfignumwidth}{\tempp}
+    \settowidth{\mylen}{\cftfigpresnum\cftfigaftersnum}
+    \addtolength{\cftfignumwidth}{\mylen}
+    \listofmaps
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%  ÖZET SAYFASI  %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ifnum\tmc=0
+\ifnum\lang=0
+\newpage
+\chapter*{\eabstract}
+\addcontentsline{toc}{chapter}{\eabstract}
+
+\begin{center}
+{\bfseries \Large\titleEN}
+
+\student
+
+\departmentEN \\ {\degree~Thesis}
+
+Supervisor: \advisorEN \\
+\ifnum\isThereCoAdvisor=1
+Co-supervisor: \coadvisorEN
+\fi  
+
+
+\end{center}
+
+\abstractTextEnglish
+
+{\bfseries Keywords:} \abstractKeywordsEnglish
+
+\vfill
+
+%\addbackground
+
+\begin{center}
+\rule{0.8\textwidth}{.1pt}
+
+\bfseries \small
+ YILDIZ TECHNICAL UNIVERSITY\\
+ GRADUATE SCHOOL OF SCIENCE AND ENGINEERING
+\end{center}
+
+\newpage
+\chapter*{\tabstract}
+\addcontentsline{toc}{chapter}{\tabstract}
+
+\begin{center}
+{\bfseries \Large\titleTR}
+
+\student
+
+\departmentTR \\ {\tdegree~Tezi}
+
+Danışman: \advisorTR \\
+\ifnum\isThereCoAdvisor=1
+Eş-Danışman: \coadvisorTR
+\fi  
+
+
+\end{center}
+
+\abstractTextTurkish
+
+{\bfseries Anahtar Kelimeler:} \abstractKeywordsTurkish
+
+\vfill
+
+%\addbackground
+
+\begin{center}
+\rule{0.8\textwidth}{.1pt}
+
+\bfseries \small
+ YILDIZ TEKNİK ÜNİVERSİTESİ\\
+ FEN BİLİMLERİ ENSTİTÜSÜ
+\end{center}
+
+\else
+\newpage
+\chapter*{\tabstract}
+\addcontentsline{toc}{chapter}{\tabstract}
+
+\begin{center}
+{\bfseries \Large\titleTR}
+
+\student
+
+\departmentTR \\ {\tdegree~Tezi}
+
+Danışman: \advisorTR \\
+\ifnum\isThereCoAdvisor=1
+Eş-Danışman: \coadvisorTR
+\fi
+
+
+\end{center}
+
+\abstractTextTurkish
+
+{\bfseries Anahtar Kelimeler:} \abstractKeywordsTurkish
+
+\vfill
+
+%\addbackground
+
+\begin{center}
+\rule{0.8\textwidth}{.1pt}
+
+\bfseries \small
+ YILDIZ TEKNİK ÜNİVERSİTESİ\\
+ FEN BİLİMLERİ ENSTİTÜSÜ
+\end{center}
+
+\newpage
+\chapter*{\eabstract}
+\addcontentsline{toc}{chapter}{\eabstract}
+
+\begin{center}
+{\bfseries \Large\titleEN}
+
+\student
+
+\departmentEN \\ {\degree~Thesis}
+
+Supervisor: \advisorEN \\
+\ifnum\isThereCoAdvisor=1
+Co-supervisor: \coadvisorEN
+\fi  
+
+
+\end{center}
+
+\abstractTextEnglish
+
+{\bfseries Keywords:} \abstractKeywordsEnglish
+
+\vfill
+
+%\addbackground
+
+\begin{center}
+\rule{0.8\textwidth}{.1pt}
+    
+\bfseries \small
+ YILDIZ TECHNICAL UNIVERSITY\\
+ GRADUATE SCHOOL OF SCIENCE AND ENGINEERING
+\end{center}
+
+\fi
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%  BAŞLANGIÇ   %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\onehalfspacing
+\clearpage
+\pagenumbering{arabic}

@@ -1,0 +1,325 @@
+\ProvidesPackage{ytuthesis}
+
+\newif\if@turkish \@turkishfalse
+\DeclareOption{tr}{\@turkishtrue}
+\DeclareOption{eng}{\@turkishfalse}
+
+\newif\if@phd \@phdfalse
+\DeclareOption{phd}{\@phdtrue}
+\DeclareOption{ms}{\@phdfalse}
+
+\newif\if@tmc \@tmcfalse
+\DeclareOption{tmc}{\@tmctrue}
+
+\newif\if@ieee \@ieeetrue
+\DeclareOption{authoryear}{\@ieeefalse}
+
+\DeclareOption*{Invalid Option \CurrentOption}
+
+\ProcessOptions\relax
+
+\usepackage[times]{mathdesign}
+\usepackage{times}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{tocloft,subfig,pdflscape}
+\usepackage[justification=centering, labelsep=space, figurewithin=none, tablewithin=none, labelfont=bf]{caption}
+
+\usepackage{hyperref}
+
+\if@ieee
+\usepackage[backend=biber,style=ieee,sorting=none,citestyle=numeric-comp]{biblatex}
+\else
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\fi
+
+
+
+\renewcommand*{\finalnamedelim}{%
+  \ifnumgreater{\value{liststop}}{1}{\finalandcomma}{}%
+  \addspace}
+
+\usepackage{enumitem}
+\newlist{abbrv}{itemize}{1}
+\setlist[abbrv,1]{label=,labelwidth=1in,align=parleft,itemsep=0.1\baselineskip,leftmargin=!}
+
+\include{information}
+
+\hyphenchar\font=-1
+\sloppy
+
+\if@tmc
+\def\tmc{1}
+\else
+\def\tmc{0}
+\fi
+
+\if@phd
+\def\shortdegree{Ph.D.}
+\def\degree{Doctor of Philosophy}
+\def\tdegree{Doktora}
+\def\thesisDegree{1}
+\else
+\def\shortdegree{M.S.}
+\def\degree{Master of Science}
+\def\tdegree{Yüksek Lisans}
+\def\thesisDegree{0}
+\fi
+
+\def\tabstract{ÖZET}
+\def\eabstract{ABSTRACT}
+
+\if@turkish
+\uccode `\i='235
+\lccode `\I='031
+\def\YTU{YILDIZ TEKNİK ÜNİVERSİTESİ}
+\def\ytu{Yıldız Teknik Üniversitesi}
+\def\country{T.C.}
+\def\university{\YTU}
+\def\institue{FEN BİLİMLERİ ENSTİTÜSÜ}
+\def\titleOfThesis{\MakeUppercase\titleTR}
+\def\advisorT{Danışman}
+\def\coadvisorT{Eş-Danışman}
+\def\advisor{\advisorTR}
+\def\coadvisor{\coadvisorTR}
+\def\memberT{Üye}
+\def\thesisType{\MakeUppercase\tdegree~TEZİ}
+\def\TMC{Tez İzleme Raporu}
+\def\acknowledgements{TEŞEKKÜR}
+\def\contents{İÇİNDEKİLER}
+\def\listfigures{ŞEKİL LİSTESİ}
+\def\listtables{TABLO LİSTESİ}
+\def\listmaps{HARİTA LİSTESİ}
+\def\tableName{Tablo}
+\def\figureName{Şekil}
+\def\mapName{Harita}
+\def\abbreviationName{KISALTMA LİSTESİ}
+\def\symbolName{SİMGE LİSTESİ}
+\def\appName{EKLER}
+\def\bibName{KAYNAKÇA}
+\def\cvName{ÖZGEÇMİŞ}
+\def\lang{1}
+\def\department{\departmentTR}
+\def\program{\programTR}
+\def\intro{GİRİŞ}
+\def\conc{SONUÇ}
+\def\plagirismText{Danışmanım \advisorTR~sorumluluğunda tarafımca hazırlanan \titleTR~başlıklı çalışmada veri toplama ve veri kullanımında gerekli yasal izinleri aldığımı, diğer kaynaklardan aldığım bilgileri ana metin ve referanslarda eksiksiz gösterdiğimi, araştırma verilerine ve sonuçlarına ilişkin çarpıtma ve/veya sahtecilik yapmadığımı, çalışmam süresince bilimsel araştırma ve etik ilkelerine uygun davrandığımı beyan ederim. Beyanımın aksinin ispatı halinde her türlü yasal sonucu kabul ederim. }
+\def\sign{İmza}
+
+\def\theo{Teorem}
+\def\cor{Sonuç}
+\def\lem{Lemma}
+\def\defi{Tanım}
+\def\rem{Yorum}
+\def\pro{İspat}
+
+
+
+\def\signText{\student~tarafından hazırlanan tez çalışması \dateFull~tarihinde aşağıdaki jüri tarafından Yıldız Teknik Üniversitesi Fen Bilimleri Enstitüsü \department~ \program~ \textbf{\MakeUppercase \tdegree~TEZİ} olarak kabul edilmiştir.}
+
+\def\signmember{Jüri Üyeleri}
+
+\def\cvpi{KİŞİSEL BİLGİLER}
+\def\cvnamesurname{Soyisim, İsim}
+\def\cvbirthdate{Doğum Yeri ve Tarihi}
+\def\cvemail{E-posta}
+\def\cvphone{Telefon}
+\def\cvedu{EĞİTİM}
+\def\cvdegree{Derece}
+\def\cvinst{Üniversite/Bölüm}
+\def\cvgrad{Mezuniyet Yılı}
+\def\cvpe{İŞ TECRÜBESİ}
+\def\cvyear{Yıl}
+\def\cvplace{Firma/Kurum}
+\def\cvenroll{Görev}
+\def\cvpub{TEZDEN ÜRETİLMİŞ YAYINLAR}
+\def\cvpapers{Makale}
+\def\cvconf{Konferans Bildirisi}
+\def\cvbooks{Kitap}
+\def\cvprojects{Proje}
+\def\cvawards{Ödül}
+\def\cvcontact{İletişim Bilgileri}
+
+\else
+\def\YTU{YILDIZ TECHNICAL UNIVERSITY}
+\def\ytu{Yildiz Technical University}
+\def\country{REPUBLIC OF TÜRKİYE}
+\def\university{\YTU}
+\def\institue{GRADUATE SCHOOL OF SCIENCE AND ENGINEERING}
+\def\titleOfThesis{\MakeUppercase\titleEN}
+\def\advisorT{Supervisor}
+\def\coadvisorT{Co-supervisor}
+\def\advisor{\advisorEN}
+\def\coadvisor{\coadvisorEN}
+\def\memberT{Member}
+\def\thesisType{\MakeUppercase\degree~THESIS}
+\def\TMC{Thesis Monitoring Report}
+\def\acknowledgements{ACKNOWLEDGEMENTS}
+\def\contents{TABLE OF CONTENTS}
+\def\listfigures{LIST OF FIGURES}
+\def\listtables{LIST OF TABLES}
+\def\listmaps{LIST OF MAPS}
+\def\tableName{Table}
+\def\figureName{Figure}
+\def\mapName{Map}
+\def\abbreviationName{LIST OF ABBREVIATIONS}
+\def\symbolName{LIST OF SYMBOLS}
+\def\appName{APPENDICES}
+\def\bibName{REFERENCES}
+\def\cvName{CURRICULUM VITAE}
+\def\lang{0}
+\def\department{\departmentEN}
+\def\program{\programEN}
+\def\intro{INTRODUCTION}
+\def\conc{CONCLUSION}
+\def\plagirismText{  I hereby declare that I have obtained the required legal permissions during data collection and exploitation procedures, that I have made the in-text citations and cited the references properly, that I haven’t  falsified  and/or fabricated research data and results of the study and that I have abided by the principles of the scientific research and ethics during my Thesis Study under the title of \titleEN~supervised by my supervisor, \advisorEN. In the case of a discovery of false statement, I am to acknowledge any legal consequence.}
+\def\sign{Signature}
+
+\def\theo{Theorem}
+\def\cor{Corollary}
+\def\lem{Lemma}
+\def\defi{Definition}
+\def\rem{Remark}
+\def\pro{Proof}
+
+\def\signText{A thesis submitted by \student~in partial fulfillment of the requirements for the degree of \textbf{\MakeUppercase \degree}~is approved by the committee on \dateFull~in \department,~\program.}
+
+\def\signmember{Approved By the Examining Committee}
+
+\def\cvpi{PERSONAL INFORMATION}
+\def\cvnamesurname{Surname, Name}
+\def\cvbirthdate{Date and Place of Birth}
+\def\cvemail{E-mail}
+\def\cvphone{Phone}
+\def\cvedu{EDUCATION}
+\def\cvdegree{Degree}
+\def\cvinst{University/Department}
+\def\cvgrad{Year of Graduation}
+\def\cvpe{PROFESSIONAL EXPERIENCE}
+\def\cvyear{Year}
+\def\cvplace{Institute/Company}
+\def\cvenroll{Enrollment}
+\def\cvpub{PUBLICATIONS FROM THE THESIS}
+\def\cvpapers{Papers}
+\def\cvconf{Conference Papers}
+\def\cvbooks{Books}
+\def\cvprojects{Projects}
+\def\cvawards{Awards}
+\def\cvcontact{Contact Information}
+\fi
+
+\parskip=12pt
+\parindent=0pt
+
+\usepackage{amsmath, amsthm, graphicx, setspace}
+
+\newtheorem{theorem}{\theo}[chapter]
+\newtheorem{corollary}{\cor}[chapter]
+\newtheorem{lemma}{\lem}[chapter] 
+\theoremstyle{definition}
+\newtheorem{definition}{\defi}[chapter]
+\renewcommand*{\proofname}{\pro}
+\theoremstyle{remark}
+\newtheorem{remark}{\rem}[chapter]
+\renewcommand\qedsymbol{$\blacksquare$}
+
+\usepackage{geometry}
+\geometry{
+   paperwidth=210mm, paperheight=297mm,
+   left=35mm, right=35mm, top=25mm, bottom=25mm
+}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\setcounter{secnumdepth}{4}
+\renewcommand{\chaptername}{}
+
+\usepackage{titlesec} 
+\titleformat{\chapter}[display]
+  {\bfseries\Large}
+  {\chaptername~\filleft\bfseries\fontsize{30}{00}\selectfont\thechapter}
+  {14pt}
+  {\vspace{-2em}\filleft\Large}
+  [\vspace{0.5em}\titlerule]
+
+\titleformat{\section}
+  {\bfseries\large}
+  {\thesection}{1em}{}[\vspace{-1.5em}]
+
+\titleformat{\subsection}
+  {\bfseries\normalsize}
+  {\thesubsection}{1em}{}[\vspace{-1.5em}]
+
+\titleformat{\subsubsection}
+  {\bfseries\normalsize}
+  {\thesubsubsection}{1em}{}[\vspace{-1.5em}]
+
+\usepackage{tocbasic}
+\usepackage{scrbase}
+\DeclareNewTOC[%
+  type=map,
+  types=maps,
+  float,
+  name=\mapName,
+  listname={\listmaps},
+  ]{lom}
+ 
+\newif\iffigures
+\newif\iftables
+\newif\ifmaps
+
+\makeatletter
+
+\@addtoreset{figure}{chapter}
+\@addtoreset{table}{chapter}
+\@addtoreset{map}{chapter}
+\renewcommand{\thefigure}{\thechapter.\arabic{figure}} 
+\renewcommand{\thetable}{\thechapter.\arabic{table}} 
+\renewcommand{\themap}{\thechapter.\arabic{map}} 
+
+\renewcommand\l@map{\l@figure}
+
+\let\OLDtable\table
+\def\table  {\tables@in@document\OLDtable }
+\let\OLDfigure\figure
+\def\figure {\figures@in@document\OLDfigure }
+\let\OLDmap\map
+\def\map  {\maps@in@document\OLDmap }
+
+\def\tables@in@document {%
+    \immediate\write\@mainaux {\global\string\tablestrue}%
+    \global\let\tables@in@document\empty
+}
+
+\def\figures@in@document {%
+    \immediate\write\@mainaux {\global\string\figurestrue}%
+    \global\let\figures@in@document\empty
+}
+
+\def\maps@in@document {%
+    \immediate\write\@mainaux {\global\string\mapstrue}%
+    \global\let\maps@in@document\empty
+}
+
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\newenvironment{dedication}
+  {\clearpage           % we want a new page
+   \thispagestyle{empty}% no header and footer
+   \vspace*{\stretch{1}}% some space at the top 
+   \itshape             % the text is in italics
+   \raggedleft          % flush to the right margin
+  }
+  {
+  \par % end the paragraph
+   \vspace{\stretch{3}} % space at bottom is three times that at the top
+   \clearpage           % finish off the page
+  }
+ 
+ \usepackage{textcomp}
+\usepackage{wallpaper}
+\newcommand{\addbackground}[1]{\ThisLLCornerWallPaper{0.3}{ytu_logo}}
+
