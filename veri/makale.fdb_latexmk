@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1716031608.93117 "/Users/mab/Desktop/doktora/veri/makale.tex" "makale.pdf" "makale" 1716031609.01867 0
-  "/Users/mab/Desktop/doktora/veri/makale.tex" 1716031608.76458 228 a7b2123f18bc49a011fe48b494ec0e4a ""
+["pdflatex"] 1716033690.88321 "/Users/mab/Desktop/doktora/veri/makale.tex" "makale.pdf" "makale" 1716033690.97651 0
+  "/Users/mab/Desktop/doktora/veri/makale.tex" 1716033690.71547 228 a7b2123f18bc49a011fe48b494ec0e4a ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -18,11 +18,11 @@
   "/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1714507368 29785 470380cd55470b90fdb46d40220ba304 ""
   "/usr/local/texlive/2024basic/texmf-dist/web2c/texmf.cnf" 1713064664 41983 7ec6bfd6bf34339a61f0f08f42298e60 ""
-  "/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716031385 79187 3707ba1a1c2304ab6bb6cb291e5e6f79 ""
+  "/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716032184 103246 645e5676247ca54b1b2ca6627cb0b163 ""
   "/usr/local/texlive/2024basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1716031408 7539904 f74387cccf1ffded1e88df0acedf33c8 ""
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
-  "makale.aux" 1716031609.00879 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "makale.tex" 1716031608.76458 228 a7b2123f18bc49a011fe48b494ec0e4a ""
+  "makale.aux" 1716033690.96384 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "makale.tex" 1716033690.71547 228 a7b2123f18bc49a011fe48b494ec0e4a ""
   (generated)
   "makale.aux"
   "makale.log"
