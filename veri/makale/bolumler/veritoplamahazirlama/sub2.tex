@@ -1,0 +1,19 @@
+\sloppy
+İlk olarak https://www.doktorsitesi.com/tumuzmanlar sayfasına 2024 Mayıs ayı itibariyle ulaşıldı. Sayfada her bir alt sayfada 20 doktor profilinin ünvanları ile birlikte listelendiği toplam 998 alt sayfa olduğu görüldü. Bu alt sayfalardan her birine istek atılarak isimleri ve profil linkleri alındı. Bu linkler ve doktor isimleri bir DataFrame'e kaydedildi. Daha sonra kullanılmak üzere de csv formatında diske kaydedildi.
+
+\lstinputlisting[language=Python, caption={HTML'den Doktorları Alma}]{kodlar/htmlden_doktorlari_alma.py}
+
+\lstinputlisting[language=Python, caption={Doktor Profil Özetlerini Request ile Getirme}] {kodlar/doktor_profil_ozetlerini_request.py}
+
+Paralelleştirme olmadan 16 dakika süren bu işlem, süreyi azaltmak amacıyla asyncio ve aiohttp kütüphaneleri kullanılarak asenkron bir şekilde yapıldığında 55 saniyeye indirildi.
+
+\lstinputlisting[language=Python, caption={Doktor Profil Özetlerini Getirme ve Paralelleştirme}]{kodlar/doktor_profil_ozetlerini_paralellestirme.py}
+
+\lstinputlisting[language=Python, caption={Doktor Profil Özetlerini DataFrame ve CSV'e Kaydetme}]{kodlar/doktor_profil_ozetlerini_kaydet.py}
+
+\end{multicols}
+
+\break
+\input{bolumler/veritoplamahazirlama/df_doktor_profile}
+\break
+

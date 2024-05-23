@@ -1,29 +1,57 @@
-\documentclass[conference]{IEEEtran}
-\usepackage{cite}
-\usepackage{url}
+\documentclass[conference,a4paper,10pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english, turkish,shorthands=:!]{babel}
 \usepackage{array}
 
-\newcolumntype{Y}{>{\centering\arraybackslash}X}
-\newcolumntype{C}{>{\centering\arraybackslash}m{\dimexpr.5\linewidth-2\tabcolsep}}
-\setlength{\tabcolsep}{10pt} % Adjust horizontal padding to 10pt
-\renewcommand{\arraystretch}{1.5} % Increase the row height
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{geometry}
+\usepackage{orcidlink}
 
-\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
-    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\usepackage{times}
 
+
+\setlength{\columnsep}{0.75cm}
+
+\geometry{left=1.5cm,right=1.5cm,top=1.5cm,bottom=2.5cm}
+
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
 
 % Anahtar kelimeler için özel ortam
 \newenvironment{anahtarkelimeler}{
-    \small
     \textbf{Anahtar kelimeler:}
 }{}
 
 % ingilizce Anahtar kelimeler için özel ortam
 \newenvironment{keywords}{
-    \small
     \textbf{Keywords:}
 }{}
 
@@ -36,25 +64,26 @@
 
 \title{Sağlık Alanında Büyük Dil Modellerinin Adaptasyonu ve Veri Toplama ve Hazırlama Süreci: Bir Pratik Örnek}
 
-
 \author{
-    \IEEEauthorblockN{
-        M.Ali Bayram\IEEEauthorrefmark{1},
-        Banu Diri\IEEEauthorrefmark{1},
-        Savaş Yıldırım\IEEEauthorrefmark{2},
-    }
-    \IEEEauthorblockA{\IEEEauthorrefmark{1}Department of Computer Engineering, Yildiz Technical University, Istanbul, Turkey}
-    \IEEEauthorblockA{\IEEEauthorrefmark{2}Department of Computer Engineering, Bilgi University, Istanbul, Turkey}
+    Yazar \orcidlink{https://orcid.org/0000-0003-1298-4521}
+    \thanks{Üniversitesi, Bilgisayar Mühendisliği Bölümü, İstanbul, Türkiye }
+    \and
+    Yazar \orcidlink{https://orcid.org/0000-0003-1298-4521}
+    \thanks{Üniversitesi, Bilgisayar Mühendisliği Bölümü, İstanbul, Türkiye }
+    \and
+    Yazar \orcidlink{https://orcid.org/0000-0003-1298-4521}
+    \thanks{Üniversitesi, Bilgisayar Mühendisliği Bölümü, İstanbul, Türkiye }
 }
 
 \maketitle
 
+\begin{multicols}{2}
 \begin{abstract}
     \input{ozet}
+    \begin{anahtarkelimeler}
+        Büyük Dil Modelleri, Sağlık Alanı, Veri Toplama, Veri Hazırlama, Kalite Kontrol, BDM Eğitimi, Fine-tuning.
+    \end{anahtarkelimeler}
 \end{abstract}
-
-\begin{anahtarkelimeler}Büyük Dil Modelleri, Sağlık Alanı, Veri Toplama, Veri Hazırlama, Kalite Kontrol, BDM Eğitimi, Fine-tuning.
-\end{anahtarkelimeler}
 
 %put a blank line after \end{anahtarkelimeler} for the English abstract
 \hspace{0.15in}
@@ -63,10 +92,11 @@
 \selectlanguage{english}
 \begin{abstract}
     \input{abstract}
+    
+    \begin{keywords}
+        Large Language Models, Healthcare Field, Data Collection, Data Preparation, Quality Control, LLM Training, Fine-tuning.
+    \end{keywords}  
 \end{abstract}
-\begin{keywords}
-    Large Language Models, Healthcare Field, Data Collection, Data Preparation, Quality Control, LLM Training, Fine-tuning.
-\end{keywords}  
 
 \section{Giriş}
 \input{bolumler/giris}
@@ -74,6 +104,7 @@
 \section{Veri Toplama ve Hazırlama Süreci}
 \input{bolumler/veritoplamahazilama}
 
+\begin{multicols}{2}
 \section{Yöntemler}
 \input{bolumler/methods}
 
@@ -89,4 +120,5 @@
 \bibliographystyle{ieeetr}
 \bibliography{references}
 
+\end{multicols}
 \end{document}

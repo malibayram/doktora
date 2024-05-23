@@ -84,9 +84,9 @@ def doktor_profil_ozetini_getir(sayfa_no):
         profil_linki = profil['href']
         konum = profil_linki.split('/')[-1]
         uzmanlik_alani = profil_linki.split('/')[-2]
-        # get the title inside span
+        # unvanı <span>Psk.</span> olarak alır
         unvan = profil.find('span').text
-        # get the name and clean \nPsk.\n                                Arzu Kantarcıoğlu\n
+        # ismi buradan alıp ve temizler \nPsk.\n                                Arzu Kantarcıoğlu\n
         isim = profil.text.split('\n')[2].strip()
 
         doctorlar.append({
