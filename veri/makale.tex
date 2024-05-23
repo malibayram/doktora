@@ -1,11 +1,99 @@
-\documentclass{article}
+\documentclass[9pt,a4paper]{article}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english, turkish,shorthands=:!]{babel}
+\usepackage{array}    % Enhanced column formatting
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\newcolumntype{C}{>{\centering\arraybackslash}m{\dimexpr.5\linewidth-2\tabcolsep}}
+\setlength{\tabcolsep}{10pt} % Adjust horizontal padding to 10pt
+\renewcommand{\arraystretch}{1.5} % Increase the row height
+
+%%%%%
+
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+% Anahtar kelimeler için özel ortam
+\newenvironment{anahtarkelimeler}{
+    \small
+    \textbf{Anahtar kelimeler:}
+}{}
+
+% Anahtar kelimeler için özel ortam
+\newenvironment{keywords}{
+    \small
+    \textbf{Keywords:}
+}{}
+
+\newenvironment{poliabstract}[1]
+  {\renewcommand{\abstractname}{#1}\begin{abstract}}
+  {\end{abstract}}
 
 \begin{document}
 
+% Başlık ve Özet Tek Sütun
+\sloppy
 \title{Sağlık Alanında Büyük Dil Modellerinin Adaptasyonu ve Veri Toplama ve Hazırlama Süreci: Bir Pratik Örnek}
 \author{M. Ali Bayram}
 \date{\today}
-
 \maketitle
+
+
+% Türkçe Özet
+\begin{poliabstract}{Özet}
+  \input{ozet}
+
+  \begin{anahtarkelimeler}
+    \sloppy
+    Büyük Dil Modelleri, Sağlık Alanı, Veri Toplama, Veri Hazırlama, Kalite Kontrol, BDM Eğitimi, Fine-tuning, LLAMA 3, cosmosGPT.
+  \end{anahtarkelimeler}
+\end{poliabstract}
+
+
+\newpage
+
+% İngilizce Özet
+\selectlanguage{english}
+\begin{poliabstract}{Abstract} 
+  \input{abstract}
+
+  \begin{keywords}
+    \sloppypar
+    Large Language Models, Healthcare Field, Data Collection, Data Preparation, Quality Control, LLM Training, Fine-tuning, LLAMA 3, cosmosGPT.
+  \end{keywords}  
+\end{poliabstract}
+
+
+
+
+% Giriş İki Sütun
+\twocolumn
+\section{Giriş}
+\input{giris}
+
+% Yöntemler İki Sütun
+\section{Yöntemler}
+\input{methods}
+
+% Bulgular İki Sütun
+\section{Bulgular}
+\input{results}
+
+% Tartışma İki Sütun
+\section{Tartışma}
+\input{discussion}
+
+% Tekrar Tek Sütun
+\onecolumn
+\section{Sonuç}
+\input{conclusion}
+
+
+Knuth, The TeXbook'ta \cite{knuth84} çok önemli bir şey yazmıştır.
+
+\bibliographystyle{plain}
+\bibliography{references}
 
 \end{document}

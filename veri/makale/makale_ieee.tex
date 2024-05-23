@@ -1,0 +1,93 @@
+\documentclass[conference]{IEEEtran}
+\usepackage{cite}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english, turkish,shorthands=:!]{babel}
+
+\usepackage{array}
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\newcolumntype{C}{>{\centering\arraybackslash}m{\dimexpr.5\linewidth-2\tabcolsep}}
+\setlength{\tabcolsep}{10pt} % Adjust horizontal padding to 10pt
+\renewcommand{\arraystretch}{1.5} % Increase the row height
+
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+
+% Anahtar kelimeler için özel ortam
+\newenvironment{anahtarkelimeler}{
+    \small
+    \textbf{Anahtar kelimeler:}
+}{}
+
+% ingilizce Anahtar kelimeler için özel ortam
+\newenvironment{keywords}{
+    \small
+    \textbf{Keywords:}
+}{}
+
+\newenvironment{poliabstract}[1]
+  {\renewcommand{\abstractname}{#1}\begin{abstract}}
+  {\end{abstract}}
+
+
+\begin{document}
+
+\title{Sağlık Alanında Büyük Dil Modellerinin Adaptasyonu ve Veri Toplama ve Hazırlama Süreci: Bir Pratik Örnek}
+
+
+\author{
+    \IEEEauthorblockN{
+        M.Ali Bayram\IEEEauthorrefmark{1},
+        Banu Diri\IEEEauthorrefmark{1},
+        Savaş Yıldırım\IEEEauthorrefmark{2},
+    }
+    \IEEEauthorblockA{\IEEEauthorrefmark{1}Department of Computer Engineering, Yildiz Technical University, Istanbul, Turkey}
+    \IEEEauthorblockA{\IEEEauthorrefmark{2}Department of Computer Engineering, Bilgi University, Istanbul, Turkey}
+}
+
+\maketitle
+
+\begin{abstract}
+    \input{ozet}
+\end{abstract}
+
+\begin{anahtarkelimeler}Büyük Dil Modelleri, Sağlık Alanı, Veri Toplama, Veri Hazırlama, Kalite Kontrol, BDM Eğitimi, Fine-tuning.
+\end{anahtarkelimeler}
+
+%put a blank line after \end{anahtarkelimeler} for the English abstract
+\hspace{0.15in}
+
+
+\selectlanguage{english}
+\begin{abstract}
+    \input{abstract}
+\end{abstract}
+\begin{keywords}
+    Large Language Models, Healthcare Field, Data Collection, Data Preparation, Quality Control, LLM Training, Fine-tuning.
+\end{keywords}  
+
+\section{Giriş}
+\input{giris}
+
+\section{Veri Toplama ve Hazırlama Süreci}
+\input{veritoplamahazilama}
+
+\section{Yöntemler}
+\input{methods}
+
+\section{Bulgular}
+\input{results}
+
+\section{Tartışma}
+\input{discussion}
+
+\section{Sonuç}
+\input{conclusion}
+
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+\end{document}
