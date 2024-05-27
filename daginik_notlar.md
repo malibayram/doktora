@@ -43,10 +43,10 @@ https://github.com/kexinhuang12345/clinicalBERT/tree/master
 | 2    | [Fabric: Opensource AI Framework That Can Automate Your Life!](https://youtu.be/nTQIYWgn-lQ)                                                          |         |                 |
 | 3    | [OpenAI Embeddings and Vector Databases Crash Course](https://youtu.be/ySus5ZS0b94)                                                                   |         |                 |
 | 4    | [Word2Vec Part 2 Implement word2vec in gensim Deep Learning Tutorial 42 with Python](https://youtu.be/Q2NtCcqmIww)                                    |         |                 |
-| 5    | [But what is a GPT? Visual intro to transformers Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M)                                              | - [x] t |                 |
+| 5    | [But what is a GPT? Visual intro to transformers Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M)                                              | [x]     |                 |
 | 6    | [Building RAG at 5 different levels](https://youtu.be/oxepyi_hLuA)                                                                                    |         |                 |
 | 7    | ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3](https://youtu.be/u5Vcrwpzoz8)                                |         |                 |
-| 8    | [Hugging Face + Langchain in 5 mins Access 200k+ FREE AI models for your AI apps](https://youtu.be/_j7JEDWuqLE)                                       | -[x]    |                 |
+| 8    | [Hugging Face + Langchain in 5 mins Access 200k+ FREE AI models for your AI apps](https://youtu.be/_j7JEDWuqLE)                                       | [x]     |                 |
 | 9    | [How Does Rag Work? - Vector Database and LLMs](https://www.youtube.com/shorts/xS55duPS-Pw)                                                           | [x]     |                 |
 | 10   | [QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://youtu.be/XpoKB3usmKc)                                                        |         |                 |
 | 11   | [Automate AI Research with Crew.ai and Mozilla Llamafile](https://youtu.be/OUgb3hKSn9U)                                                               | [x]     |                 |
