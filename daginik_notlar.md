@@ -23,6 +23,7 @@ https://github.com/kexinhuang12345/clinicalBERT/tree/master
 - Alana özgü embedding modeli veya yöntemi geliştirme veya büyük embedding modellerini alana uyarlamak için yöntemler geliştirme
 - Model adaptasyonu olarak modeli alana özgü küçültme ve performansı artırma, gereksiz weightleri atma, yüksek parametre sayısı eşit midir yüksek başarım?
 - Learning rate parametresini verinin özelliklerine göre ayarlamak için yöntemler geliştirme
+  - İlk aklıma gelen yöntem verideki her bir örneğin kaynağına göre learning rate ayarlamak. Yani veri ne kadar sağlam bir kaynak tarafından oluşturulmuşsa o kadar yüksek learning rate vermek. Bu sayede veri ne kadar güvenilir ve doğruysa o kadar hızlı öğrenme yapılabilir. Örneğin herhangi bir hastanın sorduğu soruya pratisyen doktor, uzman doktor ve profesör doktorun verdiği cevaplar varsa bu veriye göre learning rate ayarlanabilir. Pratisyen doktorun verdiği cevaplara daha düşük learning rate verilir. Profesör doktorun verdiği cevaplara daha yüksek learning rate verilir.
   - [Mastering Optimization: Dynamic Learning Rates Unveiled](https://statusneo.com/mastering-optimization-dynamic-learning-rates-unveiled/)
   - [Maximize Your Model's Performance: A Guide to Setting the Optimal Learning Rate](https://www.linkedin.com/pulse/maximize-your-models-performance-guide-setting-rate-solis-castro/)
   - [Fine-tuning Models: Hyperparameter Optimization](https://encord.com/blog/fine-tuning-models-hyperparameter-optimization/)
