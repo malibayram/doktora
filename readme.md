@@ -14,3 +14,9 @@
 |Site             | URL                                                            | Açıklama | Veri Türü    | Veri Sayısı | Veri Boyutu | Veri Formatı | Durum           |
 | --------------- | -------------------------------------------------------------- | -------- | ------------ | ----------- | ----------- | ------------ | --------------- |
 | HukukSoruCevap  | [Hukuk SoruCevap](https://www.hukuksorucevap.com.tr/sorucevap/) | ...      | Soru - Cevap | ~350        | ?           | ?            | Listeye Eklendi |
+
+
+## Türkçe Derlemler(Corpus)
+
+- https://www.kaggle.com/datasets/redrussianarmy/turkish-corpus
+- https://www.kaggle.com/datasets/mrtbeyz/trke-sosyal-medya-paylam-veri-seti
