@@ -26,6 +26,9 @@
 | [Turkish Synonyms Antonyms](https://huggingface.co/datasets/agmmnn/turkish-thesaurus-synonyms-antonyms) | Türkçe eş ve zıt anlamlı kelimeler | 3.1 MB |
 | [BeyazPerde300Review](https://huggingface.co/datasets/turkish-nlp-suite/beyazperde-top-300-movie-reviews) | Beyaz Perde'den alınmış ilk 300 filmin yorumları | 24.7 MB |
 | [BeyazPerdeAllReview](https://huggingface.co/datasets/turkish-nlp-suite/beyazperde-all-movie-reviews) | Beyaz Perde'den tüm filmlerden yorumlar | 23.2 MB |
+| [Turkish Web Corpus](https://www.sketchengine.eu/trtenten-turkish-corpus/) | Türkçe internet derlemesi (milyar kelime) | ? | 
+| [Turkish News](https://www.kaggle.com/datasets/suleymancan/turkishnews70000) | 70k Türkçe Haber | 206 MB |
+| []() |  |  |
 
 #### Bakmak yararlı olabilir: 
 - https://huggingface.co/datasets/turkai/CADA
