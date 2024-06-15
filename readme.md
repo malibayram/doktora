@@ -29,3 +29,7 @@
 
 #### Bakmak yararlı olabilir: 
 - https://huggingface.co/datasets/turkai/CADA
+
+#### Llama 3 Acces Token
+
+- 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
