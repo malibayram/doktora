@@ -37,6 +37,3 @@
 
 - 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
 
-
-
-https://github.com/dbiir/UER-py
