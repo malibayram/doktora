@@ -28,7 +28,13 @@
 | [BeyazPerdeAllReview](https://huggingface.co/datasets/turkish-nlp-suite/beyazperde-all-movie-reviews) | Beyaz Perde'den tüm filmlerden yorumlar | 23.2 MB |
 | [Turkish Web Corpus](https://www.sketchengine.eu/trtenten-turkish-corpus/) | Türkçe internet derlemesi (milyar kelime) | ? | 
 | [Turkish News](https://www.kaggle.com/datasets/suleymancan/turkishnews70000) | 70k Türkçe Haber | 206 MB |
-| []() |  |  |
+| [GPT4-Filtered](https://huggingface.co/datasets/umarigan/oo-gpt4-filtered-tr) | GPT4 kullanılarak hazırlanmış Türkçe soru-cevap veri seti  | 111MB |
+| [Alphaca Türkçe Veri Seti](https://huggingface.co/datasets/Yudum/tr-instruct-alphaca-style) | 74 bin prompt-yanıt eşleşmesi bulunan Türkçe veri seti | 26.9 MB |
+| [Alpaca GPT4 Veri Seti](https://huggingface.co/datasets/malhajar/alpaca-gpt4-tr) | GPT4 kullnılarak oluşturulmuş 52 bin ingilizce-türkçe propmt-yanıt eşleşmeli veri seti | 101 MB |
+| [IEEE COVID TURKISH TWEETS](https://ieee-dataport.org/open-access/corona-virus-covid-19-turkish-tweets-dataset-0) | Corona virüs hakkında 4.8 milyon Türkçe tweet veri seti | 81 MB |
+| [Turkish Web Corpora](https://live.european-language-grid.eu/catalogue/corpus/19770/download/) | .tr uzantılı web sitelerinden derlenen 4.3 milyar kelimelik bir veri seti | ? |
+| [Turkish Toxic Language](https://huggingface.co/datasets/Overfit-GM/turkish-toxic-language?row=6) | internetten toplanmış 77.8 bin tane Türkçe hakaret-argo içeren metin veri seti| 18.2 MB |
+| [Turkish Poems Dataset](https://huggingface.co/datasets/beratcmn/instruction-turkish-poems) | Türkçe şiir veri seti | 6.74 MB |
 
 #### Bakmak yararlı olabilir: 
 - https://huggingface.co/datasets/turkai/CADA
