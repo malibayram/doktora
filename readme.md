@@ -6,3 +6,5 @@
 | --------------- | --------------------------------------------------- | -------- | ------------ | ----------- | ----------- | ------------ | --------------- |
 | DoktorSitesi    | [DoktorSitesi](https://www.doktorsitesi.com/)       | ...      | Soru - Cevap | 167852      | 246 MB      | JSON         | Tamamlandı      |
 | Hastalarsoruyor | [Hastalarsoruyor](https://www.hastalarsoruyor.com/) | ...      | Soru - Cevap | ?           | ?           | ?            | Listeye Eklendi |
+
+http://www.kghukukankara.com/sorucevap.aspx

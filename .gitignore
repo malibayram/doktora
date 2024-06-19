@@ -13,3 +13,6 @@
 
 # mlx related files
 *.safetensors
+
+# binary files
+*.bin
