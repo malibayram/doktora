@@ -7,6 +7,3 @@
 [submodule "mlx-examples"]
 	path = mlx-examples
 	url = https://github.com/malibayram/mlx-examples
-[submodule "dr_zekai"]
-	path = dr_zekai
-	url = https://github.com/malibayram/dr_zekai
