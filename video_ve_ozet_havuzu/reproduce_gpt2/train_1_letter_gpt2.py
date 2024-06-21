@@ -853,8 +853,23 @@ if __name__ == "__main__":
     timings = timings[-20:]
     print0(f"final {len(timings)} iters avg: {np.mean(timings)*1000:.3f}ms")
     print0(f"peak memory consumption: {torch.cuda.max_memory_allocated() // 1024 // 1024} MiB")
+    
+    # write an example for generating text
+    sample_text = "The quick brown fox jumps over the lazy dog"
+    sample_tokens = enc.encode(sample_text)
+    sample_tokens = torch.tensor(sample_tokens, dtype=torch.long, device=device)[None, ...]
+    model.eval()
+    with torch.no_grad():
+        sample_out = model.generate(sample_tokens, max_new_tokens=128, temperature=1.0, top_k=40)
+
+    # print the generated text
+    print0('---------------')
+    print0(f"Example input: {sample_text}")
+    print0(f"Generated output: {enc.decode(sample_out[0].tolist())}")
+    print0('---------------')
 
     # -------------------------------------------------------------------------
     # clean up nice
     if ddp:
         destroy_process_group()
+        
