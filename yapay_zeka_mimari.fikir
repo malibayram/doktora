@@ -1,0 +1,21 @@
+# Yapay Zeka Mimarileri Hakkındaki
+
+- Tek Harfli Büyük Dil Modeli
+- Sadece tek karakterlerden oluşan sözlüğü olan bir GPT modeli eğitip derslerde anlatılabilir. 
+  Çok az bir başarı gösterse bile gerçek sözlüklü dil modellerinin mimarisini taklit ederek oluşturulduğu için
+  onları anlama ve mimarileri ile oynama çok daha kolay olacaktır.
+
+- Model Adaptasyonunda Boyut Küçültme ve Parametre Quantizasyonu
+- Büyük dil modelleri bir alana özelliştirildiğinde yalnızca o alana özgü boyutlar ve bu boyutlarla yakın ilişkili boyutlar
+  belirlenip dil modelini bu yeni ve daha küçük boyutlara indirgeyerek daha küçük boyutlu olmaları sağlanabilir. Yani model adapte
+  edilirken sadece parametreleri güncellemek yerine aynı zamanda boyutları ve mimariyi de eldeki parametrelerin değerlerini koruyacak
+  gerçekleştirmek hedeflenecek.
+
+- Anlam Uzaylarında Dil Bağımsız Kelime Yerleşimleri
+- Dillerden bağımsız olarak belirli boyutlarda anlam uzayları (muhtemelen uzayın oluşturulması için bir dil referans alınacak) oluşturup
+  kelimeleri içlerinde bulundukları dillerden bağımsız olarak bu uzaya yerleştirebilirsek dillerden bağımsız kelime gömmeleri oluşturmuş olacağız.
+  Daha sonra bu yeni düzene uygun olarak dil modelleri eğitip dillerden bağımsız bir şekilde ama aynı kelime/anlam eşleşmeleri kullanılarak
+  dil sınırından kurtulup dil bağımsız hizmet verebilecek modeller oluşturulabilir. Bu tıpki insan dillerinde olduğu gibi zaten dillerden bağımsız
+  var olan anlam uzaylarındaki anlamı bulunduğu yerde tespit edip oraya herhangi başka bir dildeki kelimeyi yerleştirmeye benzeyecek.
+  Diller taklit edilmek yerine burada dillerden bağımsız olarak anlamlar arasındaki ilişkiler dikkate alınacak. Sadece giriş ve çıkışlar için
+  dilleri anlamlara ve anlamları dillere dönüştüren mekanizmalar kurulacak.
