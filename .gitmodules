@@ -4,6 +4,4 @@
 [submodule "video_ve_ozet_havuzu/local-llm-on-apple-silicon"]
 	path = video_ve_ozet_havuzu/local-llm-on-apple-silicon
 	url = https://github.com/malibayram/dr-video-local-llm-on-apple-silicon
-[submodule "mlx-examples"]
-	path = mlx-examples
-	url = https://github.com/malibayram/mlx-examples
+
