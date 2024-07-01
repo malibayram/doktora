@@ -35,6 +35,8 @@
 | [Turkish Web Corpora](https://live.european-language-grid.eu/catalogue/corpus/19770/download/) | .tr uzantılı web sitelerinden derlenen 4.3 milyar kelimelik bir veri seti | ? |
 | [Turkish Toxic Language](https://huggingface.co/datasets/Overfit-GM/turkish-toxic-language?row=6) | internetten toplanmış 77.8 bin tane Türkçe hakaret-argo içeren metin veri seti| 18.2 MB |
 | [Turkish Poems Dataset](https://huggingface.co/datasets/beratcmn/instruction-turkish-poems) | Türkçe şiir veri seti | 6.74 MB |
+| [Türkçe Masal VeriSeti](https://huggingface.co/datasets/umutphp/masallar) | Türkçe masal veri seti | 12.7 MB |
+
 
 #### Bakmak yararlı olabilir: 
 - https://huggingface.co/datasets/turkai/CADA
