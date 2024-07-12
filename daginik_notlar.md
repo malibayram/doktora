@@ -58,4 +58,30 @@ https://github.com/kexinhuang12345/clinicalBERT/tree/master
 
 <!--
 DoctorGPT: Offline & Passes Medical Exams! to kebab case => doctorgpt-offline-passes-medical-exams
+
+https://www.tusrehberi.com/37/tus-da-cikan-soru-cesitleri
+https://tusiyer.org/anatomi-f65/anatomi-2022-sem-t61.html
+https://www.antitusif2024.com/viewforum.php?f=298
  -->
+
+## Çalıştığımız Konular
+
+- Türkçeye (veya dar bir alana) özgü modelleri en baştan eğitmek
+- Dağıtık bir şekilde model eğitmek, internet ağı üzerinden birbirlerine bağlı bilgisayarlarda
+- Finetuning için çerçeveler oluşturup yeni gelen modelleri hızlıca adapte etmek
+- Konu veya alana uygun adaptörler geliştirip bunları runtime'da ayrı ayrı kullanabilmek (apple örneği)
+- Modeller için bir değerlendirme ortamı hazırlamak ve lider tablosu yayınlamak
+- İyi model veya adaptörler geliştirmek için uygun ve kaliteli veri toplamak/oluşturmak
+- Model değerlendirmeleri için alana uygun değerlendirme veri setleri oluşturmak
+- Model performansını artırmak için veri setlerini ve model/(adaptör)leri analiz etmek
+- Yapay zeka ve dil modelleri alanında yeni gelişmeleri takip etmek ve bunları uygulamak, bunları en temel seviyeden anlam(ve t)mak
+
+## İhtiyacımız Olan Çalışma Alanları ve Arkadaşları
+- Matematik ve istatistik bilgisi
+- Programlama bilgisi
+- Tasarım ve kullanıcı deneyimi bilgisi
+- Arayüz geliştirme
+- Veri toplama ve temizleme
+- Model eğitimi ve değerlendirme
+- Model performansını artırmak için veri setlerini ve model/(adaptör)leri analiz etmek
+- Yapay zeka ve dil modelleri alanında yeni gelişmeleri takip etmek ve bunları uygulamak, bunları en temel seviyeden anlam(ve t)mak
