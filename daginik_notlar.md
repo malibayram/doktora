@@ -64,17 +64,19 @@ https://tusiyer.org/anatomi-f65/anatomi-2022-sem-t61.html
 https://www.antitusif2024.com/viewforum.php?f=298
  -->
 
+[Konuşmanın ilgili kısmına buradan ulaşabilirsiniz](https://youtu.be/Oh2MK05yjvE?t=3437)
 ## Çalıştığımız Konular
-
 - Türkçeye (veya dar bir alana) özgü modelleri en baştan eğitmek
 - Dağıtık bir şekilde model eğitmek, internet ağı üzerinden birbirlerine bağlı bilgisayarlarda
-- Finetuning için çerçeveler oluşturup yeni gelen modelleri hızlıca adapte etmek
+- Finetuning için çerçeve(framework)ler oluşturup yeni gelen modelleri hızlıca adapte etmek
 - Konu veya alana uygun adaptörler geliştirip bunları runtime'da ayrı ayrı kullanabilmek (apple örneği)
-- Modeller için bir değerlendirme ortamı hazırlamak ve lider tablosu yayınlamak
+- Modeller için bir değerlendirme ortamı hazırlamak ve lider tablosu yayınlamak özellikle türkçe için
 - İyi model veya adaptörler geliştirmek için uygun ve kaliteli veri toplamak/oluşturmak
 - Model değerlendirmeleri için alana uygun değerlendirme veri setleri oluşturmak
-- Model performansını artırmak için veri setlerini ve model/(adaptör)leri analiz etmek
-- Yapay zeka ve dil modelleri alanında yeni gelişmeleri takip etmek ve bunları uygulamak, bunları en temel seviyeden anlam(ve t)mak
+- Model performansını artırmak veya daha az kaynak tüketecek hale getirmek için veri setlerini ve model/(adaptör)leri analiz etmek
+- Yapay zeka ve dil modelleri alanında yeni gelişmeleri takip etmek, bunları uygulamak ve bunları en temel seviyeden anlam(ve t)mak
+- Çalışmalarımızı bilimsel bir şekilde yayınlamak ve bu yayınları ilgili platformlarda paylaşmak
+- Tubitak, Tüsep gibi yerli ve yabancı kuruluşlardan destek almak
 
 ## İhtiyacımız Olan Çalışma Alanları ve Arkadaşları
 - Matematik ve istatistik bilgisi
@@ -84,4 +86,14 @@ https://www.antitusif2024.com/viewforum.php?f=298
 - Veri toplama ve temizleme
 - Model eğitimi ve değerlendirme
 - Model performansını artırmak için veri setlerini ve model/(adaptör)leri analiz etmek
-- Yapay zeka ve dil modelleri alanında yeni gelişmeleri takip etmek ve bunları uygulamak, bunları en temel seviyeden anlam(ve t)mak
+- Proje başvuruları ve yazımı
+- Makale yazımı ve yayınlama
+
+## Çalışma yerimiz
+- Yeditepe Üniversitesi Bilgisaayar Mühendisliği Bölümü
+  - Çoğu zaman fiziksel olarak buluşup çalışıyoruz
+- Discord sunucumuz
+- Kodlarımız Github'da
+- Topladığımız veriler ve FineTune ettiğimiz modeller herkesin kendi ismiyle Hugging Face'de
+  - Topluluk linkimiz: https://huggingface.co/organizations/zan-ai/
+
