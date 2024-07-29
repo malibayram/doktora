@@ -1,0 +1,1398 @@
+[
+    {
+        "sinav": "KLİNİK TIP BİLİMLERİ TESTİ AÇIKLAMALI CEVAPLAR"
+    },
+    {
+        "soru_no": 1,
+        "soru": "23 yaşında kadın hastada atriyoventriküler nodal reentran taşikardi saptanıyor.\n\nAyda 1 kez AVNRT atağı olan hastanın taşikardi ataklarının önlenmesinde en etkili yöntem hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Verapamil",
+            "B": "Diltiazem",
+            "C": "Metoprolol",
+            "D": "Amiodarone",
+            "E": "Kateter ablasyon"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "* AVNRT’ de AV nod içerisinde, aşağı ve yukarı iletim yapabilen bir normal yol, bir de aksesuar yol (=dual iletim) vardır. Buna bağlı olarak hastalarda yeniden girişli taşikardi gelişebilir.\n\n* Akut AVNRT atağı ile gelen bir hastada akut tedavide hemodinami stabilse ilk olarak vagal manevralar (karotis masajı, öksür-me, valsalva) yapılır. Etkisizse ilaçlardan ilk adenozin yapılır. Etkisizse iv verapamil/ diltizem/ beta bloker yapılır. Bunlarda etkisizse veya hemodinami stabil değilse senkronize kardiyoversiyon yapılır.\n\n* Profilaktik olarak verapamil/ diltizem/ beta bloker/ flekainid verilebilir. Bunlara rağmen taşikardi tekrarlıyorsa veya hasta ilaç kullanmak istemiyorsa, kateter ablasyon yöntemiyle yavaş yolun ablasyonu yapılır (>%95 başarı; en iyi uzun dönem tedavi).",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 2,
+        "soru": "77 yaşında erkek hasta nefes darlığı ile acile başvuruyor. Öyküsünde akciğer kanseri nedeniyle kemoterapi aldığı öğreniliyor. Muayenede hasta ciddi dispneik görünümde ve kalp sesleri derinden geliyor. Ayrıca hastanın juguler venöz dolgunluğu dik-kat çekiyor. TELE’ de kalp gölgesi geniş ve akciğer vaskülaritesi azalmış görülüyor. EKO’ da ciddi perikardiyal efüzyon ve sağ ventrikülde diyastolik kollaps mevcut.\n\nAşağıdakilerden hangisi bu hastada beklenen diğer bulgulardan birisi değildir?",
+        "cevap_secenekleri": {
+            "A": "İnspirasyonla sistolik kan basıncında düşme",
+            "B": "Taşikardi",
+            "C": "Ventrikül sistolik volümlerinde azalma",
+            "D": "Ventrikül diyastolik volümlerinde azalma",
+            "E": "Atriyum diyastolik volümlerinde artma"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "* Kanseri olan bir hasta nefes darlığı ile geliyorsa kardiyolojik olarak ilk önce tamponad düşünülür. Hastanın kliniği ve akciğer filmi tamponad ile uyumludur. Ayrıca soruda verilen eko bulgusu da tamponda için oldukça spesifiktir.\n\n* Tamponadda, efüyon tarafından sıkıştırılan kalbe venöz sistemden gelen kan akımı azalır. Bu nedenle tüm odacıklarda hem sistol hem diyastolde volümler azalır (E, yanlış).\n\n* Pulsus paradoksus, inspirasyonla sistolik kan basıncında >10 mmhg düşmedir. Tamponadda görülebileceği gibi, ciddi astım, KOAH, tansiyon pnömotoraks, konstriktif perikardit ve masif pılmoner embolide de görülebilir.\n\n* Tamponadda sempatik ativite artar, parasempatik aktivite azalır. Bu yüzden taşikardi olur.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 3,
+        "soru": "Öyküsünde tip 1 diyabet ve geçirilmiş anteriyor miyokard infarktüsü olan hasta kontrole geliyor. Ekokardiyografide EF %25 saptanıyor. NYHA sınıf 1-2 semptomlar tarifleyen hastanın muayenesinde akciğer bazallerde minimal raller, kan basıncı 130-88 mmhg, nabız 77-dk ritmik saptanıyor.\n\nDiyabet için insülin kullananan hastanın kalp yetmezliği tedavisinde aşağıdakilerden hangisi ilk planda yapılması uygun değildir?",
+        "cevap_secenekleri": {
+            "A": "Beta bloker başlamak",
+            "B": "ACEi başlamak",
+            "C": "SGLT2 inhibitörü başlamak",
+            "D": "ICD takmak",
+            "E": "Epleronon başlamak"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* EF<%40 ise düşük EF’ li kalp yetmezliğidir (DEFKY)\n\n* DEFKY’ de her hastaya muhakkak başlanması gereken ilaçlar: beta bloker, RAS blokeri (ACEi/ ARB/ ARNİ), minerolokortikoid reseptör antagonisti ve SGLT2 inihibitörüdür.\n\n* Ayrıca EF<%35 NYHA 2-3 olan hastalara ani ölümden korumak için ICD takılır. Beraberinde sol dal bloğu varsa CRT takılır.\n\n* Dikkat! Soruda kritik bilgi hastanın tip 1 DM olmasıdır. SGLT2 inhibitörü ilaçlar insülin eksikliğinde kontraendikedir! Hasta tip 1 DM olmasaydı muhakkak başlamamız gereken SGLTi, bu durumda kontraendike olmaktadır.\n\n* Ayrıca hasta kompanse değilse beta bloker başlanmaz!",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 4,
+        "soru": "Kronik hepatit B tedavisinde aşağıdakilerden hangisi kullanılmaz?",
+        "cevap_secenekleri": {
+            "A": "Lamivudin",
+            "B": "Tenofovir",
+            "C": "Entekavir",
+            "D": "Ribavirin",
+            "E": "Telbivudin"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Ribavirin kronik hepatit C tedavisinde NS5A, NS5B proteaz inhibitörleri ile birlikte kullanılabilir. Hepatit B tedavisinde kullanılmaz.\n\nRibavirinin başlıca endikasyonları;\n\n1. İnfluenza A ve influenza B tedavisi (inhaler yoldan tercih edilir)\n\n2. Respiratuvar (Solunumsal) sinsityal virüs infeksiyonu\n\n3. Kırım Kongo kanamalı ateş tedavisi\n\n4. SARS infeksiyonu\n\n5. Hepatit C tedavisi",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 5,
+        "soru": "Akciğer filminde lenfadenopati görülmesi sebebiyle araştırılan 38 yaşındaki kadın hastaya sarkoidoz teşhisi konuluyor.\n\nAşağıdaki durumlardan hangisi bu hasta için sistemik steroid başlama endikasyonudur?",
+        "cevap_secenekleri": {
+            "A": "Löfgren sendromu olması",
+            "B": "Asemptomatik karaciğer enzim yüksekliği",
+            "C": "Lomber MR’ da vertebrada tutulum görülmesi",
+            "D": "Artralji olması",
+            "E": "Anterior üveit olması"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* Sarkoidozda tedaviye, hayati organ tutulumu ve semptom olup olmamasına göre karar verilir.\n\n* Asemptomatik karaciğer fonksiyon testlerinde yükselme olan veya asemptomatik anormal akciğer grafi bulguları olan hasta-larda tedavisiz izlem yapılır.\n\n* Löfgren sendromu tedavisiz izlenebilir. Yatak istirahati ve NSAİD verilir. Semptomlar ciddi ise (özellikle artrit) steroid verilir.\n\n* Özellikle santral sinir sistemi ve kalp gibi hayati organ tutulumlarında sistemik steroid başlanır.\n\nSarkoidozda sistemik tedavi endikasyonları\nSolunum\t• Dispne, persistan öksürük ve FVC <%70\nCilt\t• Lupus pernio\n\t* Makülopapüler lezyonlar\nGöz\t• Posteriyor üveit\nKardiyak\t• Tam blok, ventriküler aritmiler\n\t* EF <%35\nSSS\t• Tümü\nKaraciğer\t• Kolestatik hepatit\nHiperkalsiüri ve hiperkalsemi\t• Böbrek taşları",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 6,
+        "soru": "18 yaşındaki erkek hasta nefes darlığı sebebi başvuruyor. Nefes darlığının özellikle bahar aylarında ya da evcil hayvanlarla temas sonrası arttığı ve bu ataklara kuru öksürüğünde eşlik ettiği, kardeşinin kullandığı inhaler ilacı alınca rahatladığı öğreni-liyor. Muayenede dispneik görünen hastanın akciğerlerinde wheezing duyuluyor. Ekspiryum beklenenden uzun saptanıyor.\n\nAşağıdakilerden hangisi bu hastanın spirometresinde beklenen bulgulardan birisi değildir?",
+        "cevap_secenekleri": {
+            "A": "FEV1 düşük",
+            "B": "FEV1/ FVC yüksek",
+            "C": "Rezidüel volüm yüksek",
+            "D": "Total akciğer kapasitesi yüksek",
+            "E": "Fonksiyonel rezidüel kapasite yüksek"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "* Soruda tipik olarak bir astım hastası verilmiştir. Astım ve KOAH obstruktif akciğer hastalıklarındandır.\n\n* Obstruktif akciğer hastalıklarında ekspiratuar parametreler düşüktür (FEV1, FEV1/ FVC, PEF, FEF25-75). Rezidüel volümü içeren kapasiteler ise artmıştır (RV, FRC, TLC)\n\n* Astım ile KOAH’ ın spirometride temel farkı, astımda beta agonist inhalasyonu ile FEV1 ve PEF artarken (= reversibilite pozi-tif), KOAH’ da artma olmaz (= reversibilite negatif).\n\nObstruktif\tRestriktif\t\nFEV1\tDüşük\tN/ düşük\nFVC\tN/ düşük\tDüşük\nFEV1/FVC\tDüşük\tN/ yüksek\nPEF\tDüşük\tN/ düşük\nFEF-25-75\tDüşük\tN/ düşük\nFRC\tArtmış\tAzalmış\nRV\tArtmış\tAzalmış\nTLC\tArtmış\tAzalmış",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 7,
+        "soru": "Aşağıdakilerden hangisi romatoid artiritte direk eklem filminde görülen ilk bulgudur?",
+        "cevap_secenekleri": {
+            "A": "Periartiküler osteopeni",
+            "B": "Eklem aralığında simetrik daralma",
+            "C": "Subkondral erozyon",
+            "D": "Yumuşak dokuda şişme",
+            "E": "Ankiloz"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "* RA’ da direk grafide ilk bulgu periartiküler osteopenidir.\n\n* Diğer bulgular: Yumuşak dokuda şişme, eklem aralığında simetrik daralma, subkondral erozyon (özellikle MKF, MTF ve PİF’ de), ileri vakalarda eklem subluksasyonu ve kollapsı da dahil ciddi destruksiyon ve ankiloz.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 8,
+        "soru": "Aşağıdakilerden hangisi hayatı tehdit eden lupus nefiritnde hem indüksiyon hem devam tedavisinde kullanılabilir?",
+        "cevap_secenekleri": {
+            "A": "Siklofosfamid",
+            "B": "Azotiyopurin",
+            "C": "Mikofenolat",
+            "D": "Rituximab",
+            "E": "Belimumab"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* SLE’de hayatı tehdit eden proliferatif nefritte tedavi;\n\n Esas tedavi sistemik glukokortikoidlerdir.\n\n İndüksiyon tedavisinde yüksek doz sistemik glukokortikoide ilave olarak siklofosfamid veya mikofenolat kullanılır.\n\n Devam tedavisinde mikofenolat veya azathioprine verilir.\n\n Yanıtsız ise→ Rituximab veya belimumab kullanılır.\n\n Mikofenolat mofetil + takrolimus + prednison da etkilidir ve az yan ekisi mevcuttur.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 9,
+        "soru": "60 yaşında erkek hasta, yaklaşık 3 haftadır özellikle katı gıdaları yutamadığı, sıvı gıdaları yutarken de giderek zorlanmaya başladığını, yutma kaybına kilo kaybının da eşlik ettiğini ifade ediyor. Laboratuvar tetkiklerinde demir eksikliği anemisi tespit ediliyor.\n\nHastaya kesin tanı koyabilmek için en uygun tetkik aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Abdominal manyetik rezonans goruntuleme",
+            "B": "Ozofagogastroduodenoskopi",
+            "C": "Endoskopikretrogradkolanjiyopankreatografi",
+            "D": "Abdominal bilgisayarli tomografi",
+            "E": "Ozofagus manometrisi"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Disfajiye yaklaşım sınavlarda sıkça sorgulanan konuların başında gelmektedir. İleri yaştaki bir hastada, alarm semptomlarının eşlik ettiği, özellikle katı gıdalara karşı, yeni başlayan, özofageal disfaji mekanik nedenleri düşündürmektedir ve kesin tanı için özofago-gastroduodenoskopi gerektirmektedir.\n\nSoruda verilmemekle birlikte muhtemelen böyle bir hastada risk faktörüde vardır, dolayısı ile dikkatle sorgulanmalıdır.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 10,
+        "soru": "I. Mesalamin\nII. Metotreksat\nIII. Azotiporin\n\nİnflamatuvar bağırsak hastalığı tanısı ile takip edilen bir gebede, yukarıdaki ilaçlardan hangisi veya hangileri bu dönemde güvenle kullanılabilir?",
+        "cevap_secenekleri": {
+            "A": "Yalnız II",
+            "B": "I ve III",
+            "C": "Yalnız III",
+            "D": "Yalnız I",
+            "E": "II ve III"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "İnflamatuvar bağırsak hastalığı nedeni ile takip edilen hastalarda kortikosteroid, 5-ASA preperatları (mesalamin ve sulfasalazin) ve azotioprin gebeliğin her döneminde kullanılabilir. Biyolojik ajanlar da kullanılabilmekle beraber son tremesterda kesilmesi öneril-mektedir. Metotreksat ise teratojeniktir ve gebelik sırasınca kullanılamaz.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 11,
+        "soru": "Alkalen fosfataz (ALP) sevinde artışa gamaglutamil transferaz (GGT) artışının eşlik ettiği durum aşağıdakilerden hangisi-dir?",
+        "cevap_secenekleri": {
+            "A": "Ursodeoksikolik asit kullanimi",
+            "B": "Benign rekurren intrahepatik kolestaz I",
+            "C": "Progresif familyal intrahepatik kolestaz II",
+            "D": "Progresif familyal intrahepatik kolestaz III",
+            "E": "Gebeligin intrahepatik kolestazi"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Kolestaz durumlarında alkalen fosfataz (ALP) sevinde artışa gamaglutamil transferaz (GGT) seviyesinde artış eşlik eder. Ursodeok-sikolik asit (UDCA) tedavisi kullanımı, benign rekurren intrahepatik kolestaz (BRIK) I ve II, progresif familyal intrahepatik kolestaz (PFIK) I ve II ve gebeliğin intrahepatik kolestazında ALP artışına GGT artışı eşlik etmemektedir. Progresif familyal intrahepatik ko-lestaz III de ise GGT artışı görülmektedir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 12,
+        "soru": "Laboratuvar tetkikleri incelendiğinde aspartat aminotransferaz (AST) ve alanin aminotransferaz (ALT) değerleri 600 U/L civarında saptanan bir hastada aşağıdaki ön tanılardan hangisi daha az olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Otoimmun hepatit",
+            "B": "Viral hepatit",
+            "C": "Toksik hepatit",
+            "D": "Alkolik hepatit",
+            "E": "İskemik hepatit"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "ALT ve AST enzimleri karaciğeri hasarlayan her etyolojide yükselir. En yüksek transaminaz seviyeleri akut viral hepatit, ilaç / toksik hepatit ve iskemik hepatitte görülür. Alkol transamina artisinjn sık bir nedenidir ancak 500 U/L üzerinde beklenmez. Yine alkole bağlı karaciğer hasarında AST, ALT’ye göre daha yüksek olduğu görülür.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 13,
+        "soru": "Aşağıdaki glomerüler hastalıkların hangisinde serum kompleman düzeylerinin normal saptanması en olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Akut poststreptokoksik glomerulonefrit",
+            "B": "Ig A nefropati",
+            "C": "Sistemik lupus eritematozus",
+            "D": "Membranoproliferatif glomerulonefrit",
+            "E": "Kriyoglobulinemi"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Nefritik sendromlarda inflamasyona sekonder olarak kompleman düzeyleri azalmaktadır. Vaskulitler ve IgA nefropatisinde ise kompleman düzeyi normal saptanır. Aynı şekilde nefrotik sendromda kompleman düzeylerinde düşüklük saptanmaz.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 14,
+        "soru": "Aşağıdaki idrar silendirlerinden hangisi kronok böbrek yetmezliğinde görülmektedir?",
+        "cevap_secenekleri": {
+            "A": "Yağlı",
+            "B": "Hiyalin",
+            "C": "Mumsu",
+            "D": "Eozinofil",
+            "E": "Eritrosit"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Böbrek tübüllerinin içerisindeki hyalin protein içinde hücresel ya da yapısal mataryeller birikerek idrar silendirlerini oluşturur. Hyalin silendir, fizyolojik olarak bulunabilir. Yağlı silendirler nefrotik sendromda oluşur. Eozinofil silendirleri interstisyel nefritte görülür. Eritrosit silendirleri ise glomerülonefritte bulunur. Kronik böbrek yetmezliğinde karakteristik olarak geniş, mumsu (waxy) silendirler oluşur.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 15,
+        "soru": "Hangi durumda makrolid grubu antibiyotik kullanımı uygun değildir?",
+        "cevap_secenekleri": {
+            "A": "Penisilin alerjisinde Streptococcus pyogenes’e bağlı tonsillofarenjit",
+            "B": "Boğmaca tedavi ve profilaksisi",
+            "C": "Campylobacter jejunii gastroenteriti",
+            "D": "Mycobacterium avium intrasellulare tedavisi",
+            "E": "E.coli ‘ye bağlı sistit"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Makrolidler (örneğin klaritritromisin, azitromisin, eritromisin vb.) Enterobactericea ailesi üyeleri olan E.coli, Klebsiella pneumoni-ae ve Proteus türleri gibi bakterilere karşı etkili değildir. E.coli ve diğer Enterobactericea (yeni adı Enterobacterales) ailesi üyeleri üriner sistem infeksiyonlarının en sık nedenidir. Bu nedenle E.coli sistiti tedavisinde makrolidler kullanılmaz. Nongonokokal üretrit (Chlamydia, Mycoplasma ve Ureaplasma türleri etken olabilir) tedavisinde azitromisin kullanılabilir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 16,
+        "soru": "44 yaşında kadın hasta kan düzeylerinde bozukluk olduğu söylenerek tarafımıza yönlendiriliyor. Hastanın bakılan tetkiklerin-de Wbc: 2.500 mm3, Plt: 95.000 mm3, Hb: 8,2 g/dL, retikulosit: %0,3 olarak görülüyor. Hastaya yapılan usg’de hepatospleno-megali ve lenfadenopati saptanmıyor. Hastanın yapılan kemik iliği biyopsisi sonucunda kemik iliğinde selularitenin belirgin azaldığı saptanıyor. Bu hastalığın altında yatan etiyolojinin hangisi olması en az olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Parvovirus B19",
+            "B": "Seronegatif hepatitler",
+            "C": "M. tuberculosis",
+            "D": "Gebelik",
+            "E": "Benzen maruziyeti"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Pansitopeni ile gelen hastada retikulosit sayısının düşük olması kemik iliğinde yapımın azaldığına işaret eder. Bu hastada kemik ili- ğinin hiposelüler olması aplastik anemiyi düşündürür. Hepatosplenomegali ve lenfadenopati olmaması da pansitepeni yapan diğer nedenlerin ayırıcı tanısında önemlidir. M. Tuberculosis aplastik anemi etiyolojisinde sıkça yer alan ajanlardan biri değildir. Aplastik anemi etiyolojisinde yer alan faktörler aşağıdaki tabloda verilmiştir. Otoimmün aplastik anemi • İdiopatik (en sık AA nedenidir) • İlaçlar • İnfeksiyonlar Seronegatif hepatit (en sık) EBV, HIV Direkt kök hücre toksisitesi • Radyasyon • Kimyasallar Benzen • İlaçlar Diğerleri • Gebelik • PNH • Herediter nedenler Fanconi AA Diskeratozis congenita Shwachman-Diamond İlaçlar • Direk sitotoksisite Anti-neoplastik ilaçlar Kloramfenikol Kolşisin Benzen • İmmün kökenli Kloramfenikol Sulfa türevleri Anti-konvülzanlar Fenitoin Anti-tiroidler Metimazol, PTU Metildopa",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 17,
+        "soru": "Aşağıdakilerden lenfoma türlerinin hangisinin gelişiminde EBV rol oynamaz?",
+        "cevap_secenekleri": {
+            "A": "Erişkin T hücreli lenfoma",
+            "B": "Burkitt lenfoma",
+            "C": "Nazofarenks kanseri",
+            "D": "Posttransplant lenfoproliferatif hastalık",
+            "E": "Hodgkin hastalığı"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "EBV, birçok lenfomanın etiyolojisinde yer alan bir enfeksiyöz ajandır. Lenfomalar dışında özellikle nazofarenks kanserinin etiyolo-jisinde de önemli rol oynar. EBV ilişkili lenfomalar sık sorgulanır ve iyi bilinmelidir. Enfeksiyöz ajanlar ve etiyolojisinde yer aldıkları lenfoid maligniteler aşağıdaki tabloda verilmiştir.\n\nEnfeksiyöz ajan\tLenfoid malignite\nEBV\tBurkitt lenfoma\n\tPost-organ transplant lenfoma\n\tPrimer SSS diffüz büyük B hücreli lenfoma\n\tHodgkin hastalığı\n\tExtranodal nk/t hücreli lenfoma, nazal tip\nHTLV-1\tErişkin t hücreli lösemi/lenfoma\nHIV\tDiffüz büyük B hücreli lenfoma\n\tBurkitt lenfoma\nHepatit C\tLenfoplasmositik lenfoma\n\tSplenik marjinal zone lenfoma\nHelikobakter pilori\tGastrik malt lenfoma\nHuman herpesvirüs tip 8\tPrimer effüzyon lenfoma (HIV + olanlarda)\n\tMultisentrik Castleman hastalığı\nBorrelia Burgdorferi\tDerinin marjinal zon lenfoması\nChlamydia psittacii\tOkular adneksal lenfoma\nCampylobacter jejuni\tİnce barsağın immünproliferatif hastalığı\nCoxiella burnetti\tDiffüz büyük b hücreli lenfoma ve foliküler lenfoma",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 18,
+        "soru": "Metastatik hormon resptörleri pozitif meme kanserli hastalarda kullanılan CDK4 inhibitörü ilaç aşağıdakilerden hangisi-dir?",
+        "cevap_secenekleri": {
+            "A": "Pertuzumab",
+            "B": "Alpelisib",
+            "C": "Fulvestrant",
+            "D": "Ribosiklib",
+            "E": "Lapatinib"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Meme kanserinde tedavide önemli noktalar ve ilaçlar aşağıda verilmiştir. Özellikle ileri evre hormon pozitif hastalarda CDK4 inhi-bitörleri sağkalım avantajı sağlamakta olup, soru potansiyeli çok yüksektir.\n\n* Her 2 mutasyonu varsa: Trastuzumab(kardiyotoksisite, ekokardiyografi ile takip), pertuzumab\n\n* Triple negatif (ER-, PR-, HER 2-): Kemoterapi yanıtı en fazla olan tip, ileri evrede kemoterapi verilir.\n\n* BRCA mutasyonu bulunanlarda: PARP inhibitörleri (Olaparib, talazoparib)\n\n* ER, PR pozitiflerde: Tamoksifen (endometrium kanseri) ya da aromataz inhibitörleri\n\n* ER, PR pozitif dirençli ve metastatik olgularda: CDK4 inhibitörleri (ribosiklib, pablosiklib, abemasiklib), PI3K inhibitörleri( alpelisib, duvelisib), mTor inhibitörleri (everolimus, sirolimus)",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 19,
+        "soru": "55 yaşında Akciğer SCC tanılı yaygın kemik metastazları olan hastanın 2 kür KT sonrası KT’ye yantı alınamadığı saptanıyor.\n\nHastanın son zamanlarda artan halsizlik, yorgunluk, kas güçsüzlüğü, kabızlık ve poliüri şikayetleri mevcut olup bu tablo-dan aşağıdakilerden hangisi sorumlu olabilir?",
+        "cevap_secenekleri": {
+            "A": "Hipoaldesteronizm",
+            "B": "Tümör lizis sendromu",
+            "C": "Hiperkalsemi",
+            "D": "Uygunsuz ADH sendromu",
+            "E": "Adrenal yetmezlik"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Hiperkalsemi tümörlerle ilişkili en sık görülen paraneoplastik sendromdur. PTHrP salgılanması en sık sebep iken litik lezyon, PTH ya da vit D dönüşümünün artmasına bağlı da olabilir. En sık görüldüğü kanser tipi küçük hücre dışı akciğer kanseri iken, bunların içinde de en çok yassı hücreli kanserde görülür. Hiperkalseminin öenmli klinik bulguları halsizlik yorgunluk, kas güçsüzlüğü ve nefrojenik diabetes insipidusa bağlı poliüridir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 20,
+        "soru": "Aşağıdakilerden hangisinin geriatrik populasyonda geçici üriner inkontinansa neden olması en az olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Deliryum",
+            "B": "Gaita tıkacı",
+            "C": "Atrofik vajinit",
+            "D": "Diuretik kullanımı",
+            "E": "Hipokalsemi"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Aşırı idrar çıkışına neden olan faktörler yaşlılarda gecici uriner inkontinansa sebep olabilir. Hiperkalsemi nefrojenik diabetes insipi-dus yaparak aşırı idrar çıkışına neden olabilir ancak hipokalsemide idrar çıkışında artış ve buna bağlı uriner inkontinans beklenmez.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 21,
+        "soru": "Tiroidinde malign görünümlü nodül olan hastanın bakılan kan kalsitonin değeri çok yüksek saptanıyor.\n\nBu hastada hangi genetik mutasyonunun saptanması en olasıdır?",
+        "cevap_secenekleri": {
+            "A": "BRAF",
+            "B": "MEN1",
+            "C": "EGFR",
+            "D": "RET",
+            "E": "MET"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Medüller tiroid kanseri parafoliküler C hücrelerinden köken alır ve kalsitonin salgılar. MEN2 sendromunun bir komponenti olarak görülebilir ve bu sendromda RET mutasyonu görülür.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 22,
+        "soru": "Hangisinin hiperprolaktinemi etiyolojisinde yer alması en az olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Risperidon",
+            "B": "Hipotiroidi",
+            "C": "Kronik böbrek hastalığı",
+            "D": "Metoklopramid",
+            "E": "Bromokriptin"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Bromokriptin bir dopamin agonistidir ve prolaktini baskılar. Bu nedenle prolaktinoma tedavisinde kullanılan bir ajandır. Hiperpro-laktinemiye neden olan faktörler aşağıdaki tabloda verilmiştir.\n\nFizyolojik\tHipofizer\tHipofiz sap hasarı\tSistemik\tİlaçlar\nGebelik\tLaktasyon\tUyku\tTravma\tStres\n\tProlaktinoma\tAkromegali\tLenfosittik Hipofisitis\n\tTümörler\tEmpty sella\tAdenom basısı\tRatke kisti\tTravma\tRadyasyon\n\t\t\t\tKBY\tSiroz\tHipotiroidi\tEpileptik nöbetler\tYalancı gebelik\n\t\t\t\t\tRisperidon\tSSRI\tHaloperidol\tVerapamil\tMetoklopramid\tH2 antagonistler\tMetildopa\tÖstrojen\tReserpin\tTRH\tOpioidler",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 23,
+        "soru": "İnfektif endokarditte cerrahi endikasyonu olmayan durum hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Konjestif kalp yetmezliği",
+            "B": "Etkenin antibiyotige dirençli mikroorganizma veya ciddi fungal infeksiyon etkeni olması",
+            "C": "Ateşin 40 °C üzeri olması",
+            "D": "Kapak üzerinde hareketli ve büyük vejetasyon",
+            "E": "Aort kapağında apse varlığı"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "İnfektif endokarditte ateşin 40 °C üzerinde olması cerrahi endikasyonu değildir.\n\nİnfektif Endokarditte Cerrahi Endikasyonları\n\n* Kalp yetmezliği\n\n* Kontrol edilemeyen infeksiyon (kan kültüründe tedaviye rağmen sürekli pozitilik saptanması)\n\n* Septik embolilere bağlı komplikasyonlar (dalak enfarktı ve beyin enfarktı)\n\n* Kapak üzerinde hareketli ve büyük vejetasyon\n\n* Kapaklarda apse varlığı",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 24,
+        "soru": "Nikolsky fenomeni aşağıdaki hastalıkların hangisinde en yüksek olasılıkla gözlenir?",
+        "cevap_secenekleri": {
+            "A": "Kontakt dermatit",
+            "B": "Liken planus",
+            "C": "Herpes labialis",
+            "D": "Psoriazis vulgaris",
+            "E": "Pemfigus vulgaris"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Nikolsky Fenomeni: Akantolizisi gösterir. Pemfigus vulgaris, foliaseus, vejetans, eritematosus, Epidermolizis bülloza (Sadece simp-leks tipinde pozitif), Nikolsky işareti pozitif olan subepidermal büllöz hastalık TEN(psödo-nikolsky), Stevens-Johnson Sendromu SSSS(stafilokoksik haşlanmış deri sendromu), Sistemik yanıklarda görülür. 3 şekilde bakılır.\n\na) Bül üzerine basıldığında etrafa doğru genişler.\n\nb) Sağlam deriye parmakla basılınca deride erozyon meydana gelir.\n\nc) Açılmış bül, kenarlarından tutulduğunda kolayca soyulur.\n\nPemphigus vulgaris: Nikolsky (+)’tir. (bül tepesinden veya erozyon kenarından tutulduğunda lezyonun sağlam deri boyunca sıyrı-labilmesi, bülün üzerine basıldığında tabana doğru yayılabilmesi). Tzanck’ın sitolojik muayenesi (Tzanck testi) ile pemfigus vulgaris bülleri içindeki akantolitik epidermal hücreler görülebilir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 25,
+        "soru": "Ülseratif kolit tanısıyla izlenen 53 yaşındaki erkek hasta sağ bacağını direğe çarptıktan 8 gün sonra, o bölgede gelişen yaklaşık 2x4 cm boyutlarında ağrılı bir ülser nedeniyle başvuruyor. Genel durumu iyi olan ve ateşi olmayan hastanın ülserinden alınan doku kültüründe üreme saptanmıyor Ancak cerrahi debridman sonrası ülserin boyutunda genişleme gözleniyor.\n\nBu olguda en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Ektima gangrenozum",
+            "B": "Eritema multiforme",
+            "C": "Piyoderma gangrenozum",
+            "D": "Eritema nodozum",
+            "E": "Büyük çaplı damar vasküliti"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Piyoderma gangrenozum: nötrofilik bir dermatoz\n\nÇeşitli durumlarla ilişkili (örn. İnflamatuar barsak hastalıkları, romatoid artrit ve travma)\n\nÇok ağrılı, hızla ilerleyen, pürülan püstüllere veya santrali nekrozlu derin ülserli lezyonlara dönüşebilen eritemli lekelerle kendini gösterir.\n\nGenellikle alt ekstremitelerin ekstansör tarafında bulunur.\n\nİmmünsüpresanlarla tedavi edilirler (örn. kortikosteroidler, siklosporin A)\n\nEktima ile ektima gangrenozum birbirine karıştırılmamalıdır. Ektima gangrenosumun etkeni P.aeuroginosa’dır.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 26,
+        "soru": "32 yaşındaki kadın hasta, son 3 aydır sürekli olan ve gün geçtikçe artan, sabahları uyandığında daha şiddetli olup gün içinde kısmen azalan, başında yaygın hissettiği baş ağrısı yakınmasıyla başvuruyor. Nörolojik muayenesinde fundoskopide bilateral papil stazı saptanan hastanın beyin MR görüntülemesi normal saptanıyor.\n\nBu hasta için en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Migren baş ağrısı",
+            "B": "İdiyopatik intrakraniyal hipertansiyon",
+            "C": "Normal basınçlı hidrosefali",
+            "D": "Küme baş ağrısı",
+            "E": "Gerilim tipi baş ağrısı"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Idiyopatik/Benign intrakraniyal HİPERTansiyon (Primer Pseudotümör Serebri) (yatınca şiddetlenen başağrısı) 15-44 yaş OBEZ kadın\nPTS’nin patogenezinde BOS emilim defekti mevcuttur. Çoğu hasta obezdir. Hemen daima diffuz baş ağrısı başlangıç semptomu-dur. Görme semptomları ilk olarak göz kararmaları ile başlar sonra ilerleyerek santral görme kaybına kadar gidebilir. Tetrasiklin, lityum, gebelik, obezite, hızlı kilo almak, hipo-hipervitaminöz A vitamini, danazol, steroidler, OKS, GH, hipo-hiperti-roidi risk faktörleridir. 1. KIBAs (başağrısı, bulantı-kusma, geçici görme kayıpları, papilödem, pulsatil tinnitus) 2. Uni-bilateral 6.CN paralizi (diplopi) dışında fokal nörolojik bulgu olmayışı 3. Beyin omurilik sıvısı (BOS) açılış basıncı ≥20-25 cm su, BOS içeriği normal\nTemel bulgu PAPILÖDEM ve görme alanı defektleridir, hasta kilo vermeye zorlanmalıdır. Medikal tedavinin ilk seçeneği ASETAZOLAMIDdir(PTS tedavisindeki amaç BOS üretimini azaltmaktır. Bu nedenle hastalara ase-tozolamid verilir). LP’ye bağlı BOS sızıntısı, Travmatik dural fistül sızıntısı, PSEUDOTÜMÖR SEREBRI → BOS proteinde DÜŞÜŞ ile sonuçlanır!!!\nKIBAS bulgularının öne eğilme ve valsalva ile kötüleşmesi, görme keskinliğinde azalma olması psödotümör serebri tanısında önemlidir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 27,
+        "soru": "Son 3 yıldır generalize kore izlenen 26 yaş kadın hastanın dedesinin 52 yaşında başlayan hareket bozukluğu, psikoz ve demans nedeniyle 78 yaşında vefat ettiği, şimdi 52 yaşında olan babasının da 11 yıldır giderek artan istemsiz hareketleri ve unutkan-lığı olduğu öğreniliyor.\n\nBu hastadaki en olası tanı için hangisi doğru değildir?",
+        "cevap_secenekleri": {
+            "A": "O.D geçişli bir hastalığa sahiptir.",
+            "B": "Antisipasyon göstermektedir.",
+            "C": "Babadan kalıtıldıkça daha erken yaşta başlamaktadır.",
+            "D": "Elektronöromiyografi tanı koymada yararsızdır.",
+            "E": "Trinükleotid tekrar (TNT) hastalığı olup CTG tekrarları dikkati çekmektedir."
+        },
+        "dogru_cevap": "E",
+        "aciklama": "HUNTINGTON koresi (poliglutamin hastalığı)\n\nSitriatumun (nükleus Caudatus ve putamen) dejenerasyonu ile giden 30-55 yaş, K=E, O.D, trinükleotid tekrar (C-A-G->40 tekrar ) hastalığıdır. HH poliglutamin trinükleotid tekrar hastalığıdır. HH, huntington proteinini kodlayan 4p16.3 yerleşimli gendeki CAG trinükleotid tekrarları nedeniyle gelişir. Trinükleotid tekrar artışı ile giden hastalıklar arasında glutamini kodlayan CAG tekrar artışı ile karak-terize poliglutamin hastalıklarının prototipidir. Burada yapısı etkilenen protein “huntingtin” dir, genetik bozukluk protein işlevini bozmaktan çok ona patolojik bir nitelik kazandırarak patolojiye yol açar. Bu gene ait CAG tekrar sayısı 37-39 üzerine çıkınca hastalık oluşur ve sayı ne kadar yükselirse klinik o kadar erken başlangıçlı, hızlı ve şiddetli olur.\n\n--- PAGE 64 ---\nKlinik Bilimler / T 52 - 1\n\n64www.tusem.com.tr\n\nMayoz bölünme sırasında tekrar sayısının ekspansiyonu böylece klinikte kuşaklar boyunca giderek erken yaşa çekilen ve şiddetle-nen bir klinik görünüme yol açar (antisipasyon). Premutasyon değerleri olan 35-37 arasında hastalık manifest olmaz ama bir sonraki kuşakta tekrar sayısı artarak kendini gösterir. Patolojik sınırdaki mutasyonun geçirgenliği tamdır (%100), bu nedenle anne veya babası hasta olan bireyler %50 risk altındadır. Bu durumdaki sağlam bireylerde genetik test (prediktif test) kesinlikle 18 yaş üzerinde ve mutlaka iyi bir genetik danışmanlık ve psikiyatrik değerlendirme sonrasında yapılmalıdır. Hastalık genelde 3-4. dekadlarda başlar ve 15-20 yıl kadar sürer, ancak başlangıç temelde CAG tekrar sayısına bağlı olarak 5 yaşa kadar inebileceği gibi 70 yaş sonrasına da kalabilir.\nStriatum hasarı (Caudat ve putamen) → kore-atetoid hareketler\nAch ↓, GABA ↓, Glutamat ↑, Dopamin ↑ sonucu NMDA toksisitesiyle nucleus Caudatus ve putamende Ach ve GABA düşer Caudat atrofi oluşur.\n\n* Depresyon (EN SIK), anksiyete, obsesif kompulsif semptomlar, psikoz ve artmış intihar girişimleri hastalıkta sıktır ama ölüm\n\nen sık enfeksiyon nedenli.\n\n* Vücudun tüm bölgelerinde istemsiz sıçrayıcı hareketler, ekstremitelerde kıvranır tarzda hareketler ve progresif bunama\n\n(demans) ile karakterizedir.\n\n* Hastalar ortalama 15 yılda ölür.\n\n* Kişilik değişiklikleri (Glutamat ↑) frontal kortekste atrofi ilişkili olabilir.\n\n* Genotip-fenotip korelasyonu çok kuvvetlidir, daha yüksek tekrar sayıları daha erken başlangıçlı hastalıkla sonuçlanır.\n\n* Beyin küçük, nükleus kaudatusta ve putamende belirgin atrofi dikkati çeker.\n\n* Korenin tedavisi için tetrabenazin (Dopamin antagonistleri)",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 28,
+        "soru": "33 yaş kadın hasta, 3 aydır devam eden hiçbir şeyden zevk alamama, daha önce keyif aldığı aktiviteleri bile yapmak isteme-me, sabahları istemsiz şekilde her zamankinden en az 3 saat daha erken uyanma, belirgin kilo kaybı, evin içinde huzursuzca yürüme şeklinde hareketlilik artışı, suçluluk duyguları ve sabahları daha yoğun olan bitkinlik şikâyetleriyle psikiyatriye baş-vuruyor.\n\nBu hasta için en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Katatoni ile giden depresyon",
+            "B": "Post partum depresyon",
+            "C": "Melankolik özellikli depresyon",
+            "D": "Değişik (Atipik) özellikli depresyon",
+            "E": "Psikotik özellikli depresyon"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Melankoli özellikleri gösteren:\nA. O sıradaki dönemin en ağır evresinde aşağıdakilerden en az biri vardır:\n1. Bütün ya da neredeyse bütün etkinlikliklerden zevk almama.\n2. Genelde zevk verebilecek uyaranlara karşı tepkisiz kalma (iyi bir şey olduğunda, geçici olarak bile olsa, kendini çok daha iyi\nhissetmez).\nB. Aşağıdakilerden üçü (ya da daha çoğu):\n1. Derin bir bunalım, umutsuzluk ve/ya da somurtkanlık ya da duygusal boşluk yaşama olarak adlandırılabilecek bir duygudu-\nrum ile belirli, değişik nitelikte bir depresyon duygudurumu.\n2. Depresyon, sürekli olarak sabahları daha kötüdür.\n3. Sabah erken uyanma (her zamanki uyanma saatinden en az 2 saat önce).\n4. Belirgin bir psikodevinsel kışkırma (psikomotor ajitasyon) ya da yavaşlama.\n5. Yeme isteğinde belirgin azalma ya da kilo verme.\n6. Aşırı ya da uygunsuz suçluluk duygulan.\n\n--- PAGE 65 ---\nKlinik Bilimler / T 52 - 1\n\n65 www.tusem.com.tr\n\nNot: Bu özellikler, dönemin en ağır evresinde bu özellikler varsa, “melankoli özellikleri gösteren” belirleyicisi kullanılır. Zevk alabil-me yeterliği neredeyse tam olarak ortadan kalkmıştır, yalnızca azalmış değildir. Duygudurumda tepkiselliğin olmadığını değerlen-dirmek için yol gösterici bir kılavuz, çok istendik olayla rın bile duygudurumda belirgin bir açılmaya neden olmamasıdır.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 29,
+        "soru": "33 yaşındaki erkek hasta, ellerinde kızarıklık şikâyetiyle cildiye polikliniğine başvuruyor. Hastanın sık sık ellerini yıkadığı bilgi-sini alan cildiye hekimi psikiyatri konsultasyonu istiyor. Psikiyatrik değerlendirmede hastanın gün içinde defalarca ellerini yı-kadığı, ellerini yıkamasına rağmen mikroplardan temizlenmediğini düşündüğü, bu düşünceleri kafasından atamadığı, günün tamamına yakınını ellerini yıkayarak geçirdiğinden mesleki yaşamının etkilendiği ve işlevselliğinin bozulduğu öğreniliyor.\n\nBu hasta için en uygun başlangıç tedavi aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Flupentiksol",
+            "B": "Fluvoksamin",
+            "C": "Klomipramin",
+            "D": "Amitriptilin",
+            "E": "Lamotrijin"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Obsesyonlar, belirgin bir anksiyeteye neden olan yineleyici ve zorla gelen düşünce, dürtü ya da düşlemler, kompulsiyonlar ise, obsesyonlara yanıt olarak yapılan ve anksiyeteyi azaltmayı amaçlayan, yineleyici davranışlar ya da zihinsel eylemler olarak tanım-lanmıştır.\n\nEn sık rastlanan obsesyonlardan biri olan kirlenme/bulaşma obsesyonudur. Kirlenme/ bulaşma obsesyonlarına yanıt temizleme kompulsiyonlarıdır. Kuşku obsesyonu; 2. En sık\n\nOKB tedavisinde n etkili ilaç klomipramindir. İlk ilaç seçeneği seçici serotonin geri alım inhibitörleridir. FLU oksetin, ***FLUVOK-SAMİN, Sertralin, Paroksetin, Sitalopram, Essitalopram bu gruptadır. SSRI’lar depresyon tedavisinde kullanıldığı dozlardan daha yüksek düzeyde kullanılırlar. Sıklıkla fluoksetin 60-80 mg/gün, paroksetin 40-60 mg/gün, sertralin 100-200 mg/gün, fluvoksamin 100-300 mg/gün olarak kullanılmaktadır.\n\nBu tedavilere eklenebilen güçlendirici tedaviler arasında antipsikotikler, lityum, buspiron ve klonazepam sayılabilir. Belirtilerde %35-60 düzelme gözlenir. Ek olarak yanıt alınması geçtir ve 10 haftayı bulabilir.\n\nOKB’de kullanılan savunma mekanizması: Reaksiyon-formasyon (karşıt tepki oluşturma)\n\nBilinç dışı yasak dürtüleri tam aksi yönde davranış olarak çıkartması: Reaksiyon-formasyon\n\nDepresyona göre daha yüksek dozlarda ve daha uzun süre ilaç kullanmak gerekir. • 12 hafta SSRI denendikten sonra başka bir SSRI denenir. Bu ilaca da yanıt olmazsa klomipramine veya venlafaksine geçilir. Güçlendirici olarak antipsikotik (risperidon vb.) eklenebilir.\n\nOKB tedavisinde altın standart ilaç klomipramindir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 30,
+        "soru": "32 yaşındaki kadın hasta, uzun süre oturunca başlayan ve ara ara bacak arkasına yayılan sağ kalça ağrısı nedeniyle başvuru-yor. Fizik muayenede sağ kalçanın pasif abdüksiyon ve internal rotasyona getirilmesiyle, ayrıca dirençli abdüksiyon ve ekster-nal rotasyon yaptırılmasıyla ağrı artıyor.\n\nBu hasta için en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "İliotibial bant sendromu",
+            "B": "L5-S1 radikulopati",
+            "C": "İskial bursit",
+            "D": "Piriformis sendromu",
+            "E": "Trokanterik bursit"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Piriformis Sendromu\nPiriformis kası kalça eklemine uyluk ekstansiyondayken dış rotasyon, kalça fleksiyondayken abduksiyon yaptırır. PS 4. ve 5. dekad-larda ve kadınlarda daha sık görülmektedir. Piriformis kasında miyofasial tetik nokta, hipertrofi, inflamasyon, travmatik yaralanmalar, piriformis kası ve/veya siyatik sinirin anatomik varyasyonları ve myositis ossifikans gibi nedenler PS’na yol açabilmektedir. Piriformis sendromu (PS), siyatik sinirin pi-riformis kası tarafından tuzaklanması ile oluşan bir klinik tablodur. Bacak arkasından tüm alt ekstremiteye yayılan ağrı oluşur. Bel ağrısı ve siyatik ağrılarına neden olur. Tanı çoğunlukla klinikle ve diğer patolojileri dışlayarak konulur. Klinik olarak piriformis sendromu tanısı, provokatif testlerle ortaya çıkan klasik lomber radikülopati belirtileri olmadığında, nörolo-jik muayene normal olduğunda ve gluteal ve sakroiliak ağrının diğer nedenleri ekarte edildiğinde düşünülür. Lomber radikülopati ile bulgular karışabilir ancak bel muayenesi normaldir. Piriformis sendromu olan kişilerde oturmak ağrıyı artırır. Ağrı genelde bel ve kalça bölgesindedir, yürürken veya bacak bacak üstüne atma hareketinde ağrılar artar. Kalçanın internal rotasyona zorlanması ve kalça fleksiyonu ile ağrı artar.\nPace işareti: dirençli ABDüksiyon ve eksternal rotasyon yaptırılmasıyla ağrıda artış, hasta oturur pozisyonda yani kalça fleksiyon-dayken dirence karşı bacağın abduksiyonuyla piriformis kası kasılarak siyatik sinire basıyapar ve siyatalji oluşur.\nFreiberg testi ise uyluğun ekstansiyonu sırasında pasif internal rotasyonu ile piriformis kasının gerilerek veya dirence karşı eks-ternal rotasyonuyla piriformis kasının kasılarak siyatik sinire bası yapması sonucu siyatalji oluşmasıdır.\nBeatty manevrası hastanın ağrılı tarafı yukarı gelecek şekilde yan yatar pozisyonda, kalça ve diz fleksiyonda iken, pelvisi stabi-lize ederek dize baskı uygulanıp kalçayı iç rotasyon ve adduksiyona zorladığımızda, piriformis kasının gerilerek siyatik sinire bası yapması sonucunda oluşan siyatalji. Bu şekilde uyluğa Fleksiyon, ADduksiyon ve İç Rotasyon (FADİR veya FAİR olarak bilinen manevra) uygulanmış olur. FADIR (Femoral ADdüksiyon ve İç Rotasyon) testi, kalça asetabulumundaki femoral-asetabular impin-gementin (FAI), labral patolojinin belirlenmesine yardımcı olmak için kullanılır. Ancak Beatty bu manevrayı açıklarken kalça ve diz fleksiyonda ve diz muayene masasında istirahattayken hastanın bacağını ve dizini masadan birkaç santimetre kaldırmasıyla yani abduksiyonuyla (Pace testindekine benzer şekilde bacak fleksiyondayken piriformis kasının adduktör kas olmasından faydalana-rak) piriformis kasının kasılarak bacakta değil de kalçada ağrı oluşması şeklinde tanımlamıştır\nTedavi; Piriformis germe egzersizleri çok etkilidir. NSAI ve kas gevşeticiler piriformis tüneli içine ve kasa yapılan lidokain ve korti-kosteroid enjeksiyonları\n\nKalçanın eksternal rotasyonu piriformis sendromu tedavisinde çok etkili bir egzersizdir.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 31,
+        "soru": "Sağlık problemlerinin takibini yapabilmek için devamlı ve sistematik olarak veri toplanması, analizi, yorumlanması ve konuyla ilişkili kişilerin kullanımı için dağıtılması işlemine ne denilir?",
+        "cevap_secenekleri": {
+            "A": "Sürveyans",
+            "B": "Kohort araştırması",
+            "C": "Filyasyon",
+            "D": "Epidemiyoloji",
+            "E": "Kesitsel araştırma"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Sürveyans***\nHastalığın ortaya çıkması ve yayılması ile ilgili tüm konularda ve hastalığın önlenmesine yönelik sürekli bir izleme çalışmasıdır. Toplanan veriler düzenlenerek, bir rapor hazırlanır, yerel sağlık örgütüne ve işbirliği yapılacak kuruluşlara iletilir.\nSürveyans verileri 3 tür toplanır: 1. Vakaya dayalı sürveyans: Laboratuvar verileri ya da zorunlu vaka bildirimleri ile insidans takibi 2. Sentinel sürveyans: Sentinel noktalarda spesifik seçilmiş gruplar test edilerek prevalans takibi (Antibiyotik direnç takibi) 3. Topluma dayalı sürveyans: Sağlık sistemi kullanma, davranış, klinik ve koruyucu uygulamaları tesbit ve müdaheleler için risk altındaki gruba sürveyler uygulanır.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 32,
+        "soru": "Fazla sayıda yaralanın olduğu durumlarda kullanılan basit triyaj ve hızlı tedavi (START) tekniğinde hangisi öncelikle değer-lendirilir?",
+        "cevap_secenekleri": {
+            "A": "Kan basıncı",
+            "B": "Nabız basıncı",
+            "C": "Solunum",
+            "D": "SpO2",
+            "E": "GKS"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "START triaj sistemi yada START triaj modeli, özellikle afet ve olağan dışı durumlarda olay yerinde yaralıların sınıflandırılmasında ve öncelik sıralarının belirlenmesine yurt dışında ve ülkemizde en çok kullanılan triaj sistemidir. Simple Triage And Rapid Treatment cümlesinin baş harflerinden oluşan bir kısaltmadır. Tüm triaj modellerinde yada triaj sistemlerinde de olduğu gibi START triaj modeli içerisinde tedavi yoktur. Sadece hastaların önce-liklerinin belirlenmesini amaçlamaktadır. START triaj sisteminde hastalar aciliyetlerine göre 4 grupta sınıflandırılır ve bu 4 grup 4 ayrı renk ile ifade edilir. START triaj modelinde hastalar aşağıdaki renk grupları ile ifade edilir.\nSİYAH: Yaşama ihtimali olmayan ve değerlendirme aşamasında ölü değerlendirilen hastalar.\nKIRMIZI: Triaj uygulanan hastalar içerisinde en acil transporta ve tıbbi desteğe ihtiyacı olan gruptur. Dakikalar içerisinde sağlık hizmeti alamazlarsa durumları siyaha dönebilir.\nSARI: Kırmızı ile kodlanan hastalara göre bekletilebilir konumda olan hastalardır. Bu hastalar kırmızı kodlu hastalar sağlık izmeti aldıktan donra sağlık hizmeti alabilirler.\nYEŞİL: Yürüyebilen tüm hastalar bu gruba dahildir. Ciddi yaralanma ihtimalleri düşük olanlar\nSTART triaj modelinde hastaların yürüyüp yürüyemediği, solunumu, dolaşım sistemi ve basit komutlara uyup uymadığı (mental durum) değerlendirilir. Hastalar öncelikle sesli komut ile çağrılır. Bu işlemi uygularken “sesimi duyanlar bana doğru gelsin” şeklinde bir sesleniş ile has-taların size doğru gelmeleri istenilir. Size doğru gelen hasta grubu YEŞİL kodlu hastalardır. Sesli komut ile size gelemeyen hastalar için solunum dolaşım ve mental durum değerlendirmesi başlar.\n***Solunum Değerlendirmesi:*** Solunumun olup olmadığına, ve solunum sayısına bakılır. Bu amaçla 10 saniye boyunca BAK-DİNLE-HİSSET yöntemi ile solunumu değerlendirilir. Solunum olmayan hastalara baş çene pozisyonu verilerek solunumun gelip gelmediğine bakılır. Baş çene pozisyonu verilerek solunumu gelen hastalar KIRMIZI, solunumu gelmeyen hastalar SİYAH olarak değerlendirilir. Ulaşıldığında solunumu olan hastalarda ise solunum sayısına bakılır. Solunum sayısı 30 ‘ un üzerinde ise KIRMIZI kod verilir. Solu-num sayısı 30 un altında ise dolaşım sistemi değerlendirmesine geçilir.\n\nRemove walking wounded\nStart Triage\n\nNo\n\nNo No\n\nNo\n\nYes\n\nYes Yes\n\nYes\n\nRed\n\nRedBlack Red\n\nRed Yellow\n\n>30 breaths/ minuteOpen Airway.\nBreathing?\n\n>30 breaths/ minute\n\nRadial pulse?\n\nFollows commands?\n\nSOLUNUM VAR MI???",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 33,
+        "soru": "35 yaşındaki kadın hasta yazın çiftlikte uzun süre çalıştıktan sonra bacaklarında ve kollarında gelişen istemsiz ağrılı kasılmalar ile acile başvuruyor. Başvuruda vitalleri normal saptanan hastaya IV sıvı ve NaCI replasmanı yapıldıktan sonra hastanın semp-tomları düzeliyor.\n\nBu hastada en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Sıcak çarpması",
+            "B": "Sıcak krampları",
+            "C": "Sıcak döküntüsü",
+            "D": "Sıcak senkobu",
+            "E": "Sıcak bitkinliği"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Sıcak Krampları\n\nİklime uyum sağlayamayan işçilerde, atletlerde aşırı egzersizden sonra genellikle bacak kaslarında oluşan ağrılı kasılmalardır.\n\nİLK YARDIM:\n\nKişi gölgelik ve/veya serin bir yere alınır.\n\nHasta yatırılarak (veya oturtulabilir de) kramp geçene kadar kasları dinlendirilir.\n\nSu (veya dengeli elektrolit solüsyonu; limonata, ayran vb) içirilebilir. Sıcak krampında vücutta yeterli elektrolit vardır, ancak kramp nedeniyle dengeli dağılımı engellenmiştir o nedenle bol sıvı içmenin yanı sıra dinlenme çok önemlidir. Tedavi edilmezse sıcak bit-kinliğine dönüşebilir.\n\nSıcak Bitkinliği\n\nSıcağın neden olduğu en sık görülen hastalık olan sıcak bitkinliğinde, hasta aşırı derecede su ve tuz kaybetmiştir. Belirtileri:\n\nAşırı terleme sonucu soğuk ve nemli cilt, Yüzde solukluk, Baş dönmesi, bayılma hissi, Güçsüzlük, Bulantı, Baş ağrısı, Hızlı ve zayıf nabız, Hafif yüksek ateş\n\nSıcak Çarpması\n\nBeyinde bulunan ısı ayarlama merkezinin görevini yapamaması sonucu, vücutta biriken fazla ısının dışarı atılamaması sonucu ge-lişir. Genellikle sıcak bitkinliğini izler. Sıcak bitkinliğindeki hastanın ateşi yüksekse dikkatli olunmalıdır. Yüksek ateş düşürülmez ise beyin hasarı hatta ölüm kaçınılmaz olur.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 34,
+        "soru": "Aşağıdakilerden hangisi arteryal doppler US kullanım alanlarına uygun endikasyonlardan değildir?",
+        "cevap_secenekleri": {
+            "A": "Psödoanevrizma",
+            "B": "Arteryel trombüs",
+            "C": "İnternal karotis arter stenozu",
+            "D": "Transplante böbrek",
+            "E": "Glioblastome multiforme takibi"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Arteryel doppler ultrasonografi karotis arter stenozu, renal arter stenozu, ekstremite arter hastalıkları (periferik arter hastalığı), psödoanevrizma, arteryel trombüs, transplante böbrek, aort anevrizması gibi durumların değerlendirilmesinde kullanılır.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 35,
+        "soru": "Aşağıdaki yapı ve organlardan hangisi ya da hangileri radyasyona daha duyarlıdır?",
+        "cevap_secenekleri": {
+            "A": "Kas",
+            "B": "Kemik",
+            "C": "İnce bağırsaklar-dalak-gonadlar-meme-tiroid-timus",
+            "D": "Kıkırdak",
+            "E": "Karaciğer-kalp-akciğer-böbrekler"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Radiosensitivite: Hücrelerin radyasyona karşı gösterdiği duyarlılıktır. En duyarlı dokular; kemik iliği, lenfoid organlar (timus, dalak, lenf nodu), intestinal epitel, gonadlar ve deridir. Radyasyona orta derecede duyarlı olanlar; böbrekler, karaciğer, endotel, akci-ğer ve büyüme kıkırdağıdır. Radyasyona dirençli dokular kemik, kas ve sinir dokusudur.",
+        "konu_grubu": "Dahiliye (Dahiliye + Dahiliye Küçük Stajlar)"
+    },
+    {
+        "soru_no": 36,
+        "soru": "Resim var.",
+        "cevap_secenekleri": {},
+        "dogru_cevap": null,
+        "aciklama": "Püstüler melanosis: Yanak, ense, sırt, ekstremite, el ve ayak tabanında görülen, nötrofil içeren vezikülopüstüler döküntülerdir. 2-3 günde hafif hiperpigmentasyon bırakarak kaybolan benign lezyonlardır. Bu döküntülerin isminde geçen ‘’püstüler’’ifadesinden dolayı ters köşe yapmak için fizyolojik mi ; patolojik mi olduğunun sorulma ihtimalinin de çok yüksek olduğunu hatırlatalım.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 37,
+        "soru": "Eklampsi nedeniyle MgSO4 (Magnezyum sülfat) tedavisi verilen annenin bebeğinde aşağıdaki durumlardan hangisi bek-lenmez?",
+        "cevap_secenekleri": {
+            "A": "Solunum depresyonu",
+            "B": "Hiporefleksi",
+            "C": "Hipertansiyon",
+            "D": "Mekonyum tıkacı",
+            "E": "Letarji"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Magnezyum sülfat kadın doğumda preeklampsi, eklampsi gibi hastalıklarda ve erken doğum eğleminde tokolitik amaçlı olarak kul-lanılmaktadır. Bu kullanım sonucunda bebekte bazı sorunlar görülebilmektedir. Bunun benzeri sorunun TUS’ta çıkmama ihtimali yok. Lütfen anneye verilen magnezyumun bebekte neler yapabileceğini bilelim. Kabaca herşeyi deprese eder. Solunum, SSS, kalp, intestinal sistemi deprese eder. Hipoventilasyon, letarji, hipotansiyon, ritim bozukluğu ve hipomotilite yapabilir.\n\nAnneye verilen magnezyumun bebekte CP riskini azalttığını ayrıca perinatal asfikside hipotermi gibi nöroproteksiyon amaçlı kullanılabileceğini de mutlaka bilmeliyiz.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 38,
+        "soru": "18 aylık kız bebek solukluk şikayeti ile getiriliyor. Olgunun 1 hafta önce ÜSYE geçirdiği öğreniliyor. Laboratuvar incelemelerin-de Hb: 9 gr/dl, MCV, HbF, ADA düzeyleri normal ve retikülositopenisinin olduğu saptanıyor.\n\nYukarıda tanımlanan olgunun en olası tanısı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Çocukluk çağının geçici eritroblastopenisi",
+            "B": "Diamond-Blackfan anemisi",
+            "C": "Konjenital trasnkobalamin 2 eksikliği",
+            "D": "Fanconi aplastik anemisi",
+            "E": "Konjenital diseritropoietik anemi"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Pediyatrik hematolojide çocukluk çağının geçici eritroblastopenisi ile Diamond-Blackfan anemisinin ayrımını yapmayı net olarak bilmek gerekir!!\n\nÇocukluk çağının geçici eritroblastopenisi en sık edinsel eritroid aplazi nedenidir. Çoğunlukla 1 yaşından büyük çocuklarda nons-pesifik viral enfeksiyondan sonra ortaya çıkan ağır, geçici hipoplastik anemidir. Retikülositopeni görülür. MCV, HbF, ADA normal-dir ve konjenital anomaliler beklenmez. (Diamond-Blackfan anemisinde MCV, HbF ve ADA yüksektir, trifalengeal baş parmak gibi konjenital anomaliler görülebilir).",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 39,
+        "soru": "Solukluk ve sağırlık şikayeti ile getirilen olgunun laboratuvar incelemelerinde megaloblastik makrositer anemi ve kardiyomi-yopati saptanıyor. Hastaya bir vitamin başlanıyor ve anemisinin düzeldiği görülüyor.\n\nBaşlanan vitaminin aşağıdakilerden hangisi olması en olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Folik asit eksikliği",
+            "B": "Vitamin B12 eksikliği",
+            "C": "Tiamin eksikliği",
+            "D": "Pridoksin eksikliği",
+            "E": "E vitamini eksikliği"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Megaloblastik makrositer anemi denildiğinde aklımıza ilk folik asit ve B12 eksikliği gelmelidir. Ama sadece bu ikisi gelmemelidir. Aklımızın bir köşesinde tiamin eksikliği ile megaloblastik anemi ilişkisi de mutlaka bulunmalıdır.\n\nTiamine yanıt veren megaloblastik anemi, tiamin transport genindeki defektten kaynaklanır. Megaloblastik anemi, sensörinö-ral sağırlık, diabetes mellitus ve bazen kardiyomiyopati ve optik atrofi ile karakterize bir sendromdur.\n\nPridoksin eksikliği mikrositer anemi; E vitamini eksikliği hemolitik anemi nedenidir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 40,
+        "soru": "12 yaşında erkek hasta yürürken dengesini sağlayamama şikayeti ile başvuruyor. Fizik muayenesinde serebellar testlerinde bozukluk saptanıyor. Kontrastlı çekilen kraniyal bilgisayarlı tomografide serebellumda duvarında kontrast tutulumu olan kis-tik kitle saptanıyor.\n\nYukarıda tanımlanan olgunun en olası tanısı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Pilomiksoid astrositom",
+            "B": "Medulloblastom",
+            "C": "Oligodendrogliyom",
+            "D": "Dev hücreli astrositom",
+            "E": "Glioblastom"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Juvenil pilomiksoid astrositom en sık serebelluma yerleşir. Klasik radyolojik görünümü kistik kitlenin duvarında kontrast tutan nodüldür. Mikroskobik olarak Rosenthal fiberlerinin varlığı tanıya yardım eder. Metastaz potansiyeli düşüktür ve nadiren invazif-dirler.\n\nOligodendrogliyom çocuklarda nadirdir; serebral korteks ve beyaz cevherden köken alırlar. Konvülziyonla başvuran hastada; tomografide kalsifiye kortikal kitle gözlenmesi destekleyicidir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 41,
+        "soru": "6 yaşında erkek hasta halsizlik, solukluk ve burun kanaması şikayetleri ile çocuk acil polikliğinie getiriliyor. Olgunun fizik muaye-nesinde hepatosplenomegali ve jeneralize lenfadenopati saptanıyor. Laboratuvar incelemelerinde Hb:7 gr/dl; BK: 60000/mm3 ve PLT: 80000/mm3 bulunuyor. Periferik kan yaymasında blastlar dikkati çekiyor. PA akciğer grafisinde mediyastinal LAP saptanı-yor.\n\nYukarıda tanımlanan olguda en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "T hücreli akut lenfoblastik lösemi",
+            "B": "B hücreli akut lenfoblastik lösemi",
+            "C": "Pre-B hücreli akut lenfoblastik lösemi",
+            "D": "M3 tip akut miyelositik lösemi",
+            "E": "M7 tip akut miyeloblastik lösemi"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Hastanın klinik ve laboratuvar bulguları (kemik iliği yetmezlik bulguları, HSM, LAP, blastlar) lösemi ile uyumludur. Mediyastinal tutulum özellikle B hücreli DEĞİL, T hücreli akut lenfoblastik lösemi için karakteristiktir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 42,
+        "soru": "10 yaşında erkek hasta dışkılamayla bazen de dışkılama sonrasında parlak kırmızı renkli kanama şikayeti ile getiriliyor. Fizik muayenesi solukluk dışında normal olarak değerlendirilen olgunun kan tetkikleri demir eksikliği anemisiyle uyumlu bulunu-yor.\n\nYukarıda tanımlanan olgunun en olası tanısı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "İntussepsiyon",
+            "B": "Özofagus varis kanaması",
+            "C": "İntestinal duplikasyon kisti",
+            "D": "İnflamatuar barsak hastalığı",
+            "E": "Kolonik polip"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Semptomatoloji soruları bu soruda olduğu gibi vaka sorusu olarak da karşımıza çıkabilir.\n\nÇocuk yaş grubunda GİS kanamalarının sık nedenleri; bakteriyel enterit, anal fissür, kolon polipleri, intussepsiyon, peptik ülser/ gastrit, yutulan epistaksis, gastropati ve Mallory-Weis sendromudur.\n\nSoruda tanımlanan olgunun batın muayenesinin rahat olması ve demir eksikliği anemisi varlığının kronik bir süreci daha çok des-teklemesi nedeniyle intussepsiyon düşünülmemelidir.\n\nSeçeneklerde yer alan diğer nedenler ise kolonik polipe göre bu yaş grubunda daha nadir gastrointestinal kanama nedenleridir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 43,
+        "soru": "8 yaşında kız hasta yutma güçlüğü, regürjitasyon ve gelişme geriliği şikayetleri ile başvuruyor. Olgunun hemogram, periferik yayması ve serum IgE düzeyleri normal olarak değerlendiriliyor. Göğüs grafisinde dilate hava-sıvı seviyeleri görülüyor.\n\nYukarıda tanımlanan olgunun en olası tanısı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Eozinofilik özofajit",
+            "B": "Gastroözofageal reflü",
+            "C": "Akalazya",
+            "D": "Hiatal herni",
+            "E": "Disfaji lusoria"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Disfaji özofageal obstrüksiyonu gösteren klinik bir şikayettir. Akla temel olarak iki hastalık gelmelidir: Eozinofilik özofajit ve akalaz-ya. Eozinofilik özofajit özofageal obstrüktif semptomların en sık nedenidir. Karakteristik olarak erkeklerde görülür; hastaların IgE düzeyleri yüksektir ve periferik eozinofilileri vardır (3E). Diğer atopik hastalıklarla ve gıda allerjisi ile ilişkilidir.\n\nTanımlanan olgunun yukarıdaki özellikleri taşımaması; hiatal herni ve disfaji lusariaya göre akalazyanın daha sık görülmesi nede-niyle en olası tanımız akalazyadır. Reflüde özofajit ve strüktür gelişimi olmadığı sürece disfaji beklenmez.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 44,
+        "soru": "Prenatal takipli 2 saatlik bebek oksipital bölge yerleşimli kitle nedeniyle yenidoğan yoğun bakım ünitesine yatırılıyor. Olgunun fizik muayenesinde yarık dudak-damak, mikrosefali ve polidaktili saptanıyor. Cinsiyet ayrımı yapılamıyor.\n\nBu olgunun en olası tanısı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Seckel sendromu",
+            "B": "Fanconi sendromu",
+            "C": "Meckel-Gruber sendromu",
+            "D": "Edward sendromu",
+            "E": "Smith-Lemli-Opitz sendromu"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Bu soruya lütfen dikkat; yakın zamanda TUS’ta benzeri sorulacaktır.\n\nBu olgunun en karakteristik özelliği oksipital bölgedeki kitledir. Oksipital bölgedeki kitle aksi ispat edilene kadar kranial menin-gosel veya kranial ensefaloseldir.\n\nKraniyal meningosel içi BOS dolu meningeal kese demektir. Kraniyal ensefalosel kesenin içinde serebral korteks, serebellum vea beyin sapı kısımlarının bulunmasıdır. En çok oksipital bölgeye yerleşir.\n\nOksipital ensefalosel denildiğinde aklımıza ilk gelmesi gereken sendrom Meckel-Gruber sendromudur. Olgularda ek olarak yarık dudak-damak, mikrosefali, anormal genitaller, konjenital nefroz ve polidaktili saptanabilir.\n\nSeçeneklerdeki tüm sendromların tek ortak karakteristiği hepsinin mikrosefali yapmasıdır.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 45,
+        "soru": "Anne ve babası akraba olan 14 yaşında erkek hasta jeneralize tonik-klonik vasıflı başlayan ardından miyoklonilerin olduğu nöbet geçirme şikayeti ile başvuruyor. İzlemde olgunun okul başarısının da azaldığı ifade ediliyor.\n\nCilt biyopsisinde ekrin ter bezi kanallarında PAS (+) inklüzyonlar saptanan olgunun en olası tanısı aşağıdakilerden hangisi-dir?",
+        "cevap_secenekleri": {
+            "A": "Landau-Kleffner sendromu",
+            "B": "Lennox-Gastaut sendromu",
+            "C": "Lafora hastalığı",
+            "D": "İnfantil spazm",
+            "E": "Ohtahara sendromu"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Zor ve daha önce sorulmamış bir soru!! Eğer sorulursa bu şekilde sorulacaktır. Özellikle PAS(+) inklüzyon cismi ve nöbet birlikteli-ğinde Lafora hastalığını unutmamalıyız!!\n\nLennox-Gastaut sendromu: 2-10 yaş arasında dirençli multipl nöbet;\n\nLandau-Kleffner sendromu: 5-6 yaşında konuşma becerisinin kaybı ve nöbet birlikteliğinde akla gelmelidir. Otizm ile karışır; valp-roik asit tedavide ilk seçilecek ilaçtır.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 46,
+        "soru": "Aşağıda sık görülen immün yetmezlik ve o hastalığa ait karakteristik klinik özellik eşleştirmelerinden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Bruton agamaglobulinemisi: Tonsil dokusunun olmaması veya çok küçük olması",
+            "B": "Selektif Ig A eksikliği: Sprue benzeri tablo",
+            "C": "Wiskott-Aldrich sendromu: İri, sayıca az trombosit",
+            "D": "Hiper IgE sendromu: Kaba yüz görünümü",
+            "E": "Kronik granülomatöz hastalık: Tekrarlayan abseler"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Pek çok hastalığı aynı anda denetleyen çok önemli bir soru!! Her bir seçenek tek başına soru olabilme potansiyelinde!!\n\nWiskott-Aldrich sendromu 1 yaş civarında küçük ve sayıca az trombositlere sekonder purpura ve atopik dermatitle karakterizedir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 47,
+        "soru": "5 yaşında erkek hasta midye yemeği takiben nefes almada güçlük, kusma ve karın ağrısı şikayetleri ile getiriliyor. Olgunun fizik muayenesinde cildinde yaygın olarak kırmızı renkli, kabarık ve kaşıntılı plak tarzında döküntülerinin olduğu saptanıyor. Tansiyon düşüklüğü dışında vital bulgularının stabil olduğu tespit ediliyor.\n\nYukarıdaki olgunun en olası tanısı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Anafilaksi",
+            "B": "Besin zehirlenmesi",
+            "C": "Akut ürtiker",
+            "D": "Serum hastalığı",
+            "E": "Herediter anjioödem"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Anafilaksi, son dönemde en çok sorulan allerji konularından birisi… Anafilaksi mast hücresi ve bazofillerden IgE aracılı reaksiyon sonucu ani mediyatör salınımına bağlı ortaya çıkan ürtiker ve anjioödeme bronkospazm, laringeal ödem, hipotansiyon, disritmi, miyokardiyal iskemi veya bulantı, kusma, diyare, kolik tarzı ağrı gibi sistemik bulguların eşlik etmesidir.\n\nÇocuklarda anafilaksinin en sık nedeni besinlerdir. Özellikle fıstık, kabuklu deniz ürünleri, fındık, süt, yumurta ve balık anafilaksiye neden olabilen besinlerdir.\n\nAnafilaksi tedavisinde ilk ilaç epinefrindir (özellikle hipotansiyon da varsa). Ek olarak antihistaminik, inhale beta 2 agonist ve steroidler de kullanılabilir. Solunum sıkıntısı olan olgularda oksijen tedavisi ve iv sıvı tedavisi de destek olarak verilmelidir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 48,
+        "soru": "Mikrodelesyon ile karakterize sendromlar ve bu sendromların klinik özellikleri ile ilgili olarak aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Prader-Willi sendromu: Willms tümörü, genitoüriner anomali, mental retardasyon",
+            "B": "Angelman sendromu: Hipotoni, açık saç rengi, gülme atakları, mental retardasyon",
+            "C": "Alagille sendromu: Safra kanalı azlığı, kalp defekti, gözde posteriyor embriyotokson, kelebek vertebra",
+            "D": "Sotos sendromu: Aşırı büyüme, makrosefali, mental retardasyon",
+            "E": "Di-George sendromu: Timus ve paratiroid aplazisi, konotrunkal kalp defektleri, yarık damak"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Sorudaki her bir sendrom hem mikrodelesyon sendromu olarak hem de karakteristik bulgular olarak net soru potansiyelinde!!\n\nPrader-Willi sendromu; hipotoni, obesite, kısa boy, küçük el ve ayaklar, hipogonadizm ve mental gerilik ile karakterizedir (HERŞEYİ HİPO OLARAK ÖĞRENEBİLİRİZ)\n\nWAGR: Willms tümörü, aniridi, genitoüriner anomali ve mental retardasyonla karakterizedir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 49,
+        "soru": "Aşağıdakilerden hangisi yapısal (konstitüsyonel) boy kısalığının özelliği değildir?",
+        "cevap_secenekleri": {
+            "A": "Kemik yaşları takvim yaşından ortalama 2–4 yıl geridir.",
+            "B": "Ailede benzer öykü genellikle bulunur.",
+            "C": "Nihai boyları normal beklenen hedef boyudur.",
+            "D": "Puberteye yaşıtlarından geç girerler.",
+            "E": "Doğumdan sonra yıllık büyüme hızları büyüme eğrisine paralel ilerler."
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Boy kısalığı olan bir çocuğu değerlendirirken ilk yapılması gereken “normal varyantı” ve “patolojik” ayrımının yapılmasıdır. Boy kısalıklarının %80’i normal varyant (genetik ve yapısal) ve %20’ si patolojik grupta yer alır. İki grup arasındaki en önemli fark bü-yüme hızıdır: Normal varyantlarda büyüme hızı normal, patolojiklerde geridir. 6 yaşın üzerinde bir çocuğun yılda 4 cm’den az büyümesi patolojiktir.\n\nHastamızın büyüme hızı 6 cm/yıl olduğuna göre patolojik nedenler (BH eksikliği, hipotiroidi ve nutrisyonel) ekarte edilir.\n\nAilevi (genetik) mi, konstitüsyonel (yapısal) mı?\n\n1. Genetik ; TY=KY>BY\n\n2. Yapısal; TY > BY = KY. Bu hastada yapısal boy kısalığı, öncelikle düşünülür. Hastanın takvim yaşı 8, boy yaşı 5 dir. Kemik yaşında patolojik olmayan sapmaları dikkate almak gerekir; 0-2 yaşta ± 6 ay, 2-4 yaşta ± 1 yıl ve >5 yaşta ± 2 yıl normal kabul edile-bilir. 9 yaşındaki hastada KY’nin 6 olması geridir, ancak boy yaşı ile uyumludur (yani yapısal gecikme demek için mutlaka eşit olmaları gerekmiyor!)\n\nYapısal boy kısalığında ailede benzer öykü genellikle bulunur. Nihai boyları normal beklenen hedef boyudur. Puberteye yaşıtların-dan geç girerler.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 50,
+        "soru": "Dört yaşında erkek çocuğun rutin poliklinik takibinde boyunun kısa olduğu fark ediliyor. Boy: 92 cm (<-2SD) ölçülüyor. Anam-nezinde yenidoğan döneminde hipoglisemilerinin olması nedeniyle hastanede yatırılarak tedavi edildiği öğreniliyor. Fizik incelemesinde basık burun kökü, belirgin alın, bebeksi bir yüz görünümü ve küçük el-ayaklar dikkati çekiyor. Çocuğun kemik yaşı 2 yıl ile uyumlu bulunuyor. Yaşıtlarına göre nörokognitif fonksiyonları normal saptanıyor.\n\nBu hastada en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Sotos Sendromu",
+            "B": "Konstitüsyonel boy kısalığı",
+            "C": "Büyüme hormonu eksikliği",
+            "D": "Konjenital hipotiroidizm",
+            "E": "Noonan Sendromu"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Hasta dört dörtlük büyüme hormonu eksikliği kliniği yansıtmaktadır. Hipofizer patoloji yenidoğan döneminde apne, siyanoz, ağır hipoglisemi, konvülziyon, mikropenis ve uzamış sarılık yapabilir.\n\nHipopituitarizmli çocuğun doğum boyu ve ağırlığı genellikle normaldir. Ancak ağır GH eksikliği veya direnci olanların 1 yaşındaki boyu – 4 SD’nin altındadır. Daha hafif eksikliklerde büyüme yaşıtlarına göre daha yavaştır (<25 p) ve giderek normal büyüme eğrisinden sapar (patolojik büyüme). Epifizlerin kapanması geciktiğinden normal kişilerin büyümesi durduktan sonra da büyüme devam eder. Tedavisiz erişkin boy, ortalamanın 4-12 SD altındadır. Bebeklik ve çocukluk dönemin bebeksi yüz görünümü vardır.\n\n--- PAGE 75 ---\nKlinik Bilimler / T 52 - 1\n\n75 www.tusem.com.tr\n\nBaş yuvarlak, yüz kısa ve geniştir. Frontal kemik belirgin burun kökü basık, eyer şeklindedir. Burun küçük, nazolabiyal oluk iyi geliş- miştir. Mandibula ve çene iyi gelişmemiştir. Dişler geç çıkar, erken dökülür. Boyun kısa, larinks küçüktür. Ses tizdir ve puberteden sonra öyle kalır. Ekstremiteler orantılı, eller-ayaklar küçüktür. Genitaller yaşa göre iyi gelişmemiştir ve cinsel olgunlaşma (puber- te) gecikmiş veya yoktur. Yüz, aksilla ve pubis kılları genellikle yoktur, saçlar incedir. Panhipopituitarizm veya İGHE olan çocukların %10-15’inde açlık sonrası semptomatik hipoglisemi olabilir. Zekâ genellikle normal- dir. KY belirgin geridir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 51,
+        "soru": "Bacaklarda eğrilik şikayeti ile getirilen 2,5 yaşında hastanın yapılan tetkiklerinde; hipofosfatemi, glukozüri, aminoasidüri sap-tanmıştır. D vitamin ve 1,25-OH vitamin D düzeyi normal, karaciğer fonksiyon testleri normal olan hastanın hipotiroidisi olduğu görülmüştür. Fotofobi şikayeti ile yapılan incelemesinde ise gözde sistin kristallerine rastlanmıştır.\n\nBu hastadaki en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Sistinüri",
+            "B": "Sistinozis",
+            "C": "Alkaptonüri",
+            "D": "Homosistüniri",
+            "E": "Tirozinemi"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Bir soruda hipofosfatemi, glukozüri, aminoasidüri deniliyorsa aklımıza Fanconi sendromu gelmelidir. Herediter fanconi sendromu-nun en sık nedeni ise soruda sistinozistir.\n\nSistinozis lizozomda sistin transportundaki bozukluktan kaynaklanan sistin birikimi ile karakterize otozomal resesif kalıtılan bir hasta-lıktır. Gözde sistin kristalleri birikir ve bu bulgu tanıya yardımcıdır. Tiroid bezinde birikim ile görülen hipotiroidi hastalarda sık görülür.\n\nTanıda en sık kullanılan yöntem lökositlerde sistin depolanmasının gösterilmesidir. Tedavide sisteamin ve sisteaminli göz damlaları kullanılır.\n\n* Sistinoziste Cilt ve Timusta tutulum olmaz. YDUS sorudur...",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 52,
+        "soru": "Yenidoğan döneminde miyoklonik nöbetleri olan bir hastaya valproik asit tedavisi başlanmıştır. Valproik asit tedavisinin nö-betleri arttırdığı gözlenmiştir.\n\nBu hastada en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Pridoksin eksikliği",
+            "B": "Molibden kofaktör eksikliği",
+            "C": "Non-ketotik hiperglisinemi",
+            "D": "Homosistüniri",
+            "E": "Biotinidaz eksikliği"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Nonketotik Hiperglisinemi (NKH), glisin ayırma enzimindeki genetik defektten kaynaklanır. Neonatal (en sık), infantil, geç başlan-gıçlı ve geçici olmak üzere dört formu vardır.\n\nNeonatal NKH’de, doğumdan sonra ilk günde emmeme, hipotonikleşme ve takiplerinde hıçkırık dikkati çeker. Emmeme, miyok-lonik nöbetler, hıçkırık, apne ve ağır hipotoni ile hızla derin koma ve ölüme ilerler. Spinal sıvıda plazmadan 15-30 kat fazla glisin bulunması (normali 0.08 kat) tanısaldır. Plazma pH ve NH3 normaldir. EEG’de Burst Supresyon paterni görülür.\n\nTedavide glisin kısıtlanır. Sodyum benzoat, folat, dekstrametorfan, diazepam ve sitrikin verilebilir. Kan değişimi yapılabilir.\n\n* Non-ketotik hiperglisinemi: Yenidoğan, nöbet, hıçkırık anahtar sözcüklerini tekrar hatırlayalım.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 53,
+        "soru": "Konjenital kalp hastalıkları ve konjenital malformasyon sendromları eşleştirildiğinde hangisi doğrudur?",
+        "cevap_secenekleri": {
+            "A": "Rubella - Trunkus arteriozus",
+            "B": "Williams sendromu - AVSD",
+            "C": "Holt oram sendromu - ASD",
+            "D": "Noonan sendromu - Aort koarktasyonu",
+            "E": "Alagille sendromu - Büyük arter tranpozisyonu"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Konjenital sendromlar ve kardiyak patolojilerin birlikteliği çok sık sorulmaktadır. Holtoram sendromunda ASD birlikteliği YDUS sorusudur. TUS da direkt sorulacaktır..\nTrizomi 21 - Endokardiyal yastık defekti\nAnnenin lityum kullanımı - Ebstein anomalisi\nTurner sendromu - Aort koarktasyonu\nCHARGE asosiasyonu - VSD, ASD, Endokardiyal yastık defekti\nKonjenital rubella sendromu - PDA, pulmoner darlık, mitral yetersizlik\nMarfan sendromu - Mitral prolapsus, dissekan aort anevrizması\nDiyabetik anne bebeği - VSD, Kardiyomiyopati, asimetrik septal hipertrofi\nWilliams sendromu - Supravalvüler aort darlığı",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 54,
+        "soru": "VSD’nin kapatılması için cerrahi endikasyon olmayan aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Başka bir nedenle açıklanamayan ilerleyici gelişme geriliği",
+            "B": "İnfundubuler VSD",
+            "C": "Qp: Qs > 2:1 olan 2 yaşından büyük hastalar",
+            "D": "Pulmoner vazodilatörlere yanıtsız ağır pulmoner vasküler hastalık",
+            "E": "Medikal tedavi ile kontrol altına alınamayan konjestif kalp yetmezliği"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "VSD’de cerrahi endikasyonlar:\n\n* Tıbbi tedaviye cevap vermeyen klinik bulguları ve gelişme geriliği olan herhangi bir yaştaki büyük defektler\n\n* Tıbbi tedaviye yanıt verse bile pulmoner hipertansiyonu olan 6-24 ay arası süt çocukları\n\n* Qp: Qs > 2:1 olan 2 yaşından büyük hastalar\n\n* Çapına bakılmaksızın infundubuler VSD (Aort yetmezliği riski olduğundan)\n\n Pulmoner vazodilatörlere yanıtsız ağır pulmoner vasküler hastalık VSD kapatılması için kontrendikasyondur.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 55,
+        "soru": "Altı yaşındaki erkek çocuk birkaç gün önce başlayan hafif ateş ve öksürük şikayetleriyle çocuk acile getiriliyor. Genel durumu orta-kötü, vücut sıcaklığı 400C olan olgunun kaba, havlar tarzda öksürdüğü dikkati çekiyor. Solunum sıkıntısının olması ve toksik görünmesi nedeniyle olgu, acil gözleme alınıyor. Olgunun ağzından salya akmıyor ve disfaji şikayeti bulunmuyor.\n\nBu hasta için en uygun tanı ve tedavi aşağıdakilerden hangisi gibi olmalıdır?",
+        "cevap_secenekleri": {
+            "A": "KRUP - deksametazon+rasemik epinefrin",
+            "B": "Epiglottit - seftriakson",
+            "C": "Trakeit - vankomisin + seftriakson",
+            "D": "Bronşiyolit - Adrenalin nebül + salbutamol nebül",
+            "E": "Anafilaksi - im adrenalin"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "İçimden bir his büyük çoğunluğunuzun A seçeneğine yöneldiğini söylüyor. Çünkü kaba-havlar tarzda öksürük denince akla sade-ce KRUP geliyor. Maalesef cevap trakeit. Bu kolay gibi gözüken çıkması çok yüksek soruya aman dikkat edelim.\n\nKaba havlar tarzda öksürük şikayetinin belirtildiği olgularda ‘’KRUP’’ tanısı aklınıza gelsin ancak soruda kaba havlar tarzda ök-sürüğe ek olarak 5-7 yaş diyorsa, toksik görünüm diyorsa ve disfaji yoksa kesinlikle cevap bakteriyel trakeittir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 56,
+        "soru": "Aşağıdaki enfeksiyonlardan hangisinden sonra pediatrik otoimmün nöropsikiyatrik hastalık (PANDAS) görülmesi en olası-dır?",
+        "cevap_secenekleri": {
+            "A": "Stafilokoklar",
+            "B": "Streptokoklar",
+            "C": "Ebstein Barr Virüsü",
+            "D": "Adenovirüsler",
+            "E": "Koksakivirüsler"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "PANDAS streptokoksik tonsillofaranjitin komplikasyonudur.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 57,
+        "soru": "Henoch-Schönlein purpurası tanısı konulduktan sonra gelişebilecek olası böbrek hastalığının takibi en uygun nasıl olmalı-dır?",
+        "cevap_secenekleri": {
+            "A": "En az 6 ay boyunca aylık kan basıncı ve idrar tahlili takibi",
+            "B": "En az 3 ay boyunca aylık serum sodyum ve kreatin takibi",
+            "C": "Yıllık kan basıncı ve idrar takibi",
+            "D": "Üç ayda bir pro-BNP bakılması",
+            "E": "Üç ayda bir üriner sistem USG incelemesi"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Bu soru çok çok benzeri olacak şekilde TUS sınavında çıkacaktır, çünkü önemli ve sorulmamış bir bilgidir.\n\nHenoch-Schönlein purpurası tanısı konulduktan sonra böbrek hastalığı 6 aya kadar gelişebilir. Bu nedenle, HSP’li çocukların en az 6 ay boyunca kan basıncı ve idrar tahlilinin seri olarak izlenmesi önerilir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 58,
+        "soru": "Tamamlayıcı beslenme ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "İlk 6 ay sadece anne sütü verilmelidir.",
+            "B": "Yeni gıdalar olası alerjik durumlar açısından tek tek başlanmalıdır.",
+            "C": "Çinko ve demir zengin gıdaların verilmesi önemlidir.",
+            "D": "Şeker ve tuz kullanılmamalıdır.",
+            "E": "Fitat alımı arttırılmalıdır."
+        },
+        "dogru_cevap": "E",
+        "aciklama": "* İlk 6 ay sadece anne sütü verilmelidir. Altıncı aydan sonra anne sütüne ilave olarak ek gıdalar da başlanılmalıdır.\n\n* 4.aydan önce başlanan tamamlayıcı besinler, obesite riskini arttırmaktadır (erken hızlı büyümeden bağımsız olarak).\n\n* Yeni gıdalar olası alerjik durumlar açısından tek tek başlanmalıdır.\n\n* Bal, çiğ inek sütü, yumurta beyazı 12 aydan önce verilmemelidir.\n\n* Önce tahıllar, sonra meyve-sebze, daha sonra beyaz-kırmızı et ve en son ise yumurta denenmelidir.\n\n* Şeker ve tuz kullanılmamalıdır.\n\n* Çinko ve demir zengin gıdaların verilmesi önemlidir.\n\n* *Fitat alımı kısıtlanmalıdır.*",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 59,
+        "soru": "X’e bağlı hipofosfatemik rikets ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Çocuklarda paytak-paytak yürüme görülür.",
+            "B": "Tedavi edilmeyen hastaların erişkin boyu kısadır.",
+            "C": "Riketsin beslenme dışı en sık nedenidir.",
+            "D": "Dişlerin çıkmasında gecikme ve diş apseleri sık görülür.",
+            "E": "Raşitik rozari ve Harrison oluğu belirgindir."
+        },
+        "dogru_cevap": "E",
+        "aciklama": "X’E BAĞLI HİPOFOSFATEMİK RİKETS (Vitamin D Dirençli Rikets)\n\n Riketsin beslenme dışı en sık nedeni familyal X’e bağlı hipofosfatemidir. Defektif gen X kromozomundadır, ancak taşıyıcı kızlar da etkilenir; dolayısıyla hastalık X’e bağlı dominant kalıtılır. Otozomal dominant, hiperkalsiüri eşlik eden ve sporadik formlar da bildirilmiştir.\n\n Proksimal tubulde fosfat reabsorpsiyonu ve 25(OH)D’nin 1-25(OH)2D’ye dönüşümünde defektler vardır.\n\n PHEX gen (phosphate regulating gene with homologies to endopeptidases on X- X kromozomunda endopeptidazlara ben-zerliği olan fosfat düzenleyici gen) mutasyonları bu bozukluğu neden olur.\n\n* Eski bir YDUS sınavında PHEX geninin X’e bağlı hipofosfatemik riketsteki mutasyon olduğu soruldu.*\n\n Hipofosfatemik riketsi olan çocuklar, yürüme çağında ağırlıklarını taşımaya bağlı olarak alt ekstremitelerinde yaylanma ya-kınmasıyla başvurur. Tetani yoktur, kalsiyopenik riketsin karakteristik bulguları olan raşitik rozari, Harrison oluğu ve miyo-pati belirgin değildir. Bu çocuklar paytak-paytak yürüme, genu varum, genu valgum, koksa vara ve kısa boy geliştirirler. Dişlerin çıkmasında gecikme ve diş apseleri sık görülür. Tedavi edilmeyen hastaların erişkin boyu 130-160 cm’dir.",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 60,
+        "soru": "Eksikliğinde glukoz intoleransı, periferik nöropati, ensefalopati gelişen ve insülin aktivitesini artıran eser element aşağı-dakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Mangan",
+            "B": "Çinko",
+            "C": "Bakır",
+            "D": "Krom",
+            "E": "Selenyum"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Aşağıdaki tablo eser elementleri ile ilgili potansiyel soruları çözmenize yardımcı olacaktır.\n\nEser Element\tEksiklik\tAşırı alım etkileri\nKrom\tGlukoz intoleransı, periferik nöropati ve ensefalopati\tBilinmiyor\nBakır\tMikrositik anemi, osteoporoz, nötropeni, nörolojik\nsemptomlar, saç ve ciltte depigmentasyon\tAkut: Bulantı, kusma, karın ağrısı, koma ve karaciğer nekrozu\nKronik toksisite karaciğer ve beyin hasarı\nManganez\tHiperkolesterolemi, tartı kaybı, pıhtılaşma proteinle-rinde azalma\n\tNörolojik bulgular, kolestatik sarılık\nMolibden\tTaşikardi, takipne, gece körlüğü, irritabilite, koma\tHiperürisemi ve gut riskinde artış\nSelenyum\tKardiyomiyopati (Keshan hastalığı)\tBulantı, ishal, nörolojik bulgular, tırnak ve saç değişik-likleri, sarımsak kokusu\nÇinko\tBüyümede azalma, ekstremite ve orifis bölgelerinde dermatit, immünitede bozulma, yara iyileşmesinde gecikme, hipogonadizm ve ishal\n\tKarın ağrısı, ishal, kusma\nBakır eksikliğinin klinik bulgularını kötüleştirme",
+        "konu_grubu": "Pediatri"
+    },
+    {
+        "soru_no": 61,
+        "soru": "Aşağıdaki organların hangisinin sekresyonunda potasyum iyonu daha fazladır?",
+        "cevap_secenekleri": {
+            "A": "Mide",
+            "B": "İnce Bağırsak",
+            "C": "Ösefagus",
+            "D": "Pankreas",
+            "E": "Safra kesesi"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "* En çok potasyum: tükürük, mide ve kolon sekresyonunda,\n\n* En çok klor: mide sıvısında,\n\n* En çok bikarbonat ise pankreas sekresyonunda bulunur.\n\n* Plazmaya en çok benzeyen: Safra ve in ce bağırsak sıvısı\n\n* Mide sıvısı kayıplarında: hipokalemik, hipokloremik metabolik alkaloz,\n\n* Pankreas sıvısı kayıplarında ise metabolik asidoz gelişir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 62,
+        "soru": "Aşağıdaki replasman sıvıların hangisinin içinde Elektrolit bulunmaz (saf Su)?",
+        "cevap_secenekleri": {
+            "A": "Ringer Laktat",
+            "B": "Serum Fizyolojik",
+            "C": "%5 Dextroz",
+            "D": "Plasmalyte",
+            "E": "½ Mix Mayi"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* Ringer Laktat\n\nEkstra selüler sıvıya en yuyumlu replasman sıvısı,\n\nCa içeren tek standart replasman sıvısıdır,\n\nİçinde HCO3 yoktur. pH sı 6.5’dur.\n\nSerum Fizyolojik\n\n* Hiperkloremik metobolik asidoza neden olabilir. Alkolozu olanlarda tercih edilir.\n\n* Plasmalyte\n\nMagnezyum içerirler.\n\npH ve osmoloarite plasma gibidir.\n\n%5 Dextroz\n\nSaf sudur.\n\nElektrolit içermez.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 63,
+        "soru": "Kanamalı Travma hastalarında sıvı resüsitasyonu sırasında aşırı sıvı yüklenmesinden kaçınmak için sıvı resüsitasyonunda hedef nokta ne olmalıdır?",
+        "cevap_secenekleri": {
+            "A": "Asidoz gelişmesi",
+            "B": "Hasta yoğun bakıma ulaştığında sıvı resüsitasyonu kesilebilir",
+            "C": "Sistolik kan basıncı 120mmHg üzerine çıkarılması",
+            "D": "Sistolik kan basıncının 80-90mmHg civarında tutulması",
+            "E": "Nabız sayısının 90/dk tutulması"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "* Devam eden kanamanın kontrolü, şokta hastanın resüsitasyonunun önemli bir bileşenidir.\n\n* Bu hastalarda uygun öncelikler şunlardır: (a) kan kaybının kaynağını kontrol etmek (b) hipotansif hastada kan ürünleriyle hacim resüsitasyonu yapmak (c) hava yolunu korumak\n\n* İlk resüsitasyon, SBP yi 80 ila 90 mmHg civarında tutmakla sınırlıdır. Bu, yakın zamanda pıhtılaşmış damarlardan yeniden kanamayı önler.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 64,
+        "soru": "İnflamatuar yanıtta aşağıdakilerden hangisi, hücreyi travmatik stresin aşırı etkilerinden koruyan hücre içi proteinler olarak kabul edilir?",
+        "cevap_secenekleri": {
+            "A": "Isı Şok Proteinleri (HSP)",
+            "B": "Toll Like reseptör IV",
+            "C": "High Mobility Group Box One (HMGB-1)",
+            "D": "C Type Lectin",
+            "E": "Nucleotid Binding Domain"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "* ISI ŞOK PROTEİN\n\nHücre içi proteinleridir.\n\nİnflamasyon, oksidatif stres veya doku travmasını takiben salınırlar.\n\nHücreyi travmatik stresin aşırı etkilerinden korurlar.\n\nMajor hasarlanmalarında HSP proinflamatuar DAMP olarak etki gösterirken aktif salındığı durumda antiinflamatuar etki gösterir.\n\nPolitravmatize hastalarda normalin 10 katı artarlar. Bu da hastalığın şiddeti ile korele olduğunu gösterir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 65,
+        "soru": "Aşağıdaki hastaların hangisinde perioperatif dönemde mutlak nutrisyon desteğine ihtiyaç yoktur?",
+        "cevap_secenekleri": {
+            "A": "Gastrointestinal sistemi fonksiyon göstermeyen hastalar",
+            "B": "Yanık gibi majör katabolik durumlar",
+            "C": "Belirgin kilo kaybı olanlar (>%10)",
+            "D": "3 gün süreyle ağızdan beslenemeyecekler",
+            "E": "Hipoalbuminemi (<3g/dl)"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Perioperatif Beslenme desteği endikasyonları:\n\n* Şiddetli yetersiz beslenme, kronik hastalık öyküsü\n\n* 6 ay içinde normal vücut ağırlığının %10-15’i veya\n\n* 1 ay içinde %5’den fazla kayıp\n\n* Ameliyat sırasında beklenen kan kaybı 500 ml\n\n* BM 18,5 kg / m2’den\n\n* İdeal kilodan 20 daha az ağırlık\n\n* Pediyatrik büyüme ve gelişme eğrilerinde yüzde 5 percen l al nda\n\n* Serum albümini 3,0 g / dl veya transferrin 200 mg / dl\n\n* • İnflamasyonda, karaciğer fonksiyon bozukluğu veya böbrek fonksiyon bozukluğu • Periopera f 7-10 gün hastanın kalori gereksinimlerini karşılayamayacağını tahmin edilmesi • Katabolik hastalık (Ör: Önemli yanıklar veya travma, sepsis ve pankreat)"
+    },
+    {
+        "soru_no": 66,
+        "soru": "Aşağıdakilerden hangisi septik şoktaki bir hastada temel tedavi yöntemlerinden biri olarak kabul edilmez?",
+        "cevap_secenekleri": {
+            "A": "Sıvı tedavisi",
+            "B": "Steroid tedavisi",
+            "C": "Bikarbonat infüzyonu",
+            "D": "Vazopressörler",
+            "E": "İnotropik tedavi"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* Septik şokta hastanın değerlendirilmesi, hava yolu ve ventilasyonunun yeterliliğinin değerlendirilmesi ile başlar.\n\n* Vazodilatasyon ve sistemik periferik dirençte azalma hipotansiyona neden olabilece- ğinden, sıvı resüsitasyonu ve dengeli tuz solüsyonları ile dolaşım hacminin restorasyonu esastır.\n\n* Serum laktat, bir şok belirteci olarak ölçülmelidir. Sıvı resüsitasyonu ilk bir saat içinde başlamalı ve hipotansif hastalarda en az 30 ml / kg olmalıdır.\n\n* Kan kültürü alınmalıdır. Ampirik antibiyotikler, en olası patojenlere göre dikkatlice seçilmelidir.\n\n* An biyotikler, kültür verileri mevcut olduğunda sorumlu organizmaları kapsayacak şekilde tasarlanmalı ve uygunsa kapsama alanı daraltılmalıdır.\n\n* Sepsise sebep olan kaynağın kontrolü yapılmalıdır.\n\n* Septik hastanın antibiyotik, IV sıvılar ve gerekirse entübasyonla birinci basamak tedavisinden sonra, septik şok hastalarını tedavi etmek için vazopresörler gerekebilir.\n\n* Katekolaminler en sık kullanılan vazopressörlerdir, norepinefrin ilk seçenek ajandır ve bunu epinefrin takip eder.\n\n* 50 mg’lık tek bir IV hidrokortizon dozu, septik şoklu hastalarda norepinefrine ortalama arteriyel kan basıncı tepkisini iyileştirir ve bu etki adrenal yetmezlikli hastalarda daha belirgindir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 67,
+        "soru": "Karın sol alt kadranda umblikustan 3 cm uzaklıkta bıçakla yaralanma ile acil servise başvuran genel durumu satbil 24 ya-şında erkek hastada aşağıdakilerden hangisi öncelikle önerilir?",
+        "cevap_secenekleri": {
+            "A": "Laparotomi",
+            "B": "Laparoskopi",
+            "C": "Lokal anestezi ile yara eksplorasyonu",
+            "D": "BT ile değerlendirme",
+            "E": "Diagnostik peritoneal Lavaj"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* Ateşli silah yaralanmalarının aksine periton boşluğuna giren bıçak yaralarının karın içi organlara zarar verme olasılığı daha düşüktür.\n\n* Fasyanın yaralanıp yaralanmadığını belirlemek için ön abdominal bıçak yaraları acil serviste lokal anestezi altında araştırılmalıdır.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 68,
+        "soru": "Aşağıdakilerden hangisi yanık hastalarında yanık merkezi yatış endikasyonlarından değildir?",
+        "cevap_secenekleri": {
+            "A": "Elektrik yanığı",
+            "B": "İnhalasyon yanığı",
+            "C": "Yüzde %1 lik 2. Derece yanık",
+            "D": "Gövde ön yüzde % lik 2. Derece yanık",
+            "E": "Sırtta %2 lik 3. Derece yanık"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Yanık Hastaları yatış endikasyonları\n\n* Toplam vücut yüzeyinin %10 dan fazla 2. derece yanığı olanlar\n\n* Tüm 3. derece yanıklar\n\n* Tüm 4. derece yanıklar\n\nYüz, el, ayak, genital bölge, perine veya eklemlerde iki veya üçüncü derece yanığı olan tüm yaş gruplarındaki hastalar\n\nElektrik yanıkları (yıldırım çarpması dahil)\n\nKimyasal yanıklar\n\nİnhalasyon yanığı\n\nİyileşme ve bakımı bozabilecek ciddi ek hastalık (Ör: kardiyak, pulmoner vb.) veya ciddi ek travma (Ör: kazalar) varlığı",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 69,
+        "soru": "Aşağıdakilerden hangisi graves hastalığının klasik bulgularıdır?",
+        "cevap_secenekleri": {
+            "A": "Tiroit nodülü- Hipertiroidi- Ellerde uyuşma",
+            "B": "Hipotiroidi- DM- Yaygın ödem",
+            "C": "Guatr- Tirotoksikoz- Oftalmopati",
+            "D": "Multinodüler guatr- Hipotiroidi- Zayıflama",
+            "E": "Hipokalsemi-Hipertiroidi- Tiroid nodülü"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "* Graves hastalığı\n\n* Diffüz guatr\n\n* Eksoftalmi\n\n* Tirotoksikoz ile karakterizedir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 70,
+        "soru": "Serum Tiroglobülin düzeyi hangi tiroid kanserlerinin takibinde kullanılmaz?",
+        "cevap_secenekleri": {
+            "A": "Papiller Ca",
+            "B": "Folliküler Ca",
+            "C": "Medüller Ca",
+            "D": "Hurtle Hücreli Ca",
+            "E": "Papiller komponentli Anaplastik ca"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Tiroglobulin\nDifferensiye tiroid kanserlerinin cerrahi tedavisi sonrası takibinde kullanılır. Anaplastik kanserler differensiasyonunu kaybetmiş olsalar da Papiller komponenti belirgin olanlarda tiroglobülin prognostik olarak kullanılır. Medüller kanser undifferensi-ye kanserdir. Takipte kalsitonin tercih edilir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 71,
+        "soru": "Multipl Endokrin Neoplazi TipIIA da aşağıdaki patolojilerden hangisi eşlik etmez?",
+        "cevap_secenekleri": {
+            "A": "Feokromasitoma",
+            "B": "Medüller Tiroid Ca",
+            "C": "Ganglinörinom",
+            "D": "Pankreas Endokrin Neoplazi",
+            "E": "Marfanoid görünüm"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "MEN II B\n\n* Medüller Ca\n\n* Feokromasitoma\n\n* Mukozal nörinomlar\n\n* Bağırsak ganglionörinomları\n\n* Marfanoid vücut yapısı",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 72,
+        "soru": "Aşağıdakilerden hangisi meme kanserli hastalarda vertebra metastazları yayılım yolu olarak kabul edilir?",
+        "cevap_secenekleri": {
+            "A": "Batson Pleksusu",
+            "B": "Axiller ven",
+            "C": "Axiller arter",
+            "D": "Torasikus Longus siniri",
+            "E": "Subklavikular lenf nodları"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Memenin venleri:\n\n* En büyük ven grubu V. torasika internanın 1, 2, ve 3. interkostal aralıklardaki dallarıdır. (AC metasta larına yol açan)\n\n* Aksiller ven\n\n* Posterior interkostal venlerin perforan dalları\n\n* Vertebral venöz pleksus (Batson pleksusu)\n\nBatson Pleksusu\n\nKafa kaidesinden sakruma kadar vertebralarla ilişkilidir.\n\nBu meme ca’daki erken vertebral metastazları açıklar.\n\nPelvis, femur, omuz, humerus ve kafayı da drene eder. (skull-femur)\n\nBu sistemde kapakçık yoktur.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 73,
+        "soru": "Patolojik meme başı akıntılarının en sık sebebi aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Sklerozan adenozis",
+            "B": "İntraduktal papillom",
+            "C": "Paget hastalığı",
+            "D": "Duktal ektazi",
+            "E": " Duktal meme kanseri"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Patolojik meme başı akıntısı sebepleri\n\n* İntraduktal papillom (en sık neden)\n\n* Fibrokis k hastalık\n\n* Enflamasyon\n\n* Meme kanseri",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 74,
+        "soru": "Aşağıdaki durumlardan hangisinde mutlak Helikobacter Pylori tedavisi önerilmez?",
+        "cevap_secenekleri": {
+            "A": "Aktif peptik ülser",
+            "B": "Erken mide kanser tedavisi sonrası",
+            "C": "Maltoma",
+            "D": "Karsinoid sendrom",
+            "E": "Açıklanamayan dispepsi"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "H. Pylori mutlak tedavi endikasyonları:\n\n* Aktif pep k ülser\n\n* Bilinen peptik ülser öyküsü (H. pylori tedavisi almamış.)\n\n* MALTOMA\n\n* Erken mide kanseri rezeksiyonu sonrası\n\n* Açıklanamayan dispepsi",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 75,
+        "soru": "Aşağıdakilerden hangisinin varlığı mide kanserlerinde radikal tedavinin yapılamayacağı ileri evere bulgusu olarak kabul edilir?",
+        "cevap_secenekleri": {
+            "A": "İleri Yaş",
+            "B": "Sol supraklavikular lenf nodu pozitifliği",
+            "C": "Kontrol edilemiyen kan hiperglisemi",
+            "D": "Hipokrom Mikrositer anemi",
+            "E": "6 ayda 5 kg’dan fazla zayıflama"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "* Mide Knserleri İmPlantasyon yolu ile peritona yayılabilirler. Kadınlarda overe implantasyon sonucu Krukenberg tümörü, rek-touterin fossaya implantasyon sonucu da Blummer rafına yol açarlar.\n\n* Lenfatik yolla perigastrik, iliak, splenik, pankrea k lenf nodlarına, ileri evrede torasik duktus yolu ile supraklaviküler lenf no-duna metastaz yapabilirler. (Vircho lenf nodu)\n\n* Bazen umbilikusta metastatik kitle olarak görülebilir. (Sister oseph nodülü)\n\n* Hematojen yolla en sık karaciğerde metastaz gelişir. Akciğer, kemik, adrenal ve deri metastazları da görülür.\n\nBunlar ileri hastalık bulguları olarak kabul edilir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 76,
+        "soru": "Aşağıdakilerden hangisinde akut apendisitte en sık görülen bulgular doğru sırayla verilmiştir?",
+        "cevap_secenekleri": {
+            "A": "Ateş-Bulantı/kusma- Karın Ağrısı",
+            "B": "İştahsızlık- Karın ağrısı- Bulantı/kusma",
+            "C": "Karın ağrısı- Ateş- Sarılık",
+            "D": "Ateş -Loökositoz-Karın Ağrısı",
+            "E": "Ateş- Taşikardi- Karın Ağrısı"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Akut Apendisit Semptomlar\nİştahsızlık\tHastaların 90-95’inde vardır, ama pek dikkat çekmez. Ağrıdan önce ortaya çıkar.\nKarın ağrısı\t2 aşamada gelişir:\nBulantı Kusma\tHastaların 75’inde vardır. Kusmalar şiddetli değildir. Kusmalar genellikle ağrılardan sonra ortaya çıkar.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 77,
+        "soru": "Karın ağrısı, şiddetli ishal, rektal kanama ile gelen hastada yapılan kolonoskopide rektumdan ileuma kadar tüm kolon mukoza hiperemik, fragil kanamalı olarak izleniyor. Alınan biyopside mukoza-submukozasınırlı inflamasyon ve kript apseleri tesbit ediliyor.\n\nBu hasta için en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Ülseratif Kolit",
+            "B": "Crohn hastalığı",
+            "C": "Divertikülit",
+            "D": "İnen kolon Ca",
+            "E": "Sağ kolon Ca"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "ÜK sadece mukoza ve submukozayı tutar. Erken dönemde kolonoskopi ile hiperemik ödemli mukozal görünüm spesifiktir. Patolojik seksiyonda görülen KRİPT APSELERİ, bu hastalık için spesifiktir. Mukozada ülserasyonlar vardır ve bu ülserlerin üzeri püy ile kaplıdır. Hastalık daima öncelikle rektumda başlar ve daha sonra difüz olarak proksimale doğru yayılır. %30 vakada tüm kolon boyunca tutulum (pankolit) görülür.\n\nKlinik\nKanlı mukuslu diare, Kramp tarzında karın ağrıları, Beslenme bozukluğu, kilo kaybı",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 78,
+        "soru": "Kırk üç yaşında erkek hasta kabızlık ve makattan kan gelmesi şikayetiyle başvuruyor. Öyküsünden defekasyon sırasında ma-katta bıçak saplanması gibi keskin ağrı ile gaytaya bulaşan çizgi şeklinde taze kırmızı kanaması olduğu öğreniliyor.\n\nBu hasta için en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Anal Fissür",
+            "B": "İnternal Hemoroidal hastalık",
+            "C": "Eksternal Hemoroidal hastalık",
+            "D": "Anal apse",
+            "E": "Perianal fistül"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Anal fissür de defekasyon sırasında yanıcı keskin ağrı ve kanama esas bulguları oluşturur.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 79,
+        "soru": "On yıldır Hepatit C ye bağlı karaciğer sirozu nedeni ile takip edilen 60 yaşındaki erkek hastada Karaciğer sağ lobda 4 cm büyüklüğünde hepatoselüler kanser tesbit ediliyor. Laboratuar incelemesinde anemisi ve hipoalbüminemisi olan hastaya cerrahi planlanıyor.\n\nCerrahinin genişliğini belirlemek için yapılacak değerlendirmede aşağıdakilerden hangisi karaciğer rezervini göstermede daha önemli kabul edilir?",
+        "cevap_secenekleri": {
+            "A": "Hepatit C zemininde Siroz",
+            "B": "Hasta yaşının 60 olması",
+            "C": "Tümör büyüklüğünün 4 cm olması",
+            "D": "Anemisinin olması",
+            "E": "Albümin değerinin düşük olması"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "KC kanser cerrahisinde asıl belirleyici KC rezervidir.\n\nKC rezervini değerlendirmede\n\nİndosiyanin yeşili retansiyonu\n\nCT Karaciğer volüm ölçümleri\n\nChild-Pough sınıflaması (sadece Chil-A hastalara geniş rezeksiyon yapılabilir.) kullanılabilir.\n\nChild Pought skorlamasında kullanılan parametreler : Serum Bilüribini, Serum albümini, Ensefelopati , assit varlığı, kanama diatezi varlığı",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 80,
+        "soru": "Stomatit, Glossit, Nekrotizan migratuar eritem ile karakterize pankreas endokrin tümörü hangisidir?",
+        "cevap_secenekleri": {
+            "A": "İnsülinoma",
+            "B": "Glıukagonoma",
+            "C": "Vipoma",
+            "D": "Gastrinoma",
+            "E": "Somatostatinoma"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Glukagonoma:\n\nGlukagon salgılayan adacık hücre tümörüdür.\n\nKlasik nekrolitik, migratuar eritem karın alt bölgelerinde, perinede, perioral bölgede ve ayaklarda, yer değiştiren ve ortası iyileşirken kenarlara doğru ilerleyen lezyonlar olarak ortaya çıkar.\n\nGlukagona bağlı genellikle hafif diyabet ve malnütrisyon (katabolik etki ile) bulunur.\n\nStomatit ve glossit görülebilir.\n\n* Serum glukagon düzeylerinin 500 pg/ml üzerinde olmasıyla tanı doğrulanır.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 81,
+        "soru": "Çocukta görüldüğünde puberte prekoksa sebep olan testis tümörü hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Gonodoblastom",
+            "B": "Seminom",
+            "C": "Sertoli cell tümör",
+            "D": "Leydig hücreli tümör",
+            "E": "Yolk salk tümör"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Leyding cell tm\n\n* En sık non-germinal tümördür.\n\n* Kriptorşizm ile ilişkisi yoktur.\n\n* Hormon (androjen, östrojen ve steroid) salgılar\n\n* Prepubertal→puberte prekoks ve virilizasyon, Erişkin→ jinekomasti\n\n* Serum ve üriner 17-ketosteroid ve östrojen↑\n\nReinke kristalleri spesifiktir",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 82,
+        "soru": "Aşağıdakilerden hangisi en sık görülen benign kemik tümörüdür?",
+        "cevap_secenekleri": {
+            "A": "Kondromiksoid fibrom",
+            "B": "Osteoid Osteom",
+            "C": "Dev hücreli kemik tümörü",
+            "D": "Anevrizmal kemik kisti",
+            "E": "Osteokondrom"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "BENİGN KEMİK TÜMÖRLERİ\nKemik oluşturanlar\n\n* Osteoid osteom\n\n* Osteoblastom\n\n* Osteokondrom\nKıkırdak oluşturanlar\n\n* Osteokondrom (en sık)\n\n* Kondrom\n\n* Kondroblastom\n\n* Kondromiksoid fibrom\n\nFibroz oluşturanlar\n\n* Non-ossifiye fibrom\n\n* Fibroz displazi\n\nDiğer\n\n* Dev hücreli tümör\n\n* Anevrizmal kemik kisti\n\n* Eozinofilik granülom\n\n* Simple (üniloküler) kemik kisti",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 83,
+        "soru": "Kırk beş yaşında sigara için bir erkek hasta ayak küçük parmağında gangranöz bir yara ile gelirse en olası tanı aşağıdakiler-den hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Poliarteritisnodaza",
+            "B": "Buerger hastalığı",
+            "C": "Raynaud hastalığı",
+            "D": "Temporal arterit",
+            "E": "Takayusu arteriti"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Buerger Hastalığı sigara tiryakilerinde görülen klaudikasyon intermitant (aralıklı topallama) ile karakterize küçük ve orta çaplı ar-terleri, venleri etkileyen iltihabi tıkayıcı bir hastalıktır. Sıklıkla hipertansiyon ile birliktedir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 84,
+        "soru": "Aşağıdakilerden hangisi tüp torakostomi endikasyonu değildir?",
+        "cevap_secenekleri": {
+            "A": "Ampiyem",
+            "B": "Travmatik hemotoraks",
+            "C": "Subkutan amfizem",
+            "D": "Maliğn hidrotoraks",
+            "E": "Spontan pnomotoraks (%20↑)"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Tüp torakostomisi endikasyonları\n\n Travmatik hemopnömotoraks\t Malign hidrotoraks\n\n Spontan pnömotoraks, tansiyon pnömotoraks\t Ampiyem\n\n İatrojenik pnömotoraks\t Plevral effüzyon\n\n Pyopnömotoraks\t Toraks boşluğunun açıldığı cerrahi işlemler.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 85,
+        "soru": "Altı aylık bir bebeğin annesi tekrarlayan ve devamlılık göstren stridor şikâyeti nedeniyle getiriyor. Öyküsünden, yakınmasının doğumdan sonra hemen başladığı, uyurken tamamen kaybolduğu ve supin pozisyonda arttığı öğreniliyor. Yapılan fizik mua-yenede bebeğin büyüme ve gelişiminin normal olduğu gözleniyor.\n\nBu hasta için en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Trakeal stenoz",
+            "B": "Vasküler halka",
+            "C": "Bronşiyolit",
+            "D": "Larengomalazi",
+            "E": "Vokal kord paralizisi"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Stridor (hırıltılı solunum), inspirasyon sırasında üst havayolunun kısmi obstrüksiyonunun neden olduğu yüksek perdeli bir solunum sesidir. Larengomalazi bebeklik döneminde stridorun en sık nedenidir. Larengomalazide, epiglot laringeal giriş üzerinde supin pozisyonda iken kollabe olur. Stridor inspirasyon sırasında oluşur ve 6-12 ay arasında daha şiddetlidir. Çocuk oturur veya prone pozisyonda iken stridor azalır veya kaybolur. Çoğu çocukta 18 aya kadar kendiliğinden düzelir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 86,
+        "soru": "Omfolosellle en sık birliktelik gösteren anomali aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "ASD",
+            "B": "VSD",
+            "C": "Fallot tetralojisi",
+            "D": "İnmemiş testis",
+            "E": "Eksomfalos"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Omfalosel ek anomaliler\n Kardiak malformasyonlar: (Fallot tetralojisi %33, ASD %25)\t\t\n Kromozom anomalisi (%18): Trizomi 13,15,18,21\n Beckwith-Wiedemann Sendromu (%12): Mikrosefali, eksomfalos, makroglossi, gigantizm’den oluşan bir sendromdur. Pank-\nreas adacık hiperplazisi (nezidioblastozis) nedeniyle hipoglisemi çok sıklıkla beraber görülür.\n Hipogastrik omfalosellerde mesane ekstrofisi, hindgut anomalileri, renal malformasyonlar sık görülür.\n Alt Midline Sendromu (OICS sendromu): Kloakal ekstrofi ile beraber sakral anomaliler, myelomeningosel, hidro veya diasto-\nmetamyeli, iskelet anomalileri beraber görülür.\n Üst Midline Sendromu (CANTRELL Pentalojisi): Omfalosel, ön diafragma hernisi, sternal kleft, ektopia kordis, kardiak anomali\n(VSD sık).\n Rieger sendromu: Yarık damak ve iskelet anomalileri vardır.\n Prune Belly sendromu: Karın kaslarını zayıf olması, inmemiş testis, üriner anomaliler\n\nGastroşizis ek anomaliler (Omfalosele göre daha az görülür)\n İnmemiş testis (%40)\n İntestinal atrezi (%10)\n Malrotayon ve malfiksasyon anomalileri (tüm olgularda mevcut).\n\n %20 olguda postoperatif NEC gelişmektedir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 87,
+        "soru": "Erken dönem papil ödemi ilgili olara hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Görme keskinliği normaldir.",
+            "B": "Renk hissi bozulmuştur.",
+            "C": "Disk hiperemiktir.",
+            "D": "Ödem önce nazal kenardan başlar.",
+            "E": "Spontan venöz pulsasyon kaybolmuştur."
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Erken dönem papilödem teşhisi zor olabilir. Görme semptomu yoktur. Disk hafif eleve ve hiperemiktir. Disk kenarlarının belirginliği azalmıştır ve peripapiller sinir ifleri katında şişkinlik görülür. Önce nazal kenardan başlar. Sonra sırayla superior ve inferior tutulur. Spontan venöz pulsasyon kaybolmuştur (Normal bireylerde de %20 olmayabilir.).",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 88,
+        "soru": "Band keratopati ile ilgili olarak hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Kalsiyum tuzlarının subepitelyal boşluk ve bowman membranına yığılmasıyla karakterizedir.",
+            "B": "İnterpalpebral mesafede yerleşmiştir.",
+            "C": "Yükselmiş serum kalsiyum seviyeleri ile ilişkili değildir.",
+            "D": "Nazal ve temporal limbuslardan başlar.",
+            "E": "Tedavide sodyum versenat kullanılır"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Sebepleri şunlardır; yaşa bağlı, okuler (kronik üveit, fitixis bulbi, ön kamarada silikon mevcudiyeti), metabolik (yükselmiş serum kalsiyum ve fosfor düzeyleri, hiperürisemi, kronik böbrek yetmezliği), herediter (ihtiyozis ve ailevi band keratopati). Tedavide önce-likle kalsifikasyon sıyrılır. Ardından kalsiyum kalıntılarının tamamı yok oluncaya kadar sodyum versenat uygulanır. (chelation) bazı derin yerleşimli vakalarda excimer LASER kullanılabilir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 89,
+        "soru": "4 gün önce spinal anestezi uygulanarak sezaryen geçirmiş olan 24 yaşındaki kadın hasta, post-op 48. saatte başlayan ve gide-rek şiddetlenen fronto-oksipital yayılımlı baş ağrısı, kulakta çınlama, boyunda ağrı, fotofobi, bulantı şikâyetleri ile başvuruyor.\n\nAşağıdakilerden hangisi hastada postspinal baş ağrısı sıklığını artıran bir faktör değildir?",
+        "cevap_secenekleri": {
+            "A": "Hamilelik",
+            "B": "Kadın cinsiyet",
+            "C": "20-40 yaş",
+            "D": "Hastanın mobilize edilme zamanı",
+            "E": "Spinal anestezi için kullanılan iğne çapı, tipi, giriş yönü"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "POST-DURAL PONKSİYON BAŞ AĞRISI\n\nİğne çapı (G) keskin uçlu iğnelerde PDBA insidansıyla ilişkilidir.\n\nİstemsiz dura ponksiyonu yapılan olgularda, iğne giriş yönünün paralel olması daha az sıklıkta PDBA na neden olur.\n\nKalem uçlu iğnelerde, iğne çapı ve PDBA arasında ilişki gösterilemedi\n\nKadın cinsiyet, her iki iğne tipinde de risk faktörü\n\nAtravmatik iğnelerin kullanılması PDBA ve diğer komplikasyonlarda istatistiksel açıdan anlamlı azalmayla ilişkilidir ve atravmatik iğneler diğer iğnelerle benzer etkinliğe sahiptir.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 90,
+        "soru": "Beyin omurilik sıvısı yoluyla en sık metastaz yapan, infratentoriyal bölge yerleşimli olup 4. ventrikülü doldurarak obstrük- tif hidrosefaliye yol açan tümör aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Medulloblastom",
+            "B": "Oligodendrogliom",
+            "C": "Pilositik astrositom",
+            "D": "Koroid pleksus papillomu",
+            "E": "Hemanjiyoblastom"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "MEDULLABLASTOMA Çocukluk çağı malign beyin tümörleri arasında en sık görülenidir ve sıklıkla sadece serebellar vermiste yerleşirler. BOS yoluyla omurilik kanalında ve kafa içinde metastaz yapabilir. Hastalığın belirtileri en sık hidrosefali ile başlar. Nöroradyolojik olarak yoğun ve homojen kontrast tutulumu gösteren solid kitle şeklinde görülür. Tedavide genellikle cerrahinin ardından radyoterapi uygulanır. Oldukça radyosensitiftirler.",
+        "konu_grubu": "Genel Cerrahi (Genel Cerrahi + Cerrahi Küçük Stajlar)"
+    },
+    {
+        "soru_no": 91,
+        "soru": "Sistosel ve rektosel gelişimi sırayla hangi boşluklara doğrudur?",
+        "cevap_secenekleri": {
+            "A": "Prevezikal boşluk ve rektovajinal boşluk",
+            "B": "Paravezikal boşluk ve pararektal boşluk",
+            "C": "Vezikoservikal boşluk ve retrorektal boşluk",
+            "D": "Prevezikal boşluk ve rektovajinal boşluk",
+            "E": "Vezikoservikal boşluk ve rektovajinal boşluk"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Sistosel mesanenin vajene doğru hernileşmesi , rektosel rektumun vajene hernileşmesi ile oluşur.\n\nSistosel için mesane ve vajen-serviks arasında boşluktan vajene doğru protrüzyon gerekir. Bu boşluk vezikoservikal boşluktur.\n\nRektosel için ise rektum ve vajen arası boşluktan vajene doğru protrüzyon gerekir. Bu boşluk rektovajinal boşluktur.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 92,
+        "soru": "Postmenapozal kanamanın tipik nedenlerinden hangisinin görülme sıklığı daha azdır?",
+        "cevap_secenekleri": {
+            "A": "Myoma uteri",
+            "B": "Atrofik endometrit",
+            "C": "Endometrium kanseri",
+            "D": "Endometrial hiperplazi",
+            "E": "Ekzojen hormon kullanımı"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Postmenopozal dönem kanama nedenleri\nGörülme yüzdeleri\nAtrofik endometrit / vajinit\t%60-80\nEkzojen estrojen alınması (HRT)\t%15-25\nEndometrium kanseri\t%10\nEndometrial veya servikal polip\t%2-12\nEndometrial hiperplazi\t%5-10\nDiğer (servikal kanser, sarkom…)\t%10\n\nMyoma uteri postmenapozal dönemde semptomları geriler. Temelde postmenapozal dönemde büyüyen myom ya da progresyon gösteren semptomatoloji malignite lehinedir; karsinosarkom sorusu tasarlanmak isteniyordur.\n\nAtrofik endometrit bu dönem için en sık nedendir.\n\nEkzojen hormon kullanımı reprodüktif dönem için en sık neden olup postmenapozal dönem için en sık ikinci nedendir.\n\nBu dönemde her türlü kanamanın endometrial örneklem gerektirmesi sebebiyle postmenapozal dönem endometrium kanseri sıktır fikri akla gelir; ancak bu dönemdeki kanamaların sadece yüzde on kadarı kanserdir.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 93,
+        "soru": "Adenomyozis ile ilgili hangisi doğrudur?",
+        "cevap_secenekleri": {
+            "A": "Estrojen bağımlı bir patolojidir; menapoz yıllarına kadar artan yaşla birlikte insidansı her geçen yıl artar.",
+            "B": "En sık eşlik eden estrojen ilişkili patoloji myoma uteridir.",
+            "C": "En sık semptom dismenoredir.",
+            "D": "Myometrial hiperekojen kistik yapılanmalar gözlenir.",
+            "E": "Kanama portföyü en sık metroraji şeklindedir."
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Estrojen bağımlı bir patolojidir yıllar boyu artar ancak en sık olduğu dönem perimenapozal yıllar değil 4. dekaddır.\n\nEstrojenik patoloji olması nedeniyle diğer estrojenik patolojilerle birlikteliği bulunur; sıklık sıralamasıyla büyükten küçüğe myoma uteri, endometrial hiperplazi, endometriozis.\n\nEn sık klinik prezentasyon asemptomatiktir. Semptom gelişirse en sık menorajidir.\n\nGörüntülemede myometrial hipoekojen kistik yapılanmalar ve subendometrial ekojenik çizgilenmeler gözlenir.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 94,
+        "soru": "SHBG’e an az bağlanan seks steroidi hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Androstenedion",
+            "B": "Progesteron",
+            "C": "Estrojen",
+            "D": "DHEA",
+            "E": "Kortizol"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Kortizol SHBG’e bağlanmaz. Ama soruda seks steroidleri içinde olanı sorulmuştur.\n\nProgesteron seks steroidleri içinde SHBG’e en az bağlanandır.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 95,
+        "soru": "Hangisi lipid ve meme üzerine nötral etkili olup uterus üzerine parsiyel agonistlik özeliği vardır?",
+        "cevap_secenekleri": {
+            "A": "Tamoksifen",
+            "B": "Ospemifen",
+            "C": "Raloksifen",
+            "D": "Bazedoksifen",
+            "E": "Klomifen"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Şıklar SERM’lerden oluşmuştur.\n\nOspemifenin başındaki ‘’ OS ‘’ ifadesi kemiği akla getirsin. Kemik için agonistik, meme ve lipid profili üzerinde nötral etkilidir. Ute-rus için parsiyel agonistlik özelliği vardır.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 96,
+        "soru": "Aşağıdakilerden hangisi makat geliş risk faktörü değildir?",
+        "cevap_secenekleri": {
+            "A": "Makrozomik fetus",
+            "B": "Preterm doğum",
+            "C": "Anensefali",
+            "D": "Polihidramnios",
+            "E": "Oligohidramnios"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Makrozomik fetus malprezentasyonlardan sadece yüz gelişte risk faktörüdür.\n\nMakat prezentasyonu risk faktörleri\n\n*  Preterm doğum (en sık neden)\n\n*  Çoğul gebelik\n\n*  Polihidroamnioz - oligohidroamnioz\n\n*  Uterin anomali\n\n*  Hidrosefali - Anensefali\n\n*  Pelvik tümör\n\n*  Fetal anomali\n\n*  Önceden makat doğum yapma\n\n*  Multiparite\n\n*  Plasenta previa\n\n*  Leiomyom\n\n*  Düşük doğum ağırlığı ve IUGR\n\nAyrıca son textbookta makat geliş için multiparite değil nulliparite risk faktörü olarak tanımlandı (diğer textbooklarda hala multi-parite yazan kaynak da var).",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 97,
+        "soru": "En nadir malprezentasyon aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Makat geliş",
+            "B": "Kompound (birleşik) geliş",
+            "C": "Transvers geliş",
+            "D": "Yüz geliş",
+            "E": "Alın geliş"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "%96 verteks geliş, %3.5 makad geliş, %0.4 transvers geliş, kompound geliş, yüz geliş ve alın geliş (en nadir) olur.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 98,
+        "soru": "Diabetik anne bebeğinde hangisi beklenmez?",
+        "cevap_secenekleri": {
+            "A": "Hiperbillüribinemi",
+            "B": "Hipokalsemi",
+            "C": "Anemi",
+            "D": "Respiratuar distress sendromu",
+            "E": "Prematürite"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Neonatal etkileri\nPrematürite: DM’li annelerde preterm eylem ve doğum fazladır. Prematür olmaları nedeni ile yenidoğan döneminde artmış morbidite ve mortaliteye sahiptirler. Ancak DM’li anne bebeklerinde perinatal (intrauterin ve neonatal dönemi kapsar) morta-litenin en sık nedeni konjenital anomalilerdir.\nRDS: Regüle olmayan DM’de normalden fazla olur, ancak regüle olan DM’de risk artışı yoktur.\n\n*  Hipoglisemi\n\n*  Hipokalsemi\n\n*  Hipomagnezemi\n\n*  Hiperbilirubinemi\n\n*  Polistemi\n\n*  Kardiyak ventriküler hipertrofi (artmış insülin nedeni ile)\n\nDiabetik anne bebeğinde de vaskülopatiyle seyreden hipertansif anne bebeğinde de hipoksiye sekonder polisitemi ve buna sekon-der hiperbillüribinemi beklenir.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 99,
+        "soru": "38 haftalık G2P1 gebe hasta 6 cm açıklık ile acil servise başvuruyor. Fetal kalp trasesinde patoloji saptanmıyor. Yetersiz kont-raksiyon gerekçesi ile oksitosin başlanıyor. Takiplerde 7 cm olan hastanın ardışık vajinal tuşe takiplerinde 7 cm’den sonra ilerlemediği gözleniyor. Takibe devam edilen hasta kısa süre sonra geçmeyen karın ağrısı tarifliyor. Tokoda kontraksiyonların yok olduğu izleniyor. Kontrol ultrasonda batın içi mayi dikkat çekiyor. Vajinal tuşe tekrarında 7 cm olan açıklığın bir miktar azaldığı tespit ediliyor. Damlama şeklinde vajinal kanama gözleniyor.\n\nBu vakada en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Uterin atoni",
+            "B": "Plasenta previa",
+            "C": "Plasenta dekolmanı",
+            "D": "Uterus rüptürü",
+            "E": "Uterin inversiyon"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Oksitosinle indüklenen vakada ilerleme olmamış. Karında ağrı saptanması ve eş zamanlı tokoda kontraksiyonların yok olması rüp-tür düşündürür. Rüptürle batın içi amnion sıvısı yayılmış; USG’de batın içi sıvı olarak bulgu vermiş. Uterus rüptür olduğu için fetal baş üzerindeki itici güç yok olacağından servikal açıklık bir miktar azalmış. Rüptüre sekonder kanama gözlenmiş.\nUterin atoni fetus intrauterinken değil postpartum olacaktır. Plasenta dekolmanı sorusunda uterusta geçmeyen tetanik kontraktil hareketler gözlenecektir. Uterin inversiyon fetus çıktıktan sonra gözlenen bir patolojidir.\n\nPlasenta previa kanaması servikal açıklık başında karın ağrısı tariflerinden bağımsız ifadelerle soru haline getirilir.",
+        "konu_grubu": "Kadın Doğum"
+    },
+    {
+        "soru_no": 100,
+        "soru": "Ovarian tümör ve sınıf eşleştirmesinde hangisi doğrudur?",
+        "cevap_secenekleri": {
+            "A": "Yolk sac hücreli tümör: Epiteliyal tümör",
+            "B": "Tekoma: Germ hücreli tümör",
+            "C": "İmmatür teratom: Germ hücreli tümör",
+            "D": "Non-gestasyonel koryokarsinom: Epiteliyal tümör",
+            "E": "Brenner: Seks kord stromal tümör"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Yolk sac hücreli tümör, immatür teratom, koryokarsinom birer germ hücreli tümördür. Germ hücreli tümör olarak ÖSYM non-gestasyonel olarak belirtme eğilimindedir. Gestasyonel koryokarsinom ise trofoblastik ne-oplazidir.\nTekoma seks kord stromal tümörüdür.\nBrenner epiteliyal tümör tümördür.",
+        "konu_grubu": "Kadın Doğum"
+    }
+]

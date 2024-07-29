@@ -1,0 +1,1405 @@
+[
+    {
+        "sinav": "Tusem TEMEL TIP BİLİMLERİ TESTİ AÇIKLAMALI CEVAPLAR"
+    },
+    {
+        "soru_no": 1,
+        "soru": "Dirsek bölgesinden kesici alet yaralanması nedeniyle acil servise kabul edilen 34 yaşındaki erkek hastanın fizik muayenesinde; sağ dirsek dış yanında, fossa cubiti’nin lateral sınırınıda içine alan, medialde m. biceps brachii tendonuna doğru uzanıp, bu tendonu yaralamayan derin bir kesi tespit ediliyor.\n\nBu tarz bir yaralanmada hasar görmesi en olası yapılar aşağıdaki seçeneklerden hangisinde verilmiştir?",
+        "cevap_secenekleri": {
+            "A": "M. pronator teres ve a. brachialis",
+            "B": "Lacertus fibrosus ve vena basilica",
+            "C": "Vena cephalica ve m. brachioradialis",
+            "D": "M. coracobrachialis ve n. cutaneus brachii medialis",
+            "E": "M. flexor carpi ulnaris ve n. ulnaris"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Fossa cubiti’nin medialden yaralanması daha önce soruldu. Bu soruda da dirseğin lateralden yaralanması halinde nasıl bir durumla karşılaşacağımızı sorguluyoruz.\n\nFossa cubiti’nin sınırlarına bakalım: lateralde m. brachioradialis, medialde m. pronator teres kasları yer alır. Içinde ise lateralden mediale doğru n. radialis, m. biceps brachii tendonu, a. brachialis ve n. medianus yer alır.\n\nSorudaki yaranın tarifine bakınca lateral sınırda m. brachioradialis’in yaralanmasının çok olası olduğunu görüyoruz. M. brachioradialis’in olduğu “C” seçeneğindeki diğer yapı ise vena cephalica. Vena cephalica’da ön kolun yüzeyel venlerinden olup, dirseğin lateralinden kol lateraline geçer. Bu tarz bir travmada yaralanması seyri nedeniyle olasıdır.\n\nSoruda m. biceps brachii tendonuna kadar yaralanma tarif edildiği ve seçeneklerde biceps tendonu olmadığı için onu eleyebiliriz. Yeterince çok tekrar yapan arkadaşlarımız “B” seçeneğindeki lacertus fibrosus’da biraz düşünmüş olabilirler. Ancak lacertus fibrosus, m. biceps brachii’nin tendonundan mediale doğru uzanan tendinöz bir banttır. Bu soruda tarif edilen keside yaralanması “C” seçeneğindeki yapılara göre daha az olasıdır.",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 2,
+        "soru": "Travmatik kalça çıkığı nedeniyle ameliyat edilen 72 yaşında kadın hastanın rehabilitasyon süreci boyunca kalça ekleminde iç rotasyon yaparken zorlandığı görülüyor.\n\nBu hastada aşağıdaki kaslardan hangisinin öncelikli olarak etkilendiğini düşünürsünüz?",
+        "cevap_secenekleri": {
+            "A": "M. sartorius",
+            "B": "M. quadriceps femoris",
+            "C": "M. gluteus medius",
+            "D": "M. quadratus femoris",
+            "E": "M. obturator internus"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Kalça eklemi etrafındaki kaslar hareketleri üzerinden TUS’da daha önce soruldular. Bu soru aslında daha önce TUS’da dümdüz bir şekilde kalçaya iç rotasyon yapan kaslar hangileridir şeklinde sorulmuş bir sorunun tekrar yorumudur. Yakın tarihli sınavlarda kalça ekleminde dış rotasyon yaptıran m. gluteus maximus sorulduğu için bu klasik soruyu tekrar hatırlatmanın zamanının geldiğini düşünüyoruz. Özellikle n. gluteus superior tarafından innerve edilen tüm kalça kaslarının ortak hareketi kalçaya iç rotasyondur.\n\nN. gluteus superior’un innerve ettiği ve kalçaya iç rotasyon yaptıran kaslarımız:\n\n m. gluteus medius\n\n m. gluteus minimus\n\n m. tensor fascia lata\n\nm. glueus medius ayrıca kalçaya abduksiyon yaptırır ve bu abduksiyon yürürken pelvisin lateral stabilizasyonunda önemlidir.\n\nPeki stabilize edemezse ne olur???\n\nN. gluteus superior felcinde, yürüme esnasında pelvisi stabilize eden m. gluteus medius ve m. gluteus minimus fonksiyon göremez ve Trendelenburg belirtisi görülür. Bu sinirin felç olduğunda sağlam alt ekstremite yerden kaldırıldığında pelvis o tarafa doğru aşağı kayar!",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 3,
+        "soru": "Aşağıda verilen eklemlerden hangisinin kemik yüzeyleri arasında intraartiküler kıkırdak disk yoktur?",
+        "cevap_secenekleri": {
+            "A": "Articulatio radiocarpalis",
+            "B": "Articulatio sternoclavicularis",
+            "C": "Articulatio temporomandibularis",
+            "D": "Articulatio humeroulnaris",
+            "E": "Articulatio acromioclavicularis"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Klasik bir soru. TUS’da buna benzer sorular gelirse kaçırmamız lazım:",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 4,
+        "soru": "Kafa tabanında foramen jugulare üzerindeki bir kitlenin basısından aşağıdaki yapılardan hangisinin etkilenmesi daha az olasıdır?",
+        "cevap_secenekleri": {
+            "A": "Sinus petrosus inferior",
+            "B": "Vena jugularis interna",
+            "C": "Nervus accessorius",
+            "D": "Nervus vagus",
+            "E": "Arteria meningea media"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Foramen jugulare, fossa cranii posterior içinde oksipital ve temporal kemikler arasında oluşan bir açıklıktır. Fossa cranii posterior’u basis cranii externa’ya bağlar.\n\nForamen jugulare içinden geçenler :\n\n N. glossopharyngeus\n\n N. vagus\n\n N. accesorius\n\n V. jugularis interna\n\n Sinus sigmoideus\n\n Sinus petrosus inferior\n\nForamen jugulare yakınlarındaki bir kitlede bu yüzden önce bu delik içinden geçen oluşumları etkilemesi daha olasıdır. A. meni-gea media ise a. maxillaris’in birinci bölümünün (mandibular bölüm) dalıdır ve sfenoid kemikte ala major’deki for. spinosum’dan kranium içine girer. Foramen jugulare yakınlarındaki bir kitlede ise diğer seçenekteki yapılara göre etkilenmesi daha az olasıdır.",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 5,
+        "soru": "Aşağıdaki yapılardan hangisi abdomenden, mediastinum posterius’a ligamentum arcuatum medianum’u arkasından ge-çer?",
+        "cevap_secenekleri": {
+            "A": "Ductus thoracicus",
+            "B": "Vena cava inferior",
+            "C": "Nervus phrenicus dexter",
+            "D": "Nervus vagus sinister",
+            "E": "Arteria gastrica sinistra"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "*Diyafram’ın arka lifleri beş tane yaysı fibröz band yapar. Bunlardan orta hat üstüne oturana lig. arcuatum medianum adı verilir. (arcuate: yaysı demek, medianum’da orta hat üzerine outran yapılarda kullanılan bir terim)*\n\n- Ligamentum arcuatum laterale ’nin arkasında m. quadratus lumborum, 12. kaburga\n\n- Ligamentum arcuatum mediale’nin arkasında m. psoas major ve truncus sympathicus,\n\n- Ligamentum arcuatum medianum’un arkasında ise hiatus aorticus yer alır.\n\nYani hiatus aorticus içinden ne geçer sorusunu size ligamentum arcuatum medianum’un arkadasından ne geçer diye tekrar sora-biliriz.\n\nHiatus aorticus(T12)\n\n aorta\n\n Ductus thoracius\n\n V. azygos, (bazen v. hemiazygos",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 6,
+        "soru": "Aşağıdaki oluşumlardan hangisi atrium dextrum içinde bulunmaz?",
+        "cevap_secenekleri": {
+            "A": "Crista terminalis",
+            "B": "Ostium sinus coronarii",
+            "C": "Fossa ovalis",
+            "D": "Valvula venae cavae inferioris",
+            "E": "Valvula bicuspidalis"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Sol ventrikül ile sol atrium arasında yer alan bir kapaktır ve sağ atriuma ait değildir. Diğer şıklarda yer alan tüm yapılar sağ atriuma aittir. Kalp boşlukları içinde soru gelme olasılığı en yüksek boşluk sağ atriumdur.\n\nSağ atriuma ait TUS için önemli bazı yapılar:\n\nSulcus terminalis: Auricula dextra ve atrium dextrum’un birleşim yerinde dıştan görülür. Sağ atrium ön duvarı ile arka duvarı ara-sında da denebilir.\n\nCrista terminalis: Sulcus terminalis’in içten görünüşüdür. Embriyonal hayattaki sinus venosus ile atrium primum’un birleşim yerine uyar. Fötal dolaşımda v. cava superior kanını sağ ventriküle yönlendirmeye yardımcıdır.\n\nFossa ovalis ve limbus ovalis: Septum interatriale’nin sağ tarafında foramen ovale’nin kalıntısı olan çukur ve bu çukurun kenarla-rıdır.\n\nTuberculum intervenosum: V. cava superior ve v. cava inferior’un açılış delikleri arasındaki tümsektir. Fötal dolaşımda v.cava superior’dan gelen kanı sağ ventriküle doğru yönlendirir.\n\nValvula venae cavae inferioris: Fötal dolaşımda v. cava inferior’dan gelen kanı foramen ovale aracılığı ile sol atriuma yönlendirir.\n\nostium sinus coronari: valvula venae cavae inferioris’un altında bulunan sinus coronarius’un sağ atriuma açılış deliğidir.",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 7,
+        "soru": "Aşağıdaki atar damarlardan hangisi tonsilla palatina’ları besleyecek dal vermez?",
+        "cevap_secenekleri": {
+            "A": "Arteria facialis",
+            "B": "Arteria palatina descendens",
+            "C": "Arteria lingualis",
+            "D": "Arteria pharyngea ascendens",
+            "E": "Arteria auricularis posterior"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Tonsilla palatina kanlanmasına katılmaz.\n\nTonsilla palatina’nın arterleri:\n\n A. facialis’in a. palatina ascendens dalı,\n\n A. facialis’in direk tonsiller dalları (r. tonsillaris),\n\n A. maxillaris’in a. palatina descendens dalı,\n\n A. carotis externa’nın a. pharyngea ascendens dalı,\n\n A. lingualis’in a. dorsalis linguae dalı",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 8,
+        "soru": "Boynun yan tarafında yer alan bir kitle nedeniyle opere edilen hastanın ameliyatı esnasında trigonum supraclaviculare major’un derininde, plexus brachialis’in truncus superior’dan direk çıkan bir sinir dalı görülmüştür. Omuzda scapula’ya doğru yönelen ve arkaya doğru seyreden bu sinir dalı ameliyat esnasında korunurken scapula kemiğinde lig. transversum scapulae superius’un adlı bağın altından geçtiği görülmüştür.\n\nBu sinirin adı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Nervus dorsalis scapulae",
+            "B": "Nervus suprascapularis",
+            "C": "Nervus accessorius",
+            "D": "Nervus subscapularis superior",
+            "E": "Nervus subscapularis inferior"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Plexus brachialis’in oluşumu ve her seviyede verdiği dallara dikkat etmeliyiz. Bu soru özelinde bakarsak, plexus brachialis trun-kuslarından sadece truncus superior kaslara doğru 2 direk dal verir. Bu dallardan birisi hemen clavicula altındaki m. subclavius’u uyaran n. subclavius iken diğeri ise omuzda scapula kemiğinin üst kenarına yönelen bunun için ön taraftan arkaya ve dış yana doğru seyreden n. suprascapularis’tir.\n\nN. suprascapularis için TUS’ta şunları bilelim:\n\n Plexus brachialis, truncus superior dalıdır.\n\n Fossa supraclavicularis içinde palpe edilebilir.\n\n Arka boyun üçgeni döşemesinden sonra scapula üst kenarına gelir.\n\n Scapula üst kenarındaki lig. transversum scapula superius adlı bağın altındaki delik olan foramen scapula içinden geçer (foramen scapula, bu bağla kapatılmadan önce incisura scapula adlı bir çentikti).\n\n Foramen scapula içinden n. suprascapularis geçerken, foramenin üstünden ise a. suprascapularis geçer.\n\n Fossa supraspinata içinde m. supraspinatus’u innerve ettikten sonra fossa infraspinataya geçer.\n\n Fossa infraspinataya lig. transversum scapula inferius adlı bir bağın altından geçer.\n\n Fossa infraspinata’da m. infraspinatus’u innerve eder.\n\n Eklem dalları ise art. humeri ve art. acromioclavicularis’in eklemlerinin duyusunu alır.",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 9,
+        "soru": "Foramen ovale altında yer alan ganglion oticum’dan çıkan postganglioner parasempatik sinir lifler, parotis bezine hangi sinir içinde taşınırlar?",
+        "cevap_secenekleri": {
+            "A": "Nervus petrosus major",
+            "B": "Nervus facialis",
+            "C": "Nervus auriculotemporalis",
+            "D": "Nervus alveolaris inferior",
+            "E": "Nervus occipitalis minor"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "N. mandibularis’in çok TUS’luk bir dalını sorarsanız, cevabımız kesinlikle n. auriculotemporalis olurdu.\n\nN. auriculotemporalis, for. ovale’den sonra n. mandibularis’in duyu dallarını verdiği arka kütüğünden ayrılır ve ganglion oticum’dan parotis bezine gidecek postgangliyoner parasempatik sinir liflerini parotis bezine taşır.\n\nBu soru bize n. auriculotemporalis’in tüm soruluk özelliklerini tekrar etmek için bir bahane olsun:\n\nN. auriculotemporalis:\n\n- N. mandibularus’un duyu dalıdır.\n\n- Çıkış yerine yakın ilerlerken a. meningea media’yı öndev ve arkadan sararak geçer.\n\n- Gangliyon oticum’dan n. petrosus minor’un getirdiği PS’leri parotis bezi’ne götürür.\n\n- Parotis bezinin içinden geçer.\n\n- Çene ekleminden duyu alır.\n\n- Kulağın önünden a. temporalis superficialis ile beraber geçer.\n\n- Kulak önünden geçerken dış kulak yolu ve kulak zarının dış yüzünden duyu alır.\n\n- Son olarak temporal fossa’da SCALP duyusunu alır.\n\nNe dersiniz, gerçekten de çok TUS’luk bir sinir...",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 10,
+        "soru": "Aşağıdaki yapılardan hangisi cavitas tympani’nin medial duvarında yer alan bir yapıdır?",
+        "cevap_secenekleri": {
+            "A": "Tuba auditiva",
+            "B": "Aditus ad antrum",
+            "C": "Arteria carotis interna",
+            "D": "Promontorium",
+            "E": "Tegmen tympani"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Sorunun yanıtı promontorium’dur. TUS’ta defalarca cavitas tympani yani orta kulak boşluğunun duvarlarına ile ilişkili yapılar sorul-du. Bu deneme sorusu bahanesi ile bu duvarlara tekrar bir göz atalım:\n\nCavitas tympanica:\n\n* Üst duvar (paries tegmentalis): tegmen tympani\n\n* Dışyan (paries tympanicus): Membrana tympani, chorda tympani (VII)\n\n* İçyan (paries labyrinthus): Fenestra ovale, fenestra rotundum, promontorium, n. tympanicus (IX), membrana tympani se-cundaria\n\n* Ön duvar (paries caroticus): canalis caroticus ve içindeki a. carotis interna, canalis musculotubarius (semicanalis tuba audi-tiva, semicanalis m. tensor tympani)\n\n* Arka duvar (paries mastoidea): aditus antrum, canalis facialis\n\nTaban (paries jugularis): Fossa jugularis, (vena jugularis interna)",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 11,
+        "soru": "Aşağıdaki kaslardan hangisi plica vocalis’lerin gevşetilmesinden sorumludur?",
+        "cevap_secenekleri": {
+            "A": "Musculus cricothyroideus",
+            "B": "Musculus thyroepiglotticus",
+            "C": "Musculus thyrohyoideus",
+            "D": "Musculus thyroarytenoideus",
+            "E": "Musculus sternothyroideus"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "M. thyroarytenoideus: plica vocalis relaksörüdür ve membrana quadrangularis içinde yer alır.\n\nM. aryepiglotticus: aditus laryngis’i daraltır.\n\nM. thyroepiglotticus: aditus laryngis’i genişletir.\n\nThyroepiglotticus\n\nMany of the fibres of thyroarytenoid are prolonged into the aryepiglottic fold, where some terminate, and others continue to the epiglottic margin as thyroepiglotticus. The thyroepiglotticus muscles can widen the inlet of the larynx by their action on the aryepiglottic folds.\n\nM. cricothyroideus: Plica vocalisleri geren tek kastır. N. laryngeus superior r. externus tarafından innerve edilir. Ses tellerini gere-rek sesi inceltir.\n\nM. thyrohyoideus: infrahyoid kaslardandır ve hyoid kemiği aşağı konumlandırarak larynx hareketlerine dolaylı katılır. İnnervasyonu sorudur: 12. Kraniyal sinir olan n. hypoglossus içinde taşınan C1 ön dallarından innervedir. (Bu şekilde innervasyonu olan diğer kas ise: m. geniohyoideus )",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 12,
+        "soru": "Rete testis ile epididymis arasındaki bağlantıyı aşağıdaki yapılardan hangisi yapar?",
+        "cevap_secenekleri": {
+            "A": "Tubuli seminiferi contorti",
+            "B": "Tubuli seminiferi recti",
+            "C": "Ductuli efferentis testis",
+            "D": "Ductus deferens",
+            "E": "Vesicula seminalis"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Testisler çifttirler sperm (seminifer tubullerde) ve testosteron (Leyding hücrelerinde) üretirler. Testisler böbreklerin hemen altında oluşurlar 3. fetal ayda canalis inguinalis’e inerler 7. ay sonunda bu kanaldan geçerek doğuma yakın veya hemen doğumdan sonra skrotuma yerleşirler.\n\nTubuli seminiferi contorti’ler testislerin içinde spermin yapıldığı yerdir. Tubuli seminiferi recti’lere açılırlar.\n\nTubuli seminiferi recti’ler rete testis’e açılırlar.\n\nRete testis, testisin mediastinumundaki ağ şeklinde kanallardır.\n\nDuctuli efferentis testis, rete testis’i epididimis ile birleştiren kanalcıklardır.\n\nDuctus epididymis, spermatozoa’nın beslenmesi olgunlaşması ve depolanmasını sağlar.",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 13,
+        "soru": "Duodenum’un pars descendens bölümü iç yüzünde hangi yapı ile komşuluk yapar?",
+        "cevap_secenekleri": {
+            "A": "Ligamentum hepatoduodenale",
+            "B": "Radix mesenterii",
+            "C": "Flexura coli dextra",
+            "D": "Caput pancreatis",
+            "E": "Vesica fellae"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Duodenum\n\n*Bulbus duodeni (ampulla) intraperitoneal’dir. Diğer kısımları sekonder retroperitoneal’dir. 25 cm uzunluktadır. Regio epigastrica’da yerleşmiştir. Duodenum pankreası (cauda’sı hariç) sarar. Duodenum’un üst sınırı L1’in alt kenarı; alt sınırı L3’ün alt kenarı; bitimi (flexura duodenojejunalis) L2 hizasındadır.*\n\nBölümleri: 1. Pars superior\n\n* Hareketli bölümdür.\n\n* İlk bölümü intraperitoneal’dir. Buraya bulbus duodeni (ampulla)denir.\n\n* Sağ kısmına lig. hepatoduodenale tutunur.\n\n* Arkasında a. gastroduodenalis, ductus choledochus ve v. porta bulunur.\n\n* Karaciğerin Iobus quadratus’u, pancreas ve vesica fellae ile komşudur. 2. Pars descendens\n\n* Ön yüzünü mesocolon transversum çaprazlar.\n\n* Önde karaciğerin sağ lobu, colon transversum, mesocolon transversum ve jejunum ile komşudur.\n\n* Arkada sağ böbrek, böbrek damarları, v. cava inferior, m. psoas major ile komşudur.\n\n* İç yanda caput pancreatis, ductus choledochus ile komşudur.\n\n* *Dış yanda flexura coli dextra bulunur 3. Pars horizontalis (inferior) Ön yüzünü radix mesenterii ve içinde yer alan a.v. mesenterica superior çaprazlar. Arkada sağ üreter, m. psoas major, sağ a.v. testicularis (ovarica), v. cava inferior ve aorta ile komşudur. 4. Pars ascendens L3 hizasında aortanın önünde ve solunda yer alır. Arkada truncus sympaticus, sol m. psoas major, sol böbrek, a.v. testicularis (ova-rica), v. mesenterica inferior; solunda sol böbrek ve sol üreter ile komşudur.*",
+        "konu_grubu": "Anatomi"
+    },
+    {
+        "soru_no": 14,
+        "soru": "I. Kalbin konotrunkal septumu\nII. Tiroid bezi parafolliküler C hücreleri\n\nIII. Melanositler\n\nIV. Schwann hücreleri\n\nYukarıdakilerden hangisi ya da hangileri nöral krestten gelişir?",
+        "cevap_secenekleri": {
+            "A": "I ve II",
+            "B": "II, III, IV",
+            "C": "II ve IV",
+            "D": "I, II ve IV",
+            "E": "I, II, III ve IV"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Nöral krest\n\nNöral katlantılar yükselerek nöral tüpü oluşturmak için birbirine yaklaşırken, katlantıların uç kısımlarında bulunan bir grup hücre bulundukları yerden ayrılır. Bu hücrelere nöral krest hücresi denir. Nöral krest hücreleri mezoderme doğru göç ederken epitelyal özelliklerini kaybederek mezenşimal hücrelere dönüşür (kaynağına bakılmaksızın embriyonel gevşek bağ dokusuna mezenşim denir).\n\nNöral krestten gelişenler Yüz ve kafatasının kemik ve yumuşak dokuları Yüz ve boyun derisi Yüz ve önbeyin damarlarının düz kasları Kranial sinir ganglionları (V, VII, IX, X) Tiroid bezi parafolliküler C hücreleri (ultimobranşial cisim) Kalbin konotrunkal septumu Odontoblastlar Spinal arka kök ganglionları\n\nSempatik zincir ve preaortik ganglionlar Gastrointestinal kanalın parasempatik ganglionları ve sindirim sis-temi pleksusları Adrenal medulla Schwann hücreleri, Stallet hücreleri Leptomeninksler (piamater ve araknoidmater) (Dura paraksiyel me-zodermden gelişir) Melanositler",
+        "konu_grubu": "Histoloji Embriyoloji"
+    },
+    {
+        "soru_no": 15,
+        "soru": "Üçüncü faringeal cebin dorsal endoderminden aşağıdakilerden hangisi gelişir?",
+        "cevap_secenekleri": {
+            "A": "Timus",
+            "B": "Alt paratiroid bezleri",
+            "C": "Üst paratiroid bezleri",
+            "D": "Östaki borusu",
+            "E": "Tiroid bezi parafoliküler C hücreleri"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Faringeal ceplerden gelişenler 1 Östaki borusu ve orta kulak boşluğu 2 Fossa tonsillarisler ve tonsilla palatina öncülleri 3 Ventral bölgesinden timus ve dorsal bölgesinden alt paratiroid bezleri oluşur. 4 Ventral bölgesinden ultimobranşial cisim (tiroid bezi parafolliküler C hücreleri gelişir) ve dorsal bölgesinden üst paratiroid\n\nbezi oluşur. 5 Rudimenter",
+        "konu_grubu": "Histoloji Embriyoloji"
+    },
+    {
+        "soru_no": 16,
+        "soru": "Kardiyolipin ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Yağ asitlerinin sitoplazmadan mitokondriye girmesinde kardiyolipine ihtiyaç duyulur",
+            "B": "Kardiyolipin antijenik olan tek insan fosfogliserididir.",
+            "C": "İç mitokondri zarı ve bakteri zarının önemli bileşenidir.",
+            "D": "Yüksek negatif yük taşıyan bir fosfolipiddir.",
+            "E": "Fosfat taşıyıcısı işlevi için ve sitokrom oksidaz etkinliği için özgün olarak gerekmektedir."
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Mitokondri\n\n*İç membranın yaptığı katlanmalara krista denir. Steroid hormon üreten hücrelerde iç membran tübüler kristalar şeklinde düzen-lenmiştir. İç membranda bulunan bir fosfolipid olan kardiyolipin membranın iyonlara karşı geçirmezliğinden sorumludur.*\n\nYağ asitleri mitokondriye karnitin denen bir molekül yardımıyla girer. Karnitin lizin ve metiyonin amino asitlerinden sentezlenen bir dördüncül amonyum katyonudur. Canlı hücrelerde yağların sindirimi sırasında, enerji üretimi için yağ asitlerinin sitoplazmadan mitokondriye girmesinde karnitine ihtiyaç duyulur.\n\nKardiyolipin antijenik olan tek insan fosfogliserididir. İç mitokondri zarı ve bakteri zarının önemli bileşenidir. Özellikle kalp kasında fazladır. Yüksek negatif yük taşıyan bir fosfolipiddir. Fosfat taşıyıcısı işlevi için ve sitokrom oksidaz etkinliği için özgün olarak gerek-mektedir.",
+        "konu_grubu": "Histoloji Embriyoloji"
+    },
+    {
+        "soru_no": 17,
+        "soru": "Az hücre (tipik olarak fibroblast), çok kollajen lif bulunduran bağ dokusudur. Kollajen liflerin fazlalığı mekanik streslere karşı direnç sağlar.\n\nAşağıdakilerden hangisinde kollajen lifler demetler halinde farklı yönlere uzanmıştır?",
+        "cevap_secenekleri": {
+            "A": "Tendon",
+            "B": "Lamina propria",
+            "C": "Tunika mukoza",
+            "D": "Dermis stratum retikülaris",
+            "E": "Vitröz cisim"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Esas Bağ Dokusu\n\nErişkindeki bağ dokusudur. İki alt tipi bulunmaktadır:\n\n*1. Gevşek bağ dokusu: Epitel dokunun altında yer alır (lamina propria) ve kan damarlarını çevreler. Gevşek yapısı kan ile dokular arasında madde alışverişine imkan tanımaktadır. Areolar doku olarak da isimlendirilir. Seyrek kollajen lifler içeren bir bağ dokusu-dur. Hücrelerin arasında bol matriks bulunur. Bu ara madde jel kıvamındadır. Hücreler çoğunlukla kandan göç eden gezici hücre-lerdir. Bu nedenle gevşek bağ dokusu yangı ve immün yanıtlar bölgesidir. Bu reaksiyonlar sırasında hacmi belirgin artabilir. Epitel dokusunu geçen bakteri ve virüslerin bağışıklık sistemi ile ilk karşılaştığı dokudur.*\n\n2. Sıkı bağ dokusu: Az hücre (tipik olarak fibroblast), çok kollajen lif bulunduran bağ dokusudur. Kollajen liflerin fazlalığı mekanik streslere karşı direnç sağlar.\n\n*Eğer kollajen lifler demetler halinde farklı yönlere uzanmışsa düzensiz sıkı bağ dokusu denir. Bu yapı özellikle sindirim sisteminde submukozada, dermiste stratum retikülariste bulunmaktadır.*\n\nDüzenli sıkı bağ dokusu kollajen liflerin yoğun ve daha düzenli yerleştiği ve paralel uzandığı bağ dokusu tipidir. En düzenli sıkı bağ dokusu korneanın stromasıdır. Ayrıca, tendon, ligament ve aponörozlar da düzenli sıkı sağ dokusu bulunur.",
+        "konu_grubu": "Histoloji Embriyoloji"
+    },
+    {
+        "soru_no": 18,
+        "soru": "I. Dura mater\nII. Pia mater\nIII. Astrosit\nIV. Ependim\n\nYukarıdakilerden hangileri glia limitansı oluşturur?",
+        "cevap_secenekleri": {
+            "A": "I ve II",
+            "B": "I ve III",
+            "C": "II ve III",
+            "D": "II ve IV",
+            "E": "III ve IV"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Glia limitans\n\nPiamater ile korteks ve medulla spinalis yüzeyi arasında bulunur. Protoplazmik astrositlerin son ayak çıkıntıları (subpial ayaklar) ile piamater alt ucunu sarmalarıdır. Fiziksel ve immünolojik bariyer görevi üstlenir. Görevleri kan beyin bariyeri gibidir.",
+        "konu_grubu": "Histoloji Embriyoloji"
+    },
+    {
+        "soru_no": 19,
+        "soru": "Gözün fotoreseptör hücrelerine ışık geldiğinde, bu hücrelerde aşağıdaki fizyolojik olaylardan hangisi gerçekleşir?",
+        "cevap_secenekleri": {
+            "A": "Hücre zarında depolarizasyon oluşması",
+            "B": "cGMP hidrolizinin artması",
+            "C": "Transdusin aktivitesinin azalması",
+            "D": "Fosfodiesteraz aktivitesinin azalması",
+            "E": "Voltaja duyarlı sodyum iyon kanallarının açılması"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Görmenin elektrofizyolojisi Işığın fotoreseptör hücrelere ulaşmasını izleyerek sırasıyla aşağıdaki olaylar olur: • Fotopigmentte değişme • Rodopsinin metarodopsin II’ye dönüşümü= Aktif rodopsin • Transdusin aktivasyonu • Fosfodiesteraz aktivasyonu • cGMP’de azalma • Dış segmentte cGMP duyarlı Na+ kanallarının kapanması • Fotoreseptör hücrede hiperpolarizasyon (İMP -40 mV) • Nörotransmitter (glutamat) salınımında azalma • Bipolar hücrelerde ve diğer sinirsel elemanlarda cevap • Gangliyon hücrelerinde aksiyon potansiyeli oluşması",
+        "konu_grubu": "Histoloji Embriyoloji"
+    },
+    {
+        "soru_no": 20,
+        "soru": "Aşağıdakilerden hangisi trombosit adezyonunda rol almaz?",
+        "cevap_secenekleri": {
+            "A": "Gp-Ib/IX",
+            "B": "Gp-Ia/IIa",
+            "C": "Fibrinojen",
+            "D": "Kollajen",
+            "E": "VonWillebrand faktör"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Trombosit tıkacı oluşmasındaki aşamalar ve görevli moleküller\nOlay\tGörevli moleküller\nTrombosit adezyonu\tGp-1b/9, vWF\n\tGp-1a/2a, Kollajen\nTrombosit aktivasyonu\tTromboksan A2, ADP, PAF\n\tKalsiyum, Serotonin\nTrombosit agregasyonu\tFibrinojen, Gp-2b/3a, Tromboksan A2",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 21,
+        "soru": "Aşağıdakilerden hangisi gerim refleksinde rol almaz?",
+        "cevap_secenekleri": {
+            "A": "İntrafuzal iskelet kası lifleri",
+            "B": "Ekstrafuzal iskelet kası lifleri",
+            "C": "Alfa motor nöronlar",
+            "D": "Grup 1a duyu nöronları",
+            "E": "Golgi tendon organı"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Kas iğcikleri ve gerim refleksi\n\nİntrafuzal kas lifleri olarak da bilinir. Kasılma fonksiyonunudan sorumlu hücreleri ise ekstrafuzal kas lifleridir. İntrafuzal lifler kasın kasılma işlevine katılmazlar. Kas iğcikleri ekstrafuzal kas liflerine paralal olarak yerleşmiş olup, kasın her iki ucunda tendona bağlanırlar.\n\nKas iğciklerinin iki afferent innervasyonu bulunur:\n\n* Grup Ia lifler: Hem dinamik hem de statik torba tipinde ve zincir tipinde bulunur.\n\n* Grup II lifler: Statik torba tipinde ve zincir tipinde bulunur.\n\n*Kas iğcikleri kas boyundaki uzamaya kasın kısalması şeklinde refleks bir yanıt oluşturur. Oluşan bu refleks monosinaptik bir ref-lekstir ve gerim refleksi (miyotatik refleks, tendon refleksi) adını alır. Gerim refleksleri vücuttaki tek monosinaptik refleks tipidir. Diğer reflekslerin hepsi polisinaptiktir. Kas iğciği afferentleri ile motor nöron arasındaki sinapsta nörotransmitter olarak glutamat kullanılır. Bu refleks oluşurken antagonist kas ise inhibitör bir ara nöron ile baskılanır (resiprokal inhibisyon). Bu baskılanma sıra-sında iki sinaps kullanılmaktadır.*",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 22,
+        "soru": "Renin-anjiotensin sistemi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Arteriyollerde konstriksiyon yapar.",
+            "B": "Adrenal korteksten aldosteron sentezini artırır.",
+            "C": "Böbrek tübüllerine doğrudan etkiyle sodyum geri emilimini artırır.",
+            "D": "Mezengial hücrelerde kasılma yaparak GFR’yi artırır.",
+            "E": "Beyin üzerinde barorefleks duyarlılığı azaltarak kan basıncını artırıcı etkiyi güçlendirir."
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Renin-angiotensin sistemi\n\nRenin böbreklerde jukstaglomerüler hücreler tarafından salgılanan bir asit proteazdır. Bilinen tek görevi anjiotensinojen’den angi-otensin I oluşturmaktır. Anjiotensinojen karaciğerde sentezlenen bir a2-globulindir. Dolaşımdaki anjiotensinojen miktarları gluko-kortikoidler, tiroid hormonları, östrojenler, birçok sitokinler ve anjiotensin II tarafından artırılır.\n\nAnjiotensin II’nin etkileri:\n\n* Arteriyollerde konstriksiyon yapar, sistolik ve diastolik kan basıncını artırır.\n\n* Aldosteron salgısını artırır.\n\n* Mezengial hücrelerde kasılma yaparak GFR’yi azaltır, böbrek tübüllerine doğrudan etkiyle sodyum geri emilimini artırır.\n\n* Beyin üzerinde barorefleks duyarlılığı azaltarak kan basıncını artırıcı etkiyi güçlendirir.\n\n* Su alımını (dipsojenik etki), ADH ve ACTH salgısını artırır. Kan-beyin bariyerini aşamaz. Ama bu bariyerin dışında kalan sir-kumventriküler organları (anjiotensin II sıvı alımını subfornikal organ ve lamina terminalisin organum vaskulozumu aracılığı ile kan basıncını artırıcı etkisini area postrema aracılığı ile) etkileyerek bu etkileri ortaya çıkarır (kan beyin bariyerinin dışında kalan 4. sirkumventriküler alan arka hipofiz ile buna komşu median eminensin ventral parçasıdır).",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 23,
+        "soru": "Karaciğerde kök hücre fonksiyonu olan hücre hangisidir ve nerede lokalizedir?",
+        "cevap_secenekleri": {
+            "A": "Kupffer hücre – Sinüzoid duvarında yer alır.",
+            "B": "Oval hücreler – Portal alana komşu safra kanalının kolanjiositleri arasında yer alır.",
+            "C": "İto hücresi – Disse aralığında yer alır.",
+            "D": "M hücreleri – Hepatositler arasında yer alır.",
+            "E": "Endotel hücreleri – Hepatositler arasında yer alır."
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Safra kanalikülleri karaciğer lobulünü terk etmeden, safra kanalcıkları ya da Hering kanalları (kolanjiol) olarak bilinen yapıyı oluş-turur. Hering kanallarında hepatositler ve kolanjiositler olmak üzere iki tip hücre bulunur. Kolanjiositlerin ilk görüldüğü safra yolu Hering kanalıdır. Bu kanalda safra akışını destekleyen kontraktil aktivite bulunmaktadır. Hering kanalının bir diğer önemli özelliği, hepatositleri geliştirebilen Oval hücreleri (kök hücreler) içermesidir. Bu hücreler göç edebilirler ve hepatositlere ya da safra kanalı hücrelerine farklılaşabilirler.",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 24,
+        "soru": "Solunum sisteminde klor kayması ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+        "cevap_secenekleri": {
+            "A": "Venöz plazmanın klor miktarı, arteriyel kan plazmasından daha düşüktür.",
+            "B": "Klor hücre dışına çıkarken, bikarbonat hücre içine alınır.",
+            "C": "Eritrosit dışına su da çıkmakta ve eritrosit hacmi azalmaktadır.",
+            "D": "Venöz kanda bulunan eritrositlerin hacmi, arteriyel eritrositlerden daha azdır.",
+            "E": "Eritrosit içen giren karbondioksit ve su, katalaz enzimi ile bikarbonat ve hidrojen iyonuna ayrılır."
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Kanda karbondioksit taşınması\nKarbondioksit kanda 3 şekilde taşınır:\n\n* Çözünmüş olarak (%7’si bu şekilde taşınır).\n\n* Bikarbonat iyonu şeklinde (%70’i bu şekilde taşınır)\n\n* Hemoglobin ve plazma proteinlerine bağlı olarak karbomino bileşikleri halinde (%23’ü bu şekilde taşınır).\n\n*Görüldüğü gibi, CO2 taşınmasının temel yolu, plazmada çözünmüş HCO3- olarak taşınmasıdır. Bu olayın gerçekleşebilmesi için eritrosit içinde karbonik anhidraz aktivitesine ihtiyaç vardır. Karbonik anhidraz CO2 ve sudan H2CO3 oluşturur. H2CO3 ise hızla HCO3- ve H+’e ayrışır. H+ hemoglobin ile tamponlanırken, HCO3- eritrosit membranındaki anyon değiştirici 1 (AE1, band 3 olarak da bilinir) tarafından, Cl- ile karşılıklı yer değiştirerek, plazmaya çıkar.*\n\nKlor kayması\n\nYukarıda anlatılan HCO3 - ile Cl-’un yer değiştirmesi klor kayması olarak bilinir.\n\n* Venöz plazmanın Cl- miktarı, arteriyel kan plazmasından daha düşüktür (venöz eritrosit içi Cl- miktarının da arteriyel eritrosit içi Cl- miktarından yüksek olacağını göz önüne alınız).\n\n* Eritrosite giren her CO2 için, eritrosit içinde bir osmotik aktif madde (HCO3- veya Cl-) artışı olmaktadır. Bunun sonucunda eritrosit içine su da girmekte ve eritrosit hacmi artmaktadır. Venöz kanda bulunan eritrositlerin hacmi, arteriyel eritrositler-din daha fazladır (venöz kanın hematokrit değeri arteriyel kandan, yaklaşık %3 daha fazladır).",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 25,
+        "soru": "Sekretin ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Pankreas kanallarında ve safra yollarında bikarbonat salgısını artırır.",
+            "B": "Pankreasta CCK’nın etkisini güçlendirir.",
+            "C": "Mide asit salgısını artırır.",
+            "D": "Pilor sfinkterinde kasılmaya neden olarak, mide boşalmasını yavaşlatır.",
+            "E": "Duedonumda asit varlığı ve sindirim ürünleri sekretin salgısını artırır."
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Sekretin\n\nİnce bağırsağın üst bölümündeki S hücrelerinden salgılanır. Duedonumda asit varlığı ve sindirim ürünleri sekretin salgısını artırır.\n\nEtkileri:\n\n1. Pankreas kanallarında ve safra yollarında bikarbonat salgısını artırır.\n\n2. Pankreasta CCK’nın etkisini güçlendirir.\n\n3. Mide asit salgısını azaltır.\n\n4. Pilor sfinkterinde kasılmaya neden olarak, mide boşalmasını yavaşlatır.",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 26,
+        "soru": "Aldosteron ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Böbrek üstü bezi korteksinin zona glomerüloza bölgesinden salgılanır.",
+            "B": "Aldosteronun etkisiyle plazmada sodyum iyonu artar.",
+            "C": "Distal tübül sonu ve kortikal toplayıcı kanallardan potasyum iyonu sekrete eden hücreler esas hücrelerdir.",
+            "D": "Aldosteron fazla salgılanması durumunda metabolik asidoz ortaya çıkar.",
+            "E": "Aldosteron etkisiyle ter ve tükürük bezlerinden sodyum ve klor emilimi artar."
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Aldosteron\n\nBöbrek üstü bezi korteksinin zona glomerüloza bölgesinden salgılanır. Yağda çözünebildiği için hücre membranlarını kolaylıkla geçer. Dolaşımda %60’ı proteinlere bağlı olarak bulunur. Aldosteron hücre içi steroid reseptörlerine bağlanır.\n\nSodyumun böbrek tübüllerinden reabsorbsiyonuna ve K+ ve H+’in diürezine yol açar. Yani, aldosteronun etkisiyle plazmada:\n\n* Na+ artar.\n\n* K+ azalır.\n\n* H+ azalır (fazla salgılanmada metabolik alkaloz ortaya çıkma nedeni). Yüksek aldosteron varlığında hafif alkaloz oluşur.\n\nAldosteronun etkileri\n\nHedef doku\tEtki\n\nBöbrek distal tübül\tPotasyum ve hidrojenin idrarla atılımını artırır. Sodyumu geri emer.\n\nTer ve tükürük bezleri\tNa+, Cl- geri emilir. K+ ve bikarbonat iyonlarının sekresyonları ise artar.\n\nBağırsak\tNa+ absorbsiyonu artar. Aldosteron yetersizliğinde absorbe olamayan Na+ Cl- ve su diareye ne-den olur ve tuz kaybı daha da artar.",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 27,
+        "soru": "Östrojen fizyolojisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Folikül uyarıcı hormon (FSH) teka interna hücrelerinde aromataz etkinliğini artırmaktadır.",
+            "B": "Uterus kasının miktarını ve kasılabilir proteinlerini artırır.",
+            "C": "Sekonder seks karakterlerinin gelişmesinden sorumludur.",
+            "D": "Over folliküllerinin büyümesini uyarır.",
+            "E": "Ovaryumlardan salgılanan beta-östradiol, en önemli östrojendir."
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Östrojenler\n\nÖstrojenler çocukluk döneminde çok az miktarda salgılanırken, puberteyle birlikte hipofizer gonadotropinlerin etkisiyle salgıları önemli ölçüde artar.\n\nÖstrojenin kaynağı:\n\n* Over folliküllerinin granuloza hücrelerinden,\n\n* Korpus luteumdan ve\n\n* Plasentadan salgılanırlar.\n\n* Ayrıca az miktarda da böbrek üstü korteksinden salgılanırlar.\n\nÖstrojenler:\n\n* Östron (E 1),\n\n* β-östradiol (E2) ve\n\n* Östriol (E 3) vücutta sentezlenen doğal östrojenlerdir.\n\nOvaryumlardan salgılanan en önemli östrojen β-östradioldür. En kuvvetli östrojendir.\n\nFSH granuloza hücrelerinde aromataz etkinliğini artırmaktadır. Aromataz etkinliği ovaryumlardaki diğer hücrelerde bulunmamak-tadır. FSH, follikülün olgunlaştığı geç dönemde, granuloza hücrelerindeki LH reseptörlerinin ekspresyonunu da artırmaktadır. Gra-nuloza hücrelerinin mitotik aktivitesini artırarak prolifere olmasını sağlayan FSH, ayrıca inhibin salgılanmasına da neden olur. FSH kendine ait reseptör sayısını da artırır. Böylece granuloza hücrelerinin östrojen yapımı artar.\n\nÖstrojenin dişi üreme organlarına etkileri\n\n* Over folliküllerinin büyümesini uyarır.\n\n* Fallop tüplerinin hareketini artırır.\n\n* Endometrium, serviks ve vajinada döngüsel değişikliklerin ortaya çıkmasına neden olur.\n\n* Uterus kan akımını artırır.\n\n* Uterus kasının miktarını ve kasılabilir proteinlerini artırır.\n\n* Uterusu oksitosine daha duyarlı hale getirir.\n\n* Sekonder seks karakterlerinin gelişmesinden sorumludurlar. Fakat pubik ve aksiler kıllanmadan daha ziyade böbrek üstün-den salgılanan androjenler sorumludur.",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 28,
+        "soru": "Sinyal iletimi olmadığında Isı şok proteinleri (Hsp) ile örtülü reseptör ailesi aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Adenilat siklaz sinyal yolu",
+            "B": "Guanilat siklaz sinyal yolu",
+            "C": "Tirozin kinaz sinyal yolu",
+            "D": "JAK-STAT sinyal yolu",
+            "E": "Steroid hormon sinyal yolu"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Steroid ve tiroid hormonların hücredeki etki mekanizmaları\n\n*Steroid hormonlar ve tiroid hormonları da hücredeki transkripsiyonu etkilerler. Fakat burada kullanılan mekanizma MAP kinaz kaskadı ve JAK-STAT yolundan farklıdır. Hormonlar hücre membranından içeri girerek kendine ait reseptörlere bağlanır. Kortizol ve progesteronun reseptörü sitoplazmada bulunur. Bu reseptörlerin DNA’ya bağlanacak kısmı ortamda hormon yokken ısı şok proteini ile (HSP-90) örtülüdür. Hormon reseptörle bağlanınca HSP-90 ayrılır. Östrojen, androjen ve tiroid hormonları, D vitamini ve retinoik asitin reseptörleri çekirdekte DNA üstündedir. Hormon DNA ile etkileştikten sonra transkripsiyon başlar.*",
+        "konu_grubu": "Fizyoloji"
+    },
+    {
+        "soru_no": 29,
+        "soru": "Anemi etiyoloji araştırılan hastada yapılan genetik bir çalışma, β-globin genindeki bir nokta mutasyonunu ortaya çıkarıyor. Bu mutasyon, β-globin mRNA molekülünde AUG kodonundan üç baz önce guaninin (G) sitozin (C) ile değiştirilmesine neden oluyor.\n\nBu hastalarda aşağıdakilerden hangisi muhtemelen etkilenmiştir?",
+        "cevap_secenekleri": {
+            "A": "mRNA’nın ribozoa bağlanması",
+            "B": "Çeviri sırasında translokasyon",
+            "C": "Peptit bağı oluşum defekti",
+            "D": "Polipeptit sentezinin erken sonlandırılması",
+            "E": "Protein hedefleme defekti"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Protein sentezinde ilk aminoasit her zaman metiyonindir. AUG kodonu metiyonin taşıyan tRNA’nın bağlandığı kodondur. Eğer bu kodondan önce bir mutasyon olursa mRNA’nın ribozoma bağlanmasında sorun yaşanır.\n\nAyrıca gelebilecek diğer klinik sorular için B-talasemide hemoglobinin beta zincirinde sentez defekti olduğu unutulmamalıdır. Bu-radaki temel sorun ise mRNA’da splicing işleminde Ekzon – İntron düzenlenmesinde hata oluşturmasıdır.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 30,
+        "soru": "Adrenal kortekste aşağıdaki enzimlerden hangisinin genetik defekti kolesterol sentezinde aksamaya neden olmaz?",
+        "cevap_secenekleri": {
+            "A": "Squalen sentetaz",
+            "B": "Tiyolaz",
+            "C": "Mevalonat Kinaz",
+            "D": "HMG KoA Liyaz",
+            "E": "Prenil transferaz"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Tuzak soru. Aslında sorunun kurgusu başka bir yolağı sorgulamak üzere tasarlanmıştır. Kolesterol sentezinde çok sayıda enzim var, sınava giren hiçbir aday bunları tam olarak bilemez, bu tarz sorularda aslında başka bir metabolik yolun anahtar enzimi sorgulanır. Bu sırada isim benzerliği olanlar tercih edilir. HMG KoA liyaz keton sentezinde anahtar enzimdir. Diğer seçenekler kolesterol sen-tezinde yer alır, eksikliğinde kolesterol sentezi bozulur.\n\nHMG KoA Redüktaz kolesterol sentezinde hız kısıtlayıcı enzimdir, HMG KoA Sentaz ve tiyolaz hem kolesterol hem de keton sentezinde rol alan ortak enzimlerdir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 31,
+        "soru": "İç hastalıkları kliniğine başvuran 55 yaşında erkek hasta son 10 yıldır tip 2 diyabet teşhisi ile izleniyor. Hastanın kontrollere düzensiz geldiği, diyet programına etkin bir şekilde uymadığı öğreniliyor. Yapılan muayenede katarakt ve retinopati geliştiği görülüyor. Laboratuvar incelemesinde idrar analizinde mikroalbuminüri ve açlık-tokluk kan glukoz seviyesinde yükseklik göz-leniyor.\n\nBu hastada mevcut doku hasarlarının oluşmasının başlıca sebebi aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Glikolize hemoglobin artışı",
+            "B": "Hücrelerde sorbitol birikimi",
+            "C": "Glutatyon peroksidaz aktivitesinde artış",
+            "D": "NADH oksidaz enzim aktivitesinde azalma",
+            "E": "Fruktozun metabolize edilememesi"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Diyabetin komplikasyonlarının oluşumunda önemli nedenlerden bir hücrelerde artmış sorbitol oluşumu ve birikimidir.\n\nGlukoz, sorbitol üzerinden fruktoza dönüşebilir. Aldoz redüktaz enzimi glukozu sorbitole indirger. Bu enzim lens, retina, eritrosit, böbrek, periferik sinirlerin schwann hücrelerinde, vesica seminalis, yumurtalıklar ve plasenta da yoğundur. Karaciğer, over, testis, vesica seminalis ve spermde ise sorbitolü fruktoza çevirecek sorbitol dehidrojenaz enzimi bulunur. Vesica seminalisde glukozdan fruktoz oluşturan bu iki reaksiyon, enerji kaynağı olarak fruktozu tercih eden sperm hücreleri için önemlidir.\n\nÖzellikle glukoz girişinin insülinden bağımsız olduğu sinir hücresi, lens ve glomerüller gibi dokularda, glukoz konsantrasyonunun yüksek olduğu DM gibi hastalıklarda hücre içine çok miktarda glukoz girer ve sorbitol oluşumu artar. Sorbitol glukoz gibi memb-ranları kolay geçemez. Bu dokularda sorbitol dehidrojenaz enzimi az miktarda bulunur. Sonuçta sorbitol bu hücrelerde birikir ve su çekerek hücre şişmesine yol açar. Diyabette görülen katarakt, retinopati, periferal nöropati ve nefropati gibi bazı patolojiler buna bağlanabilir.\n\nHbA1c diyabetin regülasyonunu değerlendirmede kullanılır, komplikasyonların nedeni değildir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 32,
+        "soru": "Aşağıdaki aminoasitlerden hangisi protein sentezine post translasyonel modifikasyona uğramadan ribozomal sentezle katılır?",
+        "cevap_secenekleri": {
+            "A": "Metillizin",
+            "B": "Metilhistidin",
+            "C": "Hidroksiprolin",
+            "D": "Gama-karboksiglutamat",
+            "E": "Pirolizin"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Bu soru formatı TUS’da selenosistein için iki kez geldi, sıra pirolizinde !!!\n\nStandart 20 aminoasit dışında posttranslasyonel olmayan en önemli aminoasitler selenosistein ve pirolizindir.\n\nBir amino asitin protein yapısına ribozomal sentez sırasında katılması için DNA’da kodlanması, mRNA’ya kodun aktarılması ve kendini tanıyan tRNA’sı olması temel şarttır. Bu nedenle protein yapısına direkt olarak sadece 20 amino asit katılabilir. Bununların dışında, hidroksi prolin, hidroksi lizin, metil lizin, γ-karboksi glutamat yer posttranslasyonel modifikasyon ile protein yapısında yer alırlar.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 33,
+        "soru": "Aşağıda verilen tümör belirteçlerinden hangisi belli bir dokuya özgüdür?",
+        "cevap_secenekleri": {
+            "A": "Laktat dehidrogenaz",
+            "B": "Nöron spesifik enolaz",
+            "C": "ACTH",
+            "D": "Kalsitonin",
+            "E": "CEA"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Tuzak soru, Nöron spesifik enolaz sadece nörona özgü değildir dikkat!!!,\n\nKalsitonin: Tiroid parafoliküler C hücrelerinden salınan kalsitonin, tiroidin medüller karsinomlarında yükselir. Tiroid dokusuna özgüdür\n\nAlkalen fosfataz: Primer ve sekonder karaciğer kanserlerinde yükselir. Aynı zamanda kanserlerin osteoblastik metaztazlarında da ALP yükselmesi gözlenir (prostat kanserinin kemik metastazları gibi).\n\nLaktat dehidrojenaz: Birçok kanserde artmış hücre yıkımını yansıtacak şekilde yükselmiştir.\n\nNöron-spesifk enolaz: Glikolitik yolakta etkili olan enolaz enziminin nöro-endokrin sisteme spesifk formudur. Küçük hücreli akciğer kanseri, nöroblastom, feokromasitoma, karsinoid sendrom, tiroidin medüller kanseri, melanom ve pankreatik endokrin tümörler-de artar\n\nKarsinoembriyonik antjen (CEA): Kolorektal, gastrointestnal, akciğer ve meme kanserlerinde en çok kullanılan markırdır. CEA, hücre membranı glikoproteinleri ailesindendir. CEA, adı geçen kanserlerin izleminde kullanılır.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 34,
+        "soru": "Bir semt polikliniğine başvuran hastaya 75 gr glukoz yükleme testi yapılacaktır. Ölçüm için alınacak numuneler ancak ertesi gün laboratuvara ulaştırılabilmektedir.\n\nTest sonuçların etkilenmemesi için kan lama tüplerine aşağıdakilerden hangisi eklenmelidir?",
+        "cevap_secenekleri": {
+            "A": "İodoasetat",
+            "B": "Dinitrofenol",
+            "C": "Malonat",
+            "D": "Sitrat",
+            "E": "Sodyum EDTA"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Sodyum forid, Alınan kan örneğinde eritrositler başta olmak üzere tüm hücrelerde glikolizi (glikolitik yolakta enolaz enziminin in-hibitörüdür) bloke eder ve glukoz konsantrasyonlarını sabit tutar. Böylece örnek bekleyecekse eritrosit başta olmak üzere kan hüc-relerinin glukozu kullanması engellenir ve bekleyen örnekte olası glukoz düşüşü engellenmiş olur. Yine aynı amaçla iyodoasetatta kullanılır, iyodoasetat glikolizde gliseraldehit-3-fosfat dehidrojenaz enziminin inhibitörüdür. Florid 2 kez sorgulandı, iodoasetat sorgulanmaya aday!!!",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 35,
+        "soru": "Protein sentezi için aşağıdakilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Prokaryotlarda ilk aminoasit her zaman N-formilmetiyonin’dir",
+            "B": "Bazı aminoasitlerin birden fazla tRNA’sı bulunur",
+            "C": "Ökaryortlarda 28S ribozomal alt birim aminoasitlerin birbirine bağlanmasında rol oynar",
+            "D": "tRNA aminoasitleri 3’ ucu ile bağlar",
+            "E": "Peptidil transferaz aminoasitleri GTP kullanarak birbirine bağlar"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Ribozomal protein sentezi sırasında peptit bağı oluşumunda peptidil transferaz görev alır. Enzim RNA yapısındadır ve sorgulan-maya aday en önemli özelliği ATP veya GTP gibi enerji verecek metabolitleri kullanmamasıdır.\n\nSentez sırasında ATP aminoasit aktivasyonu ve tRNA’ya bağlanması için, başlama kompleksi oluşumunda ATP ve GTP, tRNA’nın ribozoma bağlanması ve mRNA’nın yana kayması sırasında GTP kullanılır.\n\nPeptidil transferaz, ökaryotlarda 28S rRNA’nın, prokaryotlarda 23S rRNA’nın katalitik aktivitesidir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 36,
+        "soru": "Pürin metabolizmasını etkileyen ilaçlardan biri olan metotreksatın etki mekanizması nedir?",
+        "cevap_secenekleri": {
+            "A": "Hipoksantin-guanin fosforiboziltransferaz (HGPRTaz) aktivitesini artırır.",
+            "B": "Glutamin analogudur ve glutaminin metabolizmasını uyarır.",
+            "C": "Dihidrofolat redüktaz enzimini inhibe ederek folik asit metabolizmasını etkiler.",
+            "D": "Adenilosüksinat sentaz enzimini aktivite eder.",
+            "E": "Salvage yolu enzimlerini stimüle eder."
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Metotreksat gibi folik asit analogları, dihidrofolatın tetrahidrofolata dönüşümünü yapan dihidrofolat redüktaz enzimini yarış-malı inhibe eder ve böylece tetrahidrofolat sentezini azaltırlar.\n\nSonuçta hem DNA sentezi için timin ve hem de DNA ve RNA sentezi için pürinlerin oluşumu inhibe olur.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 37,
+        "soru": "Selenosistein sentezi için hangi moleküller gereklidir?",
+        "cevap_secenekleri": {
+            "A": "ATP, selenat, serin ve tRNAsec",
+            "B": "Glisin, selenyum, serin ve tRNAsec",
+            "C": "NADPH, selenat, serin ve tRNAsec",
+            "D": "Pirüvat, selenyum, serin ve tRNAsec",
+            "E": "Ribozom, selenyum, sistein ve tRNAsec"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Selenositein biyokimya kitaplarına en son giren gelişmelerden biridir, birçok özelliği ile geçmişte soru oldu, olmaya da devam edecek.\n\nHücre amino asit havuzunda selenosistein mevcut değildir. Dolayısı ile protein sentezi sırasında ribozom, belli bir bölgede rastladı-ğı UGA kodonuna, selenosistein olarak karar verir ve selenosisteini alışılmadık bir şekilde sentezler. Selenosistein sentezi için serin amino asiti, ATP, selenat (SeO4 -2) ve tRNAsec gerekir. Selenofosfat sentetaz enzimi ATP’den kopardığı fosfatı selenyuma ekleyerek selenofosfat yapar. tRNAsec serin amino asitini bağlar ardından serin yan zincirindeki hidroksil grubu yerine selenofosfattan selen-yum aktarılır ve böylece selenosisteinin sentezi tRNA’sı üzerinde gerçekleşir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 38,
+        "soru": "Hangi amino asit, birçok transaminasyon reaksiyonunda genel amino grubu kaynağı olarak görev yapar?",
+        "cevap_secenekleri": {
+            "A": "Glutamin",
+            "B": "Glutamat",
+            "C": "Alanin",
+            "D": "Aspartat",
+            "E": "Lizin"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Transaminasyon reaksiyonları her zaman sorulur, şimdiye kadar: koenzim pridoksal fosfat, aspartat-oksaloasetat dönüşümü, al- fa-ketoglutaratın amin grubu toplayıcısı olduğu soruldu. Beklenen soru: tüm transaminasyon reaksiyonlarının sonunda glutamat çıkar, tersten sorulursa glutamat tüm reaskiyonlar için amin grubu vericisidir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 39,
+        "soru": "Pankreas kanseri nedeniyle opere edilen hastada protein sindirim ve emilimi ile karaciğerin sentez fonksiyonunu değer-lendirmek için kan düzeyi en sensitif protein aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Transferrin",
+            "B": "Prealbumin",
+            "C": "Fibrinojen",
+            "D": "Albumin",
+            "E": "Makroglobulin"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Eskiden beslenmenin değerlendirilmesinde Albumin kullanılırdı. Ancak albüminin yarı ömrü 2-3 hafta civarında olduğu için gü-nümüzde yarı ömrü yaklaşık 12 saat olan Prealbumin ve Retinol bağlayıcı protein Nutrisyonel durumu ve karaciğer fonksiyonunu değerlendirmek için kullanılıyor.\n\nAzaldığı durumlar: karaciğer sirozu, inflamasyon, malnutrisyon.\n\nArttığı durumlar: Kronik renal hastalık ve Hodgkin Hastalığıdır.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 40,
+        "soru": "Aşağıdaki lipoproteinlerden hangisi plazmin oluşumunu engelleyici etkiye sahiptir?",
+        "cevap_secenekleri": {
+            "A": "Şilomikron",
+            "B": "VLDL",
+            "C": "LDL",
+            "D": "Lp(a)",
+            "E": "HDL"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Lp (a), 1 mol apo (a)’ya bağlı 1 mol LDL’den oluşur. Apo (a) plazminojene yapısal benzerlik gösterir.\n\nAteroskleroza bağlı prematür koroner kalp hastalığı ve fibrinoliz inhibisyonuna bağlı tromboz görülür.\n\nLp (a) bu özellikleri ile Homosisteine benzerlik gösterir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 41,
+        "soru": "Biyokimyasal reaksiyonlarda Serin, Glisin ve Histidin aminoasitlerinden kopardığı tek karbonlu birimleri taşıyan koenzim aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Riboflavin",
+            "B": "Tetrahidrofolat",
+            "C": "Tiamin pirofosfat",
+            "D": "S-adenozil metiyonin (SAM)",
+            "E": "Piridoksal fosfat"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Aminoasit metabolizmasında tek karbon naklinde görev alan yapılar sıklıkla sorulur: SAM, biotin, tetrahidrofolat (Son TUS da SAM soruldu)\n\nTetrahidrofolat serin, glisin, histidin ve kolin gibi vericilerin bir karbon parçalarını alır ve amino asitlerin, pürinlerin ve timidinin sentezindeki ara metabolitlere taşır. Tetrahidrofolatın büyüme ve hücre bölünmesinde etkileri vardır. Özellikle de nöral tüpün hayatın erken evrelerinde gelişiminde önemlidir. Dolayısı ile annede folat eksikliği spina bifida ve diğer nöral tüp defektlerinin görülmesine yol açar.\n\nFolat eksikliğinde, metiyonin sentaz enzimi çalışamadığı için homosistein miktarları yükselir ve yüksek homosistein düzeyleri; ate-roskleroz, tromboz ve hipertansiyon için önemli bir risk faktörüdür",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 42,
+        "soru": "Aşağıdaki hormonların hangisi hormona duyarlı lipazı aktive etmez?",
+        "cevap_secenekleri": {
+            "A": "Adrenalin",
+            "B": "Glukagon",
+            "C": "İnsülin",
+            "D": "Growth hormon",
+            "E": "Kortizol"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Dikkat sorusu tüm stres hormonları kan glukoz seviyesini arttırır, lipidlerin yıkımını uyararak yağ asitlerinin enerji metaboliz-masında kullanımını sağlar.\n\nHormon duyarlı Lipaz\nYağ hücreleri\nDepo TG’ lerin yıkımı\ncAMP bağımlı\nProtein kinaz A aktifleştirir.\nHormon duyarlı lipaz aktivasyo-nu ile lipolizi uyaran hormonlar: Glukagon, adrenalin, kortizol, ACTH, büyüme hormonu, tiroid hormonları.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 43,
+        "soru": "Kemik yapımının göstergesi olarak kullanılan belirteç hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Osteokalsin",
+            "B": "İdrar kalsiyum düzeyi",
+            "C": "İdrar ACP",
+            "D": "N-terminal telopeptid (Ntx) (idrar)",
+            "E": "C-terminal telopeptid (Crosslaps) (idrar-serum)"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Kemik yapım markırları\n\n* Osteokalsin: kemikte en fazla bulunan nonkollajen protein\n\n* Kemik ALP\n\nKemik yıkım markırları:\n\n* İdrar Ca\n\n* Serum ve idrar tartarata dirençli asit fosfataz\n\n* İdrarda artan hidroksiprolin\n\n* İdrarda artan hidroksilizin, glikozile hidroksilizin, glukozil-galaktozil hidroksilizin (sadece\n\n* matür kollajende yer alırlar.)\n\n* N-terminal telopeptit (Ntx) (idrar)\n\n* C-terminal telopeptit (Crosslaps) (idrar-serum)\n\n* Pyridinyum ve deoksipyridinyum çapraz bağları",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 44,
+        "soru": "Beta oksidasyonda görev alan Karnitin palmitoil transferaz-II’nin hücredeki fonksiyonu aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Yağ asitlerinin sitoplazmada aktivasyonu",
+            "B": "Dolaşımdaki yağ asitlerinin hücreye transportu",
+            "C": "Yağ asitlerinin mitokondri iç zarından matrikse taşınması",
+            "D": "Mitokondride açil-karnitinin, açil-KoA ve karnitin olarak ayrılması",
+            "E": "Sentezlenen ATP nin sitoplazmaya taşınması"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Yağ asidlerinin oksidasyonu için ilk basamak mitokondi ri içine transferdir. Bu basamak yağ asidi oksidasyonunda hız kısıtlayıcı ba-samaktır. Yağ asidleri önce açil KoA sentetaz ile aktive edilir ve yağ açil KoA oluşur. Karnitin açil transferaz I enzimi yağ açil KoA ile karnitini bir araya getirir. Karnitin ile iç mitokondri membranına taşınan yağ asidi karnitin açil transferaz II yardımı ile karnitinden ayrılarak yeniden mitokondrial KoA ile birleşir.\n\nŞekil: Yağ asitlerinin mitokondriye transportu",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 45,
+        "soru": "Organizmamızda sentezi yapılan en aktif D vitamini hangisidir?",
+        "cevap_secenekleri": {
+            "A": "1-hidroksi kolekalsiferol",
+            "B": "24-hidroksi kolekalsiferol",
+            "C": "25-hidroksi kolekalsiferol",
+            "D": "1,25-dihidroksi kolekalsiferol",
+            "E": "1,24,25-trihidroksi kolekalsiferol"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Vitaminler ile sınıflandırılsa da biyokimyasal etkileri bakımından steroid hormon yapısındadır.\n\nAktif formu 1,25-dihidroksivitamin D3 (kalsitriol) temel olarak kalsiyum ve fosfat hemostazında rol oynayan bir hormondur.\n\n25-Hidroksivitamin D3, renal tubüller, kıkırdak, barsak ve plasentada bulunan mitokondrial bir enzim tarafından 24. pozisyonda hidroksillenebilir. Oluşan 24,25-dihidroksivitamin D3, biyolojik olarak inaktiftir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 46,
+        "soru": "Ökaryotik bir organizmada hücre membranları neden çift tabakalı yapıdadır?",
+        "cevap_secenekleri": {
+            "A": "Protein yapıların bütünlüğü sağlaması için",
+            "B": "Hücre içi ve dışı bölgede temel olarak sulu ortam bulunduğu için",
+            "C": "İntegral proteinleri barındırdığı için",
+            "D": "Lipit yapıları az miktarda içerdiği için",
+            "E": "Karbonhidrat yapıları içerdiği için"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Hücre membranlarının çift fosfolipit tabaka içermesinin nedeni içerde ve dışarıda sulu bir ortamın bulunmasından kaynaklanmak-tadır.\n\nBöylesine bir ortamda suya bakan iç ve dış bölümlere doğru fosfolipit tabakanın hidrofilik kısımları\n\nyerleşeceğinden iki adet fosfolipit tabakaya ihtiyaç vardır.\n\nLipoprotein membranları ise tek tabakadır, çünkü içinde yalnızca saf hidrofobik trigliseritler ve kolesterol esteri mevcuttur.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 47,
+        "soru": "Kan kültürü ve alınmasına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Erişkinde en az 20 ml kan alınmalıdır",
+            "B": "Çocuklarda alınan kan miktarı vücut kitle indeksine göre hesaplanmalıdır.",
+            "C": "Kan kültürü örnekleri 2 saatten kısa sürede ve 25 °C’de laboratuvara iletilmelidir.",
+            "D": "Kan kültürü ateş antipiretik ilaçlarla düşürüldükten sonra alınmalıdır.",
+            "E": "Antiseptiklerden klorheksidine Serratia marcensens dirençlidir"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Son sınavlarda uygun mikrobiyolojik kültürler ve kültür alırken dikkat edilecek hususlar sıklıkla sorulmaktadır. Kan kültürü ateş çıkmasından önceki 30-60 dakikalık sürede alınmalıdır. Kan kültürü antibiyotik tedavisi başlanmadan önce alınmalııdr. Primer bakteriyemi ve fungemi şüphesi varsa en az 2 set kan kültürü alınmalıdır. Bir kan kültürü seti ifadesi ile tek bir damar girişimiyle alınan kanın dağıtıldığı kültür şişelerinin tümünü ifade eder.Bir set kan kültürü erişkinlerde aerob ve anaerob olmak üzere 2 kan kültür şişesine ekilmelidir. Kan kültürü örnekleri 2 saatten kısa sürede ve 25 °C’de laboratuvara iletilmelidir.",
+        "konu_grubu": "Biyokimya"
+    },
+    {
+        "soru_no": 48,
+        "soru": "Tekrar kullanılabilen koroner arter kateteri ve santral venöz kateterler için sterilizasyon dezenfeksiyon işlemi için en uygun kimyasal madde aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Benzalkonyum klorit",
+            "B": "Perasetik asit",
+            "C": "Hekzaklorofen",
+            "D": "Klorheksidin",
+            "E": "Etil alkol"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Sterilizasyon, dezenfeksiyon işlemleri, dezenfektan ve antiseptikler TUS sınavlarında en sık sorulan konulardandır. Spaulding sınıf-landırmasına göre koroner arter kateteri ve santral venöz kateterler kritik tıbbi malzemelerdir. Kritik malzemeler; steril dokulara, vücut boşluklarına doğrudan temas eden tıbbi aletler (kateter, kalp pili,idrar sondası bazı cerrahi aletler vb.) gibi steril ve tek kullanımlık olmalıdır.\n\nTekrar kullanılabilir olanlardan ısıya dayanıklı olanlar otoklavda ve ısıya dayanıksız olanlar etilen oksit gazı ile etilen oksid ci-hazında steril edilebilir. Ayrıca, bu tıbbi aletler yüksek düzey (sporosidal) dezenfektan olan gluteraldehit, ortofitaldehit, perasetik asit, glukoprotamin ve hidrojen peroksit gibi dezenfektanlar ile de steril hale getirilebilir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 49,
+        "soru": "Gram negatif bakterilerin identifikasyonunda kullanılan testlerden hangisinde bazı mikroorganizmaların aminoasitlerden triptofanı ayrıştırması sonucu açığa çıkan kimyasal maddeyi saptama yeteneği araştırılır?",
+        "cevap_secenekleri": {
+            "A": "İndol testi",
+            "B": "Metil kırmızısı testi",
+            "C": "Sitrat testi",
+            "D": "Voges-Proskauer testi",
+            "E": "PYR testi"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Soruda indol testi tanımlanmaktadır.\n\nİndol testi: Mikroorganizmaların bir aminoasit olan triptofanı ayrıştırarak (triptofanaz enzimi ile) indol meydana getirebilme yeteneğini belirlemek için kullanılır.\n\nE.coli indol testi pozitif olması ile Klebsiella pneumoniae’dan ayrılır.\n\nMetil red (kırmızısı) testi: Bu test, glikozun fermentatif metobolize olması sonu besiyerinde organik asitlerin meydana geldiğini ve pH’nın düştüğünü ortaya koymak için yapılır.\n\n*Voges-Proskauer testi: bazı mikroorganizmaların glikozu fermente edilerek, nötral bir ürün olan acetylmethylcarbinol’u (acetoin) meydana getirme yeteneğini tayinde kullanılır. Bakteri türlerini (K. pneumoniae (+), E. coli (-) belirlemede kullanılır. Glikoz, önce pirüvikasit’e metabolize olur.*\n\nSitrat testi: Bu test, mikroorganizmaların, besi yerlerine katılan sitratı karbon kaynağı ve amonyum tuzlarını da nitrojen kaynağı olarak kullanabilme yeteneğini saptamada, bakteri cins ve türlerini identifikasyonda kullanılır.\n\nPirrolidonil Arilamidaz (L-pirolidonil-naftilamid, PYR) testi, A grubu beta-hemolitik streptokok ve enterokokları tanımlamak için kullanılan hızlı bir testtir.PYR testi enterokoklarda ve Streptococcus pyogenes (A grubu beta hemolitik streptokok) ’de pozitiftir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 50,
+        "soru": "Tip III sekresyon sistemi aşağıdaki bakterilerden hangisinde bulunmaz?",
+        "cevap_secenekleri": {
+            "A": "Pseudomonas aeruginosa",
+            "B": "EPEC",
+            "C": "Salmonella",
+            "D": "Yersinia enterocolitica",
+            "E": "Listeria monocytogenes"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Tip III sekresyon sisteminin diğer adı injektozomdur ve sadece Gram negatif bakterilerde bulunur. Tip III sekresyon sistemi: Bak-terinin hedef hücrede oluşturduğu tüneller aracılığı ile toksin yapısındaki maddeleri doğrudan konak hücreye enjekte etmesidir. Salmonella spp., Yersinia spp., Entoropatojenik E. coli, Shigella ve Pseudomonas aeruginosa gibi Gram negatif bakterilerde bulu-nur. Listeriaa monocytogenes, Gram pozitif basil olup injektozom (Tip III sekresyon sistemi) içermez.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 51,
+        "soru": "Meningokok menenjiti olan 10 yaşında kız çocukta penisin alerjisi varsa tedavide kullanılabilecek olan alternatif antibiyo-tiğin etki mekanizması aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "DNA giraz (Topoizomeraz) enzimi inhibisyonu",
+            "B": "Dihidropteorat sentetaz enzimi inhibisyonu",
+            "C": "İnisiasyon aşamasında 30 S ribozoma bağlanarak protein sentezinin inhibisyonu",
+            "D": "Protein sentezinin peptidil transferaz aşamasında 50 S ribozoma bağlanarak protein sentezinin inhibisyonu",
+            "E": "DNA bağımlı RNA polimerazenzimi inhibisyonu"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Soruda kloramfenikol tanımlanmaktadır. Kloramfenikol, Protein sentezinin peptidil transferaz aşamasında 50 S ribozoma bağlana-rak protein sentezinin inhibisyonuna neden olur.\n\nRibozomun 50S’e bağlanarak peptİdil transferazı inhibe eder. Kloramfenikol bakteriyostatik bir antibiyotiktir, ancak; S. pneumo-niae, H. influenzae ve N. meningitidis’e karşı bakterisidal etki gösterir.Kan-beyin bariyerini yüksek oranda geçer, pensilin alerjisi olan hastalarda meningokok ve H. influenzae menenjiti tedavisinde kullanılabilir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 52,
+        "soru": "Genital ülseri olan hastada aşağıdakilerden hangisi Haemophilus ducreyi infeksiyonu ön tanısını koydurur?",
+        "cevap_secenekleri": {
+            "A": "Ağrılı genital ülser, ağrılı lenfadenopati (LAP)",
+            "B": "Ağrısız genital ülser, ağrılı LAP",
+            "C": "Çok sayıda ağrılı genital ülser ve ağrısız bilateral LAP",
+            "D": "Çok sayıda ağrısız genital ülser ve ağrılı LAP",
+            "E": "Ağrılı genital ülser, LAP görülmez"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Haemophilus ducreyi, ağrılı genital ülser ve ağrılı lenfadenopatiye (LAP) neden olan Gram negatif kokobasildir. Ağrılı genital ülser ve ağrılı LAP’a en sık neden olan mikroorganizma Herpes simpleks tip 2 (Herpes genitalis) virüstür.Genital ülsere neden olan ve cinsel ilişkiyle bulaşan etkenler Tablo’da gsterilmiştir.\n\nTablo: Genital ülsere neden olan ve cinsel ilişkiyle bulaşan etkenler\n\nÖzellik\tSifiliz\tHerpes\tŞankroid\tYumuşak şankr\n\t\t\t\tLenfogranüloma venereum\tGranüloma inguinale\n\nEtken\tTreponema pallidum\n\t\tHSV-2\tHaemophylus ducrei\n\t\tChlamydophila trachomatis\n\t\tKlebsiella granülomatis (Calmobacterium\n\t\tgranulomatis)\n\nÜlser\tAğrısız\tAğrılı\tAğrılı\tAğrısız\tAğrısız\n\nLAP\tSert\n\t(Ağrısız)\tYumuşak\n\t(ağrılı)\tYumuşak\n\t(ağrılı)\tSert\n\t(Ağrılı)\tOluk belirtisi\n\t\t\t\tYok (Pseudobubon)\n\nÖzellik\tKaranlık alan mikroskobisi\n\t\tİntranüklear inklüzyon ve\n\t\tvezikül\n\t\tGr (-), X faktörüne ihtiyaç\n\t\tİntrastoplazmik inklüzyon, McCoy\n\t\thücre kültürü\n\t\tMakrofajların içinde Donovan cisimleri\n\nTedavi\tBenzatin penisilin\n\t\tAsiklovir\tEritromisin\tTrimetoprim/\n\t\tsulfametoksazol (TMP/SMZ)\n\t\tTetrasiklin\tTetrasiklin TMP/SMZ\n\nNot: N. gonorrhae genital ülsere neden olmaz, vajinit yapmaz",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 53,
+        "soru": "Kasaplık yapan 45 yaşında erkek hastada sağ el işaret parmağında kaşıntılı şişlik saptanıyor. Lezyonda cerahat saptanmıyor.\n\nLezyondan alınan biyopsi materyalinde Gram pozitif hareketsiz, sporsuz, fakültatif anaerob, H2S pozitif, hyalorunidaz enzimi pozitif basil saptanmışsa en olası etken aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Bacillus anthracis",
+            "B": "Cutibacterium acnes",
+            "C": "Bacillus subtilis",
+            "D": "Corynebacterium ulcerans",
+            "E": "Erysipelothrix rhusiopathiae"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Soruda zoonotik infeksiyon etkeni olan Erysipelothrix rhusiopathiae tanımlanmaktadır. Erysipelothrix rhusiopathiae, hareketsiz, sporsuz, fakültatif anaerob, gram pozpozitif basildir.H2S ‘i pozitif olan tek Gram pozitif bakteridir. Ayrıca, hyalorunidaz enzimi virü-lans faktörüdür. Kasaplar, balıkçılar ve hayvancılıkla uğraşanlarda meslek hastalığı şeklinde görülür.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 54,
+        "soru": "Aşağıdaki bakterilerden hangisi kültür negatif endokardit etkeni değildir?",
+        "cevap_secenekleri": {
+            "A": "Tropheryma whipplei",
+            "B": "Bartonella quintana",
+            "C": "Coxiella burnetii",
+            "D": "Pseudomonas aeruginosa",
+            "E": "Eikenella corrodens"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Pseudomonas aeruginosa, kültür negatif endokardit etkeni değildir. İntravenöz iaç bağımlılarında kalbin sağ tarafını tutan endokar-dit yapabilir. Ayrıca nozokomiyal infeksiyon şeklinde kalp ameliyatlarından sonra da görülebilir.\n\nKültür negatif endokardit etkenleri;\n\n* İnfektif endokardit tanısından önce antibiyotik alınması kültür negatif endokarditin en sık etkenidir\n\n* Bartonella türleri (spp.)\n\n* Tropheryma whipleii\n\n* Coxiella burnettii\n\n* Chlamydophila türleri (spp.)\n\n* Corynebacterium spp.\n\n* HACEK grubu bakteriler; Haemophilus aphrophilus/paraphrophilus\n\n- Actinobacillus actinomycetemcomitans\n\n- Cardiobacterium hominis\n\n- Eikenella corrodens (İnsan ısırığı etkeni) ve Kingella kingae’dir\n\n* Fungal etkenler (Candida, Aspergillus vb.)",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 55,
+        "soru": "Febril nötropenik 60 yaşında erkek hastada tibia alt kısmında ektima gangrenozum saptanıyor. Hastanın kan kültüründe oksidaz pozitif, hareketli, nonfermentatif basil saptanıyor.\n\nBu hastada en olası etken aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Clostridium septicum",
+            "B": "Pseudomonas aeruginosa",
+            "C": "Enteroccoccus faecalis",
+            "D": "Satphylococcus aureus",
+            "E": "Klebsiella pneumoniae"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Soruda Pseudomonas aeruginosa tanımlanmaktadır. P.aeruginosa febril nötropeniye en sık neden olan bakteriyel etkendir bu nedenle febril nötropeni tedavisinde kullanılacak antibiyotiğin antipseudomonal etkinliğinin olması gerekir.Soruda maligniteli has-talarda görülebilen ektima gangrenozum isimli cilt lezyonuna en sık neden olan bakteri de Pseudomonas aeruginosa’dır.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 56,
+        "soru": "Aşağıdaki virüslerden hangisinin biyogüvenlik seviye-4 laboratuvarında çalışılması gerekmez?",
+        "cevap_secenekleri": {
+            "A": "Kırım Kongo kanamalı ateş",
+            "B": "Ebola virüs",
+            "C": "Malburg virüs",
+            "D": "Nipah virüs",
+            "E": "Parvovirüs B19"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Seçeneklerde yer alan Parvovirüs B19 dışındaki viral etkenler biyoterör ajanlarıdır. Parvovirüs B19 dışındaki virüslerin (Seçeneklerdeki Kırım Kongo kanamalı ateş, Ebola virüs, Malburg virüs ve Nipah virüs) biyogüvenlik seviye-4 laboratuvarında çalışılması gerekir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 57,
+        "soru": "Multipleks polimeraz zincir reaksiyonu (PZR) aşağıdaki durumlardan hangisinde kullanılmaz?",
+        "cevap_secenekleri": {
+            "A": "Sepsis etkenlerinin saptanması",
+            "B": "Menenjit etkenlerinin saptanması",
+            "C": "Viral gastroenterit etkenlerinin saptanması",
+            "D": "Salgın analizi",
+            "E": "Viral pnömoni etkenlerinin saptanması"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Günümüzde multipleks PZR yöntemi menenjit/ensefalit etkenlerinin saptanması, virla gastroenterit etkenlerinin saptanması, sep-sis etkenlerinin belirlenmesi ve viral pnömoni etkenlerinin belirlenmesinde önemli bir yer kazanmıştır. Salgın analizlerinde altın standart pulse filled jel elektroforez (PFGE) ‘dir. Multipleks PZR yöntemi hepatit virüslerinin (HAV, HBV, HCV, HDV, HEV, HGV) belirlenmesinde kullanılmaz.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 58,
+        "soru": "Sitomegalovirüs aşağıdaki klinik tablolardan hangisine neden olmaz?",
+        "cevap_secenekleri": {
+            "A": "Yenidoğanda gri bebek sendromu",
+            "B": "Organ transplantasyonu (kemik iliği, böbrek) yapılanlarda organ reddi",
+            "C": "Hecht (Dev hücreli) pnömonisi",
+            "D": "Post perfüzyon sendromu",
+            "E": "Organ nakli yapılanlar ve immunsüpresif hastalarda ağır seyirli viral pnömoni"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Hecht pnömonisi etkeni kızamık (Rubeola) virüsüdür. İmmunsüpresif çocuklarda neden olduğu atipik pnömoni tablosudur. CMV’de organ nakli (kemik iliği, böbrek nakli) hastalarında organ reddine neden olabilir.CMV ayrıca organ nakli yapılanlar ve immunsüpre-sif hastalarda ağır seyirli viral pnömoni (atipik pnömoni)’ye neden olabilir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 59,
+        "soru": "Hyalohifomikoz grubunda yer alan fırsatçı mantarlardan hangisi armut şeklinde makrokonidiyuma sahiptir ve amfoterisin B’ye dirençlidir?",
+        "cevap_secenekleri": {
+            "A": "Pseudallesheria boydii",
+            "B": "Fusarium solani",
+            "C": "Aspergillus fumigatus",
+            "D": "Candida lucitaniea",
+            "E": "Aspergillus terreus"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Scedosporium apiospermum (Pseudallesheria boydii): 45° açıyla dallanan septalı hif yaptıkları için Aspergillus türleri ile karışabilir. Pseudallesheria boydii’de armut şeklinde spor ve amfoterisin B’ye dirençlidir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 60,
+        "soru": "Köpek besleyen 20 yaşında erkek çocuğun ellerinde kaşıntılı, pullanma gösteren lezyon saptanıyor.\n\nYapılan kazıntının %10 KOH ile incelemesinde pigmentsiz septalı hif yapısı saptanmışsa en olası etken hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Microsporum canis",
+            "B": "Trichophyton tonsurans",
+            "C": "Trichophyton verrucosum",
+            "D": "Epidermophyton floccosum",
+            "E": "Microsporum audouini"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Soruda kutanöz mikoz etkenleri etkenleri (Trichophyon, Epidemophyton ve Microspsorum)’nin neden olduğu dermatofit infeksi-yonu tanımlanmaktadır. Köpek beslenmesi önemli ip ucudur. Microsporum canis, köpek besleyenlerde görülebilen zoofilik (hay-vanlardan insanlara bulaşabilen) bir kutanöz mantar infeksiyonudur. Trichophyton verrucosum ise inek besleyenlerde görülebilir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 61,
+        "soru": "Aşağıdaki parazitlerden hangisinin ara konağı yoktur?",
+        "cevap_secenekleri": {
+            "A": "Fasciola hepatica",
+            "B": "Schistosoma haematobium",
+            "C": "Diphylobotrium latum",
+            "D": "Ancylostoma duodenale",
+            "E": "Paragonimus wetermani"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Seçeneklerde yer alan parazitlerden Ancylostoma duodenale kancalı kurt (nematod) olup, nematodların ara konağı yoktur. Se-çeneklerde yer alan Fasciola hepatica, Schistosoma haematobium, Paragonimus wetermani trematod (yapraksı solucan) olup trematodların birden fazla ara konağı vardır ve bu ara konaklardan biri salyangozdur. Diphylobotrium latum, sestod (yassı solucan) olup, birden fazla ara konağının olması ve kapaklı yumurtasının olması önemli özellikleridir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 62,
+        "soru": "İnce periferik yaymada Zieman granüllerinin ve kuşak tarzında trofozoidlerin görülmesi aşağıdaki plasmodium türlerinden hangisinde görülür?",
+        "cevap_secenekleri": {
+            "A": "Plasmodium ovale",
+            "B": "Plasmodium vivax",
+            "C": "Plasmodium falciparum",
+            "D": "Plasmoidum malaria",
+            "E": "Plasmodium knowlesi"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Zieman granüllerinin ve bant (kuşak) tarzında trofozoidler Plasmodium malaria’da görülür. Plasmodium türleri ve önemli özellikleri Tablo’da gösterilmiştir.\n\nTablo: Plasmodium türlerinin özellikleri\n\nBulgular\tP. falciparum\tP. malariae\tP. vivax\tP. ovale\n\nSıtma türü\tHabistersiyan (48 sa.) sıtma\n\n\tKuartan (72sa) sıtma\tSelim tersiyan (48 sa.) sıtma\tSelim tersiyan (48 sa.) sıtma\n\nİnfekte eritrosit yaşı\n\nTüm yaştaki eritrositler\tMatür eritrosit\tRetikülosit\tRetikülosit\n\nKanda bulunan parazit formları\n\nRing ya da gametosit\tTüm formlar\tTüm formlar\tTüm formlar\n\nEritrositte pigment\n\nMaurer lekeleri\tZieman granülleri\tSchüffner granülleri\tSchüffner granülleri\n\nDiğer özellikler\tMuz şeklinde gametositler, trofozoidlerde volkmen\n\tkulaklığı manzarası\n\n\tBant (kuşak) şeklinde trofozoidler tipiktir.\n\n\tRozet (papatya) şeklinde gametositler görülür\n\n\tOlgun trofozoittepleomorfikstoplazma\n\t(Ameboidtrofozoid)\n\n\tEnfekte eritrositler oval ve püsküllü\n\tkenara sahip\n\nAnemi ve SSS tutulumu",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 63,
+        "soru": "Fungal infeksiyonlar ve ekstrasellüler bakteriyel infeksiyonlarda rol oynayan, nötrofil ve makrofajları aktive eden immun sistem hücresi ve salgıladığı sitokin aşağıdaki seçeneklerden hangisinde verilmiştir?",
+        "cevap_secenekleri": {
+            "A": "Th2; IL-4",
+            "B": "Th1; IFN-gama",
+            "C": "Th17; IL-17",
+            "D": "Th2; IL-13",
+            "E": "Treg; TGF-beta"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Soruda Th17 tanımlanmaktadır. Th17 T lenfosit alt tipi fungal infeksiyonlar ve ekstrasellüler bakteriyel infeksiyonlarda rol oynar. Nötrofil ve makrofajları aktive eder. Th17 lenfositlerden salınan sitokinler IL-17 ve IL-22’dir.\n\nŞekil: Th1, Th2 ve Th17 yönünde farklılaşma",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 64,
+        "soru": "Aşağıdakilerden hangisi endojen tehlike sinyalleri (DAMPs, alarmin) içerisinde yer almaz?",
+        "cevap_secenekleri": {
+            "A": "Isı şok proteini",
+            "B": "Fibrinojen",
+            "C": "Hyaluronik asit",
+            "D": "S100 proteini",
+            "E": "Kompleman 3b"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "DAMP (alarmin)\nDAMP: Hasarla ilişkili moleküler modeller, travma veya bir patojen nedeniyle enfeksiyon nedeniyle hasar görmüş veya ölmekte olan (nekrotik hücre) hücrelerden salınan, doğuştan gelen bağışıklık yanıtının bir bileşeni olan hücrelerdeki mole-küllerdir. Aynı zamanda tehlikeyle ilişkili moleküler modeller, tehlike sinyalleri ve alarm olarak da bilinirler çünkü organizmanın hücrelerinde herhangi bir hasar veya enfeksiyon olduğunda onu uyarması için bir uyarı işareti olarak hizmet ederler. DAMP’ler, travma veya patojenden hücreye verilen hasara yanıt olarak hücre dışı boşluğa salınan endojen tehlike sinyalleridir. Başlıca DAMP molekülleri;\n\n* Isı şok proteinleri (HSP)\n\n* Fibrinojen\n\n* S100 proteinleri\n\n* Hyaluronik asit\n\n* High mobility group box-1 protein (HMGB-1)’dir.",
+        "konu_grubu": "Mikrobiyoloji"
+    },
+    {
+        "soru_no": 65,
+        "soru": "Aşağıdakilerden hangisi apoptoz için yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Fizyolojik veya patolojik süreçlerde görülebilir.",
+            "B": "İnflamasyon görülmez.",
+            "C": "Hücre ölümü çok az hücrede görülür.",
+            "D": "Hücrelerin plazma membranı parçalanır.",
+            "E": "Programlanmış bir ölüm şeklidir."
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Apoptoz;\n\n* Kaspaz enzimlerinin aktivasyonu ile gerçekleşen programlanmış bir ölüm çeşididir.\n\n* Nekrozun aksine çok az hücrede ölüm gerçekleşir.\n\n* Apoptozda plazma membranı sağlam kalır bu yüzden inflamasyon uyarılmaz.\n\n* Bu yıkımla apoptotik cisim denen fragmente hücre parçaları ortaya çıkar.\n\n* Fizyolojik veya patolojik olarak gerçekleşebilir.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 66,
+        "soru": "Aşağıdakilerden hangisi kompleman komponentlerinin etkilerinden değildir?",
+        "cevap_secenekleri": {
+            "A": "Hücre lizisi",
+            "B": "Kemotaksis",
+            "C": "Mast hücre degranülasyonu",
+            "D": "Opsonizasyon",
+            "E": "Anti inflamatuar etki"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "KOMPLEMAN SİSTEMİ:\n\n* Konak savunmasında ve inflamasyonda rol oynayan C1’den C9’a kadar numaralandırılmış plazmada bulunan çözünür prote-inlerdir.\n\n* C3 proteolizi biyolojik etkiye sahip kompleman bileşiklerinin oluşmasında kritik aşamadır.\n\n* C3’ün yıkılması 3 yoldan gerçekleşir (Şekil 2-4):\n\n1. Klasik yol: Antijen-antikor (IgM veya IgG) kompleksleri C1 üzerinden sistemi aktive eder.\n\n2. Alternatif yol: Bakteri endotoksinleri, lipopolisakkaritler gibi mikroorganizmaların yüzey molekülleri, Faktör B, Faktör D ve properdin varlığında C3’ü aktive ederler.\n\n3. Lektin yolu: Plazmadaki lektinler mikroorganizma üzerinde bulunan mannoz kalıntılarına bağlanarak doğrudan C1 bile-şenlerini aktive ederler.\n\n* Her 3 yol da C3’ü C3a ve C3b’ye ayıran C3 konvertazı aktive eder. Sonrasında C5, C5a ve C5b’ye ayrılır. C5b’ye C6-7-8-9 ekle-nerek membran atak kompleks (MAK) oluşturulur.\n\nFonksiyonları;\n\n* C5a, C3a ve az miktarda da C4a, mast hücrelerinden histamin salınımına neden olarak vasküler permeabiliteyi arttırır ve vazodilatasyona neden olurlar. C3a, C4a ve C5a’ya anaflatoksinler denir.\n\n* C5a, lökositlerde lipooksijenaz yolunu aktive eder.\n\n* C5a, lökosit aktivasyonu, adezyonu ve kemotaksisine neden olur.\n\n* C3b ve iC3b, opsonindir. Nötrofil ve makrofajların fagositozunu sağlar.\n\n* C5b-C9 (MAK), bazı bakterilerin (Neisseria gibi) membranlarında delikler açarak lizisle hücre erimesine neden olur. Dolayı-sıyla mikrobisidaldir.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 67,
+        "soru": "Aşağıdakilerden hangisi skar dokusu ile onarımda yeniden biçimlendirme (remodeling) aşamasından sorumludur?",
+        "cevap_secenekleri": {
+            "A": "Vasküler endotelyal growth faktör (VEGF)",
+            "B": "Transforming growth faktör-beta (TGF-beta)",
+            "C": "Myofibroblastlar",
+            "D": "Platelet derive growth faktör (PDGF)",
+            "E": "Matriks metalloproteinazlar"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "SKAR DOKUSU (NEDBE) İLE ONARIM\n\n* Onarım sadece rejenerasyon ile gerçekleştirilemezse, doku hasarı çok şiddetli ya da kronikse, bağ dokusu çatısı çökmüşse veya bölünemeyen hücreler hasarlandıysa o bölgede skar dokusu ile iyileşme görülür.\n\n* Skar dokusu oluşumu ile onarım bir dizi aşamadan meydana gelir:\n\n İnflamasyon\n\n Yeni damar oluşumu (anjiogenez)\n\n Granülasyon dokusu oluşumu\n\n Skar dokusunun oluşumu, matürasyonu ve yeniden organize edilmesi (remodeling)\n\n* Yaralanmada sonraki birkaç dakika içinde pıhtı oluşumu ile kanama durdurulur. Daha sonra imflamasyon aşaması başlar ve iltihabi hücre infiltrasyonu görülür.\n\n* Zedelenme veya iltihap alanında inflamasyon 24 saat içerisinde başlar. Zedelenme alanına ilk giden hücreler nötrofil lökosit-lerdir. İlk 24 saat nötrofil infiltrasyonu görülür ve 48. saatten sonra yerini makrofajlara bırakır.\n\n--- PAGE 35 ---\nTemel Bilimler / T 52 - 1\n\n35 www.tusem.com.tr\n\n* Makrofajlar onarım sürecindeki en önemli hücrelerdir. M1 makrofajlar mikrobik ve nekrotik dokuyu temizler ve inflamasyo-nu teşvik eder. M2 makrofajlar ise salgıladığı sitokinler ve büyüme faktörleri ile fibroblastlar, endotelyal hücreler gibi birçok hücrenin proliferasyonunu uyarır.\n\n* Anjiogenez mevcut damarlardan yeni damar oluşumudur. Anjiogenezde rol oynayan en önemli büyüme faktörleri VEGF ve FGF-2’dir. VEGF-A hasar sonrası onarımda ve tümörlerde anjiogenezi başlatan en önemli faktördür. VEGF-A tirozin kinaz reseptörü olan VEGFR’lere bağlanır. Anjiogenezde özellikle VGFR-2 rol oynar. VEGF indüksiyona yol açan en önemli faktör hipoksidir. VEGF endotel hücrelerinin hem göçünü hem de proliferasyonunu uyarır. VEGF dışında FGF-2, anjiopoetin-1 ve 2 anjiogenezde rol oynayan diğer faktörlerdir.\n\n* Zedelenmenin boyutuna göre farklılık göstermekle beraber 3-10. günler arasında granülasyon dokusu izlenir. Granülasyon dokusu ödemli ESM içerisinde, makrofajlardan zengin kronik inflmatuar hücreler, fibroblastlar ve yeni ince duvarlı kapiller damarların proliferasyonu ile oluşmuş pembe, yumuşak, granüler görünümlü dokudur. Granülasyon dokusu yara iyileşme-sinin erken fazında ana komponenttir. Biriken fbroblastlar kollejen sentezlemeye başlarlar. Önce tip III kollajen sentezlenir, sonra tip I kollajene döner.\n\n* Skar dokusu oluşumu fibroblastların çoğalması ve bu hücrelerin sentezlediği ESM proteinlerin birikmesine bağlıdır. İnfla-masyon yerinde toplanan özellikle M2 makrofajlardan salgılanan büyüme faktörleri ve sitokinlerin etkisi ile fibroblastlar çoğalırlar ve aktive olurlar. Fibrobalastlar başta kollajen olmak üzere ESM proteinlerini 3. günden itibaren sentezlemeye başlarlar ve haftalarca sentez devam eder. Fibroblastların bazıları düz kas aktin içeren myofibroblastlara farklılaşır. Myo-fibroblastlar kontraktil aktivitesi ile yara kenarlarını kasarak yarayı kapatmaya çalışır. Buna yaranın kontraksiyonu denir. İyi-leşme ilerledikçe çoğalan fibroblastlar ve yeni damarların sayısı azalır ancak fibroblastlar daha fazla kollajen sentezlerler. Böylece gerilmeye karşı direnç artar. Bu evreye yaranın matürasyonu denir. Kollajen liflerinin boyutunun artması ve çapraz bağlanması sonucu yaranın dayanıklılığı artar. Onarımın başlangıcında sentezlenen tip III kollajenden daha esnek olan tip I kollajene değişim olur. Matürasyon aşaması aylarca devam eder ancak iyi dikilmiş bir cilt yarasında bile yara direnci, 3 ay içinde normal derinin %70-80’ine ulaşabilir.\n\n* Oluşan skar dokusu modifiye edilerek yeniden biçimlendirilir. Çinko bağımlı metalloproteinzalar (MMP), kollajen ve ESM bileşenlerini parçalarlar. Bunların aktivitesine bağlı olarak sentezlenen kollajen şekillendirilir ve remodeling tamamlanır.\n\n MMMP 1-2-3 (intertisyel kollajenazlar): Fibriler kollajeni parçalarlar.\n\n MMP 2-9 (jelatinazlar): Amorf kollajeni ve fibronektini parçalarlar.\n\n MMP 3-10-11 (stromelizinler): Proteoglikanlar, laminin, fibrobektin, amorf kollajeni parçalarlar.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 68,
+        "soru": "Aşağıdakilerden hangisi sistemik tromboembolizmin en sık nedenidir?",
+        "cevap_secenekleri": {
+            "A": "Diz üstü derin uyluk ven trombüsleri",
+            "B": "İntrakardiyak mural trombüsler",
+            "C": "Paradoksal emboli",
+            "D": "İnfektif endokardit",
+            "E": "Ülsere aterosklerotik plaklar"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Sistemik Tromboembolizm:\n\n* Sistemik tromboembolilerin %80’i intrakardiyak mural trombüslerden kaynaklanır.\n\n* En sık nedeni sol ventrikülün tutulduğu myokard infarktüsüdür. Bunun dışında dilate sol atriumdaki trombüsler, aort anev-rizması, ülsere atreosklerotik plaklar veya valvüler vejetasyonlardan kaynaklanabilir.\n\n* Nadiren de paradoksal emboliler görülebilir.\n\n* Arteryal embolizasyon en sık alt ekstremitelerde (%75), ikinci sıklıkla santral sinir sisteminde (%10) görülür. Bunun dışında böbrek, barsak, dalakta da görülebilir.\n\n* Arteryal emboliler sıklıkla uç-arterlere yerleşerek infarktüse neden olurlar.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 69,
+        "soru": "I. Good pasture sendromu-Antikor aracılı hipersensitivite\nII. Poliarteritis nodoza-İmmün kompleks ilişkili hastalık\nIII. Atopik dermatit-Anaflaktoid reaksiyon\nIV. Kontakt dermatit-Hücre aracılı hipersensitivite\n\nYukarıda aşırı duyarlılık reaksiyonu ve ilişkili olduğu hastalık örneklerinden hangileri doğrudur?",
+        "cevap_secenekleri": {
+            "A": "I ve III",
+            "B": "II ve IV",
+            "C": "I-II ve III",
+            "D": "I-II ve IV",
+            "E": "I-II-III ve IV"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Tip 1 hipersensitivite (anaflaktoid reaksiyon) örnekleri:\n\n* Penisilin anaflaksisi\n\n* Arı zehiri\n\n* Allerjik rinit\n\n* Allerjik konjonktivit\n\n* Allerjik gastroenterit\n\n* Allerjik astım\n\n* Atopik dermatit\n\n* Akut ürtiker\n\nTip 2 (antikor aracılı) hipersensitivite örnekleri:\n\n* Otoimmün hemolitik anemi\n\n* Otoimmün trombositopenik purpura\n\n* Pemfigus vulgaris\n\n* Büllöz pemfigoid\n\n* Goodpasture sendromu\n\n* Akut romatizmal ateş\n\n* ANCA (+) vaskülitler (mikroskopik poliarteritis nodoza, Churg Straus sendromu, polianjinitis granülomatozus)\n\n* Tip 2 diabetes mellitus\n\n* Myastenia gravis\n\n* Graves hastalığı\n\n* Pernisyöz anemi\n\nTip 3 hipersensitivite (immün kompleks ilişkili hastalık) örnekleri:\n\n* Serum hastalığı\n\n* Arthus reaksiyonu (deneysel)\n\n* Sistemik lupus eritematozus\n\n* Reaktif artrit\n\n* Poliarteritis nodoza\n\n* Poststreptokoksik glomerülonefrit\n\n--- PAGE 37 ---\nTemel Bilimler / T 52 - 1\n\n37 www.tusem.com.tr\n\nTip 4 hipersensitivite (Hücre Aracılı) Hastalıkları:\n\n* Romatoid artrit\n\n* Multiple skleroz\n\n* Tip 1 diyabetes mellitus\n\n* İnflamatuar bağırsak hastalıkları\n\n* Psöriyazis\n\n* Kontakt dermatit\n\n* Tüberküloz\n\n* Sarkoidoz",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 70,
+        "soru": "Aşağıdakilerden hangisi karsinomların invazyon ve metastaz yeteneğini arttıran faktörlerden değildir?",
+        "cevap_secenekleri": {
+            "A": "E cadherin sentezi",
+            "B": "Laminin reseptör sentezi",
+            "C": "Fibronektin reseptör sentezi",
+            "D": "Otokrin motolite faktörü sentezi",
+            "E": "CD 44 overekspresyonu"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "TÜMÖRLERDE İNVAZYON ve METASTAZ\n\n* İnvazyon ve metastaz malignitelerde morbitide ve mortalitenin esas sebepleridir.\n\nİnvazyon ve metastaz basamakları:\n\n* İnterselüler adezyonların bozulmasıyla kanser hücrelerinin birbirinden ayrılır.\n\n E-cadherin epitelyal hücrelerin kohezyonunu sağlar.\n\n Hemen hemen tüm epitelyal kanserlerde E-cadherin fonksiyon kaybı görülür. Yine E-cadherini kodlayan gen (CDH1) mutasyonlarında (β-catenin artışı ya da E-cadherin ekspresyonunu baskılayan SNAIL ve TWIST gibi transkripsiyon faktör-lerinin artışı) hücreler birbirinden ayrılır.\n\n* Tümör hücreleri salgıladığı MMP-9 ile bazal membranda bulunan Tip 4 kollajeni parçalar.\n\n* Tümör hücreleri laminin reseptörleri ile bazal membrana tutunur.\n\n* Tümör hücreleri fibronektin ve integrin reseptörleri ile ekstraselüler matrikse (subepitelyal stroma) tutunur.\n\n* Burada salgıladığı MMP’ler ile bağ dokusunu parçalar.\n\n* Tümör hücreleri hasarlı bazal membran ve bağ dokudan hareket etmeye başlarlar.\n\n Bu basamakta tümör hücresinin kendisinden sentezlenen otokrin motilite faktörü rol oynar. Ayrıca etraftaki stromal hücrelerden salınan hepatosit büyüme faktörü (HGF/scatter faktör) de motiliteye yardımcı olur. (HGF özellikle glioblas-tomlarda yüksektir.)\n\n* İnvaze olmuş tümör hücreleri vasküler duvara gelir ve damar yapılarına girer.\n\n Tümör hücreleri sirkülasyona girdikten sonra aggrege olma eğilimdedirler. Bu agregasyon ya yine bir tümör hücresiyle ya da kan elemanlarıyla (özellikle trombositler) olur.\n\n Koagülasyon faktörlerine bağlandıklarında embolilere sebep olabilirler.\n\n Vasküler lümendeki tümör hücrelerinde CD44 overekspresyonu görülür. Bu olay tümör hücrelerinin lenf nodlarına ve diğer uzak metastaz kapasitesinin artırır.\n\n* Epitelden mezenkime geçiş (EMT):\n\n Kanser hücrelerinin epitel dokudan mezenkim dokuya geçişini tarif eder.\n\n SNAIL ve TWIST genleriyle epiteldeki E-cadherin miktarı azaltılır, aynı zamanda vimentin ve aktin gibi mezenkimal marker’lar da arttırılarak gerçekleşir.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 71,
+        "soru": "Halsizlik, yorgunluk, kilo kaybı şikâyeti ile olan 65 yaşında erkek hastanın tetkiklerinde hepatosplenomegali ve generalize lenfadenopati saptanıyor. Lenf nodlarından birisi tanı amaçlı eksize ediliyor. Lenf nodunun histopatolojik incelenmesinde lenf nodu yapısının ortadan kalktığı, küçük yuvarlak çekirdekli lenfositlerden oluşan infiltrasyon ve bu hücrelerin etrafında belirgin nükleollü, iri çekirdekli, orta büyüklükte prolenfositlerden oluşan proliferasyon zonu izleniyor. Yapılan immünohis-tokimyasal incelmede hücreler CD19, CD20, CD5 ve CD23 ile pozitif boyanıyor. Siklin D1, CD10, Bcl 6 ve Bcl 2 ile boyanma görülmüyor.\n\nBu olguda en olası tanı için aşağıdakilerden hangisi yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Ekstranodal tutulum nadiren görülür.",
+            "B": "Kromozomal translokasyonlar sık görülür.",
+            "C": "Kemik iliği tutulumu sık görülür.",
+            "D": "Seyri sırasında diffüz büyük B hücreli lenfomaya transformasyon görülebilir.",
+            "E": "Somatik hipermutasyon yokluğu kötü prognozla beraberdir."
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Küçük lenfositik lenfoma / kronik lenfositik lösemi (SLL/KLL)\n\nSLL ve KLL aynı hastalığın farklı klinik sunumlarıdır. Kemik iliği ve periferik kanda %5’den az lenfoblast varsa KLL, lenf nodunda ağırlıklı tutulum varsa SLL denir. Her iki hastalık da klonal B lenfosit proliferasyonudur ve küçük lenfositlerden zengindir. Olguların çoğunda 13q delesyonu, %20’sinde trisomi 12, %5’inde 11q delesyonu ve %2’sinde 17p delesyonu bulunur. Kromozom 17p13.1’de yer alan ve p53 proteinini kodlayan TP53 genindeki delesyon kötü prognoz göstergesi olup bu hastalarda agresif seyir ve fludarabine direnç görülür. NOT: 17p delesyonunun, 11q delesyonu ve trisomi 12’ye göre daha kötü prognoz göstergesi olduğu unutulmamalıdır. SLL/ KLL’nin yaklaşık yarısında, immünglobulin ağır zincir değişken bölgesi (IgVH) genlerinde somatik hipermutasyonlar bulunur. Mutasyonlu SLL/KLL, mutasyonsuz SLL/KLL’ye göre daha iyi prognoz göstergesidir. NOT: Somatik hipermutasyon yokluğu kötü prognozla beraberdir.\n\nSLL olgularında en sık servikal, aksiller, inguinal, mediyastinal ve abdominal lenf nodu tutulumu gözlenir. Splenomegali ve he-patomegali görülebilir. KLL’de ise hastalar sıklıkla asemptomatiktir. Semptomatik olanlarda anemi, trombositopeni ve enfeksi-yonlar sıktır. KLL olgularında tedaviye hastalığın evresine göre karar verilir. Erken evrede takip, ileri evre hastalarda ise kemoterapi yapılır. SLL/KLL olgularında Richter sendromu olarak bilinen diffüz büyük B hücreli lenfomaya transformasyon %5-10 olguda görülür ve agresif seyirlidir. ",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 72,
+        "soru": "Aşağıdaki vaskülitlerden hangisinde damar duvarında granülomatöz iltihap görülebilir?",
+        "cevap_secenekleri": {
+            "A": "Poliarteritis nodoza",
+            "B": "Mikroskopik polianjinitis",
+            "C": "Takayasu arteriti",
+            "D": "Kawasaki hastalığı",
+            "E": "Henoch Scohnlein purpurası"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Granülomatöz vaskülitler:\n\n* Temporal arterit\n\n* Takayasu arteriti\n\nNekrotizan vaskülitler:\n\n* Poliarteritis nodoza\n\n* Mikroskopik polianjinitis\n\n* Kawasaki hastalığı\n\n* Henoch Scohnlein purpurası\n\nHem granülom hem de nekroz yapan vaskülitler:\n\n* Churg-Strasuss sendromu\n\n* Polianjinitis granülomatozis",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 73,
+        "soru": "Aşağıdakilerden hangisinde en sık görülen primer malign tümör adenokarsinom değildir?",
+        "cevap_secenekleri": {
+            "A": "Mide",
+            "B": "Kolon",
+            "C": "Pankreas",
+            "D": "Akciğer",
+            "E": "Kalp"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Kalpte epitelyal tümörler görülmez. Yetişkinlerde kalpte en sık görülen benign tümör miksom, çocuklarda rabdomyomdur. Ye-tişkinlerde kalbin en sık görülen primer malign tümörü anjiyosarkomdur. Şıklarda verilen diğer organlarda en sık görülen primer malign tümör adenokarsinomdur.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 74,
+        "soru": "Aşağıdakilerden hangisi kronik intertisyel akciğer hastalıklarından değildir?",
+        "cevap_secenekleri": {
+            "A": "İdiyopatik pulmoner fibrozis",
+            "B": "Sarkoidoz",
+            "C": "Hipersensitivite pnömonisi",
+            "D": "Amfizem",
+            "E": "Pulmoner alveoler proteinozis"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Kronik İntertisyel Akciğer Hastalıkları:\n\nFibrozis yapanlar:\n\n* İdiyopatik pulmoner fibrozis (Usual intertisyel pnömoni)\n\n* Nonspesifik intertisyel pnömoni\n\n* Kriptojenik organize pnömoni\n\n* Konnektif doku hastalıklarıyla ilişkili\n\n* Pnömokonyozlar\n\n* İlaç reaksiyonları\n\n* Radyasyon pnömonisi\n\nGranülomatoz:\n\n* Sarkoidoz\n\n* Hipersensitivite pnömonisi\n\nEozinofilik:\n\n* Löffler sendromu\n\n* İlaç allerjisi ile ilişkili\n\n* İdiyopatik kronik eozinofilik pnömoni\n\nSigara ile ilişkili:\n\n* Deskuamatif intertisyel pnömoni\n\n* Respiratuar bronşiolitis-ilişkili intertisyel AC hastalığı\n\nDiğerleri:\n\n* Pulmoner alveoler proteinozis\n\n* Langerhans hücreli histiositozis\n\n* Lenfoid intertisyel pnömoni\n\nDiffüz Obstrüktif Akciğer Hastalıkları:\n\n* Amfizem\n\n* Bronşiyal astım\n\n* Kronik bronşit\n\n* Bronşiektazi",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 75,
+        "soru": "48 yaşında kadın hasta epigastrik ağrı ve aralıklı bulantı şikayetleri ile başvurduğu klinikte yapılan gastroskopide antrumda eritematöz ve kaba görünüm saptanıyor ve biyopsi alınıyor. Biyopsinin histopatolojik incelemesinde nötrofillerin eşlik ettiği mononükleer iltihabi hücre infiltrasyonu ve glandlarda minimal atrofi saptanıyor. Steiner boyamada yüzey epitelinde ve mukus tabakasında siyah renkli, virgül şeklinde basiller izleniyor.\n\nBu olguda en olası tanı ile ilgili aşağıdaki komplikasyonlardan hangisinin görülmesi beklenmez?",
+        "cevap_secenekleri": {
+            "A": "Peptik ülser hastalığı",
+            "B": "Gastrik nöroendokrin tümör",
+            "C": "Multifokal atrofik gastrit",
+            "D": "Adenokarsinom",
+            "E": "Ekstranodal marjinal zon lenfoma"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "H. PYLORİ GASTRİTİ\n\n* Spiral biçimli gram (-) basildir.\n\n* H. pylori infeksiyonunda en sık antrum etkilenir ve antral gastrite (diffüz antral gastrit) neden olur.\n\n İnflamasyon antruma lokalize kaldığında gastrin sekresyonu artabilir, buna bağlı olarak parietal hücre sayısı ve asit sekresyonu artar. Hastalarda gastrik ve duodenal peptik ülser gelişebilir.\n\n--- PAGE 40 ---\nTemel Bilimler / T 52 - 1\n\n40www.tusem.com.tr\n\n* Uzun süre devam eden H. pylori enfeksiyonunda bakteri antrumdan korpus ve fundusa ilerleyerek pangastrite neden olur. Sonrasında multifokal atrofik gastrit gelişir.\n\n Parietal hücre sayısında azalma ve intestinal metaplazi meydana gelir.\n\n Asit salgısının azalmasına bağlı peptik ülser gelişme riski azalır ancak atrofi ve intestinal metaplaziye sekonder adeno-karsinom riski artar.\n\n* Multifokal atrofik gastritte otoantikorlar bulunmaz ve tutulum yamasal tarzdadır. Gastrin sekresyonu yükselir ancak otoimmün gastritteki kadar yüksek değildir.*\n\n* *H. Pylori ile enfekte antral mukoza genellikle eritematöz ve kaba görünümdedir. Lamina propriada plazma hücreleri, lenfo-sitler, makrofajlar artar. Nötrofiller bazal membran boyunca, gastrik glandların lümeninde, pitlerde birikebilir. Nötrofil infilt-rasyonu aktif inflamasyon göstergesidir. H. pylori gastritinde mukoza ilişkili lenfoid dokunun indüklenmesine bağlı germinal merkezi belirgin lenfoid folliküller oluşur. Bu alanlardan ekstranodal marjinal zon lenfoma (MALToma) gelişebilir.*\n\n* Böylece kronik H. pylori gastritinde hem adenokarsinom hem de lenfoma gelişme riski bulunmaktadır.\n\n* Enfekte kişilerde biyopsi materyallerinde H. pylori yüzeyel foveolar hücrelerde ve boyun bölgesinde kümelenmiştir. H. Pylori H&E kesitlerinde kolaylıkla görülebilir, bununla birlikte histokimyasal olarak Warthin-Starry, Giemsa ve Modifiye Steiner boyaları (Resim 14-9), immünohistokimyasal olarak HP boyası ile gösterilebilir.\n\n*Resim: H. pylori gastriti; A-Lenfoid agregatlar H. pyloride önemlidir. B-Lamina propria ve glandlarda nötrofil infiltrasyonu C-Warthin-Starry boyamada foveolar yüzeyde H. pylori görülebilir.*",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 76,
+        "soru": "I. Portal ven trombozu\nII. Budd Chairi sendromu\nIII. Splenomegali\nIV. Konstrüktif perikardit\nV. Siroz\n\nYukarıdakilerden hangisi ya da hangileri prehepatik portal hipertansiyona neden olur?",
+        "cevap_secenekleri": {
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "Yalnız V",
+            "D": "I ve III",
+            "E": "II ve IV"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "PORTAL HİPERTANSİYON • Portal kan akımına karşı direnç gelişmesine denir. • Portal hipertansiyonun en sık nedeni sirozdur. • Sinüzoidal endotel hücrelerinde nitrik oksit sentezinin azalması, endotelin 1, anjiotensinojen ve eikosonaidlerin artışı int- rahepatik vazokonstriksyona neden olarak portal akıma direnç oluşturur. • Prehepatik, intrahepatik ve posthepatik nedenlerle gelişebilir. Portal ven trombozu Portal Hipertansiyon Nedenleri Prehepatik Nedenler Portal ven trombozu Portal ven daralması Splenomegali Splenik ven trombozu İntrahepatik Nedenler Siroz Nodüler rejenearitf hiperplazi Primer biliyer kolanjit Şistozomiyazis Masif karaciğer yağlanması Granülomatöz hastalıklar (sarkoidoz gibi) Primer veya metastatik infiltratif maligniteler Amiloidoz",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 77,
+        "soru": "Aşağıdakilerden hangisi en sık görülen herediter kistik böbrek hastalığıdır?",
+        "cevap_secenekleri": {
+            "A": "Multikistik renal displazi",
+            "B": "Erişkin tip polikistik böbrek hastalığı",
+            "C": "Çocukluk çağı polikistik böbrek hastalığı",
+            "D": "Basit renal kist",
+            "E": "Familyal jüvenil nefronofitizis"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Otozomal Dominant (Erişkin Tip) Polikistik Böbrek Hastalığı (ODPBH)\n\n* En sık görülen herediter kistik böbrek hastalığıdır.\n\n* Kronik böbrek hastalığı olgularının %10 nedenidir.\n\n* Böbrekler oldukça büyümüş ve mutikistik görünümdedir.\n\n* Olguların %85’inde Polisistin 1 proteinini kodlayan PKD1 mutasyonu, kalan olguların çoğunda ise Polisistin 2 proteinin kod-layan PKD2 gen mutasyonu vardır. PKD2 mutasyonlu kişilerde kronik böbrek yetmezliği daha geç yaşlarda görülür.\n\n* Böbrekler arada normal parankimin gittikçe azaldığı, 3-4 cm çaplarında içi seröz, bulanık ya da hemorajik sıvı ile dolu, tek sıralı epitelle döşeli multiple kistlerle doludur.\n\n* ODPKBH genellikle 4. dekada kadar semptom vermez. Böbrek fonksiyonları 50 yaşından sonra bozulmaya başlar ve kronik renal yetmezlik gelişir.\n\n* ODPKBH’da ekstra renal bulgular sıktır:\n\n− Hastaların %75’inde hipertansiyon,\n\n− %40’ında safra duktus epiteli ile döşeli asemptomatik polikistik karaciğer hastalığı,\n\n− Nadiren dalak, pankreas ve akciğer kistleri,\n\n− %10-30’unda Wills poligonunda Berry anevrizmaları,\n\n− %20’sinde mitral valv prolapsusu gözlenir.\n\n* Hastalarda ölüm üremi, subaraknoid kanama, hipertansiyon komplikasyonları veya enfeksiyonlara bağlı gelişmektedir.\n\n* Tek uygun tedavi diyaliz ve transplantasyondur.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 78,
+        "soru": "Aşağıdakilerden hangisi benign prostat hiperplazisi için yanlıştır?",
+        "cevap_secenekleri": {
+            "A": "Sıklıkla transizyonel zondan gelişir.",
+            "B": "Gelişiminde en önemli faktör androjenlerdir.",
+            "C": "Glandlarda bazal tabaka hücrelerinde kayıp izlenir.",
+            "D": "Bezde hem epitelyal hem de stromal hücrelerde artış vardır.",
+            "E": "Prostat kanserine neden olmaz."
+        },
+        "dogru_cevap": "C",
+        "aciklama": "BENİGN PROSTAT HİPERPLAZİSİ (BPH)\n\n* 50 yaşın üzerindeki erkeklerde en sık görülen prostat hastalığıdır. 80 yaşına kadar erkeklerin %90’ında histolojik olarak BPH bulguları görülür.\n\n* Sıklıkla transizyonel zondan gelişir.\n\n* Prostat bezi ağırlığı 3-5 kat artar.\n\n* Semptomlar bezin büyümesi ve düz kas hücrelerinin kontraksiyonuna ile gelişen üriner tıkanıklığa bağlıdır. Hastalarda nok-türi, dizüri, pollaküri, damlama şeklinde idrar yapma, ağrılı idrar yapma şikayetleri görülebilir. Hastalarda idrar yapamama ve mesanede rezidü idrardan dolayı tekrarlayan üriner sistem enfeksiyonları sıktır.\n\n* Patogenez:\n\n− BPH gelişiminde en önemli faktör androjenlerdir.\n\n− Prostatın ana androjeni dihidrotestosterondur (DHT).\n\n− DHT prostatik stromal hücrelerde testosterondan Tip 2 5α redüktaz enzimi ile üretilir.\n\n− DHT, hem stromal hücrelerde hem de prostatik epitel hücrelerinde çekirdekte bulunan androjen reseptörlerine bağlanır.\n\n− Bağlanmaya sekonder androjen bağımlı genler aktive olarak çeşitli büyüme faktörleri ve reseptörleri üretilir.\n\n− Bu growth faktörlerin etkisi ile stromal hücrelerde artış ve epitelyal hücrelerde apoptozda azalmaya bağlı BPH geliştiği düşünülmektedir.\n\n* Mikroskopik olarak fibromusküler stromada çift sıralı epitelle döşeli farklı şekil ve boyutlarda kistik glandlar izlenir. Epitelyal proliferasyona bağlı lümene doğru papiller yapılanma görülebilir. (Glandlarda bazal tabaka hücrelerinde kayıp malignite bulgusudur)\n\n* BPH benign bir lezyondur, prostat kanserine neden olmaz.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 79,
+        "soru": "Aşağıdakilerden hangisi endometriozisin en sık görüldüğü lokalizasyondur?",
+        "cevap_secenekleri": {
+            "A": "Myometrium",
+            "B": "Over",
+            "C": "Tuba uterina",
+            "D": "Serviks",
+            "E": "Kolon"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "ENDOMETRİOZİS\n\n* Uterus dışında herhangi bir lokalizasyonda endometrial glandların ve stromanın bulunmasına denir.\n\n* En sık overlerde (%67) görülür. Bunun dışında azalan sırayla uterus ligamentleri, rektovajinal septum, cul de sac, pelvik periton, ince, kalın bağırsak ve appendiksin serozası, serviks, vajiva ve fallop tüplerinin mukozası ve laparatomi skarlarında bulunabilir.\n\n* Görülme sıklığı reproduktif dönemindeki kadınlarda %10’dur ve özellikle 30-40’lı yaşlarda daha sıktır.\n\n* Dismenore, disparoni, pelvik ağrı, mensturasyon düzensizliklerine neden olabilir.\n\n* Kadınların %30-40’ında infertilite görülebilir.\n\n* Ovaryan endometrioziste over kanseri gelişme riski bulunmaktadır. Bu zeminde berrak hücreli ve endometroid karsinom gelişebilir.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 80,
+        "soru": "41 yaşında kadın hastanın tiroid sol lobunda bulunan solid hipoekoik 12 mm çapında nodülden ince iğne aspirasyon biyopsisi yapılıyor ve sitolojik incelenmesinde Bethesda Kategori 5 (Malignite şüpheli) olarak raporlanıyor. Olguda tiroidektomi kararı veriliyor ve lezyonun histopatolojik incelemesinde kapsülle çevrili foliküler büyüme paterni yapmış hücreler izleniyor. Hüc-relerin çekirdeklerinde intranükleer inklüzyon, buzlu cam görünümü ve grooving dikkati çekiyor. Papiller büyüme paterni ve psammom cismi görünmüyor. Mitoz, nekroz, kapsül invazyonu ve lenfovasküler invazyon izlenmiyor.\n\nBu olguda en olası tanı aşağıdakilerden hangisidir?",
+        "cevap_secenekleri": {
+            "A": "Papiller benzeri nükleer özellik gösteren non invaziv foliküler tiroid neoplazmı",
+            "B": "Papiller tiroid karsinomu",
+            "C": "Foliküler adenom",
+            "D": "Foliküler karsinom",
+            "E": "İnsüler karsinom"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "DİĞER ENKAPSÜLE FOLİKÜLER PATERN TİROİD TÜMÖRLERİ\n\n* Foliküler patern yapmış kapsüllü bazı tiroid tümörleri yeni sınflamalarda bu grupta yer alır.\n\n* Bu tümörlerde uzun dönemde prognoz karsinomlardan daha iyidir.\n\n* Bu grupta yer alan tümörlerin birbirinden, foliküler adenom, foliküler karsinom ve papiller tiroid karsinomdan ayrımları kap-sül ve/veya damar invazyonu ile papiller tiroid karsinomunun nükleer özelliklerinin olup olmamasına göre yapılmaktadır.\n\nEnkapsüle Foliküler Patern Tiroid Tümörleri ile Papiller ve Foliküler adenom-Karsinom Ayrımı\nVar\tKapsül ve/veya damar invazyonu\n\nŞüpheli\tYok\n\nPapiller tiroid karsinomu-nun nükleer\n\nözellikleri\n\nVar\tEnkapsüle foliküler varyant papiller tiroid karsinomu\tMalign potansiyeli belirsiz iyi\n\ndiferansiye tümör\n\nPapiller benzeri nükleer özellik gösteren non invaziv foliküler\n\ntiroid neoplazmı (NIFTP)Şüpheli\tİyi diferansiye karsinom, NOS\n\nYok\tFoliküler karsinom\tMalign potansiyeli belirsiz foliküler tümör\tFoliküler adenom\n\n* Papiller benzeri nükleer özellik gösteren non invaziv foliküler tiroid neoplazmı (NIFTP) Tanı Kriterleri:\n\n− Kapsüllü veya sınırları belirgin lezyon olmalı,\n\n− Foliküler büyüme paterni ile beraber;\n\no <%1 papilla yapısı\n\no Psammom cismi olmamalı\n\no <%30 solid/trabeküler/insüler büyüme paterni\n\n− Papiller karsinomun nükleer özelliklerini içermeli,\n\n− Kapsül ve lenfovasküler invazyon olmamalı,\n\n− Nekroz olmamalı,\n\n− Mitoz <3/10 BBA.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 81,
+        "soru": "Aşağıdakilerden hangisi osteoklastların fonksiyon yetersizliğine bağlı azalmış kemik rezorbsiyonu ve diffüz simetrik skle-roz ile karakterizedir?",
+        "cevap_secenekleri": {
+            "A": "Osteogenezis imperfekta",
+            "B": "Osteomalazi",
+            "C": "Akondroplazi",
+            "D": "Osteoporoz",
+            "E": "Osteopetrozis"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "OSTEOPETROZİS:\n\n* Osteoklastların gelişimi veya fonksiyon yetersizliğine bağlı azalmış kemik rezorbsiyonu ile karakterize, tüm kemiklerde diffüz simetrik skleroz ile giden kalıtsal bir hastalıktır.\n\n* Kemiklerde yoğunluk artmasına rağmen mikro yapısal düzeni bozulmuştur. Kemikler taş gibi serttir ancak tebeşir gibi kolay kırılır. (mermer kemik hastalığı)\n\n* Hastalarda en sık görülen komplikasyon multiple kemik fraktürleridir.\n\n* Hastalarda uzun kemikler genellikle normalden kısadır ve uç kısımlarının genişlemesiyle karakterize Erlanmayer şişe defor-mitesi gözlenir. Kemiklerde medüller kavite daralmıştır.\n\n* Mikroskopide kemik trabekülleri ileri derecede yoğun ve düzensizdir. (Resim 22-1)\n\n* Osteopetrozisin çeşitli varyantları bulunmaktadır:\n\n− Ciddi infantil osteopetrozis OR geçer ve hastaların çoğunda TCIRG1 mutasyonu vardır. İn utero ya da doğumdan hemen sonra bulgular görülür. Kırık, anemi ve hidrosefali sıktır ve genellikle postpartum ölümle sonuçlanır. Hayatta kalan kişiler-de bebeklik döneminde kraniyal sinir defektleri (optik atrofi, sağırlık, fasiyal paralizi), hematopoezde azalma, ekstrame-düller hematopoeze bağlı olarak hepatosplenomegali sıktır.\n\n− Bazı OR osteopetrozis formlarında ise karbonik anhidraz 2 enzim defektleri vardır. Bu hastalarda renal tubüler asidoz görülebilir.\n\n− Albers-Schönberg hastalığı osteopetrozisin hafif OD formudur ve CLCN7 mutasyonları neden olur.\n\n− OD formlar daha hafiftir ve adült yaşlara kadar tespit edilemez. Tekrarlayan kırıklar nedeniyle veya insidental çekilen röntgen grafilerinde tespit edilebilir.\n\n* Osteopetrozis kemik iliği transplantasyonuyla tedavi edilen ilk genetik kemik hastalığıdır.\n\n*A-Alt ekstremitede belirgin şekilde yoğun ve şekilsiz kemik, B-Femurda sklerotik kemik dokuya bağlı ilik boşluğu obliteredir, C-Kemik trabeküllerinde disorganizasyon ve ilik yokluğu.*",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 82,
+        "soru": "Epidermiste desmozomların parçalanması sonucu skuamöz hücrelerin birbirinden ayrılması nasıl isimlendirilir?",
+        "cevap_secenekleri": {
+            "A": "Akantoz",
+            "B": "Akantoliz",
+            "C": "Parakeratoz",
+            "D": "Ekzositoz",
+            "E": "Spongiyoz"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "DERİ LEZYONLARININ İSİMLENDİRİLMESİ:\nMakroskopik Lezyonlar\nMakül: Deriden kabarık olmayan rengi ile normal deriden ayrılan 5 mm’den küçük düz lezyon.\nYama: Deriden kabarık olmayan rengi ile normal deriden ayrılan 5 mm’den büyük düz lezyon.\nPapül: Deriden kabarık, 5mm’den küçük lezyon.\nNodül: Deriden kabarık, 5 mm’den büyük lezyon.\nPlak: Papüllerin birleşmesi ile oluşan deriden kabarık, 5 mm’den büyük lezyon.\nVezikül: İçi sıvı dolu, 5 mm’den küçük lezyon.\nBül: İçi sıvı dolu, 5 mm’den büyük lezyon.\nBlister: Vezikül ve bül için kullanılan ortak terim.\nPüstül: İçi püy ile dolu keseciklere denir.\nEkskoryasyon: Mekanik nedenlerle oluşan (çizik gibi) lineer şekilli abrazyonlardır.\nLikenifikasyon: Derinin kronik kaşıma ve tahrişine bağlı düzensiz kalınlaşması.\nOnikoliz: Tırnağın tırnak yatağından ayrılması\n\nMakroskopik Lezyonlar\nAkantoz: Epidermisin diffüz hiperplazisine (kalınlaşmasına) denir.\nHiperkeratoz: Str. Korneumun kalınlaşmasıdır.\nParakeratoz: Str. Korneumda hücrelerin çekirdeklerini kaybetmemesidir. Mukozal membranlarda normaldir.\nHipergranüloz: Str. Granülozum tabakasının kalınlaşmasıdır.\nAkantoliz: Desmozomların parçalanmasına bağlı skuamöz hücrelerin birbirinden ayrılmasına denir. Pemfigus grubu hastalıklarda izlenir.\nPapillomatöz: Papiller dermişin anormal uzamasına denir.\nSpongioz: Epidermal interselüler ödem.\nHidropik şişme: Keratinositler intraselüler ödem.\nEkzositoz: Epidermis içinde inflamatuar hücrelerin infiltrasyonu.\nDiskeratoz: Keratinositlerin anormal ve prematür keratinizasyonu.\nVakuolizasyon: Hücrelerin içinde veya yakınında vakuollerin oluşumu.\nErozyon: Epidermisin yüzeyel kaybı\n\nÜlserasyon: Bazal membranı içine alan epidermisin tam kat kaybı.",
+        "konu_grubu": "Patoloji"
+    },
+    {
+        "soru_no": 83,
+        "soru": "İlaç\tED50 (mg)\tLD50 (mg)\n\nX\t10\t100\n\nY\t50\t400\n\nZ\t10\t40\n\nED50 ve LD50 değerleri verilen X, Y ve Z ilaçlarının terapötik indeks ve potens sıralaması aşağıdakilerden hangisinde birlikte verilmiştir?\n\nTerapötik indeks\tPotens",
+        "cevap_secenekleri": {
+            "A": "X > Y > Z\tX = Z > Y",
+            "B": "X = Z > Y\tZ > Y > X",
+            "C": "Y > X = Z\tX > Y > Z",
+            "D": "Z > X > Y\tX = Z > Y",
+            "E": "Y > X > Z\tY > X = Z"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Terapötik İndeks\n\nDeney hayvanlarında kuvantal doz yanıt grafiğinden bulunur. İlaç uygulanan populasyonun %50’sini öldüren dozun (LD50), %50’sini iyileştiren doza (ED50) oranıdır (LD50 / ED50 veya TD50 / ED50). Bu oran ne kadar genişse ilaç o kadar güvenilirdir. LD1/ED99 veya TD1/ ED99 terapötik indeks hakkında daha net bilgi verir.\n\nED50: İlaç uygulanan popülasyonun yarısında etki yapan ilaç dozudur. Potensi verir. ED50’si küçük olan ilaç ED50’si büyük olan ilaçtan daha güçlüdür.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 84,
+        "soru": "Aşağıdakilerden hangisi betanekol ile fizostigminin ortak etkilerinden biri değildir?",
+        "cevap_secenekleri": {
+            "A": "İdrar çıkışında artma",
+            "B": "Myozis",
+            "C": "Hipersalivasyon",
+            "D": "Bronkokonstriksiyon",
+            "E": "İskelet kaslarında fasikülasyon"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Betanekol, yalnızca muskarinik reseptörlere agonist etki yapan ve beyne geçmeyen kolin esteridir. Fizostigmin, nikotinik ve mus-karinik reseptörleri indirekt yolla aktive eden ve beyne geçen antikolinesteraz ilaçtır. Betanekol, santral sinir sisteminde ve iskelet kası gibi nikotinik reseptörlerin olduğu yerlerde etki yapmaz.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 85,
+        "soru": "Aşağıdaki ilaçlardan hangisi glokom tedavisinde kullanılmaz?",
+        "cevap_secenekleri": {
+            "A": "PGF2alfa analogları",
+            "B": "Alfa reseptör antagonistleri",
+            "C": "Beta reseptör antagonistleri",
+            "D": "Kolinomimetikler",
+            "E": "Karbonik anhidraz inhibitörleri"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Glokom tedavisinde; PGF2alfa analogları, alfa agonistler, beta blokörler, kolinerjik ilaçlar ve karbonik anhidraz inhibitörleri kullanılır.\n\nAsetozolamid ve metazolamid oral yoldan diğerleri lokal yoldan verilir. Beta blokörler ve karbonik anhidraz inhibitörleri aköz hu-mor sentezini azaltırken diğerleri aköz humor drenajını artırır.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 86,
+        "soru": "Benzodiazepinlerin aşağıdaki etkilerinden hangisine tolerans gelişme olasılığı en düşüktür?",
+        "cevap_secenekleri": {
+            "A": "Anksiyolitik etki",
+            "B": "Hipnosedatif etki",
+            "C": "Antikonvülsan etki",
+            "D": "Spazmolitik etki",
+            "E": "Anterograd amnezi yapıcı etki"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Benzodiazepinler\n\nGABAA reseptörlerinin α1 alt birimindeki benzodiazepin reseptörlerini uyararak hücreye Cl- iyonlarının giriş frekansını artırırlar.\n\nGABA’nın etkisini artırırlar, doz yanıt eğrisini sola kaydırırlar. Etki yapmaları için ortamda mutlaka GABA bulunmalıdır.\n\nGABAA reseptörlerine antagonist etki yapan ilaç etkilerini doğrudan önleyemez. GABAB reseptörlerini uyarmazlar.\n\nHipnosedatif, anksiyolitik, anestezik, antiepileptik, spazmolitik ve anterograd amnezi yapıcı etkileri vardır. Anksiyolitik ve solunum depresyonu yapıcı etkilerine tolerans gelişmez. Terapötik dozlarda ağrı üzerine etkisizdirler; analjezi veya hiperaljezi yapmazlar.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 87,
+        "soru": "Parkinson tedavisinde kullanılan aşağıdaki ilaçlardan hangisi meperidin ile alındığında stupor, rijidite, ajitasyon ve hiper-termi gelişimine neden olur?",
+        "cevap_secenekleri": {
+            "A": "Levodopa",
+            "B": "Selejilin",
+            "C": "Bromokriptin",
+            "D": "Ropirinol",
+            "E": "Benztropin"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Selejilin / Resajilin / Safinamid\nMAOB enzimini selektif ve irreversibl inhibe ederek dopaminin katabolizmasını önlerler. Parkinson tedavisindeki etkinlikleri sı-nırlıdır. Bradikineziye tremordan daha etkilidirler. L-dopa ile birlikte verildiklerinde; L-dopa’nın günlük doz gereksinimi ve on-off sendromu riski azalır. Bulantı-kusma, hipotansiyon, öfori ve halüsünasyon gibi yan tesirleri vardır. Serotonerjik etkinliği artıran meperidin, tramadol, fluoksetin ve paroksetin gibi ilaçlarla alındıklarında hipertansiyon, ajitasyon, hipertermi, konvülsiyon ve komaya neden olurlar (serotonin sendromu). Serotonerjik etkinliği artıran ilaçlarla alınmazlar.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 88,
+        "soru": "Aşağıdaki narkotik analjeziklerden hangisi diğerlerinden farklı olarak uzun QT sendromuna neden olur ve QT uzaması yapan ilaçlarla aditif etkileşmeye girer?",
+        "cevap_secenekleri": {
+            "A": "Meperidin",
+            "B": "Remifentanil",
+            "C": "Tramadol",
+            "D": "Kodein",
+            "E": "Metadon"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Metadon\nMü reseptörlerine agonist etki yapar. NMDA reseptörlerini ve monoaminlerin geri alımını inhibe eder. Analjezik etkisi morfinden güçlü, etki süresi daha uzundur. Oral emilimi iyidir. Oral ve parenteral formu vardır. Kronik ağrı, opiyat yoksunluk krizi ve eroin bağımlılarının detoksifikasyonunda kullanılır. Diğer opiyatlardan farklı olarak QT uzama-sı ve torsades de pointes yapabilir. QT uzaması yapan ilaçlarla aditif etkileşmeye girer.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 89,
+        "soru": "Aşağıdakilerden hangisi ergot alkaloidlerinin kullanım endikasyonlarından biri değildir?",
+        "cevap_secenekleri": {
+            "A": "Hiperprolaktinemi",
+            "B": "Periferik damar hastalığı",
+            "C": "Migren",
+            "D": "Postpartum hemoraji",
+            "E": "Akromegali"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Tablo: Ergotların Endikasyonları\n\nEndikasyonlar\tErgot Türevi\nMigren\tErgotamin / Dihidroergotamin\nHiperprolaktinemi\tBromokriptin / Kabergolin\nParkinson hastalığı\tBromokriptin / Pergolid\nAkromegali\tBromokriptin\nPostpartum hemoraji\tMetil ergonovin\nVariant anjina tanısı\tErgonovin\nSenil serebral yetmezlik\tDihidroergotoksin",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 90,
+        "soru": "Aşağıdakilerden hangisi anjiotensin II’nin AT2 reseptör uyarısına bağlı etkisidir?",
+        "cevap_secenekleri": {
+            "A": "Mitotik etki",
+            "B": "Dipsojenik etki",
+            "C": "Hipernatremik etki",
+            "D": "Vazodilatör etki",
+            "E": "Vazopresin salgında artma"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Tablo: Anjiotensin II’nin Etkileri\n\nAT1 Reseptör Uyarısına Bağlı\tAT2 Reseptör Uyarısına Bağlı\n\n* Damar düz kaslarında kasılma\n\n* Mitotik etki\n\n* Kalp ve damarlarda hipertrofi\n\n* Aldosteron salgısında artma\n\n* Hipernatremi ve hipokalemi\n\n* Su ve tuz iştahında artma (dipsojenik etki)\n\n* Sempatik etkinlikte artma\n\n* Kortizol, vazopresin ve ACTH salgısında artma\n\n* Damar düz kaslarında gevşeme\n\n* Aldosteron salgısında azalma\n\n* Natriüretik etki\n\n* Antimitotik etki\n\n* Kalp ve damarlarda hipetrofiyi önleme\n\n* Fetal büyüme",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 91,
+        "soru": "Aşağıdakilerden hangisi kemoterapiye bağlı kusma ve AIDS’li hastalarda kilo kaybını önlemek için kullanılan kannabinoid CB1 reseptör agonistidir?",
+        "cevap_secenekleri": {
+            "A": "Hyosin",
+            "B": "Netupitant",
+            "C": "Linaklotid",
+            "D": "Dronabinol",
+            "E": "Riosiguat"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Dronabinol / Nabilon\n\nKannabinoid CB1 reseptörlerine agonist etki yaparlar. Anti-kanser tedaviye bağlı bulantı-kusma, HIV-ilişkili kilo kaybı ve nöropatik ağrı tedavisinde kullanılırlar.\n\nÖfori, halüsünasyon, sedasyon, ağız kuruluğu, konjuktival hiperemi, postural hipotansiyon, iştah artışı ve taşikardi gibi marihuana benzeri yan tesirleri vardır.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 92,
+        "soru": "Aşağıdakilerden hangisi doğrudan trombin inhibitörü oral antikoagulan dabigatrana bağlı kanamada kullanılan biyolojik moleküldür?",
+        "cevap_secenekleri": {
+            "A": "Bezlotoksumab",
+            "B": "Alirocumab",
+            "C": "Idarucizumab",
+            "D": "Ranibizumab",
+            "E": "Mepolizumab"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Oral Yoldan Etkili Doğrudan Trombin İnhibitörü (Dabigatran)\nAntitrombin III’e gereksinim duymadan trombini doğrudan inhibe eder. Diğer doğrudan trombin inhibitörlerinden farklı olarak oral yoldan verilir. Kalça ve diz cerrahilerinden sonra venöz tromboembolizm profilaksisi ve nonvalvüler atrial fibrilasyonda sistemik embolinin önlenmesinde oral yoldan kullanılır. Terapötik indeksi geniştir. En sık yan tesiri kanamadır. Yüksek dozuna bağlı kanamada idarucizumab kullanılır.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 93,
+        "soru": "Aşağıdakilerden hangisi pulmoner hipertansiyon tedavisinde kullanılan ilaçlardan biri değildir?",
+        "cevap_secenekleri": {
+            "A": "Nitröz oksit",
+            "B": "Bosentan",
+            "C": "Riosiguat",
+            "D": "Treprostinil",
+            "E": "Vardanafil"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Pulmoner hipertansiyon tedavisinde kullanılan nitröz oksit değil nitrik oksittir. Nitröz oksit inhalasyon anesteziğidir.\n\nPulmoner Hipertansiyon Tedavisi\nİnhale nitrik oksit\n\nStoplazmik guanilat siklazı aktive ederek cGMP derişimini artırır. Yenidoğan pulmoner arteriyel hipertansiyon tedavisinde inhalas-yonla kullanılır.\n\nSildenafil / Vardanafil / Tadalafil\n\nFosfodiesteraz-5’i selektif inhibe ederek cGMP derişimini artırırlar. Erektil disfonksiyon ve pulmoner arteriyel hipertansiyon teda-visinde kullanılırlar. Aşırı hipotansiyon risklerinden dolayı nitrovazodilatörlerle birlikte kullanılmaları kontrendikedir.\n\nBosentan / Masitentan\n\nEndotelin ETA ve ETB reseptörlerini nonselektif bloke ederler. Pulmoner arteriyel hipertansiyon tedavisinde oral yoldan kullanılır.\n\nAmbrisentan\n\nEndotelin ETA reseptörlerini selektif inhibe eder. Pulmoner arteriyel hipertansiyon tedavisinde oral yoldan kullanılır.\n\nİliprost / Epoprostenol / Treprostinil / Beraprost\n\nProstasiklin analoglarıdır. Pulmoner arteriyel hipertansiyon tedavisinde kullanılırlar. Periferik damar hastalıklarında da yararlıdırlar.\n\nRiosiguat\n\nStoplazmik guanilat siklazı aktive eder. Pulmoner arterlerde en fazla olmak üzere damar gevşemesi yapar. Pulmoner arteriyel hipertansiyon tedavisinde oral yoldan kullanılır.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 94,
+        "soru": "Aşağıdakilerden hangisi digoksinin yan tesirlerinden biridir?",
+        "cevap_secenekleri": {
+            "A": "Hepatotoksisite",
+            "B": "Kırmızı-yeşil renk körlüğü",
+            "C": "Ağız kuruluğu",
+            "D": "Halüsünasyon",
+            "E": "Sinüs taşikardisi"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Digoksinin Yan Tesirleri\n\nEn ciddi yan tesirleri kardiyak aritmilerdir. En sık ventriküler bigemini-trigemini olmak üzere sinüs bradikardisinden tam bloğa kadar her türlü aritmi ortaya çıkabilir.\n\nSinüs taşikardisi ve QRS genişlemesi görülmez. Ölüm nedeni ventriküler aritmilerdir. Çocuklarda atrial kaynaklı aritmiler daha fazla görülür.\n\nBulantı-kusma, iştahsızlık, diyare ve hipersalivasyon gibi kolinerjik yakınmalar sıktır. Halüsünasyon, konfüzyon, oryantasyon bozuk- luğu, sarı-yeşil diskromatopsi ve uzun süre kullanımda jinekomasti gelişebilir.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 95,
+        "soru": "Aşağıdaki ilaçlardan hangisi negatif inotropik etki yapmasına karşın konjestif kalp yetmezliğinde mortaliteyi azaltır?",
+        "cevap_secenekleri": {
+            "A": "Enalapril",
+            "B": "Valsartan",
+            "C": "Karvedilol",
+            "D": "Spironolakton",
+            "E": "Levosimendan"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Beta Blokörler\n\nNegatif inotropik etki yaparlar. Kalp hızını azaltarak, beta reseptörlerde up-regulasyona neden olarak, katekolaminlere bağlı apop-tozis ve re-modelingi önleyerek kalp yetmezliğinde kullanılırlar.\n\nNegatif inotropik etki yapmalarına karşın karvedilol, metoprolol, bisoprolol ve nebivolol’un kalp yetmezliğinde mortaliteyi azalt-tığı kanıtlanmıştır.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 96,
+        "soru": "Ailesel hiperkolesterolemi tedavisinde kullanılan lomitapid hipolipidemik etkisini primer olarak aşağıdaki mekanizmalar-dan hangisi ile yapar?",
+        "cevap_secenekleri": {
+            "A": "Mikrozomal trigliserit transfer proteini inhibe ederek",
+            "B": "Kolesterol ester transfer proteini inhibe ederek",
+            "C": "Açil-koenzim A kolesterol açil transferazı inhibe ederek",
+            "D": "Proprotein convertase subtilisin / kexin tip 9’u inhibe ederek",
+            "E": "Apo-lipoprotein B-100’ün mRNA’sını inhibe ederek"
+        },
+        "dogru_cevap": "A",
+        "aciklama": "Lomitapid\n\nMikrozomal trigliserit transfer proteini (MTP) inhibe eder. Karaciğerden VLDL sekresyonunu ve plazma LDL-kolesterol düzeyini azaltır. Oral yoldan aktiftir. Karaciğerde trigliserit birikimine neden olabilir. Homozigot ailesel hiperkolesterolemili hastalarda kullanılır.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 97,
+        "soru": "I. Dulaglutid\nII. Stagliptin\nIII. Pramlintid\nIV. Dapagliflozin\n\nDiyabet tedavisinde kullanılan yukarıdaki ilaçlardan hangileri subkutan yoldan kullanılır?",
+        "cevap_secenekleri": {
+            "A": "I, II ve III",
+            "B": "I ve III",
+            "C": "II ve IV",
+            "D": "Yalnız IV",
+            "E": "I, II, III ve IV"
+        },
+        "dogru_cevap": "B",
+        "aciklama": "Glukagon Like-Peptit-1 (GLP-1) Reseptör Agonistleri\n\n(Eksenatid / Liksisenatid / Liraglutid / Albiglutid / Dulaglutid / Semaglutid)\n\nİnkretin mimetik ilaçlardır. GLP-1 reseptörlerine agonist etki yaparlar. Glukoz aracılı insülin sentezini ve salgısını artırırlar. Glukagon salgısını azaltırlar. Mide boşalma süresini uzatırlar. Santral iştah merkezini baskılarlar.\n\nTek başlarına, metforminle veya metformin+sulfonilüre ile birlikte tip 2 diyabet tedavisinde subkutan yoldan kullanılırlar.\n\nHipoglisemi yapmazlar. Kilo kaybına neden olurlar. Metformin ile birlikte obez hastalarda en fazla tercih edilen antidiyabetik ilaçlardır.\n\n--- PAGE 51 ---\nTemel Bilimler / T 52 - 1\n\n51 www.tusem.com.tr\n\nPramlintid\n\nAmilin peptit analoğudur. Amilin reseptörlerine agonist etki yaparak tip 1 ve tip 2 diyabet tedavisinde subkutan yoldan kullanılır. Kalsitonin gen ilişkili peptite (CGRP) benzer.\n\nGlukagon salgısını azaltır, mide boşalma süresini uzatır ve santral iştah merkezini baskılar. Postprandial hiperglisemide etkilidir. Kilo kaybına neden olur.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 98,
+        "soru": "Aşağıdaki sefalosporinlerden hangisi bakteriyel menenjit tedavisinde kullanılmaz?",
+        "cevap_secenekleri": {
+            "A": "Sefotaksim",
+            "B": "Sefepim",
+            "C": "Seftazidim",
+            "D": "Seftriakson",
+            "E": "Sefoksitin"
+        },
+        "dogru_cevap": "E",
+        "aciklama": "Menenjitte en fazla tercih edilen sefalosporinler seftriakson ve sefotaksimdir. Sefepim ve seftazidim de menenjit tedavisinde kullanılır. 1 ve 2.kuşak sefalosporinler menenjitte kullanılmaz. Sefoksitin B.fragilis gibi anaeroblara etkili 2.kuşak sefalosporindir.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 99,
+        "soru": "Yirmi iki yaşında bayan hasta idrar yaparken yanma, sızlama ve idrarını tam olarak yapamama hissi yakınmaları ile başvuru-yor. Yapılan incelemeler sonunda hastaya E.coli’ye bağlı akut sistit tanısı konuyor.\n\nBu hastanın tedavisinde aşağıdaki antibiyotiklerden hangisi uygun değildir?",
+        "cevap_secenekleri": {
+            "A": "Trimetoprim-sulfometoksazol",
+            "B": "Amoksisilin-klavulonik asit",
+            "C": "Siprofloksasin",
+            "D": "Tigesiklin",
+            "E": "Fosfomisin"
+        },
+        "dogru_cevap": "D",
+        "aciklama": "Tigesiklin\n\nYapıca minosikline benzeyen glisiklin türevidir. Etki mekanizması tetrasiklinlere benzer. Geniş spektrumludur. Yalnızca intravenöz yoldan kullanılır.\n\nKaraciğerde metabolize edilerek safra yoluyla atılır. Böbrek yetmezliğinde doz ayarlamasına gerek yoktur, karaciğer yetmezliğinde dozu ayarlanmalıdır. Yarı ömrü 36 saattir. Böbrek ile elimine edilmediği için üriner sistem enfeksiyonlarında kullanılmaz.\n\nMetisilin ve vankomisin dirençli stafilokok, penisilin G dirençli streptokok, çoklu ilaç dirençli pnömokok, vankomisin dirençli ente-rokok, çoklu ilaç dirençli asinetobakter, birçok aneorobik bakteri, legionella, klamidya ve riketsiyaya etkilidir. Proteus ve psödoma-nas doğal dirençlidir.",
+        "konu_grubu": "Farmakoloji"
+    },
+    {
+        "soru_no": 100,
+        "soru": "Elli altı yaşında atrial fibrilasyonu olan, daha önce emboli geçiren ve emboli profilaksisi için varfarin kullanan hasta akciğer tüberkülozu için dörtlü tüberküloz tedavisi de almaktadır.\n\nTüberküloz tedavisi için kullandığı aşağıdaki ilaçlardan hangisinin yeni bir emboliye neden olma olasılığı en yüksektir?",
+        "cevap_secenekleri": {
+            "A": "İzoniazid",
+            "B": "Streptomisin",
+            "C": "Rifampin",
+            "D": "Etambutol",
+            "E": "Pirazinamid"
+        },
+        "dogru_cevap": "C",
+        "aciklama": "Rifampin\n\nNükleusta DNA bağımlı RNA polimerazı inhibe eder. Bakterisid etki yapar. Karaciğerde metabolize edilir. Enterohepatik döngüye uğrayarak safra yoluyla elimine olur. Karaciğer ve böbrek yetmezliğinde doz ayarlamaya gerek yoktur. Beyin omurilik sıvısına yeterli düzeyde geçer.\n\nTüberküloz ve lepra tedavisinde en önemli ilaçlardandır. Tüberküloz basilinin tüm formuna etki yapar. Kazeöz lezyonlara en etkili ilaçtır.\n\nN.meningitis ve H.influenza tip B menenjit profilaksisinde kullanılır. Aynı endikasyonlarda seftriakson ve siprofloksasin de verile-bilir.\n\nBrusella tedavisinde doksisiklin ile kombine edilir. Metisilin dirençli stafilokokal osteomyelit ve endokardit tedavisinde kullanılır. Lejyoner hastalığında yararlıdır. Poks virüs üzerinde antiviral etki yapar.\n\nİmmunsupresan etkisi de vardır. PPD testini negatifleştirir. Vücut sıvılarını turuncuya boyar. Kolestatik sarılık ve hepatite neden olabilir. Transaminaz takibi yapılır.\n\nHastaların tamamında hafif zincir proteinüri görülebilir. Myalji, trombositopeni, anemi ve akut tubüler nekrozla birlikte olan influ-enza A benzeri bulgular (flu-like)ortaya çıkabilir.\n\nSitokrom p450 enzimlerini indükleyerek kendisi dahil birçok ilacın eliminasyonunu hızlandırır. Oral kontraseptifle alındığında gebe-liklere, varfarinle alındığında emboliye ve metadonla alındığında yoksunluk krizine neden olur. Anti-HIV ilaçların etkinliğini azaltır. AIDS’li hastalarda rifampin yerine rifabutin tercih edilir.",
+        "konu_grubu": "Farmakoloji"
+    }
+]
