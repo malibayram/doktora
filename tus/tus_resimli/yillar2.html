@@ -1,0 +1,203 @@
+<ion-view cache-view="false" view-title="Çıkmış Sorular">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+        <ion-list class="yillarList">
+            <p style="color:#2980b9; text-align: center;">ÇÖ=Çözüm Açıklamalı</p>
+            <div class="collapse-wrapper">
+                <input id="collapsable" class="toggle" type="checkbox" ng-click="colapseChecked()">
+                <label for="collapsable" class="label-toggle">Konularına Göre Çıkmış Tus Soruları</label>
+                <div class="collapse-content2">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('1','Anatomi')">
+                            <i class="icon ion-trophy"></i> Anatomi<sub> {{dogruSayisi_1}}D, {{yanlisSayisi_1}}Y,
+                                {{net_1}}N</sub>
+                            <span class="progressDiv"><progress max="108" value="{{toplam_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_1}}/108
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('9','Patoloji')">
+                            <i class="icon ion-trophy"></i> Patoloji<sub> {{dogruSayisi_9}}D, {{yanlisSayisi_9}}Y,
+                                {{net_9}}N</sub>
+                            <span class="progressDiv"><progress max="169" value="{{toplam_9}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_9}}/169
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('10','Mikrobiyoloji')">
+                            <i class="icon ion-trophy"></i> Mikrobiyoloji<sub> {{dogruSayisi_10}}D,
+                                {{yanlisSayisi_10}}Y,
+                                {{net_10}}N</sub>
+                            <span class="progressDiv"><progress max="167" value="{{toplam_10}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_10}}/167
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('3','Biyokimya')">
+                            <i class="icon ion-trophy"></i> Biyokimya(<span class="coClass">ÇÖ</span>)<sub>
+                                {{dogruSayisi_3}}D,
+                                {{yanlisSayisi_3}}Y,
+                                {{net_3}}N</sub>
+                            <span class="progressDiv"><progress max="53" value="{{toplam_3}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_3}}/53
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('4','Anatomi')">
+                            <i class="icon ion-trophy"></i> Anatomi(<span class="coClass">ÇÖ</span>)<sub>
+                                {{dogruSayisi_4}}D,
+                                {{yanlisSayisi_4}}Y,
+                                {{net_4}}N</sub>
+                            <span class="progressDiv"><progress max="58" value="{{toplam_4}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_4}}/58
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('7','Dahiliye')">
+                            <i class="icon ion-trophy"></i> Dahiliye(<span class="coClass">ÇÖ</span>)<sub>
+                                {{dogruSayisi_7}}D,
+                                {{yanlisSayisi_7}}Y,
+                                {{net_7}}N</sub>
+                            <span class="progressDiv"><progress max="251" value="{{toplam_7}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_7}}/251
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('5','Mikrobiyoloji')">
+                            <i class="icon ion-trophy"></i> Mikrobiyoloji(<span class="coClass">ÇÖ</span>)<sub>
+                                {{dogruSayisi_5}}D,
+                                {{yanlisSayisi_5}}Y,
+                                {{net_5}}N</sub>
+                            <span class="progressDiv"><progress max="131" value="{{toplam_5}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_5}}/131
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2','Farmakoloji')">
+                            <i class="icon ion-trophy"></i> Farmakoloji(<span class="coClass">ÇÖ</span>)<sub>
+                                {{dogruSayisi_2}}D,
+                                {{yanlisSayisi_2}}Y,
+                                {{net_2}}N</sub>
+                            <span class="progressDiv"><progress max="111" value="{{toplam_2}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2}}/111
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('6','Patoloji')">
+                            <i class="icon ion-trophy"></i> Patoloji(<span class="coClass">ÇÖ</span>)
+                            <sub> {{dogruSayisi_6}}D,
+                                {{yanlisSayisi_6}}Y,
+                                {{net_6}}N</sub>
+                            <span class="progressDiv"><progress max="123" value="{{toplam_6}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_6}}/123
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close
+                            ng-click="yiliAcFree('8','Fizyoloji - Histoloji')">
+                            <i class="icon ion-trophy"></i> Fiz. - His.(<span class="coClass">ÇÖ</span>)
+                            <sub> {{dogruSayisi_8}}D,
+                                {{yanlisSayisi_8}}Y,
+                                {{net_8}}N</sub>
+                            <span class="progressDiv"><progress max="78" value="{{toplam_8}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_8}}/78
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('11','Pediatri')">
+                            <i class="icon ion-trophy"></i> Pediatri (<span class="coClass">ÇÖ</span>)
+                            <sub> {{dogruSayisi_11}}D,
+                                {{yanlisSayisi_11}}Y,
+                                {{net_11}}N</sub>
+                            <span class="progressDiv"><progress max="145" value="{{toplam_11}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_11}}/145
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('12','Genel Cerrahi')">
+                            <i class="icon ion-trophy"></i> Genel Cerrahi (<span class="coClass">ÇÖ</span>)
+                            <sub> {{dogruSayisi_12}}D,
+                                {{yanlisSayisi_12}}Y,
+                                {{net_12}}N</sub>
+                            <span class="progressDiv"><progress max="180" value="{{toplam_12}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_12}}/180
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('13','Küçük Stajlar')">
+                            <i class="icon ion-trophy"></i> Küçük Stajlar (<span class="coClass">ÇÖ</span>)
+                            <sub> {{dogruSayisi_13}}D,
+                                {{yanlisSayisi_13}}Y,
+                                {{net_13}}N</sub>
+                            <span class="progressDiv"><progress max="86" value="{{toplam_13}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_13}}/86
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('14','Kadın Doğum')">
+                            <i class="icon ion-trophy"></i> Kadın Doğum (<span class="coClass">ÇÖ</span>)
+                            <sub> {{dogruSayisi_14}}D,
+                                {{yanlisSayisi_14}}Y,
+                                {{net_14}}N</sub>
+                            <span class="progressDiv"><progress max="108" value="{{toplam_14}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_14}}/108
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <p style="margin-bottom: 10px;"></p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div style="clear:both;"></div>
+
+        </ion-list>
+
+
+        <p></p>
+        <p style="margin-bottom: 20px;"></p>
+        <p></p>
+
+    </ion-content>
+</ion-view>

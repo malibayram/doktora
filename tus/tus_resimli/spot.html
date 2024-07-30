@@ -1,0 +1,92 @@
+<ion-view view-title="TUS Spot Bilgiler">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+
+        <!--        -->
+        <div  style="text-align: right;">
+            <button class="button icon-right button-calm ion-jet" ng-click="dersDetayinaGitKaldigimYer()">En son kaldığım yere git</button>
+        </div>
+        <ion-list class="konuAnlatimList">
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Anatomi')">
+                <i style="font-size: 25px;" class="icon icon ion-folder"></i> &nbsp;&nbsp;&nbsp; Anatomi
+            </ion-item>
+		    <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Anatomi2')">
+                <i style="font-size: 25px;" class="icon ion-log-out"></i> &nbsp;&nbsp;&nbsp; Anatomi 2
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Dahiliye')">
+                <i style="font-size: 25px;" class="icon ion-filing"></i> &nbsp;&nbsp;&nbsp; Dahiliye
+            </ion-item>
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Biyokimya')">
+                <i style="font-size: 25px;" class="icon ion-link"></i> &nbsp;&nbsp;&nbsp; Biyokimya
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Biyokimya2')">
+                <i style="font-size: 25px;" class="icon ion-link"></i> &nbsp;&nbsp;&nbsp; Biyokimya 2
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Pediatri')">
+                <i style="font-size: 25px;" class="icon ion-pound"></i> &nbsp;&nbsp;&nbsp; Pediatri
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Fizyoloji')">
+                <i style="font-size: 25px;" class="icon ion-compose"></i> &nbsp;&nbsp;&nbsp; Fizyoloji
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Farmakoloji')">
+                <i style="font-size: 25px;" class="icon ion-paperclip"></i> &nbsp;&nbsp;&nbsp; Farmakoloji
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('farmakoloji2')">
+                <i style="font-size: 25px;" class="icon ion-paperclip"></i> &nbsp;&nbsp;&nbsp; Farmakoloji 2
+            </ion-item>
+
+             <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('altunFarmaKonuKitabi')">
+                <i style="font-size: 25px;" class="icon ion-paperclip"></i> &nbsp;&nbsp;&nbsp; Altun Farmakoloji Konu Kitabı (2016 GÜNCELLEME)
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('altunFarmaKonuKitabi2')">
+                <i style="font-size: 25px;" class="icon ion-paperclip"></i> &nbsp;&nbsp;&nbsp; Altun Farmakoloji Kampı Sorularından Spot Bilgiler (Nisan 2017)
+            </ion-item>
+            
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Patoloji')">
+                <i style="font-size: 25px;" class="icon ion-briefcase"></i> &nbsp;&nbsp;&nbsp; Patoloji
+            </ion-item>
+
+            <ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Genel Cerrahi')">
+                <i style="font-size: 25px;" class="icon ion-medkit"></i> &nbsp;&nbsp;&nbsp; Genel Cerrahi
+            </ion-item>
+			
+			<ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Jinekoloji')">
+                <i style="font-size: 25px;" class="icon ion-heart-broken"></i> &nbsp;&nbsp;&nbsp; Jinekoloji
+            </ion-item>
+			
+			<ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Küçük Stajlar')">
+                <i style="font-size: 25px;" class="icon ion-briefcase"></i> &nbsp;&nbsp;&nbsp; Küçük Stajlar
+            </ion-item>
+			
+			<ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Mikrobiyoloji')">
+                <i style="font-size: 25px;" class="icon ion-funnel"></i> &nbsp;&nbsp;&nbsp; Mikrobiyoloji
+            </ion-item>
+						
+			<ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Obstetrik')">
+                <i style="font-size: 25px;" class="icon ion-briefcase"></i> &nbsp;&nbsp;&nbsp; Obstetrik
+            </ion-item>
+						
+			<ion-item class="konuAnlatimItem" menu-close ng-click="dersDetayinaGit('Onkoloji')">
+                <i style="font-size: 25px;" class="icon ion-arrow-graph-down-right"></i> &nbsp;&nbsp;&nbsp; Onkoloji
+            </ion-item>		
+			
+        </ion-list>
+
+
+
+    </ion-content>
+</ion-view>

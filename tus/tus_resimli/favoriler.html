@@ -1,0 +1,152 @@
+<ion-view cache-view="false" view-title="Favori Sorularım">
+
+        <ion-nav-buttons side="right">
+
+                <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+        
+            </ion-nav-buttons>
+
+    <ion-content>
+        <div class="platform-android">
+
+            <!---->
+            <div class="list">
+
+                <ion-item ng-repeat="item in favoriList" ng-value="item.value" class="server-side favoriItems">
+                    <span ng-click="soruyuAc(item)">
+                        <i style="font-size: 25px;" class="icon ion-help-circled"></i>
+                        &nbsp;&nbsp;&nbsp;{{item.dersText}} - {{ item.sira}}.soru
+                    </span>
+                    <button style="float: right; color: #d35400; padding: 0;" title="Reklamlardan Kurtulun" class="button-icon icon ion-android-delete"
+                        type="button" ng-click="favoridenCikar(item)">
+                    </button>
+                </ion-item>
+
+
+            </div>
+
+
+            <div ng-show="favoriList < 1">
+                <p class="favoriListesiBos">Favori listeniz boş.</p>
+            </div>
+
+        </div>
+    </ion-content>
+
+
+
+    <script id="templates/soruModal.html" type="text/ng-template">
+        <ion-modal-view>
+            <ion-header-bar class="bar bar-header bar-positive">
+                    <button class="button button-clear button-primary" ng-click="cevabiGor()">Cevabı Gör</button>
+                <h1 class="title">Soru</h1>
+                <button class="button button-clear button-primary" ng-click="soruModal.hide()">Kapat</button>
+            </ion-header-bar>
+            <ion-content class="padding">
+        
+        
+                <div ng-if="!yazi_ile_mi">
+                    <div class="question">
+                        <img class="soruImg" ng-src="{{soru}}">
+                    </div>
+        
+                    <div class="wrappert">
+                        <div class="buttongroup">
+                            <input id="a" type="radio" value="a" ng-class="{'dogruCevapCss' : dogruYanit == true,'yanlisCevapCss' : dogruYanit == false,'cevapYokCss' : dogruYanit == null }"
+                                name="market" ng-click="serverSideChange('a')" />
+                            <label for="a">
+                                A
+                            </label>
+                            <input id="b" type="radio" value="b" ng-class="{'dogruCevapCss' : dogruYanit == true,'yanlisCevapCss' : dogruYanit == false,'cevapYokCss' : dogruYanit == null }"
+                                name="market" ng-click="serverSideChange('b')" />
+                            <label for="b">
+                                B
+                            </label>
+                            <input id="c" type="radio" value="c" ng-class="{'dogruCevapCss' : dogruYanit == true,'yanlisCevapCss' : dogruYanit == false,'cevapYokCss' : dogruYanit == null }"
+                                name="market" ng-click="serverSideChange('c')" />
+                            <label for="c">
+                                C
+                            </label>
+        
+                            <input id="d" type="radio" value="d" ng-class="{'dogruCevapCss' : dogruYanit == true,'yanlisCevapCss' : dogruYanit == false ,'cevapYokCss' : dogruYanit == null }"
+                                name="market" ng-click="serverSideChange('d')" />
+                            <label for="d">
+                                D
+                            </label>
+        
+                            <input id="e" type="radio" value="e" ng-class="{'dogruCevapCss' : dogruYanit == true,'yanlisCevapCss' : dogruYanit == false,'cevapYokCss' : dogruYanit == null }"
+                                name="market" ng-click="serverSideChange('e')" />
+                            <label for="e">
+                                E
+                            </label>
+        
+                        </div>
+                    </div>
+                </div>
+        
+                <div ng-if="yazi_ile_mi">
+                    <div class="soruUstKismi" ng-bind-html="soruUstKismi"></div>
+                    <div class="question" ng-bind-html="soru"> </div>
+                    <div class="list">
+                        <ion-radio ng-repeat="item in secenekler" ng-value="item.value" ng-click="serverSideChange(item)"
+                            ng-model="secilecekSecenek" class="server-side" ng-class="{'dogruCevapCss' : item.dogruYanit == true,'yanlisCevapCss' : item.dogruYanit == false }">
+                            <span style="text-transform: uppercase;">{{item.value}})</span>
+                            <span style="font-size: 13px;" ng-bind-html="item.text"> {{ item.text}}</span>
+                        </ion-radio>
+        
+                    </div>
+                </div>
+        
+            </ion-content>
+        </ion-modal-view>
+    </script>
+
+
+
+
+
+
+    <script id="templates/cevapModal.html" type="text/ng-template">
+        <ion-modal-view>
+        <ion-header-bar class="bar bar-header bar-positive">
+        <h1 class="title">Cevabımı kontrol et</h1>
+        <button class="button button-clear button-primary" ng-click="cevapModal.hide()">Kapat</button>
+        </ion-header-bar>
+        <ion-content class="padding">
+        <div style="text-align: center" ng-show="dogruYanit">
+        <img src="img/clap.gif" alt="Doğru Yanıt" style="width: 200px; height: 200px;"/>
+        <h4 style="margin: 20px;">Tebrikler !!! <p>Doğru Cevap ...<p></h4>
+           
+        <p style="text-align: center;"> Doğru cevap: {{yanit | uppercase}}</p>
+        <div class="aciklamaDiv">
+           {{cevapAciklamasi}}
+        </div>
+
+        <div class="cevapResimDiv" ng-show="resimliCevaplarVarMi">
+                <img ng-src="{{cevapResmi}}" alt="Çözümlü cevap" style="width: 100%; height: auto"/>
+        </div>
+
+        <p></p>
+            
+        </div>
+        <div style="text-align: center" ng-show="!dogruYanit">
+        <img src="img/sad.gif" alt="Yanlış Cevap" style="width: 200px; height: 200px"/>
+        <h4 style="margin: 20px;">Maalesef yanlış seçeneği işaretlediniz !!!</h4>
+        <p style="text-align: center;"> Doğru cevap: {{yanit | uppercase}}</p>
+        <div class="aciklamaDiv">
+           {{cevapAciklamasi}}
+        </div>
+
+        <div class="cevapResimDiv" ng-show="resimliCevaplarVarMi">
+                <img ng-src="{{cevapResmi}}" alt="Çözümlü cevap" style="width: 100%; height: auto"/>
+            </div>
+        <p></p>
+        </div>
+
+        </ion-content>
+        </ion-modal-view>
+    </script>
+
+
+
+</ion-view>

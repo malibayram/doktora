@@ -1,0 +1,1191 @@
+<ion-view view-title="Çıkmış Sorular">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+        <p style="color: red; text-align: center; font-size: 14px;">* 2020 Ekim soruları eklendi. Kontrol etmeyi unutmayınız.</p>
+        <ion-list class="yillarList">
+
+
+            <div class="collapse-wrapper">
+                <input id="2020" class="toggle" type="checkbox" ng-click="colapseChecked(2020)">
+                <label for="2020" class="label-toggle">2020 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2020_0','TUS 2020 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2020_0}}D, {{yanlisSayisi_2020_0}}Y,
+                                {{net_2020_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2020_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2020_0}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2020_1','TUS 2020 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2020_1}}D, {{yanlisSayisi_2020_1}}Y,
+                                {{net_2020_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2020_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2020_1}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2020_2','TUS 2020 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2020_2}}D, {{yanlisSayisi_2020_2}}Y,
+                                {{net_2020_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2020_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2020_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2020_3','TUS 2020 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2020_3}}D, {{yanlisSayisi_2020_3}}Y,
+                                {{net_2020_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2020_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2020_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <p style="margin-bottom: 10px;"></p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="collapse-wrapper">
+                <input id="2019" class="toggle" type="checkbox" ng-click="colapseChecked(2019)">
+                <label for="2019" class="label-toggle">2019 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2019_0','TUS 2019 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2019_0}}D, {{yanlisSayisi_2019_0}}Y,
+                                {{net_2019_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2019_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2019_0}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2019_1','TUS 2019 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2019_1}}D, {{yanlisSayisi_2019_1}}Y,
+                                {{net_2019_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2019_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2019_1}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2019_2','TUS 2019 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2019_2}}D, {{yanlisSayisi_2019_2}}Y,
+                                {{net_2019_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2019_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2019_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2019_3','TUS 2019 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2019_3}}D, {{yanlisSayisi_2019_3}}Y,
+                                {{net_2019_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2019_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2019_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+
+                        <p style="margin-bottom: 10px;"></p>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2018" class="toggle" type="checkbox" ng-click="colapseChecked(2018)">
+                <label for="2018" class="label-toggle">2018 çıkmış TUS soruları</label>
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2018_0','TUS 2018 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2018_0}}D, {{yanlisSayisi_2018_0}}Y,
+                                {{net_2018_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2018_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2018_0}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2018_1','TUS 2018 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2018_1}}D, {{yanlisSayisi_2018_1}}Y,
+                                {{net_2018_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2018_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2018_1}}/120</span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2018_2','TUS 2018 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2018_2}}D, {{yanlisSayisi_2018_2}}Y,
+                                {{net_2018_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2018_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2018_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2018_3','TUS 2018 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2018_3}}D, {{yanlisSayisi_2018_3}}Y,
+                                {{net_2018_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2018_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2018_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <p style="margin-bottom: 10px;"></p>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2017" class="toggle" type="checkbox" ng-click="colapseChecked(2017)">
+                <label for="2017" class="label-toggle">2017 çıkmış TUS soruları</label>
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2017_0','TUS 2017 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2017_0}}D, {{yanlisSayisi_2017_0}}Y,
+                                {{net_2017_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2017_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2017_0}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2017_1','TUS 2017 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2017_1}}D, {{yanlisSayisi_2017_1}}Y,
+                                {{net_2017_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2017_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2017_1}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2017_2','TUS 2017 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2017_2}}D, {{yanlisSayisi_2017_2}}Y,
+                                {{net_2017_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2017_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2017_2}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2017_3','TUS 2017 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2017_3}}D, {{yanlisSayisi_2017_3}}Y,
+                                {{net_2017_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2017_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2017_3}}/120</span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2016" class="toggle" type="checkbox" ng-click="colapseChecked(2016)">
+                <label for="2016" class="label-toggle">2016 çıkmış TUS soruları</label>
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2016_0','TUS 2016 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2016_0}}D, {{yanlisSayisi_2016_0}}Y,
+                                {{net_2016_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2016_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2016_0}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2016_1','TUS 2016 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2016_1}}D, {{yanlisSayisi_2016_1}}Y,
+                                {{net_2016_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2016_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2016_1}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2016_2','TUS 2016 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2016_2}}D, {{yanlisSayisi_2016_2}}Y,
+                                {{net_2016_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2016_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2016_2}}/120</span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAcFree('2016_3','TUS 2016 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2016_3}}D, {{yanlisSayisi_2016_3}}Y,
+                                {{net_2016_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2016_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2016_3}}/120</span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2015" class="toggle" type="checkbox" ng-click="colapseChecked(2015)">
+                <label for="2015" class="label-toggle">2015 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2015_0','TUS 2015 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2015_0}}D, {{yanlisSayisi_2015_0}}Y,
+                                {{net_2015_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2015_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2015_0}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2015_1','TUS 2015 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2015_1}}D, {{yanlisSayisi_2015_1}}Y,
+                                {{net_2015_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2015_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2015_1}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2015_2','TUS 2015 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2015_2}}D, {{yanlisSayisi_2015_2}}Y,
+                                {{net_2015_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2015_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2015_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2015_3','TUS 2015 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2015_3}}D, {{yanlisSayisi_2015_3}}Y,
+                                {{net_2015_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2015_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2015_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2014" class="toggle" type="checkbox" ng-click="colapseChecked(2014)">
+                <label for="2014" class="label-toggle">2014 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2014_0','TUS 2014 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2014_0}}D, {{yanlisSayisi_2014_0}}Y,
+                                {{net_2014_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2014_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2014_0}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2014_1','TUS 2014 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2014_1}}D, {{yanlisSayisi_2014_1}}Y,
+                                {{net_2014_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2014_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2014_1}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2014_2','TUS 2014 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2014_2}}D, {{yanlisSayisi_2014_2}}Y,
+                                {{net_2014_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2014_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2014_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2014_3','TUS 2014 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2014_3}}D, {{yanlisSayisi_2014_3}}Y,
+                                {{net_2014_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2014_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2014_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2013" class="toggle" type="checkbox" ng-click="colapseChecked(2013)">
+                <label for="2013" class="label-toggle">2013 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2013_0','TUS 2013 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2013_0}}D, {{yanlisSayisi_2013_0}}Y,
+                                {{net_2013_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2013_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2013_0}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2013_1','TUS 2013 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2013_1}}D, {{yanlisSayisi_2013_1}}Y,
+                                {{net_2013_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2013_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2013_1}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2013_2','TUS 2013 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2013_2}}D, {{yanlisSayisi_2013_2}}Y,
+                                {{net_2013_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2013_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2013_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2013_3','TUS 2013 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2013_3}}D, {{yanlisSayisi_2013_3}}Y,
+                                {{net_2013_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2013_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2013_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2012" class="toggle" type="checkbox" ng-click="colapseChecked(2012)">
+                <label for="2012" class="label-toggle">2012 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2012_0','TUS 2012 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2012_0}}D, {{yanlisSayisi_2012_0}}Y,
+                                {{net_2012_0}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2012_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2012_0}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2012_1','TUS 2012 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2012_1}}D, {{yanlisSayisi_2012_1}}Y,
+                                {{net_2012_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2012_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2012_1}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2012_2','TUS 2012 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2012_2}}D, {{yanlisSayisi_2012_2}}Y,
+                                {{net_2012_2}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2012_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2012_2}}/120 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2012_3','TUS 2012 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2012_3}}D, {{yanlisSayisi_2012_3}}Y,
+                                {{net_2012_3}}N</sub>
+                            <span class="progressDiv"><progress max="120" value="{{toplam_2012_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2012_3}}/120
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2011" class="toggle" type="checkbox" ng-click="colapseChecked(2011)">
+                <label for="2011" class="label-toggle">2011 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2011_0','TUS 2011 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2011_0}}D, {{yanlisSayisi_2011_0}}Y,
+                                {{net_2011_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2011_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2011_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2011_1','TUS 2011 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2011_1}}D, {{yanlisSayisi_2011_1}}Y,
+                                {{net_2011_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2011_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2011_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2011_2','TUS 2011 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2011_2}}D, {{yanlisSayisi_2011_2}}Y,
+                                {{net_2011_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2011_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2011_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2011_3','TUS 2011 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2011_3}}D, {{yanlisSayisi_2011_3}}Y,
+                                {{net_2011_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2011_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2011_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2010" class="toggle" type="checkbox" ng-click="colapseChecked(2010)">
+                <label for="2010" class="label-toggle">2010 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2010_0','TUS 2010 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2010_0}}D, {{yanlisSayisi_2010_0}}Y,
+                                {{net_2010_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2010_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2010_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2010_1','TUS 2010 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2010_1}}D, {{yanlisSayisi_2010_1}}Y,
+                                {{net_2010_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2010_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2010_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2010_2','TUS 2010 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2010_2}}D, {{yanlisSayisi_2010_2}}Y,
+                                {{net_2010_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2010_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2010_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2010_3','TUS 2010 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2010_3}}D, {{yanlisSayisi_2010_3}}Y,
+                                {{net_2010_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2010_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2010_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2009" class="toggle" type="checkbox" ng-click="colapseChecked(2009)">
+                <label for="2009" class="label-toggle">2009 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2009_0','TUS 2009 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2009_0}}D, {{yanlisSayisi_2009_0}}Y,
+                                {{net_2009_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2009_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2009_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2009_1','TUS 2009 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2009_1}}D, {{yanlisSayisi_2009_1}}Y,
+                                {{net_2009_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2009_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2009_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2009_2','TUS 2009 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2009_2}}D, {{yanlisSayisi_2009_2}}Y,
+                                {{net_2009_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2009_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2009_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2009_3','TUS 2009 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2009_3}}D, {{yanlisSayisi_2009_3}}Y,
+                                {{net_2009_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2009_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2009_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2008" class="toggle" type="checkbox" ng-click="colapseChecked(2008)">
+                <label for="2008" class="label-toggle">2008 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2008_0','TUS 2008 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2008_0}}D, {{yanlisSayisi_2008_0}}Y,
+                                {{net_2008_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2008_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2008_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2008_1','TUS 2008 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2008_1}}D, {{yanlisSayisi_2008_1}}Y,
+                                {{net_2008_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2008_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2008_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2008_2','TUS 2008 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2008_2}}D, {{yanlisSayisi_2008_2}}Y,
+                                {{net_2008_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2008_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2008_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2008_3','TUS 2008 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2008_3}}D, {{yanlisSayisi_2008_3}}Y,
+                                {{net_2008_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2008_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2008_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <ion-item class="istemInListYillar" menu-close>
+                            <!-- ng-click="yiliAc('2008_4','TUS 2008 İlk. Temel Tıp 2 çıkmış soruları')"  -->
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp 2 <sub> {{dogruSayisi_2008_4}}D, {{yanlisSayisi_2008_4}}Y,
+                                {{net_2008_4}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2008_4}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2008_4}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2007" class="toggle" type="checkbox" ng-click="colapseChecked(2007)">
+                <label for="2007" class="label-toggle">2007 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2007_0','TUS 2007 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2007_0}}D, {{yanlisSayisi_2007_0}}Y,
+                                {{net_2007_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2007_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2007_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2007_1','TUS 2007 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2007_1}}D, {{yanlisSayisi_2007_1}}Y,
+                                {{net_2007_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2007_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2007_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2007_2','TUS 2007 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2007_2}}D, {{yanlisSayisi_2007_2}}Y,
+                                {{net_2007_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2007_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2007_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2007_3','TUS 2007 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2007_3}}D, {{yanlisSayisi_2007_3}}Y,
+                                {{net_2007_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2007_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2007_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2006" class="toggle" type="checkbox" ng-click="colapseChecked(2006)">
+                <label for="2006" class="label-toggle">2006 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2006_0','TUS 2006 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2006_0}}D, {{yanlisSayisi_2006_0}}Y,
+                                {{net_2006_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2006_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2006_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2006_1','TUS 2006 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2006_1}}D, {{yanlisSayisi_2006_1}}Y,
+                                {{net_2006_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2006_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2006_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2006_2','TUS 2006 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2006_2}}D, {{yanlisSayisi_2006_2}}Y,
+                                {{net_2006_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2006_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2006_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2006_3','TUS 2006 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2006_3}}D, {{yanlisSayisi_2006_3}}Y,
+                                {{net_2006_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2006_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2006_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2005" class="toggle" type="checkbox" ng-click="colapseChecked(2005)">
+                <label for="2005" class="label-toggle">2005 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2005_0','TUS 2005 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2005_0}}D, {{yanlisSayisi_2005_0}}Y,
+                                {{net_2005_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2005_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2005_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2005_1','TUS 2005 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2005_1}}D, {{yanlisSayisi_2005_1}}Y,
+                                {{net_2005_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2005_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2005_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2005_2','TUS 2005 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2005_2}}D, {{yanlisSayisi_2005_2}}Y,
+                                {{net_2005_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2005_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2005_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="collapse-wrapper">
+                <input id="2004" class="toggle" type="checkbox" ng-click="colapseChecked(2004)">
+                <label for="2004" class="label-toggle">2004 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2004_0','TUS 2004 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2004_0}}D, {{yanlisSayisi_2004_0}}Y,
+                                {{net_2004_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2004_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2004_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2004_1','TUS 2004 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2004_1}}D, {{yanlisSayisi_2004_1}}Y,
+                                {{net_2004_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2004_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2004_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2004_2','TUS 2004 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2004_2}}D, {{yanlisSayisi_2004_2}}Y,
+                                {{net_2004_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2004_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2004_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2004_3','TUS 2004 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2004_3}}D, {{yanlisSayisi_2004_3}}Y,
+                                {{net_2004_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2004_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2004_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="collapse-wrapper">
+                <input id="2003" class="toggle" type="checkbox" ng-click="colapseChecked(2003)">
+                <label for="2003" class="label-toggle">2003 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2003_0','TUS 2003 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2003_0}}D, {{yanlisSayisi_2003_0}}Y,
+                                {{net_2003_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2003_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2003_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2003_1','TUS 2003 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2003_1}}D, {{yanlisSayisi_2003_1}}Y,
+                                {{net_2003_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2003_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2003_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2003_2','TUS 2003 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2003_2}}D, {{yanlisSayisi_2003_2}}Y,
+                                {{net_2003_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2003_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2003_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2003_3','TUS 2003 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2003_3}}D, {{yanlisSayisi_2003_3}}Y,
+                                {{net_2003_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2003_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2003_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="collapse-wrapper">
+                <input id="2002" class="toggle" type="checkbox" ng-click="colapseChecked(2002)">
+                <label for="2002" class="label-toggle">2002 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2002_0','TUS 2002 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2002_0}}D, {{yanlisSayisi_2002_0}}Y,
+                                {{net_2002_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2002_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2002_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2002_1','TUS 2002 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2002_1}}D, {{yanlisSayisi_2002_1}}Y,
+                                {{net_2002_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2002_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2002_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2002_2','TUS 2002 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2002_2}}D, {{yanlisSayisi_2002_2}}Y,
+                                {{net_2002_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2002_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2002_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2002_3','TUS 2002 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2002_3}}D, {{yanlisSayisi_2002_3}}Y,
+                                {{net_2002_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2002_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2002_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="collapse-wrapper">
+                <input id="2001" class="toggle" type="checkbox" ng-click="colapseChecked(2001)">
+                <label for="2001" class="label-toggle">2001 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2001_0','TUS 2001 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2001_0}}D, {{yanlisSayisi_2001_0}}Y,
+                                {{net_2001_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2001_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2001_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2001_1','TUS 2001 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2001_1}}D, {{yanlisSayisi_2001_1}}Y,
+                                {{net_2001_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2001_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2001_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2001_2','TUS 2001 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2001_2}}D, {{yanlisSayisi_2001_2}}Y,
+                                {{net_2001_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2001_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2001_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2001_3','TUS 2001 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2001_3}}D, {{yanlisSayisi_2001_3}}Y,
+                                {{net_2001_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2001_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2001_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="collapse-wrapper">
+                <input id="2000" class="toggle" type="checkbox" ng-click="colapseChecked(2000)">
+                <label for="2000" class="label-toggle">2000 çıkmış TUS soruları
+                    <span class="icon ion-locked" ng-show="henuzSatinAlinmadimi == true"></span>
+                </label>
+
+                <div class="collapse-content">
+                    <div class="collapse-inner">
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2000_0','TUS 2000 İlk. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Temel Tıp<sub> {{dogruSayisi_2000_0}}D, {{yanlisSayisi_2000_0}}Y,
+                                {{net_2000_0}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2000_0}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2000_0}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2000_1','TUS 2000 İlk. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> İlk. Klinik Tıp<sub> {{dogruSayisi_2000_1}}D, {{yanlisSayisi_2000_1}}Y,
+                                {{net_2000_1}}N</sub>
+
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2000_1}}"> </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2000_1}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2000_2','TUS 2000 Son. Temel Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Temel Tıp<sub> {{dogruSayisi_2000_2}}D, {{yanlisSayisi_2000_2}}Y,
+                                {{net_2000_2}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2000_2}}">
+                                </progress></span>
+                            <span class="progressRateDiv"> {{toplam_2000_2}}/100 
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span>
+                            </span>
+
+                        </ion-item>
+
+                        <ion-item class="istemInListYillar" menu-close ng-click="yiliAc('2000_3','TUS 2000 Son. Klinik Tıp çıkmış soruları')">
+                            <i class="icon ion-trophy"></i> Son. Klinik Tıp <sub> {{dogruSayisi_2000_3}}D, {{yanlisSayisi_2000_3}}Y,
+                                {{net_2000_3}}N</sub>
+                            <span class="progressDiv"><progress max="100" value="{{toplam_2000_3}}">
+                                </progress></span>
+                            <span class="progressRateDiv">{{toplam_2000_3}}/100
+                                <span class="lockSpan icon ion-unlocked" ng-show="henuzSatinAlinmadimi == true"></span></span>
+                        </ion-item>
+
+                        <p style="margin-bottom: 10px;"></p>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div style="clear:both;"></div>
+
+
+            <p></p>
+            <p style="color: blue; text-align: center; font-size: 12px;">
+                D: Doğru, Y: Yanlış, N: Net
+            </p>
+
+        </ion-list>
+
+
+        <p></p>
+        <p style="margin-bottom: 20px;"></p>
+        <p></p>
+
+        </br>
+        </br>
+        </br>
+        </br>
+
+
+    </ion-content>
+</ion-view>

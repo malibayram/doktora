@@ -1,0 +1,23 @@
+<ion-popover-view>
+    <ion-content>
+        <div class="list">
+            <button title="Puan Verin" class="button popoverButtons" type="button" ng-click="rateApp()">
+                <i class="icon ion-ios-star-half"></i>
+                Uygulamaya Puan Ver
+            </button>
+            <button ng-show="henuzSatinAlinmadimi == true" title="Puan Verin" class="button popoverButtons"
+                type="button" ng-click="removeAds()">
+                <i class="icon ion-ios-pricetags"></i>
+                PRO'ya geç
+            </button>
+            <button title="Ödemeyi algıla" class="button popoverButtons" type="button" ng-click="restorePurhases()">
+                <i class="icon  ion-reply"></i>
+                Alımları Geri Yükle
+            </button>
+            <button title="Puan Verin" class="button popoverButtons" type="button" ng-click="shareApp()">
+                <i class="icon ion-android-share-alt"></i>
+                Paylaş
+            </button>
+        </div>
+    </ion-content>
+</ion-popover-view>

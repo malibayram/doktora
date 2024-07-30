@@ -1,0 +1,38 @@
+<ion-view view-title="Destek Olun">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+
+        <div style="margin: 20px;">
+
+                <img src="img/donate.jpg" alt="" style="width: 100%; height: auto;" />
+
+                <button class="button button-full button-balanced" ng-click="donate('5')"> 5 TL </button>
+        
+                <p></p>
+        
+                <button class="button button-full button-balanced" ng-click="donate('10')"> 10 TL </button>
+        
+                <p></p>
+        
+                <button class="button button-full button-balanced" ng-click="donate('20')"> 20 TL </button>
+        
+                <p></p>
+        
+                <button class="button button-full button-balanced" ng-click="donate('50')"> 50 TL </button>
+        
+                <p></p>
+        
+                <button class="button button-full button-balanced" ng-click="donate('100')"> 100 TL </button>
+        
+                <p></p>
+        </div>
+
+
+    </ion-content>
+</ion-view>

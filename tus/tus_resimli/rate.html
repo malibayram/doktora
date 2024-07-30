@@ -1,0 +1,75 @@
+<ion-view view-title="Puan Verin">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content style="background-color: #ffffff">
+
+
+        <div class="rateExt">
+
+            <div class="rateTexts">
+                <div style="color: black;">
+                    <div class="appIcon">
+                        <img src="img/icon.png" alt="" style="height:  200px; width: 200px;" />
+                        <p style="font-size: 30px; margin-top: 5px;">TUS Çıkmış Sorular</p>
+                        <p>v{{version}}</p>
+
+                    </div>
+
+
+                </div>
+
+
+                <button title="Puan Verin" class="satinAlButtons button button-royal ion-ios-star-half" type="button" ng-click="rateApp()">
+                    Uygulamamıza Puan Verin
+                </button>
+
+                <button ng-show="{{henuzSatinAlinmadimi}}" title="Reklamlardan Kurtulun" class="satinAlButtons button button-royal ion-ios-pricetags" type="button" ng-click="removeAds()">
+                    Reklamlardan Kurtulun !
+                </button>
+                <div ng-show="{{eftAktifMi}}">
+                    <p class="eftRemoveAds satinAlincaNeOlacak" ng-show="{{henuzSatinAlinmadimi}}">
+                        Cihazınızdan PRO üyeliği yaparken ilgili store'lar ile ilgili sıkıntı yaşıyorsanız aşağıdaki butona tıkladıktan ve EFT/Havale yöntemiyle ödemenizi yaptıktan sonra PRO üyeliğine kayıt olabilirsiniz</p>
+                    <button ng-show="{{henuzSatinAlinmadimi}}" title="Reklamlardan Kurtulun" class="satinAlButtons button button-royal ion-ios-pricetags" type="button" ng-click="removeAdsEFT()">
+                    EFT/Havale Yöntemiyle PRO Üyeliği
+                </button>
+                </div>
+
+                </br>
+                </br>
+                <div ng-show="{{henuzSatinAlinmadimi}}" class="list" style="margin-bottom: 0; box-shadow:0px 5px 5px grey;">
+                    <div class="item item-input-inset" style="padding: 4px;">
+                        <label class="item-input-wrapper" style=" width: 10px; ">
+                    <input ng-model="formData.ilgiliKod" type="text" placeholder="Kodu buraya giriniz.">
+                </label>
+                        <button class="button button-small" style="border-color: black" ng-click="kodIleOdeme()">
+                    <i class="icon ion-checkmark"></i>
+                    Kod Gönder
+                </button>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+        <div class="satinAlincaNeOlacak" style="color: black; text-align: left; height: 280px; padding: 30px;">
+            <h2 style="color: black; text-align: left;"> PRO versiyona geçiş hakkında</h2>
+
+            <p> → PRO versiyona geçişte yapılan bu ödeme <u>bir sefere</u> mahsustur. Herhangi bir şekilde bir daha ödeme yada kesinti olmayacaktır.</p>
+            <p> → Uygulamayı güncellememiz durumunda ek bir ödeme istenmeyecektir.</p>
+            <p> → Uygulamaya eklenecek <u>herhangi bir yeni özellik</u> için ekstra ödeme istenmeyecektir.</p>
+            <p> → Bu ödemeyi yaparak Reklamlardan sonsuza dek kurtulmuş olacaksınız.</p>
+            <p> → Siz de hemen PRO versiyona geçerek uygulama içindeki tüm özelliklerden yararlanmaya başlayın 😉</p>
+            <p> → Daha fazla bilgi için gleysoftware@gmail.com adresinden bilgi alabilir yada istek,öneri ve şikayetlerinizi iletebilirsiniz.</p>
+        </div>
+
+
+
+    </ion-content>
+</ion-view>

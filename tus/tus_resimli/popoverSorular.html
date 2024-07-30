@@ -1,0 +1,54 @@
+<ion-popover-view>
+    <ion-content>
+        <div class="list">
+            <button title="Puan Verin" class="button popoverButtons" type="button" ng-click="favorilereEkle()">
+
+                <span ng-show="favorilereEklimi != true">
+                    <i class="icon ion-android-favorite-outline"></i>
+                    Favorilerime Ekle
+                </span>
+
+                <span ng-show="favorilereEklimi == true">
+                    <i style="color: red;" class="icon ion-android-favorite"></i>
+                    Favorilerimden Çıkar
+                </span>
+            </button>
+
+
+
+            <div class="list" style="margin-bottom: 0; box-shadow:20px 20px 10px grey; ">
+                <div class="item item-input-inset" style="padding: 4px;">
+                    <label class="item-input-wrapper" style=" width: 10px; ">
+                        <input ng-model="formData.soruNumber" type="number" placeholder="Soru No">
+                    </label>
+                    <button class="button button-small" style="border-color: black" ng-click="soruyaAtla()">
+                        <i class="icon ion-skip-forward"></i>
+                        Numaralı soruya atla
+                    </button>
+                </div>
+            </div>
+
+            <div class="button-bar bar-stable">
+                <a class="button" ng-click="fontBuyut()" style="font-size: 10px;"> <i class="ion-plus-round"></i> Font
+                    Büyüt</a>
+                <a class="button" ng-click="fontKucult()" style="font-size: 10px;"><i class="ion-minus-round"></i> Font
+                    Küçült</a>
+            </div>
+
+            <button title="Soruyu Bildir" class="button popoverButtons" type="button" ng-click="soruyuBildir()">
+                <i style="color: #95b807;" class="icon ion-alert-circled"></i>
+                &nbsp; Soruyu Bildir
+            </button>
+
+            <button ng-show="henuzSatinAlinmadimi == true" title="Puan Verin" class="button popoverButtons"
+                type="button" ng-click="removeAds()">
+                <i class="icon ion-ios-pricetags"></i>
+                PRO'ya geç
+            </button>
+            <button title="Puan Verin" class="button popoverButtons" type="button" ng-click="rateApp()">
+                <i class="icon ion-ios-star-half"></i>
+                Uygulamaya Puan Ver
+            </button>
+        </div>
+    </ion-content>
+</ion-popover-view>

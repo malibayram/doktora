@@ -1,0 +1,14 @@
+<ion-view view-title="{{dersText}} - Spot Bilgiler">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content style="height: auto" on-scroll="getScrollPosition()" delegate-handle="ScrollToTop">
+        <div ng-include src="templateUrl()"></div>
+    </ion-content>
+
+    <div class="scrollToTop" ng-click="scrollTop()"></div>
+</ion-view>

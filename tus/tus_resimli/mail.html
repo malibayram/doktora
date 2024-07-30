@@ -1,0 +1,30 @@
+<ion-view view-title="Hatayı mail olarak gönder">
+    <ion-nav-buttons side="right">
+
+        <button class="button button-clear button-primary" ng-click="mailGonder()">
+            <i class="ion-android-send"></i>&nbsp;&nbsp;
+            Gönder
+        </button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+
+        <div style="margin: 10px;">
+
+            <p style="color: red; font-size: 22px;">Yapılan işlem sırasında bir hata oluştu
+                </br>
+                </br>
+                Hatanın çözümü için uygulama geliştiricise mail ile yollamak için Gönder butonuna tıklayınız.
+                </br>
+            </p>
+            </br>
+            </br>
+
+
+            <p>{{hataIcerigi}}</p>
+
+        </div>
+
+    </ion-content>
+</ion-view>

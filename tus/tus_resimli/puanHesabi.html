@@ -1,0 +1,104 @@
+<ion-view cache-view="false" view-title="TUS Puan Hesaplama">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content class="homeBackgroung">
+
+        <div style="margin: 15px;">
+            <div style="display: inline-flex; margin: 4px;">
+                <div>
+                    Temel Tıp Bilimleri:
+                </div>
+                <div><label class="item item-input">
+                    <input type="text" placeholder="Doğru" ng-model="formData.dogru1" />
+                </label></div> &nbsp;&nbsp; &nbsp;&nbsp;
+
+                <div><label class="item item-input">
+                    <input type="text" placeholder="Yanlış" ng-model="formData.yanlis1">
+                </label></div>
+            </div>
+            </br>
+            <div style="display: inline-flex;  margin: 4px;">
+                <div>
+                    Klinik Tıp Bilimleri:
+                </div>
+                <div><label class="item item-input">
+                        <input type="text" placeholder="Doğru" ng-model="formData.dogru2" />
+                    </label></div>
+                &nbsp; &nbsp;&nbsp;
+                <div><label class="item item-input">
+                        <input type="text" placeholder="Yanlış" ng-model="formData.yanlis2">
+                    </label></div>
+            </div>
+
+            <div>
+                <table style="width: 100%;text-align: left;">
+                    <tr>
+                        <td style="width: 50%">Temel Tıp Bilimleri (T) Puanı</td>
+                        <td style="width: 5%">:</td>
+                        <td style="width: 35%">{{toplamTemel}}</td>
+                    </tr>
+                    <tr>
+                        <td>Klinik Tıp Bilimleri (K) Puanı</td>
+                        <td>:</td>
+                        <td>{{toplamKlinik}}</td>
+                    </tr>
+                </table>
+            </div>
+
+
+            <div id="sagSolContainer">
+                <div>
+                    <button class="button button-block button-calm" ng-click="puanHesapla()">Hesapla</button>
+                </div>
+                <div>
+                    <button class="button button-block button-assertive" ng-click="temizle()">Temizle</button>
+                </div>
+            </div>
+            </br>
+            <span style="color: red">
+                * Bu hesaplama Nisan 2017 yılının Standart sapma ve genel ortalamalarına göre hesaplanmaktadır. 
+
+            </br> </br> * Diğer yıllara ait paunlama seçeneklerini ayrıca eklemeyi planlamaktayız.
+        </span>
+        </div>
+
+
+
+        <div id="post_content3748244" style="display: none">
+            <span class="hidden hook-bfr-message"></span>
+            <div class="content" style="margin: 30px;">
+
+                <!--
+                    Eylül 2016 da;
+                    Temel neti türkiye ortalaması: 52,047
+                    Temel standart sapma:24.419
+                    Klinik net türkiye ortalaması: 59.375 
+                    Klinik standart sapma:19.329
+                -->
+                <br><br> Öncelikle sınavda yaptığımız net sayısından, sınav ortalama net sayısı çıkarılıyor , ve bu çıkan sonuç standart sapmaya bölünüyor . Bunu iki oturumlu bir sınav ve iki ayrı puan hesaplaması olduğu (temel ve klinik puan olarak )
+                için ayrı ayrı yapıyoruz . Örnekle pekiştirelim :<br> Sabahki Temel bilimler testinden 85 netimiz olsun . Sınava giren tüm adayların temel sınavında ortalaması 55 olsun.<br> 85-55 : 30 , bu sayıyı da standart sapmaya böleceğiz. Tus için
+                standart sapma değerleri 17-23 arasında değişmekte . bizim girdiğimiz sınav için 20 alacak olursak ;<br> 30/20 : 1,50 bu sayı bizim Z değerimiz .<br> Puan hesaplaması için tam burada bir formülü bilmek gerekiyor. Sabit bir formül ;<br>                T: 50 + 10 x Z . İşte bu formül bize temel bilimler sınavı için puanımızı verecek<br> 50 + 10 x 1,5 = 65 .00 puan bizim temel bilimler puanımız<br> Aynı sınav için Öğleden sonraki klinik bilimler testinden netimiz 70 , türkiye ortalaması
+                : 50 , standart sapmamız 20 olsun . (standart sapma her soru için değil , her oturum için ayrı hesaplanıyor)
+                <br> 70-50 = 20 , 20/20 = 1 bu bizim Z değerimiz<br> T : 50 + 10 x Z -------&gt; 50 + 10 x 1 = 60 puan bizim klinik puanımız . <br>
+                <br> Geriye sadece bu puanları birleştirmek kalıyor. Temel Puanınız için : temel bilimler puanı x 0,7 + klinik bilimler puanı x 0,3 formülü kullanıyoruz , hemen hesaplayalım :<br> 65 x 0,7 + 60 x 0,3 = 63,5 bu bizimi temel puan sonucumuz
+                .
+                <br> klinik için ise her iki puanımız 0,5 ile çarpılıp toplanıyor yani artimetik ortalama alınıyor .<br> 65 x 0,5 + 60 x0,5 = 62,5 bu da bizim klinik puan sonucumuz .<br> Yani ösym sonuç sayfasında örnek adayımız şöyle gözükecek ;<br>                temel puanı : 63,5<br> klinik puanı : 62,5<br> buradan çıkarılması gerekenler ;<br> 1-Sınavda kolay sorular seçiçi değildir ama kolayları yapmayıp zorları yapmanın size hiç bir katkısı olmaz. Sadece arkadaşlar arasında havanız olur. O
+                yüzden çalışırken herşeyden önce temel bilgileri ve çıkmış sorulara hakim olup daha sonra ayrıntı konulara , yandal sorularına yönelmek gerekir.<br> 2- Puanlar hesaplanırken her sınavda değişen bilgiler ; Standart sapma ve Türkiye ortamalasıdır.
+                Bunlar dışındaki parametreler sabittir. Dolayasıyla Türkiye ortalama net sayısı arttıkça puanlarınız düşecektir. En güzel örneği Eylül 2015 tus hesaplamasıdır. Bu sınavda iptal edilen soru sayısı Türkiye ortalama netlerine de etki ettiği
+                için , Nisan 2015 tusuna göre puan hesaplaması yapıldığında herkesin puanları hesaplanandan düşük gelmiştir.<br> 3- Son 4-5 Sınav verilerine - artimetik ortalamalar ve standart sapmalar - bakıldığında (eylül 2015 hariç)
+                <br> 50-55 arası ortalama net -------&gt; temel bilimler için<br> 55-60 arası ortalama net --------&gt; klinik bilimler için gözükmekte .</div>
+        </div>
+
+        <p></p>
+        <p style="margin-bottom: 40px;"></p>
+        <p></p>
+
+
+
+    </ion-content>
+</ion-view>

@@ -1,0 +1,857 @@
+<ion-view cache-view="false" view-title="Ana Ekran">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content class="homeBackgroung">
+
+        <div class="container-tabs">
+            <input type="radio" name="radio" class="radioInput" id="tab1" checked hidden/>
+            <input type="radio" name="radio" class="radioInput" id="tab2" hidden/>
+            <input type="radio" name="radio" class="radioInput" id="tab3" hidden/>
+
+            <div class="tabHeader-container">
+                <label for="tab1" class="tabHeader">2020-2010</label>
+                <label for="tab2" class="tabHeader">2010-2000</label>
+                <label for="tab3" class="tabHeader">Konu Konu</label>
+            </div>
+
+            <span class="activeTab-indicator"></span>
+
+            <div class="tabContent-container">
+                <div class="tabContent tab1-content">
+                    <button style="display: none;" class="button button-block button-calm" ng-click="openNewsPopup()">
+                        Uygulamadaki Yenilikler
+                      </button>
+                    <div style="display: none;">
+                        <p style="color: red; text-align: left; font-size: 11px;">
+                            * 2000 - 2005 arası sorular eklendi. </br>
+                            * Biyokimya 1900 yeni spot bilgi eklendi</br>
+                            * Aşağıdaki yıllara ait sınav sorularına ipucu ve kısa hatırlatma amaçlı açıklama notları eklendi. </br>
+                            &nbsp;&nbsp; - 2020 İlkbahar Temel bilgiler</br>
+                            &nbsp;&nbsp; - 2020 İlkbahar Klinik </br>
+                            &nbsp;&nbsp; - 2019 Sonbahar Klinik</br>
+                            &nbsp;&nbsp; - 2019 Sonbahar Temel bilgiler</br>
+                        </p>
+                    </div>
+
+                    <div id="istatistikDiv">
+                        <canvas id="myChart1" width="400" height="400"></canvas>
+                    </div>
+
+                    </br>
+                    </br>
+
+                    <div style="vertical-align: -webkit-baseline-middle ">
+                        <table class="table table-bordered scorTable customers">
+                            <tbody>
+                                <tr class="scorTexts">
+                                    <th style="text-align:center;">Yıl / Adet</th>
+                                    <th style="text-align:center;">Doğru</th>
+                                    <th style="text-align:center;">Yanlış</th>
+                                    <th style="text-align:center;">Boş</th>
+                                    <th style="text-align:center;">Net</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2020 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2020_0}}</th>
+                                    <th>{{yanlisSayisi_2020_0}}</th>
+                                    <th>{{bosSayisi_2020_0}}</th>
+                                    <th>{{net_2020_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2020 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2020_1}}</th>
+                                    <th>{{yanlisSayisi_2020_1}}</th>
+                                    <th>{{bosSayisi_2020_1}}</th>
+                                    <th>{{net_2020_1}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2020 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2020_2}}</th>
+                                    <th>{{yanlisSayisi_2020_2}}</th>
+                                    <th>{{bosSayisi_2020_2}}</th>
+                                    <th>{{net_2020_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2020 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2020_3}}</th>
+                                    <th>{{yanlisSayisi_2020_3}}</th>
+                                    <th>{{bosSayisi_2020_3}}</th>
+                                    <th>{{net_2020_3}}</th>
+                                </tr>
+
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2019 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2019_0}}</th>
+                                    <th>{{yanlisSayisi_2019_0}}</th>
+                                    <th>{{bosSayisi_2019_0}}</th>
+                                    <th>{{net_2019_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2019 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2019_1}}</th>
+                                    <th>{{yanlisSayisi_2019_1}}</th>
+                                    <th>{{bosSayisi_2019_1}}</th>
+                                    <th>{{net_2019_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2019 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2019_2}}</th>
+                                    <th>{{yanlisSayisi_2019_2}}</th>
+                                    <th>{{bosSayisi_2019_2}}</th>
+                                    <th>{{net_2019_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2019 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2019_3}}</th>
+                                    <th>{{yanlisSayisi_2019_3}}</th>
+                                    <th>{{bosSayisi_2019_3}}</th>
+                                    <th>{{net_2019_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2018 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2018_0}}</th>
+                                    <th>{{yanlisSayisi_2018_0}}</th>
+                                    <th>{{bosSayisi_2018_0}}</th>
+                                    <th>{{net_2018_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2018 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2018_1}}</th>
+                                    <th>{{yanlisSayisi_2018_1}}</th>
+                                    <th>{{bosSayisi_2018_1}}</th>
+                                    <th>{{net_2018_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2018 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2018_2}}</th>
+                                    <th>{{yanlisSayisi_2018_2}}</th>
+                                    <th>{{bosSayisi_2018_2}}</th>
+                                    <th>{{net_2018_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2018 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2018_3}}</th>
+                                    <th>{{yanlisSayisi_2018_3}}</th>
+                                    <th>{{bosSayisi_2018_3}}</th>
+                                    <th>{{net_2018_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2017 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2017_0}}</th>
+                                    <th>{{yanlisSayisi_2017_0}}</th>
+                                    <th>{{bosSayisi_2017_0}}</th>
+                                    <th>{{net_2017_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2017 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2017_1}}</th>
+                                    <th>{{yanlisSayisi_2017_1}}</th>
+                                    <th>{{bosSayisi_2017_1}}</th>
+                                    <th>{{net_2017_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2017 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2017_2}}</th>
+                                    <th>{{yanlisSayisi_2017_2}}</th>
+                                    <th>{{bosSayisi_2017_2}}</th>
+                                    <th>{{net_2017_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2017 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2017_3}}</th>
+                                    <th>{{yanlisSayisi_2017_3}}</th>
+                                    <th>{{bosSayisi_2017_3}}</th>
+                                    <th>{{net_2017_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2016 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2016_0}}</th>
+                                    <th>{{yanlisSayisi_2016_0}}</th>
+                                    <th>{{bosSayisi_2016_0}}</th>
+                                    <th>{{net_2016_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2016 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2016_1}}</th>
+                                    <th>{{yanlisSayisi_2016_1}}</th>
+                                    <th>{{bosSayisi_2016_1}}</th>
+                                    <th>{{net_2016_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2016 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2016_2}}</th>
+                                    <th>{{yanlisSayisi_2016_2}}</th>
+                                    <th>{{bosSayisi_2016_2}}</th>
+                                    <th>{{net_2016_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2016 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2016_3}}</th>
+                                    <th>{{yanlisSayisi_2016_3}}</th>
+                                    <th>{{bosSayisi_2016_3}}</th>
+                                    <th>{{net_2016_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2015 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2015_0}}</th>
+                                    <th>{{yanlisSayisi_2015_0}}</th>
+                                    <th>{{bosSayisi_2015_0}}</th>
+                                    <th>{{net_2015_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2015 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2015_1}}</th>
+                                    <th>{{yanlisSayisi_2015_1}}</th>
+                                    <th>{{bosSayisi_2015_1}}</th>
+                                    <th>{{net_2015_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2015 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2015_2}}</th>
+                                    <th>{{yanlisSayisi_2015_2}}</th>
+                                    <th>{{bosSayisi_2015_2}}</th>
+                                    <th>{{net_2015_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2015 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2015_3}}</th>
+                                    <th>{{yanlisSayisi_2015_3}}</th>
+                                    <th>{{bosSayisi_2015_3}}</th>
+                                    <th>{{net_2015_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2014 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2014_0}}</th>
+                                    <th>{{yanlisSayisi_2014_0}}</th>
+                                    <th>{{bosSayisi_2014_0}}</th>
+                                    <th>{{net_2014_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2014 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2014_1}}</th>
+                                    <th>{{yanlisSayisi_2014_1}}</th>
+                                    <th>{{bosSayisi_2014_1}}</th>
+                                    <th>{{net_2014_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2014 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2014_2}}</th>
+                                    <th>{{yanlisSayisi_2014_2}}</th>
+                                    <th>{{bosSayisi_2014_2}}</th>
+                                    <th>{{net_2014_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2014 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2014_3}}</th>
+                                    <th>{{yanlisSayisi_2014_3}}</th>
+                                    <th>{{bosSayisi_2014_3}}</th>
+                                    <th>{{net_2014_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2013 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2013_0}}</th>
+                                    <th>{{yanlisSayisi_2013_0}}</th>
+                                    <th>{{bosSayisi_2013_0}}</th>
+                                    <th>{{net_2013_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2013 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2013_1}}</th>
+                                    <th>{{yanlisSayisi_2013_1}}</th>
+                                    <th>{{bosSayisi_2013_1}}</th>
+                                    <th>{{net_2013_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2013 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2013_2}}</th>
+                                    <th>{{yanlisSayisi_2013_2}}</th>
+                                    <th>{{bosSayisi_2013_2}}</th>
+                                    <th>{{net_2013_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2013 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2013_3}}</th>
+                                    <th>{{yanlisSayisi_2013_3}}</th>
+                                    <th>{{bosSayisi_2013_3}}</th>
+                                    <th>{{net_2013_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2012 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2012_0}}</th>
+                                    <th>{{yanlisSayisi_2012_0}}</th>
+                                    <th>{{bosSayisi_2012_0}}</th>
+                                    <th>{{net_2012_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2012 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2012_1}}</th>
+                                    <th>{{yanlisSayisi_2012_1}}</th>
+                                    <th>{{bosSayisi_2012_1}}</th>
+                                    <th>{{net_2012_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2012 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2012_2}}</th>
+                                    <th>{{yanlisSayisi_2012_2}}</th>
+                                    <th>{{bosSayisi_2012_2}}</th>
+                                    <th>{{net_2012_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2012 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2012_3}}</th>
+                                    <th>{{yanlisSayisi_2012_3}}</th>
+                                    <th>{{bosSayisi_2012_3}}</th>
+                                    <th>{{net_2012_3}}</th>
+                                </tr>
+
+
+
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2011 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2011_0}}</th>
+                                    <th>{{yanlisSayisi_2011_0}}</th>
+                                    <th>{{bosSayisi_2011_0}}</th>
+                                    <th>{{net_2011_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2011 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2011_1}}</th>
+                                    <th>{{yanlisSayisi_2011_1}}</th>
+                                    <th>{{bosSayisi_2011_1}}</th>
+                                    <th>{{net_2011_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2011 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2011_2}}</th>
+                                    <th>{{yanlisSayisi_2011_2}}</th>
+                                    <th>{{bosSayisi_2011_2}}</th>
+                                    <th>{{net_2011_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2011 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2011_3}}</th>
+                                    <th>{{yanlisSayisi_2011_3}}</th>
+                                    <th>{{bosSayisi_2011_3}}</th>
+                                    <th>{{net_2011_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2010 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2010_0}}</th>
+                                    <th>{{yanlisSayisi_2010_0}}</th>
+                                    <th>{{bosSayisi_2010_0}}</th>
+                                    <th>{{net_2010_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2010 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2010_1}}</th>
+                                    <th>{{yanlisSayisi_2010_1}}</th>
+                                    <th>{{bosSayisi_2010_1}}</th>
+                                    <th>{{net_2010_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2010 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2010_2}}</th>
+                                    <th>{{yanlisSayisi_2010_2}}</th>
+                                    <th>{{bosSayisi_2010_2}}</th>
+                                    <th>{{net_2010_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2010 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2010_3}}</th>
+                                    <th>{{yanlisSayisi_2010_3}}</th>
+                                    <th>{{bosSayisi_2010_3}}</th>
+                                    <th>{{net_2010_3}}</th>
+                                </tr>
+
+
+
+                            </tbody>
+                        </table>
+
+                    </div>
+                    <p></p>
+                    <p style="margin-bottom: 40px;"></p>
+                    <p></p>
+
+
+
+                    <footer>
+                        <img src="https://i.ibb.co/TWyyJwS/doc.gif" alt="" style="height:  auto; width: 100%" />
+                    </footer>
+                </div>
+
+                <div class="tabContent tab2-content">
+                    <div class="istatistikDiv">
+                        <canvas id="myChart2" width="400" height="400"></canvas>
+                    </div>
+
+                    </br>
+                    </br>
+                    <div style="vertical-align: -webkit-baseline-middle ">
+                        <table class="table table-bordered scorTable customers">
+                            <tbody>
+                                <tr class="scorTexts">
+                                    <th style="text-align:center;">Yıl / Adet</th>
+                                    <th style="text-align:center;">Doğru</th>
+                                    <th style="text-align:center;">Yanlış</th>
+                                    <th style="text-align:center;">Boş</th>
+                                    <th style="text-align:center;">Net</th>
+                                </tr>
+
+
+
+
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2009 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2009_0}}</th>
+                                    <th>{{yanlisSayisi_2009_0}}</th>
+                                    <th>{{bosSayisi_2009_0}}</th>
+                                    <th>{{net_2009_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2009 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2009_1}}</th>
+                                    <th>{{yanlisSayisi_2009_1}}</th>
+                                    <th>{{bosSayisi_2009_1}}</th>
+                                    <th>{{net_2009_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2009 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2009_2}}</th>
+                                    <th>{{yanlisSayisi_2009_2}}</th>
+                                    <th>{{bosSayisi_2009_2}}</th>
+                                    <th>{{net_2009_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2009 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2009_3}}</th>
+                                    <th>{{yanlisSayisi_2009_3}}</th>
+                                    <th>{{bosSayisi_2009_3}}</th>
+                                    <th>{{net_2009_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2008 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2008_0}}</th>
+                                    <th>{{yanlisSayisi_2008_0}}</th>
+                                    <th>{{bosSayisi_2008_0}}</th>
+                                    <th>{{net_2008_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2008 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2008_1}}</th>
+                                    <th>{{yanlisSayisi_2008_1}}</th>
+                                    <th>{{bosSayisi_2008_1}}</th>
+                                    <th>{{net_2008_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2008 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2008_2}}</th>
+                                    <th>{{yanlisSayisi_2008_2}}</th>
+                                    <th>{{bosSayisi_2008_2}}</th>
+                                    <th>{{net_2008_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2008 İlkbahar Temel 2</th>
+                                    <th>{{dogruSayisi_2008_3}}</th>
+                                    <th>{{yanlisSayisi_2008_3}}</th>
+                                    <th>{{bosSayisi_2008_3}}</th>
+                                    <th>{{net_2008_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2007 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2007_0}}</th>
+                                    <th>{{yanlisSayisi_2007_0}}</th>
+                                    <th>{{bosSayisi_2007_0}}</th>
+                                    <th>{{net_2007_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2007 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2007_1}}</th>
+                                    <th>{{yanlisSayisi_2007_1}}</th>
+                                    <th>{{bosSayisi_2007_1}}</th>
+                                    <th>{{net_2007_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2007 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2007_2}}</th>
+                                    <th>{{yanlisSayisi_2007_2}}</th>
+                                    <th>{{bosSayisi_2007_2}}</th>
+                                    <th>{{net_2007_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2007 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2007_3}}</th>
+                                    <th>{{yanlisSayisi_2007_3}}</th>
+                                    <th>{{bosSayisi_2007_3}}</th>
+                                    <th>{{net_2007_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2006 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2006_0}}</th>
+                                    <th>{{yanlisSayisi_2006_0}}</th>
+                                    <th>{{bosSayisi_2006_0}}</th>
+                                    <th>{{net_2006_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2006 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2006_1}}</th>
+                                    <th>{{yanlisSayisi_2006_1}}</th>
+                                    <th>{{bosSayisi_2006_1}}</th>
+                                    <th>{{net_2006_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2006 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2006_2}}</th>
+                                    <th>{{yanlisSayisi_2006_2}}</th>
+                                    <th>{{bosSayisi_2006_2}}</th>
+                                    <th>{{net_2006_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2006 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2006_3}}</th>
+                                    <th>{{yanlisSayisi_2006_3}}</th>
+                                    <th>{{bosSayisi_2006_3}}</th>
+                                    <th>{{net_2006_3}}</th>
+                                </tr>
+
+
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2005 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2005_0}}</th>
+                                    <th>{{yanlisSayisi_2005_0}}</th>
+                                    <th>{{bosSayisi_2005_0}}</th>
+                                    <th>{{net_2005_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2005 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2005_1}}</th>
+                                    <th>{{yanlisSayisi_2005_1}}</th>
+                                    <th>{{bosSayisi_2005_1}}</th>
+                                    <th>{{net_2005_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2005 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2005_2}}</th>
+                                    <th>{{yanlisSayisi_2005_2}}</th>
+                                    <th>{{bosSayisi_2005_2}}</th>
+                                    <th>{{net_2005_2}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2004 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2004_0}}</th>
+                                    <th>{{yanlisSayisi_2004_0}}</th>
+                                    <th>{{bosSayisi_2004_0}}</th>
+                                    <th>{{net_2004_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2004 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2004_1}}</th>
+                                    <th>{{yanlisSayisi_2004_1}}</th>
+                                    <th>{{bosSayisi_2004_1}}</th>
+                                    <th>{{net_2004_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2004 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2004_2}}</th>
+                                    <th>{{yanlisSayisi_2004_2}}</th>
+                                    <th>{{bosSayisi_2004_2}}</th>
+                                    <th>{{net_2004_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2004 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2004_3}}</th>
+                                    <th>{{yanlisSayisi_2004_3}}</th>
+                                    <th>{{bosSayisi_2004_3}}</th>
+                                    <th>{{net_2004_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2003 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2003_0}}</th>
+                                    <th>{{yanlisSayisi_2003_0}}</th>
+                                    <th>{{bosSayisi_2003_0}}</th>
+                                    <th>{{net_2003_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2003 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2003_1}}</th>
+                                    <th>{{yanlisSayisi_2003_1}}</th>
+                                    <th>{{bosSayisi_2003_1}}</th>
+                                    <th>{{net_2003_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2003 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2003_2}}</th>
+                                    <th>{{yanlisSayisi_2003_2}}</th>
+                                    <th>{{bosSayisi_2003_2}}</th>
+                                    <th>{{net_2003_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2003 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2003_3}}</th>
+                                    <th>{{yanlisSayisi_2003_3}}</th>
+                                    <th>{{bosSayisi_2003_3}}</th>
+                                    <th>{{net_2003_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2002 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2002_0}}</th>
+                                    <th>{{yanlisSayisi_2002_0}}</th>
+                                    <th>{{bosSayisi_2002_0}}</th>
+                                    <th>{{net_2002_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2002 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2002_1}}</th>
+                                    <th>{{yanlisSayisi_2002_1}}</th>
+                                    <th>{{bosSayisi_2002_1}}</th>
+                                    <th>{{net_2002_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2002 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2002_2}}</th>
+                                    <th>{{yanlisSayisi_2002_2}}</th>
+                                    <th>{{bosSayisi_2002_2}}</th>
+                                    <th>{{net_2002_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2002 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2002_3}}</th>
+                                    <th>{{yanlisSayisi_2002_3}}</th>
+                                    <th>{{bosSayisi_2002_3}}</th>
+                                    <th>{{net_2002_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2001 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2001_0}}</th>
+                                    <th>{{yanlisSayisi_2001_0}}</th>
+                                    <th>{{bosSayisi_2001_0}}</th>
+                                    <th>{{net_2001_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2001 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2001_1}}</th>
+                                    <th>{{yanlisSayisi_2001_1}}</th>
+                                    <th>{{bosSayisi_2001_1}}</th>
+                                    <th>{{net_2001_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2001 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2001_2}}</th>
+                                    <th>{{yanlisSayisi_2001_2}}</th>
+                                    <th>{{bosSayisi_2001_2}}</th>
+                                    <th>{{net_2001_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2001 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2001_3}}</th>
+                                    <th>{{yanlisSayisi_2001_3}}</th>
+                                    <th>{{bosSayisi_2001_3}}</th>
+                                    <th>{{net_2001_3}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2000 İlkbahar Temel</th>
+                                    <th>{{dogruSayisi_2000_0}}</th>
+                                    <th>{{yanlisSayisi_2000_0}}</th>
+                                    <th>{{bosSayisi_2000_0}}</th>
+                                    <th>{{net_2000_0}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2000 İlkbahar Klinik</th>
+                                    <th>{{dogruSayisi_2000_1}}</th>
+                                    <th>{{yanlisSayisi_2000_1}}</th>
+                                    <th>{{bosSayisi_2000_1}}</th>
+                                    <th>{{net_2000_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2000 Sonbahar Temel</th>
+                                    <th>{{dogruSayisi_2000_2}}</th>
+                                    <th>{{yanlisSayisi_2000_2}}</th>
+                                    <th>{{bosSayisi_2000_2}}</th>
+                                    <th>{{net_2000_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">2000 Sonbahar Klinik</th>
+                                    <th>{{dogruSayisi_2000_3}}</th>
+                                    <th>{{yanlisSayisi_2000_3}}</th>
+                                    <th>{{bosSayisi_2000_3}}</th>
+                                    <th>{{net_2000_3}}</th>
+                                </tr>
+
+                            </tbody>
+                        </table>
+
+                    </div>
+                    <p></p>
+                    <p style="margin-bottom: 40px;"></p>
+                    <p></p>
+
+                    <footer>
+                        <img src="https://i.ibb.co/TWyyJwS/doc.gif" alt="" style="height:  auto; width: 100%" />
+                    </footer>
+                </div>
+
+                <div class="tabContent tab3-content">
+
+                    <div class="istatistikDiv">
+                        <canvas id="myChart3" width="400" height="400"></canvas>
+                    </div>
+
+                    </br>
+                    </br>
+
+                    <div style="vertical-align: -webkit-baseline-middle ">
+                        <table class="table table-bordered scorTable customers">
+                            <tbody>
+                                <tr class="scorTexts">
+                                    <th style="text-align:center;">Ders / Adet</th>
+                                    <th style="text-align:center;">Doğru</th>
+                                    <th style="text-align:center;">Yanlış</th>
+                                    <th style="text-align:center;">Boş</th>
+                                    <th style="text-align:center;">Net</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Anatomi</th>
+                                    <th>{{dogruSayisi_1}}</th>
+                                    <th>{{yanlisSayisi_1}}</th>
+                                    <th>{{bosSayisi_1}}</th>
+                                    <th>{{net_1}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Farmakoloji(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_2}}</th>
+                                    <th>{{yanlisSayisi_2}}</th>
+                                    <th>{{bosSayisi_2}}</th>
+                                    <th>{{net_2}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Biyokimya(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_3}}</th>
+                                    <th>{{yanlisSayisi_3}}</th>
+                                    <th>{{bosSayisi_3}}</th>
+                                    <th>{{net_3}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh"> Anatomi(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_4}}</th>
+                                    <th>{{yanlisSayisi_4}}</th>
+                                    <th>{{bosSayisi_4}}</th>
+                                    <th>{{net_4}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Mikrobiyoloji(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_5}}</th>
+                                    <th>{{yanlisSayisi_5}}</th>
+                                    <th>{{bosSayisi_5}}</th>
+                                    <th>{{net_5}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Patoloji(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_6}}</th>
+                                    <th>{{yanlisSayisi_6}}</th>
+                                    <th>{{bosSayisi_6}}</th>
+                                    <th>{{net_6}}</th>
+                                </tr>
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Dahiliye(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_7}}</th>
+                                    <th>{{yanlisSayisi_7}}</th>
+                                    <th>{{bosSayisi_7}}</th>
+                                    <th>{{net_7}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Fizyoloji-His.(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_8}}</th>
+                                    <th>{{yanlisSayisi_8}}</th>
+                                    <th>{{bosSayisi_8}}</th>
+                                    <th>{{net_8}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Patoloji</th>
+                                    <th>{{dogruSayisi_9}}</th>
+                                    <th>{{yanlisSayisi_9}}</th>
+                                    <th>{{bosSayisi_9}}</th>
+                                    <th>{{net_9}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Mikrobiyoloji</th>
+                                    <th>{{dogruSayisi_10}}</th>
+                                    <th>{{yanlisSayisi_10}}</th>
+                                    <th>{{bosSayisi_10}}</th>
+                                    <th>{{net_10}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Pediatri(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_11}}</th>
+                                    <th>{{yanlisSayisi_11}}</th>
+                                    <th>{{bosSayisi_11}}</th>
+                                    <th>{{net_11}}</th>
+                                </tr>
+
+
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Genel Cerrahi(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_12}}</th>
+                                    <th>{{yanlisSayisi_12}}</th>
+                                    <th>{{bosSayisi_12}}</th>
+                                    <th>{{net_12}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Küçük Stajlar(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_13}}</th>
+                                    <th>{{yanlisSayisi_13}}</th>
+                                    <th>{{bosSayisi_13}}</th>
+                                    <th>{{net_13}}</th>
+                                </tr>
+                                <tr class="statisticTrs">
+                                    <th class="yearTh">Kadın Doğum(Çöz.Açık)</th>
+                                    <th>{{dogruSayisi_14}}</th>
+                                    <th>{{yanlisSayisi_14}}</th>
+                                    <th>{{bosSayisi_14}}</th>
+                                    <th>{{net_14}}</th>
+                                </tr>
+
+
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <footer>
+                        <img src="https://i.ibb.co/TWyyJwS/doc.gif" alt="" style="height:  auto; width: 100%" />
+                    </footer>
+
+                </div>
+            </div>
+        </div>
+
+
+
+    </ion-content>
+</ion-view>

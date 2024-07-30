@@ -1,0 +1,1202 @@
+[{
+		"sira": 1,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki beyin omurilik sıvısı (BOS) bulgularından hangisi akut bakteriyel menenjiti desteklemez?",
+		"a": "BOS basıncında yükselme",
+		"b": "Glukoz miktarında azalma",
+		"c": "Lökosit sayısında artma",
+		"d": "Lenfosit yüzdesinde artma (≥% 80)",
+		"e": "Protein miktarında artma"
+	}, {
+		"sira": 2,
+		"yanit": "c",
+		"soruUstKismi": "Ekleminde ağrı, kızarıklık, şişlik yakınması ile başvuran bir hemodiyaliz hastasının eklem ponksiyonunda püy geldiği saptanıyor. Aspiratın gram boyamasında gram pozitif kok görülüyor ancak kültüründe üreme olmuyor",
+		"soru": "Bu hasta için en uygun tedavi planı aşağıdakilerden hangisidir?",
+		"a": "Sefazolin, 4 hafta",
+		"b": "Vankomisin, 2 hafta",
+		"c": "Vankomisin, 4 hafta",
+		"d": "Siprofloksasin, 2 hafta",
+		"e": "Siprofloksasin, 4 hafta"
+	}, {
+		"sira": 3,
+		"yanit": "e",
+		"soruUstKismi": "Altmış beş yaşında bir erkek hastadaki akut bakteriyel menenjit tablosundan,</br> I. Escherichia coli </br>II. Streptococcus pneumoniae </br>III. Listeria monocytogenes </br>IV. Neisseria meningitidis",
+		"soru": "patojenlerinden hangileri sorumlu olabilir?",
+		"a": "Yalnız I",
+		"b": "Yalnız II",
+		"c": "I ve III",
+		"d": "I, II ve IV",
+		"e": "II, III ve IV"
+	}, {
+		"sira": 4,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Asemptomatik amebiazis tedavisinde aşağıdaki ilaçlardan hangisi kullanılır?",
+		"a": "Paromomisin",
+		"b": "Albendazol",
+		"c": "Niklozamid",
+		"d": "Mebendazol",
+		"e": "Prazikuantel"
+	}, {
+		"sira": 5,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Orta evre kronik obstrüktif akciğer hastalığında, bronkodilatör uygulaması sonrası beklenen FEV1 değeri aşağıdakilerden hangisidir?",
+		"a": "FEV<sub>1</sub>  >= %90",
+		"b": "%80 < FEV<sub>1</sub> < %90",
+		"c": "%50 <= FEV<sub>1</sub> <= %80",
+		"d": "%30 <= FEV<sub>1</sub> < %50",
+		"e": "%20 <= FEV<sub>1</sub> < %30"
+	}, {
+		"sira": 6,
+		"yanit": "a",
+		"soruUstKismi": "Göğüs ağrısı ve nefes darlığı yakınmaları ile başvuran hastanın solunum sistemi fizik muayenesinde; sağ hemitoraksın solunuma az katıldığı, vibrasyon torasikte azalma olduğu saptanıyor. Perküsyonda sağ hemitoraksta skapula altından bazale kadar matite alınıyor ve oskültasyonda aynı bölgede solunum sesleri alınamıyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Plevral efüzyon",
+		"b": "Pnömoni",
+		"c": "Pnömotoraks",
+		"d": "İnterstisyel akciğer hastalığı",
+		"e": "KOAH"
+	}, {
+		"sira": 7,
+		"yanit": "b",
+		"soruUstKismi": "Nefes darlığı ve sağ yan ağrısı yakınmaları ile başvuran hastanın akciğer grafisinde sağ hemitoraksın tamamını kaplayan masif plevral efüzyon saptanıyor. Tüp torakostomi ile yarım saat içinde toplam 4,5 litre sıvı drenajı sağlanan hastada işlem sonrasında ilerleyici solunum yetmezliği gelişiyor ve hasta 6 saat sonra ölüyor.",
+		"soru": "Bu hastadaki en olası ölüm nedeni aşağıdakilerden hangisidir?",
+		"a": "Tansiyon pnömotoraks",
+		"b": "Reekspansiyon akciğer ödemi",
+		"c": "Hava yolu obstrüksiyonu",
+		"d": "Masif pulmoner emboli",
+		"e": "Bronkoplevral fistül"
+	}, {
+		"sira": 8,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi triküspit kapak yetersizliğinde görülen fizik muayene bulgularından biri değildir?",
+		"a": "Juguler vende sistolik dalganın belirginleşmesi",
+		"b": "Sağ ventrikül kaynaklı 3. kalp sesi duyulması",
+		"c": "Subksifoid bölgede ve 4. interkostal aralıkta, inspirasyon sırasında şiddetlenen pansistolik üfürüm duyulması",
+		"d": "Arteryal nabız muayenesinde pulsus bisferiens şeklinde nabız palpe edilmesi",
+		"e": "Parasternal bölgede sağ ventrikül aktivitesinin artması"
+	}, {
+		"sira": 9,
+		"yanit": "e",
+		"soruUstKismi": "Elli bir yaşındaki erkek hasta 3 saattir devam eden retrosternal yerleşimli göğüs ağrısıyla acil servise başvuruyor. Fizik muayenede vücut sıcaklığı 36,7 C ve kan basıncı 155/85 mmHg olarak ölçülüyor. Laboratuvar incelemesinde troponin ve kreatin kinaz-MB düzeyleri yüksek bulunuyor. Elektrokardiyografisinde anterior derivasyonlarda ST segment yükselmesi gözlemleniyor.",
+		"soru": "Bu hastada 24 saat içinde görülmesi en olası komplikasyon aşağıdakilerden hangisidir?",
+		"a": "Konstriktif perikardit",
+		"b": "Sağ kalp yetmezliği",
+		"c": "Ventriküler septal rüptür",
+		"d": "Tromboembolizm",
+		"e": "Kardiyak aritmi"
+	}, {
+		"sira": 10,
+		"yanit": "b",
+		"soruUstKismi": "Yirmi iki yaşındaki erkek hasta, eforla çabuk yorulma, çarpıntı ve göğsünde baskı hissi şikâyetleriyle başvuruyor. Öyküsünden rahatsızlığının zaman zaman istirahat halindeyken de devam ettiği öğreniliyor. Fizik muayenesinde kan basıncı 180/100 mmHg ölçülüyor, femoral nabızları zorlukla palpe ediliyor ve sırtında sistolik üfürüm duyuluyor.",
+		"soru": "Rutin kan ve idrar tahlilleri normal olan bu hastada en olası sekonder hipertansiyon nedeni aşağıdakilerden hangisidir?Cushing sendromu",
+		"a": "Cushing sendromu",
+		"b": "Aort koarktasyonu",
+		"c": "Renovasküler hipertansiyon",
+		"d": "Feokromasitoma",
+		"e": "Renal parankimal hipertansiyon"
+	}, {
+		"sira": 11,
+		"yanit": "d",
+		"soruUstKismi": "Kırk yaşındaki erkek hasta, nefes darlığı ve çabuk yorulma yakınmalarıyla başvuruyor. Fizik muayenesinde, oskültasyonda sternumun solunda 3. interkostal aralıkta inspirasyonla şiddetlenen diyastolik üfürüm saptanıyor. EKG’de sağ ventrikül hipertrofisi ve telekardiyografide pulmoner konusun belirginleştiği tespit ediliyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Aort yetmezliği",
+		"b": "Aort darlığı",
+		"c": "Atrial septal defekt",
+		"d": "Pulmoner yetmezlik",
+		"e": "Ventriküler septal defekt"
+	}, {
+		"sira": 12,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi ince bağırsak kanserleri için risk faktörü değildir?",
+		"a": "Çölyak hastalığı",
+		"b": "Crohn hastalığı",
+		"c": "Alkol kullanımı",
+		"d": "Erkek cinsiyet",
+		"e": "Rafine şekerler ve kırmızı etten zengin gıdalar"
+	}, {
+		"sira": 13,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Crohn hastalığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+		"a": "Batı toplumunda prevalansı düşüktür.",
+		"b": "Daha çok 40-60 yaşlarında görülür",
+		"c": "Sigara içmek prognozu olumsuz etkiler",
+		"d": "Kazeifiye granülom saptanması tanısal bulgudur",
+		"e": "Birinci derece akrabalardaki görülme olasılığı, genel toplumdakine benzerdir"
+	}, {
+		"sira": 14,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi akut pankreatitli bir hastanın hastaneye başvuru anında kullanılan “RANSON” kriterleri arasında yer almaz?",
+		"a": "Yaş",
+		"b": "Plazma glukoz düzeyi",
+		"c": "Serum LDH düzeyi",
+		"d": "Serum amilaz düzeyi",
+		"e": "Beyaz küre sayısı"
+	}, {
+		"sira": 15,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi akut B hepatiti tanısıyla izlenen hastada akut karaciğer yetmezliği geliştiğini düşündürür?",
+		"a": "ALT yüksekliği",
+		"b": "AST yüksekliği ",
+		"c": "ɣ-glutamil transpeptidaz yüksekliği",
+		"d": "Hemoglobin düşüklüğü",
+		"e": "Protrombin zamanının uzaması"
+	}, {
+		"sira": 16,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki antidiyabetik ajan gruplarından hangisi kilo artışına neden olabilir?",
+		"a": "Biguanidler",
+		"b": "α-glukozidaz inhibitörleri",
+		"c": "Tiazolidinedionlar",
+		"d": "Glukagon benzeri peptid-1 agonistleri",
+		"e": "Dipeptidil peptidaz-4 inhibitörleri "
+	}, {
+		"sira": 17,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, erişkinlerdeki multipl endokrin neoplazi tip 1 tablosunda yer almaz?",
+		"a": "Deri anjiyofibromları",
+		"b": "İnsülinoma",
+		"c": "Paratiroid adenomu ",
+		"d": "Prolaktinoma",
+		"e": "Medüller tiroid karsinomu"
+	}, {
+		"sira": 18,
+		"yanit": "b",
+		"soruUstKismi": "Altmış beş yaşındaki kadın hastanın beden kitle indeksi 27 kg/m<sup>2</sup> ve kan basıncı 150/110 mmHg ölçülüyor. Laboratuvar incelemelerinde açlık plazma şekeri 200 mg/dL, HbA1C % 9, LDL-kolesterol 160 mg/dL, serum kreatinin 2,1 mg/dL ve 24 saatlik idrar albümini 340 mg bulunuyor",
+		"soru": "Bu hastanın tedavisi için en uygun yaklaşım aşağıdakilerden hangisidir?",
+		"a": "Metformin – Statin – Anjiyotensin reseptör blokörü",
+		"b": "İnsülin – Statin – ACE inhibitörü",
+		"c": "İnsülin – Statin – Beta blokör",
+		"d": "Metformin – Statin – ACE inhibitörü",
+		"e": "Sulfonilüre – Fibrat – Anjiyotensin reseptör blokörü"
+	}, {
+		"sira": 19,
+		"yanit": "e",
+		"soruUstKismi": "Akut lenfoblastik lösemi tanısı alan ve lökosit sayısı 168.000/mm<sup>3</sup> olan hastaya kemoterapi başlanıyor. Tedavinin 2. gününde hastada bilinç bulanıklığı, konvülsiyon ve oligüri gelişiyor.",
+		"soru": "Bu hastada aşağıdaki laboratuvar bulgularından hangisinin görülmesi beklenmez?",
+		"a": "Hiperkalemi",
+		"b": "Hiperürisemi",
+		"c": "Hiperfosfatemi",
+		"d": "Metabolik asidoz",
+		"e": "Hiperkalsemi"
+	}, {
+		"sira": 20,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, tromboza eğilim nedenlerinden biri değildir?",
+		"a": "Nefrotik sendrom",
+		"b": "Oral kontraseptif kullanımı",
+		"c": "Protrombin kompleks konsantresi kullanımı",
+		"d": "Trombotik trombositopenik purpura",
+		"e": "İmmün trombositopenik purpura"
+	}, {
+		"sira": 21,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki malignitelerden hangisinde, hedefe yönelik tedavi olarak bortezomib kullanımı endikedir?",
+		"a": "Multipl miyelom",
+		"b": "Prostat kanseri",
+		"c": "Glioblastom multiforme",
+		"d": "Küçük hücreli akciğer kanseri ",
+		"e": "Hodgkin hastalığı"
+	}, {
+		"sira": 22,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki aşılardan hangisi kemoterapi uygulanan bir Hodgkin lenfoma hastasına kesinlikle önerilmemelidir?",
+		"a": "Varicella-zoster aşısı",
+		"b": "Hepatit B aşısı",
+		"c": "İnfluenza aşısı",
+		"d": "Pnömokok aşısı",
+		"e": "Meningokok aşısı"
+	}, {
+		"sira": 23,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki mastositoz tanı kriterlerinden hangisi majör kriter kabul edilir?",
+		"a": "Mast hücrelerinde CD2, CD25 ve CD117 ekspresyonu",
+		"b": "Kemik iliğinde multifokal yoğun mast hücre infiltratları",
+		"c": "Kemik iliğinde multifokal yoğun mast hücre infiltratları",
+		"d": "Total serum triptaz düzeyinin 20 ng/mL’den yüksek olması",
+		"e": "Kemik iliğinde anormal şekilli mast hücrelerinin varlığı"
+	}, {
+		"sira": 24,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki doku tiplerinden hangisine sahip bireylerde spondiloartropatilerin ortaya çıkma riski genel topluma göre daha yüksektir?",
+		"a": "HLA-B8",
+		"b": "HLA-B57",
+		"c": "HLA-DR2",
+		"d": "HLA-DR4",
+		"e": "HLA-B27"
+	}, {
+		"sira": 25,
+		"yanit": "b",
+		"soruUstKismi": "İki-üç hafta önce ateşli üst solunum yolu enfeksiyonu geçirdiğini ifade eden 16 yaşındaki hasta, çarpıntı, halsizlik, eklemlerinde ağrı ve şişlik şikâyetleriyle başvuruyor. Fizik incelemesinde vücut sıcaklığı 38,6 °C ve nabzı 90 / dakika ölçülüyor, sağ el bileği ile sol dizinde artrit bulguları saptanıyor, başka bir patoloji bulunmuyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Enfektif endokardit",
+		"b": "Akut romatizmal ateş",
+		"c": "Romatoid artrit",
+		"d": "SLE",
+		"e": "Poliarteritis nodosa"
+	}, {
+		"sira": 26,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Akut böbrek hasarı olan bir hastada, fraksiyonel üre atılımının % 30’dan düşük bulunması aşağıdaki durumlardan hangisini düşündürür?",
+		"a": "Postiskemik akut tübüler nekroz",
+		"b": "Prerenal akut böbrek hasarı ",
+		"c": "Akut interstisyel nefrit",
+		"d": "Aminoglikozid nefrotoksisitesi",
+		"e": "Rabdomiyoliz"
+	}, {
+		"sira": 27,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, renal AA amiloidoza yol açmaz?",
+		"a": "Ailevi Akdeniz ateşi ",
+		"b": "İnflamatuvar bağırsak hastalığı",
+		"c": "Multipl miyelom",
+		"d": "Romatoid artrit ",
+		"e": "Tüberküloz"
+	}, {
+		"sira": 28,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, kronik tübülointerstisyel nefrit nedenlerinden biri değildir?",
+		"a": "Sarkoidoz",
+		"b": "Sjögren sendromu",
+		"c": "Kurşun nefropatisi",
+		"d": "Ateroembolik hastalık",
+		"e": "Balkan nefropatisi"
+	}, {
+		"sira": 29,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki pulmoner fonksiyon test sonuçlarından hangisi yaşlanma ile uyumlu değildir?",
+		"a": "FEV<sub>1</sub>’in azalması",
+		"b": "Rezidüel volümün artması",
+		"c": "PO<sub>2</sub>’nin azalması",
+		"d": "FEV<sub>1</sub>/FVC’nin azalması",
+		"e": "Vital kapasitenin artması"
+	}, {
+		"sira": 30,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki hastalıklardan hangisinde Koebner belirtisi görülmez?",
+		"a": "Psöriazis",
+		"b": "Liken planus",
+		"c": "Seboreik dermatit",
+		"d": "Verruca vulgaris",
+		"e": "Vitiligo"
+	}, {
+		"sira": 31,
+		"yanit": "e",
+		"soruUstKismi": "Epilepsi nedeniyle 4 hafta önce karbamazepin kullanmaya başlamış bir hastada deride 3 gündür olan, vücut yüzeyinin %40’ını tutan, birbiriyle birleşme eğiliminde olan makül ve papüller saptanıyor. Deride ayrışması olmayan ve mukozaları sağlam olan hastada ateş, lenfadenopati, farenjit ve eozinofili izleniyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Akut ürtiker",
+		"b": "Morbiliform (ekzantematöz) ilaç reaksiyonu",
+		"c": "Stevens-Johnson sendromu",
+		"d": "Fiks ilaç reaksiyonu",
+		"e": "İlaca bağlı hipersensitivite sendromu"
+	}, {
+		"sira": 32,
+		"yanit": "a",
+		"soruUstKismi": "Hipertansiyon ve diyabet öyküsü olan 75 yaşındaki erkek hasta, sol gözünde 5 dakika süren görme kaybı ataklarından yakınıyor. Hasta atak sırasında sol gözünü kapattığında sağ gözüyle normal gördüğünü; sağ gözünü kapattığında ise hiç görmediğini belirtiyor.",
+		"soru": "Aşağıdaki anatomik lokalizasyon ve etiyolojilerden hangisi bu belirtileri en iyi açıklar?",
+		"a": "Anatomik lokalizasyon: Retinal iskemi ,Etiyoloji: Karotis darlığı",
+		"b": "Anatomik lokalizasyon: Optik sinirde inflamasyon ,Etiyoloji: Multipl skleroz",
+		"c": "Anatomik lokalizasyon: Optik kiazma basısı ,Etiyoloji: Hipofiz tümörü",
+		"d": "Anatomik lokalizasyon: Optik traktus lezyonu ,Etiyoloji: Beyin tümörü",
+		"e": "Anatomik lokalizasyon: Oksipital lob lezyonu ,Etiyoloji: Serebral infarkt"
+	}, {
+		"sira": 33,
+		"yanit": "a",
+		"soruUstKismi": "Hareketlerinde gittikçe artan yavaşlama ve kolayca düşme şikâyetleri ile başvuran 70 yaşındaki erkek hastanın ellerinde titreme fark ediliyor.",
+		"soru": "Bu hastanın fizik muayenesinde aşağıdaki bulgulardan hangisinin görülmesi beklenir?",
+		"a": "Bilateral rijidite",
+		"b": "Bilateral Babinski işareti ",
+		"c": "Serebellar ataksi ",
+		"d": "Kuadriparezi",
+		"e": "Bilateral pitozis "
+	}, {
+		"sira": 34,
+		"yanit": "c",
+		"soruUstKismi": "Elli yaşındaki kadın hastada akut sol hemiparezi tablosu gelişiyor ve 1 saat içinde acil servise getiriliyor. Beyin bilgisayarlı tomografisinde kanama bulguları saptanmıyor.",
+		"soru": "Aşağıdakilerden hangisi bu hastada intravenöz tromboliz tedavisi için kontrendikasyon oluşturur?",
+		"a": "Kan şekeri 250 mg/dL",
+		"b": "Trombosit sayısı 125.000/mm<sup>3</sup>",
+		"c": "Kan basıncı 220/120 mmHg",
+		"d": "Bilgisayarlı tomografide falks kalsifikasyonu",
+		"e": "3 ay önce geçirilmiş mide ameliyatı"
+	}, {
+		"sira": 35,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi antipsikotiklerin yan etkilerinden biri değildir?",
+		"a": "Ekstrapiramidal sendrom",
+		"b": "Akatizi",
+		"c": "Santral serotonin sendromu",
+		"d": "Tardif diskinezi",
+		"e": "Distoni"
+	}, {
+		"sira": 36,
+		"yanit": "b",
+		"soruUstKismi": "Otuz beş yaşındaki evli kadın hasta çok sayıda bedensel fiziki yakınma ile başvuruyor. Fizik muayene ve laboratuvar bulguları normal bulunuyor. Daha önce verilen depresyon ve anksiyete yakınmalarına yönelik tedaviden fayda görmediği öğreniliyor.",
+		"soru": "Şikâyetlerini dramatik ve abartılı bir dille anlatan, evlilik ve iş yaşamı ile ilgili sorunlarını uzun uzun anlatmaya istekli olan bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Konversiyon bozukluğu",
+		"b": "Somatizasyon bozukluğu",
+		"c": "Hipokondriazis",
+		"d": "Ağrı bozukluğu",
+		"e": "Vücut dismorfik bozukluğu"
+	}, {
+		"sira": 37,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Osteoporoza bağlı akut vertebral kırığı olan bir hastanın rehabilitasyonunda, aşağıdaki tedavi yaklaşımlarından hangisi uygun değildir?",
+		"a": "Yatak istirahati",
+		"b": "Dirençli egzersizler",
+		"c": "Steroid olmayan antiinflamatuvar ve analjezik ilaçlar",
+		"d": "Breysler ve yardımcı cihazlar",
+		"e": "Analjezik etkili elektroterapi yöntemleri "
+	}, {
+		"sira": 38,
+		"yanit": "a",
+		"soruUstKismi": "Bin kişinin yaşadığı bir bölgede salgın çıkmıştır. Bağışıklık bırakan bu hastalığın primer atak hızı binde 20 olarak saptanmıştır. Hastalığın kuluçka dönemi kadar bir süre geçtikten sonra 15 yeni hasta tespit edilmiştir.",
+		"soru": "Bu hastalığın sekonder atak hızı kaçtır?",
+		"a": "15/980",
+		"b": "20/980",
+		"c": "15/1000",
+		"d": "20/1000",
+		"e": "35/1000"
+	}, {
+		"sira": 39,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi karbonmonoksit zehirlenmesinde hiperbarik oksijen tedavisi endikasyonlarından biri değildir?",
+		"a": "Bulantı ve kusma",
+		"b": "Yüksek karboksihemoglobin düzeyine (> %15) gebeliğin eşlik etmesi",
+		"c": "Akut miyokardiyal iskemi olduğuna dair bulgular",
+		"d": "Fokal nörolojik defisit",
+		"e": "Mental durum değişikliği ve konfüzyon"
+	}, {
+		"sira": 40,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, kafa travması geçirmiş bir hasta için yüksek risk kriterlerinden biri değildir?",
+		"a": "Daha önce tanı konmuş epilepsi hastası olması",
+		"b": "Kusma",
+		"c": "Şuur kaybı",
+		"d": "Baş ağrısı",
+		"e": "Klavikulanın üstünde kalan bölgede travma bulgularının olması"
+	}, {
+		"sira": 41,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Arka-ön akciğer grafisinde, kalp gölgesi global olarak büyümüş ve akciğer alanları normal olan bir hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Mitral darlık",
+		"b": "Mitral yetmezlik",
+		"c": "Perikardiyal efüzyon",
+		"d": "Pulmoner kapak darlığı",
+		"e": "Konstriktif perikardit"
+	}, {
+		"sira": 42,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Minimal pnömoperitonyumu göstermek için en duyarlı görüntüleme yöntemi aşağıdakilerden hangisidir?",
+		"a": "Ayakta akciğer grafisi ",
+		"b": "Yatarak akciğer grafisi",
+		"c": "Ayakta karın grafisi ",
+		"d": "Yatarak karın grafisi",
+		"e": "Ultrasonografi"
+	}, {
+		"sira": 43,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Çocuk sağlığı izleminin sıklığı aşağıdakilerin hangisinde doğru verilmiştir?",
+		"a": "Doğum-6. ay arasında her 2 ayda bir",
+		"b": "1-12. aylar arasında her 2 ayda bir",
+		"c": "6-24. aylar arasında her 3 ayda bir",
+		"d": "12-36. aylar arasında her 6 ayda bir",
+		"e": "18-36. aylar arasında her 6 ayda bir"
+	}, {
+		"sira": 44,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, mikroorganizmaların non-enfeksiyöz kapsid proteinlerinden hazırlanan aşılardan biridir?",
+		"a": "Tetanoz aşısı",
+		"b": "HPV aşısı",
+		"c": "İnfluenza aşısı ",
+		"d": "BCG aşısı",
+		"e": "Rotavirus aşısı"
+	}, {
+		"sira": 45,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Yirmi aylık bir bebeğin, aşağıdaki gelişim basamaklarından hangisini yapması beklenmez?",
+		"a": "İsteklerini işaret parmağı ile göstermek",
+		"b": "Yardımsız merdiven inmek",
+		"c": "3-4 küp ile kule yapmak",
+		"d": "Tek tek kelime söyleyebilmek",
+		"e": "Bir veya birkaç vücut kısmını bilmek"
+	}, {
+		"sira": 46,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi A vitamini eksikliği bulguları arasında yer alır?",
+		"a": "Bitot lekeleri",
+		"b": "Benign gezici glosit",
+		"c": "Megaloblastik anemi",
+		"d": "Hipopigmentasyon",
+		"e": "Subperiostal kanama"
+	}, {
+		"sira": 47,
+		"yanit": "b",
+		"soruUstKismi": "On dört yaşındaki erkek çocuk, üç ay önce ortaya çıkan sol memede kitle şikâyetiyle getiriliyor. Fizik muayenesinde 2 cm boyutlarında palpabl, ağrılı ve serbestçe hareket edebildiği saptanan kitlenin ultrasonografisinde fibroglandüler doku olduğu tespit ediliyor",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Lipomasti",
+		"b": "Jinekomasti",
+		"c": "Meme kanseri",
+		"d": "Fibrokistik değişiklik",
+		"e": "Fibroadenom"
+	}, {
+		"sira": 48,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, Cushing sendromu olan 10 yaşındaki çocukta beklenen bulgulardan biri değildir?",
+		"a": "Hızlı ilerleyen puberte",
+		"b": "Hirşutizm",
+		"c": "Obezite",
+		"d": "Hipertansiyon",
+		"e": "Boy kısalığı"
+	}, {
+		"sira": 49,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Üre döngüsü bozukluklarının hangisinde, karbamil glutamat tedavisiyle, proteinden kısıtlı diyete gereksinim ortadan kalkabilir?",
+		"a": "N-asetil glutamat sentetaz eksikliği",
+		"b": "Ornitin transkarbamilaz eksikliği",
+		"c": "Arjininosüksinik asit sentetaz eksikliği",
+		"d": "Arjininosüksinik asit liyaz eksikliği",
+		"e": "Arjinaz eksikliği"
+	}, {
+		"sira": 50,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Doğumda amniyon sıvısı hemorajik görünümde olan, Apgar skoru düşük, spontan solunumu zayıf ve deri rengi soluk olan bir yenidoğanda, etiyolojide aşağıdakilerden hangisi düşünülmez?",
+		"a": "Umbilikal kord rüptürü",
+		"b": "Rh kan grubu uyuşmazlığı",
+		"c": "Plasentanın vasküler anomalisi",
+		"d": "Ablasyo plasenta",
+		"e": "Umbilikal kord vasküler anomalisi"
+	}, {
+		"sira": 51,
+		"yanit": "c",
+		"soruUstKismi": "Doğumdan sonraki ilk 24 saat içerisinde jeneralize klonik nöbet geçiren 4 günlük kız bebek, rutin olarak kullanılan antiepileptik ilaç tedavilerine rağmen tekrarlayan klonik ve miyoklonik nöbetler nedeniyle yoğun bakım ünitesinde izleniyor.",
+		"soru": "Bu bebekte aşağıdaki durumlardan hangisinin öncelikli olarak düşünülmesi ve müdahale edilmesi prognozu olumlu etkiler?",
+		"a": "Hipoksik iskemik ensefalopati ",
+		"b": "Aicardi sendromu ",
+		"c": "Vitamin bağımlı epilepsiler",
+		"d": "Nörokutanöz hastalıklar",
+		"e": "Erken epileptik infantil ensefalopati"
+	}, {
+		"sira": 52,
+		"yanit": "e",
+		"soruUstKismi": "Altı yaşındaki erkek hasta, akut gastroenterite bağlı hipovolemik şok tablosuyla getiriliyor.",
+		"soru": "Bu hastada aşağıdakilerden hangisi, dekompanse şoku kompanse şoktan ayırt eden bulgudur?",
+		"a": "Taşikardi",
+		"b": "Oligüri",
+		"c": "Bilinç değişikliği",
+		"d": "Periferik nabızlarda zayıflama",
+		"e": "Hipotansiyon"
+	}, {
+		"sira": 53,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Yanlışlıkla 200 mg/kg salisilik asit aldığı öğrenilen 3 yaşındaki kız çocukta aşağıdaki bulgulardan hangisinin görülmesi beklenmez?",
+		"a": "Bulantı-kusma",
+		"b": "Nöbet",
+		"c": "Respiratuvar alkaloz",
+		"d": "Ventriküler taşikardi",
+		"e": "Hiperglisemi"
+	}, {
+		"sira": 54,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, kızamığın beklenen komplikasyonlarından biri değildir?",
+		"a": "Dev hücreli pnömoni",
+		"b": "Trakeit",
+		"c": "Akut otitis media",
+		"d": "Nefrit",
+		"e": "Ensefalit"
+	}, {
+		"sira": 55,
+		"yanit": "c",
+		"soruUstKismi": "Üç yaşındaki erkek çocuk, ateş, huzursuzluk, boyun ağrısı, ağızdan beslenememe ve salya akması şikâyetleriyle getiriliyor. Öyküsünden 3 gün önce akut tonsillofarenjit tanısı aldığı ve antibiyotik tedavisi başlandığı öğreniliyor. Fizik muayenesinde genel durumunun orta, bilincinin açık, vücut sıcaklığının 39 °C, boyun hareketlerinin kısıtlı ve tortikolisinin olduğu saptanıyor",
+		"soru": "Bu hastadaki en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Yabancı cisim aspirasyonu",
+		"b": "Santral sinir sistemi enfeksiyonu",
+		"c": "Retrofaringeal apse",
+		"d": "Lenfoma",
+		"e": "Vertebral osteomiyelit"
+	}, {
+		"sira": 56,
+		"yanit": "a",
+		"soruUstKismi": "Otuz beş yaşındaki erkek hastada kaviter tüberküloz hastalığı olduğu ve balgam yaymasında asido rezistan basil olduğu öğreniliyor. Bu nedenle yapılan aile taramasında bu babanın 3 çocuğu ile ilgili tablodaki bilgilere ulaşılıyor</br><img class='soruImg' alt='Bu resmin gösterimi için internet gerekebilir.' src='lib/sorular/images/2014_3_56.JPG'>",
+		"soru": "Buna göre bu çocuklar için en uygun tedavi yaklaşımı aşağıdakilerin hangisinde birlikte verilmiştir?",
+		"a": "1. Çocuk: INH profilaksisi,  2. Çocuk: INH profilaksisi, 3. Çocuk: INH-RIF-PZA ile tedavi",
+		"b": "1. Çocuk: INH-RIF-PZA ile tedavi,  2. Çocuk: INH profilaksisi, 3. Çocuk: INH-RIF-PZA ile tedavi",
+		"c": "1. Çocuk: INH profilaksisi,  2. Çocuk: Tedavisiz izlem, 3. Çocuk: INH-RIF-PZA ile tedavi",
+		"d": "1. Çocuk: Tedavisiz izlem,  2. Çocuk: Tedavisiz izlem, 3. Çocuk: INH-RIF-PZA ile tedavi",
+		"e": "1. Çocuk: INH profilaksisi,  2. Çocuk: INH profilaksisi, 3. Çocuk: INH profilaksisi"
+	}, {
+		"sira": 57,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Alerjik rinit tedavisinde intranazal kortikosteroidlerin kullanımıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+		"a": "Alerjik rinit tedavisinde en etkili ilaçlardır.",
+		"b": "Nazal mukoza iritasyonu, yanma hissi ve epistaksis şeklinde istenmeyen etkileri vardır.",
+		"c": "Alerjik rinitin aksırık dışındaki tüm semptomları üzerine etkilidir",
+		"d": "Ağır ve persistan semptomlu hastalarda kullanılmalıdır",
+		"e": "Polen mevsimi öncesi tedaviye başlanması koruyucu etki sağlar"
+	}, {
+		"sira": 58,
+		"yanit": "e",
+		"soruUstKismi": "Bir yaşındaki kız bebek vücudunda yaygın döküntü nedeniyle getiriliyor. Öyküsünden anne ve babasının kuzen olduğu, bebeğin tekrarlayan pamukçuk, bronşiyolit ve pnömonisinin olduğu, başını tutamadığı ve desteksiz oturamadığı öğreniliyor. Fizik muayenesinde ağır bir suçiçeği geçirmekte olduğu, motor gelişme geriliği ve spastisite saptanıyor. Laboratuvar incelemelerinde lenfopeni ve hipoürisemi bulunuyor. İmmünoglobulin düzeylerinin normal olduğu belirleniyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Omenn sendromu",
+		"b": "HLA sınıf I eksikliği",
+		"c": "Adenozin deaminaz eksikliği",
+		"d": "HLA sınıf II eksikliği",
+		"e": "Pürin nükleozid fosforilaz eksikliği"
+	}, {
+		"sira": 59,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Tam kan sayımı eritrosit parametreleri ile periferik yaymada eritrosit morfolojisi aşağıdakilerin hangisinde doğru olarak eşleştirilmiştir?</br></br>RDW: Eritrosit dağılım genişliği </br>MCH: Ortalama eritrosit hemoglobin düzeyi (pg) </br>MCV: Ortalama eritrosit hacmi (fL) </br>MCHC: Ortalama eritrosit hemoglobin konsantrasyonu (g/dL)",
+		"a": "<u>Parametre</u>: MCV=65, <u>Eritrosit morfolojisi</u>: Normositoz",
+		"b": "<u>Parametre</u>: MCHC=33, <u>Eritrosit morfolojisi</u>: Hipokromi",
+		"c": "<u>Parametre</u>: Retikülosit=1,5, <u>Eritrosit morfolojisi</u>: Polikromazi",
+		"d": "<u>Parametre</u>: MCH=21, <u>Eritrosit morfolojisi</u>: Makrositoz",
+		"e": "<u>Parametre</u>: RDW=20, <u>Eritrosit morfolojisi</u>: Makrositoz"
+	}, {
+		"sira": 60,
+		"yanit": "c",
+		"soruUstKismi": "Üç yaşındaki kız çocuk vücudundaki morluklar ve tekrarlayan burun kanamaları nedeniyle getiriliyor. Öyküsünden anne ve babasının akraba olduğu öğreniliyor. Kan sayımında trombosit sayısı 340.000/mm<sup>3</sup> saptanıyor. Periferik yaymasında trombosit morfolojisi normal görülüyor",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Bernard-Soulier sendromu",
+		"b": "May-Hegglin anomalisi",
+		"c": "Glanzmann trombastenisi",
+		"d": "Wiskott-Aldrich sendromu",
+		"e": "Paris-Trousseau sendromu"
+	}, {
+		"sira": 61,
+		"yanit": "c",
+		"soruUstKismi": "On iki yaşındaki erkek çocuk bacaklarında morluk şikâyetiyle getiriliyor. Laboratuvar incelemesinde lökosit sayısı 65.000/mm<sup>3</sup> ve trombosit sayısı 11.000/mm<sup>3</sup> bulunuyor. Periferik yaymasında blastlar, akciğer grafisinde ön mediastinal kitle saptanıyor. Kemik iliği incelemesi sonucu akut lösemi tanısı konuluyor.",
+		"soru": "Bu hastada görülmesi beklenen en olası lösemi tipi aşağıdakilerden hangisidir?",
+		"a": "B hücreli lenfoblastik",
+		"b": "B prekürsör hücreli lenfoblastik",
+		"c": "T hücreli lenfoblastik",
+		"d": "Miyelomonositik",
+		"e": "Bifenotipik"
+	}, {
+		"sira": 62,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisinin egzersiz sırasında ani ölüme yol açma olasılığı en düşüktür?",
+		"a": "Hipertrofik kardiyomiyopati",
+		"b": "Dilate kardiyomiyopati",
+		"c": "Uzun QT sendromu",
+		"d": "Atrial septal defekt",
+		"e": "Anormal çıkışlı sol koroner arter"
+	}, {
+		"sira": 63,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Çocuklarda kalp yetmezliği tedavisinde kullanılan digoksinin toksik etkileri ile ilgili aşağıdakilerden hangisi doğrudur?",
+		"a": "Bilinen ilaç etkileşimi yoktur.",
+		"b": "Prematürelerde digoksin eliminasyonu daha hızlı olduğundan yüksek dozlarda bile toksisite görülmez",
+		"c": "Digoksin toksisitesinde nodal iletim etkilenmez",
+		"d": "Digoksinin serum tedavi düzeyi ile toksik düzeyi yakın olduğundan kolayca toksisite gelişebilir.",
+		"e": "Digoksin toksisitesinin ilk bulgusu EKG’de ST-T değişiklikleridir."
+	}, {
+		"sira": 64,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, otoimmün hepatitin özelliklerinden biri değildir?",
+		"a": "Döküntü",
+		"b": "Artrit",
+		"c": "Vaskülit",
+		"d": "Coombs pozitif anemi",
+		"e": "Hipogamaglobulinemi"
+	}, {
+		"sira": 65,
+		"yanit": "e",
+		"soruUstKismi": "</br>I. IgA tipi doku transglutaminaz antikoru </br>II. HLA DQ2 ve DQ8 pozitifliği </br>III. Total villöz atrofi ve kript hiperplazisi </br>IV. Glutensiz diyet ile klinik remisyon sağlanmas",
+		"soru": "Kronik ishal, kilo kaybı ve büyüme geriliği şikâyetleriyle getirilen 6 yaşındaki kız çocuğuna çölyak hastalığı tanısı konulması için yukarıdaki kriterlerden hangilerinin sağlanması zorunludur?",
+		"a": "I ve II",
+		"b": "I ve III",
+		"c": "II ve III",
+		"d": "II ve IV",
+		"e": "III ve IV"
+	}, {
+		"sira": 66,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Akut poststreptokokkal glomerülonefrit (APSGN) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+		"a": "Üç yaşından küçük çocuklarda nadir görülür",
+		"b": "Hastaların büyük çoğunluğunda düşük kompleman C<sub>3</sub> düzeyi saptanır.",
+		"c": "Streptokokkal tonsillofarenjiti takiben APSGN, streptokokkal piyodermi sonrası APSGN’ye göre daha kısa sürede gelişir",
+		"d": "Hastaların büyük çoğunluğunda tam düzelme olur",
+		"e": "Streptokokkal tonsillofarenjit ve cilt enfeksiyonlarında eradikasyonu sağlayan antibiyotik tedavisi APSGN gelişimini önler"
+	}, {
+		"sira": 67,
+		"yanit": "b",
+		"soruUstKismi": "<img class='soruImg' alt='Bu resmin gösterimi için internet gerekebilir.' src='lib/sorular/images/2014_3_67.JPG'></br>Üç yaşındaki erkek çocuk idrarından kan gelmesi şikâyetiyle getiriliyor. Öyküsünden 3 kez taş düşürdüğü öğreniliyor. İdrar incelemesinde yukarıda mikroskobik görüntüsü verilen kristaller izleniyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Hiperokzalüri",
+		"b": "Sistinüri",
+		"c": "Hiperürikozüri",
+		"d": "Hiperkalsiüri",
+		"e": "Fosfatüri"
+	}, {
+		"sira": 68,
+		"yanit": "b",
+		"soruUstKismi": "Sekiz yaşındaki erkek çocuk; suçiçeği geçirdikten bir hafta sonra letarji ve generalize tonik klonik nöbet tablosu ile getiriliyor. Nörolojik muayenesinde bilinç bulanıklığı, bilateral optik nörit ve sağ hemiparezi saptanıyor. Kraniyal manyetik rezonans incelemesinde yaygın beyaz cevher ve bazal gangliada multifokal kontrast tutan lezyonlar görülüyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Herpes simpleks virus ensefaliti",
+		"b": "Akut dissemine ensefalomiyelit ",
+		"c": "Menenjit",
+		"d": "Beyin apsesi",
+		"e": "Multipl skleroz"
+	}, {
+		"sira": 69,
+		"yanit": "c",
+		"soruUstKismi": "Üç yaşındaki erkek çocuk yürüme güçlüğü nedeniyle getiriliyor. Öyküsünden 1,5 yaşında yürüdüğü öğreniliyor. Fizik muayenesinde ördek benzeri yürüyüş ve Gower bulgusu tespit ediliyor. Hastanın gastrokinemius kasları hafif hipertrofik olup derin tendon refleksleri aşil refleksi dışında alınamıyor. Laboratuvar incelemelerinde serum kreatin kinaz düzeyi 10.000 IU/L olarak saptanıyor.",
+		"soru": "Bu hasta için en olası tanı ve eksikliği bu duruma neden olan protein aşağıdakilerin hangisinde birlikte verilmiştir?",
+		"a": "Emery-Dreifuss musküler distrofisi – Emerin proteini",
+		"b": "Becker musküler distrofisi – Sarkoglikan proteini",
+		"c": "Duchenne musküler distrofisi – Distrofin proteini",
+		"d": "Fasio-skapulohumeral musküler distrofisi – Nebulin proteini",
+		"e": "Fukuyama konjenital musküler distrofisi – Fukutin proteini"
+	}, {
+		"sira": 70,
+		"yanit": "d",
+		"soruUstKismi": "On üç yaşındaki kız çocuk vücudunda oluşan lekeler nedeniyle getiriliyor. Fizik muayenesinde vücudunda sekiz adet 15 mm ve bir adet 25 mm büyüklüğünde sütlü kahve renkli leke saptanıyor. Öyküsünden annesinin vücudunda da benzer döküntülerin çok sayıda olduğu öğreniliyor.",
+		"soru": "Aşağıdakilerden hangisi bu hastalığa özgü bir göz muayene bulgusudur?",
+		"a": "Koryoretinit",
+		"b": "Optik atrofi",
+		"c": "Papil ödemi",
+		"d": "Lisch nodülü",
+		"e": "Retinitis pigmentosa"
+	}, {
+		"sira": 71,
+		"yanit": "b",
+		"soruUstKismi": "Altı yaşındaki erkek çocuk görme keskinliğinde azalma şikâyetiyle getiriliyor. Göz muayenesinde kırma kusuru, alternan strabismus, kırmızı refleks ve fovea hipoplazisi saptanıyor",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Fundus kolobomu",
+		"b": "Albinizm",
+		"c": "Retinoblastom",
+		"d": "Glokom",
+		"e": "Katarakt"
+	}, {
+		"sira": 72,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, DNA tamir mekanizmasındaki bozukluk sonucunda gelişen hastalıklardan biri değildir?",
+		"a": "Fanconi anemisi",
+		"b": "Ataksi telanjiektazi",
+		"c": "Burkitt lenfoma",
+		"d": "Bloom sendromu",
+		"e": "Kseroderma pigmentosum"
+	}, {
+		"sira": 73,
+		"yanit": "d",
+		"soruUstKismi": "Otuz dört yaşındaki erkek hasta, 1 haftadır devam eden öksürük, hâlsizlik ve ateş şikâyetleri ile acil servise getiriliyor. Fizik muayenesinde, vücut sıcaklığı 39,2 °C, kalp hızı 114/dakika, kan basıncı 80/60 mmHg ve solunum sayısı 32/dakika ölçülüyor. Akciğer oskültasyonunda krepitan raller tespit ediliyor. Bir saat içinde yapılan 1000 mL serum fizyolojik infüzyonu sonrası kan basıncı 75/60 mmHg ölçülüyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Sistemik inflamatuvar yanıt sendromu",
+		"b": "Sepsis",
+		"c": "Ağır sepsis",
+		"d": "Septik şok",
+		"e": "Çoklu organ disfonksiyon sendromu"
+	}, {
+		"sira": 74,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Şok tiplerine vücudun verdiği hemodinamik cevap ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+		"a": "Hipovolemik şokta kardiyak indeks düşer, sistemik vasküler direnç artar, santral venöz basınç düşer",
+		"b": "Septik şokta kardiyak indeks artar, sistemik vasküler direnç düşer, santral venöz basınç artar veya azalır",
+		"c": "Kardiyojenik şokta kardiyak indeks düşer, sistemik vasküler direnç artar, santral venöz basınç yükselir",
+		"d": "Hemorajik şokta kardiyak indeks artar, sistemik vasküler direnç artar, santral venöz basınç düşer",
+		"e": "Nörojenik şokta kardiyak indeks artar, sistemik vasküler direnç düşer, santral venöz basınç düşer"
+	}, {
+		"sira": 75,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki durumların hangisinde perioperatif beslenme desteği gereklidir?",
+		"a": "Vücut kitle indeksi 18,5 kg/m<sup>2</sup> ’nin altında olan hasta",
+		"b": "Son 6 ayda % 5 oranında istemsiz kilo kaybı olan hasta",
+		"c": "Serum albümin düzeyi 3,3 g/dL olan karaciğer yetmezlikli hasta",
+		"d": "Dört gün boyunca oral yolla beslenemeyecek hasta",
+		"e": "Orta derecede beslenme bozukluğu öyküsü olan hasta"
+	}, {
+		"sira": 76,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Hipernatremi ve tedavisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+		"a": "Genellikle sıvı açığı ile birlikte görülür",
+		"b": "Hipovolemik hastalarda önce sodyum yüksekliği tedavi edilmelidir",
+		"c": "Tedavide % 5 dekstroz kullanılabilir.",
+		"d": "Kronik hipernatremilerde sodyum düzeyi hızlı bir şekilde düşürülmemelidir",
+		"e": "Oral tedavi de uygulanabilir."
+	}, {
+		"sira": 77,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "AIDS tanısı konan hastalarda şiddetli enterokolite en sık neden olan patojen aşağıdakilerden hangisidir?",
+		"a": "Salmonella",
+		"b": "Shigella",
+		"c": "Cryptosporidium",
+		"d": "Clostridium",
+		"e": "Sitomegalovirus"
+	}, {
+		"sira": 78,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Eritrosit süspansiyonu transfüzyonuna bağlı gelişen aşağıdaki komplikasyonlardan hangisi bir immün reaksiyon değildir?",
+		"a": "Anafilaktik şok",
+		"b": "Nonhemolitik ateş",
+		"c": "HIV bulaşı",
+		"d": "Akut hemolitik reaksiyon",
+		"e": "Akut akciğer hasarı"
+	}, {
+		"sira": 79,
+		"yanit": "b",
+		"soruUstKismi": "Yirmi yıldır diyabeti olan 78 yaşındaki erkek hastanın daha önce geçirdiği kolon ameliyatı kesisinde fıtıklaşma oluyor. Hastanın fıtığı prostetik materyal (mesh) kullanılarak onarılıyor. Dördüncü günde cilt altı drenleri çekilerek taburcu ediliyor. Hasta ameliyat sonrası 14. günde yüksek ateş nedeni ile acil servise başvuruyor.",
+		"soru": "Bu hastada ateş yüksekliğinin en olası nedeni aşağıdakilerden hangisidir?",
+		"a": "İntraabdominal apse",
+		"b": "Cerrahi alan enfeksiyonu",
+		"c": "Akciğer enfeksiyonu",
+		"d": "İdrar yolu enfeksiyonu",
+		"e": "Derin ven trombozu"
+	}, {
+		"sira": 80,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki tümör supresör gen ve onkojenlerden hangisi pankreas adenokarsinomu gelişiminde rol almaz?",
+		"a": "PDX1",
+		"b": "KRAS 2",
+		"c": "p53",
+		"d": "DPC4",
+		"e": "BRCA1"
+	}, {
+		"sira": 81,
+		"yanit": "c",
+		"soruUstKismi": "Altmış iki yaşındaki kadın hastaya meme kanseri nedeniyle sol modifiye radikal mastektomi yapılıyor. Ameliyattan 4 hafta sonraki kontrolünde, sol kolunu saçını taramak için yukarıya kaldırmakta güçlük çektiği öğreniliyor. Sol eli ile iterek kapıyı açmaya çalıştığında sol skapulasında dışarıya doğru protrüzyon olduğu görülüyor.",
+		"soru": "Bu hastada aşağıdaki anatomik yapılardan hangisinin yaralanmış olması en olasıdır?",
+		"a": "İnterkostobrakiyal sinir",
+		"b": "Torakodorsal sinir",
+		"c": "Torasikus longus siniri",
+		"d": "Spinal aksesuar sinir",
+		"e": "Median sinir"
+	}, {
+		"sira": 82,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Yelken göğüse bağlı mortalite ve morbidite aşağıdakilerin hangisinden kaynaklanır?",
+		"a": "İdrar retansiyonu",
+		"b": "Deri altı hematomu",
+		"c": "Paradoks solunum hareketleri",
+		"d": "Diyafragma elevasyonu",
+		"e": "Deri altı amfizemi"
+	}, {
+		"sira": 83,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "İntravasküler kan volümünün % 30-40’ını kaybetmiş bir hemorajik şok hastasının klinik bulgularıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+		"a": "Nabız sayısı 120/dakika’dan yüksektir",
+		"b": "Sistolik basınç düşüktür.",
+		"c": "İdrar çıkışı 40 mL/saat’tir.",
+		"d": "Nabız basıncı düşüktür",
+		"e": "Belirgin takipne mevcuttur."
+	}, {
+		"sira": 84,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, izole künt karın travmalı bir hasta için mutlak laparotomi endikasyonudur?",
+		"a": "Takipne",
+		"b": "Hemodinamik stabilitenin sağlanamaması ",
+		"c": "Dalak yaralanması",
+		"d": "Karaciğer yaralanması",
+		"e": "Konfüzyon "
+	}, {
+		"sira": 85,
+		"yanit": "e",
+		"soruUstKismi": "Kırk dokuz yaşındaki erkek hasta araç içi trafik kazası geçiriyor. Glasgow Koma Skoru (GKS) 3 bulunuyor ve olay yerinde kardiyopulmoner resüsitasyon yapılıp entübe olarak acil servise getiriliyor. Kafa travması ve maksilofasiyal travma ile derin komada kabul edilen hastanın yüzünde, geniş doku kayıpları ve orbital-maksiller kırıkları tespit ediliyor. Beyin bilgisayarlı tomografisinde parankim ve ventrikülde geniş kanama alanı saptanıyor.",
+		"soru": "Yoğun bakıma kabulünün 6. saatinde GKS 3 olarak devam eden hastada olası beyin ölümünü değerlendirmek için en güvenilir muayene aşağıdakilerden hangisidir?",
+		"a": "Işık refleksi ",
+		"b": "Kornea refleksi",
+		"c": "Okülosefalik refleks",
+		"d": "Okülovestibüler refleks",
+		"e": "Apne testi"
+	}, {
+		"sira": 86,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, meme kanseri gelişmesi riskini arttıran faktörlerden biri değildir?",
+		"a": "Ailede meme kanseri öyküsünün bulunması",
+		"b": "Uzun süre bol miktarda yağlı gıdalar içeren diyetle beslenme",
+		"c": "Erken menarş",
+		"d": "Uzamış emzirme dönemi",
+		"e": "Elli yaşından sonra benign nedenlerle 2 veya daha fazla biyopsi hikâyesinin olması"
+	}, {
+		"sira": 87,
+		"yanit": "c",
+		"soruUstKismi": "Kırk dört yaşındaki kadın hasta, 6 ay önce fark ettiği sol memede sert kitle ve meme başı akıntısı nedeni ile başvuruyor. Muayenede kitle hareketlerinin kısıtlı olduğu tespit ediliyor. Mamografide, mikrokalsifikasyonlar içeren, düzensiz sınırlı ve 2,5 cm çaplı lezyon saptanıyor.",
+		"soru": "Bu hastada bundan sonraki aşamada en uygun yaklaşım aşağıdakilerden hangisidir?",
+		"a": "Altı ay sonra mamografinin tekrarı",
+		"b": "Meme başı akıntısının sitolojik incelemesi",
+		"c": "Kor biyopsi ile doku tanısının sağlanması",
+		"d": "Ayda bir ultrasonografi ile morfolojik değişikliklerin takibi",
+		"e": "Üç ayda bir manyetik rezonans görüntüleme ile takip"
+	}, {
+		"sira": 88,
+		"yanit": "b",
+		"soruUstKismi": "</br>I. von Hippel-Lindau </br>II. Nörofibromatozis tip I </br>III. Beckwith-Wiedemann",
+		"soru": "Yukarıdaki genetik sendromlardan hangileri feokromasitomayla ilişkilidir?",
+		"a": "Yalnız I",
+		"b": "I ve II",
+		"c": "I ve III",
+		"d": "II ve III",
+		"e": "I,II ve III"
+	}, {
+		"sira": 89,
+		"yanit": "a",
+		"soruUstKismi": "I. TSH II. Serbest T<sub>3</sub> III. Serbest T<sub>4</sub> IV. Total T<sub>3</sub> V. Total T<sub>4</sub>",
+		"soru": "Tiroid nodülleri olan ve klinik olarak ötiroid olduğu düşünülen bir hastada tiroid fonksiyonlarının değerlendirilmesinde yukarıdaki testlerden hangileri yeterlidir?",
+		"a": "Yalnız I",
+		"b": "II ve III",
+		"c": "I, II ve III ",
+		"d": "I, III ve IV",
+		"e": "I, III ve V"
+	}, {
+		"sira": 90,
+		"yanit": "d",
+		"soruUstKismi": "Elli yaşındaki kadın hasta, boynunda şişlik yakınması ile başvuruyor. Fizik muayenede tiroidde 3 cm’lik nodüler lezyon ve servikal lenfadenopati palpe ediliyor. Laboratuvar incelemelerinde T<sub>3</sub>, T<sub>4</sub> ve TSH seviyeleri normal; kalsitonin seviyesi yüksek bulunuyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Papiller karsinom",
+		"b": "Foliküler karsinom",
+		"c": "Hürthle hücreli karsinom",
+		"d": "Medüller karsinom",
+		"e": "Anaplastik karsinom "
+	}, {
+		"sira": 91,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Parsiyel gastrektomi sonrası gelişen aneminin en sık nedeni, aşağıdakilerden hangisinin eksikliğidir?",
+		"a": "B<sub>12</sub> vitamini ",
+		"b": "Demir",
+		"c": "D vitamini",
+		"d": "Folik asit",
+		"e": "Transferrin"
+	}, {
+		"sira": 92,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, midenin lenfatik drenajının sağlandığı lokalizasyonlar arasında yer almaz?",
+		"a": "Arteria hepatica communis çevresi",
+		"b": "Retrohepatik bölge",
+		"c": "Trunkus çölyakus",
+		"d": "Dalak hilusu",
+		"e": "Splenik arter çevresi"
+	}, {
+		"sira": 93,
+		"yanit": "d",
+		"soruUstKismi": "Diyare ve şiddetli dispeptik yakınmaları olan, herhangi bir inceleme yapılmadan yaklaşık 1 yıldır anti-ülser tedavisi gören 26 yaşındaki erkek hasta yakınmalarının hiç azalmaması nedeni ile başvuruyor. Üst gastrointestinal endoskopik incelemede hem proksimal hem de distal duodenumda çok sayıda ülserleri olduğu görülüyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Duodenal kanser",
+		"b": "Helicobacter pylori enfeksiyonu",
+		"c": "Ailesel ülser",
+		"d": "Zollinger-Ellison sendromu",
+		"e": "Hiperkalsemi ile birlikte peptik ülser"
+	}, {
+		"sira": 94,
+		"yanit": "d",
+		"soruUstKismi": "Kırk beş yaşındaki erkek hastada karında kitle nedeniyle yapılan ameliyat sırasındaki bulgular psödomiksoma peritonei ile uyumlu olarak değerlendiriliyor.",
+		"soru": "Bu patolojinin en olası kaynağı aşağıdaki organlardan hangisidir?",
+		"a": "Pankreas",
+		"b": "Mesane",
+		"c": "Mide",
+		"d": "Apendiks",
+		"e": "Safra kesesi"
+	}, {
+		"sira": 95,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki anüs kenarı lezyonlarından hangisi Human papilloma virusu ile ilişkili değildir?",
+		"a": "Buschke-Löwenstein tümörü",
+		"b": "Skuamöz hücreli karsinom",
+		"c": "Paget hastalığı",
+		"d": "Bowen hastalığı",
+		"e": "Verrüköz karsinom"
+	}, {
+		"sira": 96,
+		"yanit": "b",
+		"soruUstKismi": "Altmış beş yaşındaki kadın hasta, 6 aydır devam eden hâlsizlik, kilo kaybı, çarpıntı ve kabızlık şikâyetleriyle başvuruyor. Fizik muayenesinde konjunktivaların solukluğu dışında bir patoloji saptanmıyor. Laboratuvar incelemelerinde hipokrom-mikrositer anemi saptanıyor.",
+		"soru": "Bu hasta için en olası tanı ve en uygun tanı yöntemi aşağıdakilerden hangisidir?",
+		"a": "Lösemi – Kemik iliği biyopsisi",
+		"b": "Sağ kolon tümörü – Kolonoskopi ",
+		"c": "Pankreas başı tümörü – Bilgisayarlı tomografi",
+		"d": "Lenfoma – Dalak biyopsisi",
+		"e": "Kemik mezenter iskemi – Konvansiyonel anjiyografi"
+	}, {
+		"sira": 97,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi post-hepatik portal hipertansiyon nedenlerinden biri değildir?",
+		"a": "Budd-Chiari sendromu",
+		"b": "Splenik ven trombozu",
+		"c": "Konjestif kalp yetmezliği",
+		"d": "Konstriktif perikardit",
+		"e": "İnferior vena kava vebi"
+	}, {
+		"sira": 98,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, ince bağırsakta gözlenen Crohn hastalığının ilk patolojik bulgusudur?",
+		"a": "Lineer ülserler",
+		"b": "Kaldırım taşı görünümü",
+		"c": "Darlık",
+		"d": "Mukozada yüzeyel aftöz ülserler",
+		"e": "Transmural fibrozis"
+	}, {
+		"sira": 99,
+		"yanit": "c",
+		"soruUstKismi": "Altmış beş yaşında ve ek bir tıbbi sorunu olmayan hastaya tümör nedeniyle sağ hemikolektomi yapılıyor. Ameliyat bittikten sonra hasta ayılma odasına alınıyor. Buradaki izleminde hastanın kan basıncının 85/50 mmHg’ye düştüğü ve nabzının 130/dakika’ya çıktığı saptanıyor. Hastanın son bir saat içindeki idrar çıktısı 5 mL ölçülüyor.",
+		"soru": "Bu hastanın tedavisi için aşağıdakilerden hangisinin öncelikle yapılması gerekir?",
+		"a": "Hasta hemen ameliyathaneye alınıp laparotomi yapılmalıdır",
+		"b": "Hastaya intravenöz yolla furosemid verilmelidir",
+		"c": "Hastaya hızla intravenöz yolla 500-1000 mL serum fizyolojik verilmelidir",
+		"d": "İntravenöz piyelografi çekilmelidir",
+		"e": "Retrograd üretrografi çekilmelidir"
+	}, {
+		"sira": 100,
+		"yanit": "e",
+		"soruUstKismi": "Otuz yaşında erkek hasta, ani başlayan şiddetli karın ağrısı nedeniyle acil servise getiriliyor. Fizik muayenesinde yaygın defans olan hastanın laboratuvar incelemelerinde lökosit sayısı 19.800/mm3 ve serum amilaz düzeyi 45 IU/L saptanıyor. Ultrasonografik incelemede karın içi yaygın serbest sıvı bulunan hastanın karın içi sıvısının amilaz değeri 345 IU/L bulunuyor. Sıvının gram boyamasında hem gram (-) hem de gram (+) bakteriler görülüyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Pankreatit",
+		"b": "Kolesistit",
+		"c": "Sigmoid divertikülit",
+		"d": "Akut apandisit ",
+		"e": "Peptik ülser perforasyonu"
+	}, {
+		"sira": 101,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi enterokütan fistülün kendiliğinden kapanması olasılığını azaltan faktörlerden biri değildir?",
+		"a": "Fistül traktının uzunluğunun <2,5 cm olması",
+		"b": "Fistül çapının dar olması ",
+		"c": "Fistül distalinde obstrüksiyon olması ",
+		"d": "Fistül traktının epitelize olması",
+		"e": "Radyasyon enteriti varlığı "
+	}, {
+		"sira": 102,
+		"yanit": "e",
+		"soruUstKismi": "",
+		"soru": "Hepatoselüler kanser tedavisinde aşağıdakilerden hangisi transplantasyon için uygun endikasyon oluşturur?",
+		"a": "3 cm’den büyük 3 tümör odağı olması",
+		"b": "Portal ven invazyonu olması",
+		"c": "Tümör çaplarının toplamının 10 cm’den büyük olması",
+		"d": "Ekstrahepatik yayılımın olması",
+		"e": "5 cm’den küçük tek tümör odağı olması"
+	}, {
+		"sira": 103,
+		"yanit": "d",
+		"soruUstKismi": "Otuz yaşındaki kadın hasta sağ üst kadran ağrısı şikâyetiyle acil servise başvuruyor. Öyküsünden, 8 yıldır oral kontraseptif kullandığı öğreniliyor. Fizik muayenesinde herhangi bir patoloji saptanmıyor. Karın bilgisayarlı tomografisinde karaciğerde iyi sınırlı, heterojen, arteriyel fazda erken kontrastlanan kitle lezyonu görülüyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "Fokal nodüler hiperplazi",
+		"b": "Mezenkimal hamartom",
+		"c": "Hemanjiyom",
+		"d": "Hepatoselüler adenom",
+		"e": "Biliyer kistadenom"
+	}, {
+		"sira": 104,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, endoskopik retrograd kolanjiyo-pankreatografi (ERKP) endikasyonlarından biri değildir?",
+		"a": "Safra fistülleri",
+		"b": "Safra yollarına açılmış kist hidatikler",
+		"c": "Koledok taşları",
+		"d": "Yüksek AST, ALT enzim düzeylerinin nedeninin belirlenmesi",
+		"e": "Safra yolları tümörlerinin palyatif tedavisi"
+	}, {
+		"sira": 105,
+		"yanit": "c",
+		"soruUstKismi": "Altmış yaşındaki erkek hasta, aşırı yağlı dışkılama şikâyeti ile başvuruyor. Öyküsünden, diyabet hastası olduğu ve 6 ay önce safra kesesinde taş nedeniyle laparoskopik kolesistektomi ameliyatı olduğu öğreniliyor.",
+		"soru": "Bu hasta için en olası tanı aşağıdakilerden hangisidir?",
+		"a": "VIPoma",
+		"b": "İnsülinoma",
+		"c": "Somatostatinoma",
+		"d": "Gastrinoma",
+		"e": "Glukagonoma"
+	}, {
+		"sira": 106,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Koroner arter hastalığında, aşağıdaki durumlardan hangisinde, öncelikli olarak cerrahi tedavi düşünülmez?",
+		"a": "Miyokart enfarktüsünün mekanik komplikasyonları",
+		"b": "Ciddi sol ana koroner arter darlığı",
+		"c": "İki damar hastalığı",
+		"d": "Perkütan koroner anjiyoplastinin akut komplikasyonları",
+		"e": "Semptomatik üç damar hastalığı (özellikle ejeksiyon fraksiyonu <% 50 olan hastalarda)"
+	}, {
+		"sira": 107,
+		"yanit": "b",
+		"soruUstKismi": "Ağır yük kaldırma sonrası ortaya çıkan şiddetli, sol bacağa yayılan ağrı yakınması ile başvuran bir hastada sol L5-S1 mediolateral disk hernisi olduğu radyolojik olarak tespit edilmiştir.",
+		"soru": "Bu hastanın muayenesinde S1 radiksinde beklenen bulgular aşağıdakilerin hangisinde birlikte verilmiştir?",
+		"a": "Patella refleksi alınamaz, ayak dorsifleksiyonu zayıftır",
+		"b": "Ayak plantar fleksiyonu zayıftır, ayak tabanı ve lateralinde hipoestezi vardır",
+		"c": "Kremaster refleksi alınamaz, femoral germe pozitiftir",
+		"d": "Diz ekstansiyonu zayıflamıştır, bacak ön yüzünde hipoestezi vardır",
+		"e": "Kalça addüktör kas güçsüzlüğü ve üriner inkontinans vardır"
+	}, {
+		"sira": 108,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Diğer tedavilerle kontrol altına alınamayan posterior epistaksis tedavisinde öncelikle aşağıdaki arterlerden hangisi bağlanır?",
+		"a": "Majör palatin",
+		"b": "İnternal maksiller",
+		"c": "Anterior etmoid",
+		"d": "Labial",
+		"e": "İnternal karotid"
+	}, {
+		"sira": 109,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Gebelikte, pulmoner fonksiyonlarla ilgili aşağıdaki değerlerden hangisi değişmez?",
+		"a": "Tidal volüm",
+		"b": "İnspiratuvar kapasite ",
+		"c": "Vital kapasite",
+		"d": "Rezidüel volüm",
+		"e": "Fonksiyonel rezidüel kapasite"
+	}, {
+		"sira": 110,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "İlk trimester düşüklerinde en sık görülen tanımlanmış kromozom anomalisi aşağıdakilerden hangisidir?",
+		"a": "Otozomal trizomi",
+		"b": "Monozomi",
+		"c": "Triploidi",
+		"d": "Tetraploidi ",
+		"e": "Double trizomi"
+	}, {
+		"sira": 111,
+		"yanit": "d",
+		"soruUstKismi": "Otuz bir yaşındaki Gravida 1, Parite 0, 26 haftalık gebede, preterm eylem tanısıyla tokoliz tedavisi başlanıyor. Tokolitik tedavi sırasında gebede sıcak basma ve diplopi gelişmesi üzerine tedavi sonlandırılıyor.",
+		"soru": "Bu gebede kullanılan en olası tokolitik ajan aşağıdakilerden hangisidir?",
+		"a": "Ritodrin",
+		"b": "Nifedipin",
+		"c": "Gliseril trinitrat",
+		"d": "Magnezyum sülfat",
+		"e": "Atosiban"
+	}, {
+		"sira": 112,
+		"yanit": "iptal",
+		"soruUstKismi": "",
+		"soru": "Bu soru iptal edilmiştir",
+		"a": "Bu soru iptal edilmiştir",
+		"b": "Bu soru iptal edilmiştir",
+		"c": "Bu soru iptal edilmiştir",
+		"d": "Bu soru iptal edilmiştir",
+		"e": "Bu soru iptal edilmiştir"
+	}, {
+		"sira": 113,
+		"yanit": "d",
+		"soruUstKismi": "Gebeliği boyunca kronik hastalığına yönelik ilaç kullanan bir hastaya, gebeliğinin 22. haftasında fetal ultrasonografi yapılıyor. Fetusta meningomiyelosel, yarık dudak-damak ve kalpte ventriküler septal defekt saptanıyor.",
+		"soru": "Bu hastanın kullandığı en olası ilaç aşağıdakilerden hangisidir?",
+		"a": "Lityum",
+		"b": "Enalapril",
+		"c": "Kumadin",
+		"d": "Valproik asit",
+		"e": "Prednizolon"
+	}, {
+		"sira": 114,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Jinekolojik bir operasyon için simfizis pubis’in 2-3 cm üzerinden keskin bir şekilde yapılan, kesi boyutu yaklaşık 8-10 cm olan ve rektus ön kılıfının transvers olarak kesildiği, ana rektusların kesilmeden yana ayrıldığı insizyon aşağıdakilerden hangisidir?",
+		"a": "McBurney",
+		"b": "Pfannenstiel",
+		"c": "Cherney",
+		"d": "Maylard",
+		"e": "Paramedyan"
+	}, {
+		"sira": 115,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki tedavi girişimlerinden hangisi, histeroskopi ile gerçekleştirilemez?",
+		"a": "Uterin sineşilerin açılması",
+		"b": "Endometriyal polip eksizyonu",
+		"c": "Uterin septum rezeksiyonu",
+		"d": "Subseröz miyom eksizyonu",
+		"e": "Endometriyal ablasyon"
+	}, {
+		"sira": 116,
+		"yanit": "a",
+		"soruUstKismi": "",
+		"soru": "Aşağıdakilerden hangisi, genital ülsere en sık neden olur?",
+		"a": "Herpes simpleks virus",
+		"b": "Human papilloma virusu",
+		"c": "Şankroid",
+		"d": "Lenfogranuloma venereum",
+		"e": "Granuloma inguinale "
+	}, {
+		"sira": 117,
+		"yanit": "b",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki sendromların hangisinde, amenore oluşumundaki neden GnRH salınım bozukluğudur?",
+		"a": "Sheehan sendromu",
+		"b": "Kallmann sendromu",
+		"c": "Mayer-Rokitansky-Kuster-Hauser sendromu",
+		"d": "Swyer sendromu",
+		"e": "Asherman sendromu"
+	}, {
+		"sira": 118,
+		"yanit": "c",
+		"soruUstKismi": "Gerçek hermafroditizmli hastada sağ gonadın testis, sol gonadın over olduğu belirlenmiştir",
+		"soru": "Bu hastanın iç genital organlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+		"a": "Bilateral Wolff kanalı kökenli iç genital organlar gözlenir",
+		"b": "Bilateral Müller kanalı kökenli iç genital organlar gözlenir",
+		"c": "Sağda vas deferens, vesiküla seminalis ve epididim; solda ise hemiuterus gözlenir",
+		"d": "Bilateral hem Wolff hem de Müller kanalı kökenli iç genital organlar gözlenir",
+		"e": "Sağda hemiuterus, solda ise Wolff kanalı kökenli iç genital organlar gözlenir"
+	}, {
+		"sira": 119,
+		"yanit": "c",
+		"soruUstKismi": "",
+		"soru": "Aşağıdaki gestasyonel trofoblastik hastalıklardan hangisinde histerektomi en uygun tedavi yöntemidir?",
+		"a": "Parsiyel mol",
+		"b": "Molar gebelik",
+		"c": "Plasental site trofoblastik tümör",
+		"d": "İnvaziv mol",
+		"e": "Koryokarsinom"
+	}, {
+		"sira": 120,
+		"yanit": "d",
+		"soruUstKismi": "",
+		"soru": "Oral kontraseptiflerin etki mekanizmalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+		"a": "Progestasyonel ajan aracılığıyla LH sekresyonunu baskılarlar",
+		"b": "Östrojenik ajan aracılığıyla FSH sekresyonunu baskılarlar",
+		"c": "Progestasyonel ajan aracılığıyla endometriyumda atrofi oluştururlar",
+		"d": "Östrojenik ajan aracılığıyla servikal mukusta kalınlaşmaya neden olurlar",
+		"e": "Progestasyonel ajan aracılığıyla ovulasyonu engellerler"
+	}
+]

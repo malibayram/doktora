@@ -1,0 +1,53 @@
+<ion-view view-title="Ayarlar">
+
+    <ion-nav-buttons side="right">
+
+        <button class="button button-icon ion-more" ng-click="popover.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+
+        <div class="list">
+
+            <div class="item item-divider">
+                <p style="font-size: 15px; line-height: 20px;">
+                    → Sınav esnasında bir şıkkı işaretleyince doğruluk
+                    kontrolü yapılarak şıkkın renklendirilmesini ister misiniz ?
+                </p>
+            </div>
+
+            <ion-radio ng-repeat="item in serverSideList" ng-value="item.value" ng-model="data.serverSide"
+                ng-change="serverSideChange(item)" name="server-side">
+                {{ item.text }}
+            </ion-radio>
+
+            <br />
+
+        </div>
+
+        <p></p>
+
+
+        <div class="list">
+
+            <div class="item item-divider">
+                <p style="font-size: 15px; line-height: 20px;">
+                    → Daha önce çözmeye başladığım sınava kaldığım yerden devam etmek istiyorum ?
+                </p>
+            </div>
+
+            <ion-radio ng-repeat="item in bastanBaslamalimiList" ng-value="item.value"
+                ng-model="bastanBaslamalimiData.kaldigimYerdenDevam" ng-change="bastanBaslamalimiListChange(item)"
+                name="server-side-1">
+                {{ item.text }}
+            </ion-radio>
+
+
+        </div>
+        <button class="button button-full button-assertive" ng-click="sifirla()">
+            İstatistiklerimi Sıfırla
+        </button>
+
+    </ion-content>
+</ion-view>

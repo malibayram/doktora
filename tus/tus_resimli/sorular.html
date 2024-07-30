@@ -1,0 +1,212 @@
+<ion-view cache-view="false" view-title="{{yilText}}">
+
+    <ion-nav-buttons side="right">
+
+        <div class="saatDiv">
+            <time style="vertical-align: -webkit-baseline-middle">{{timerText}}</time>
+        </div>
+
+        <button class="button button-icon ion-more" ng-click="popoverSorular.show($event)"></button>
+
+    </ion-nav-buttons>
+
+    <ion-content>
+
+
+        <div class="skor" style="text-align: center; padding: 5px; background-color: #2ecc71">
+            <span style="float: left">Durum:</span>
+            <span>{{adetDogru}} Doğru , {{adetYanlis}} Yanlış, {{adetBos}} Boş </span>
+            <span style="float: right">Toplam: {{adetToplam}}</span>
+        </div>
+
+
+
+        <div class="buttonsDiv" style="text-align: center">
+            <button style="float: left" ng-click="Back()"
+                class="button icon-left icon ion-ios-rewind button-small ileriGeriButonlari" ng-show="sira > 1">
+                Önceki
+            </button>
+            <button class="kontrolEtButton button icon ion-checkmark button-small" ng-click="CheckAnswerBtnClick()">
+                Kontrol Et
+                <span style="font-size: 14px;" ng-show="cevapAciklamasi" class="notification">
+                    <span class="badget2"></span>
+                </span>
+            </button>
+            <button style="float: right" ng-click="Next()"
+                class="button icon-right icon ion-ios-fastforward button-small ileriGeriButonlari"
+                ng-show="sira < sorular.length">
+                Sonraki
+            </button>
+
+            <button style="float: right" ng-click="checkResults()"
+                class="button button-royal icon-right ion-android-checkmark-circle button-small"
+                ng-show="sira >= sorular.length">
+                Test Sonucumu Kontrol Et
+            </button>
+
+        </div>
+
+
+
+        <p></p>
+        <div class="platform-android">
+            <div class="soruUstKismi" ng-bind-html="soruUstKismi"></div>
+            <div class="question" ng-bind-html="soru"> </div>
+            <div class="list">
+                <ion-radio ng-repeat="item in secenekler" ng-value="item.value" ng-click="serverSideChange(item)"
+                    ng-model="secilecekSecenek" class="server-side"
+                    ng-class="{'dogruCevapCss' : item.dogruYanit == true,'yanlisCevapCss' : item.dogruYanit == false }">
+                    <span class="seceneksClass" style="text-transform: uppercase;">{{item.value}})</span>
+                    <span class="seceneksClass" style="font-size: 13px;" ng-bind-html="item.text"> {{ item.text}}</span>
+                </ion-radio>
+
+            </div>
+        </div>
+
+
+    </ion-content>
+
+
+    <script id="templates/modal.html" type="text/ng-template">
+        <ion-modal-view>
+            <ion-header-bar class="bar bar-header bar-positive">
+                <h1 class="title">Cevabımı kontrol et</h1>
+                <button class="button button-clear button-primary" ng-click="modal.hide()">Kapat</button>
+            </ion-header-bar>
+            <ion-content class="padding">
+                <div style="text-align: center" ng-show="cevapDogruMu == true">
+                    <img src="img/clap.gif" alt="Doğru Yanıt" style="width: 200px; height: 200px;" />
+                    <h4 style="margin: 20px;">Tebrikler !!!
+                        <p>Doğru Cevap ...
+                            <p>
+                               
+                    </h4>
+
+                    <p style="text-align: center;"> Doğru cevap: {{yanit | uppercase}}</p>
+                    <p ng-show="resimVarMi == true" class="resmiBuyutMsg">Cevap içerisindeki resimlere tıklayarak büyütüp yakınlaştırabilirsiniz.</p>
+                    <div class="aciklamaDiv" ng-bind-html="cevapAciklamasi">
+                        {{cevapAciklamasi}}
+                    </div>
+                    <p></p>
+
+                </div>
+                <div style="text-align: center" ng-show="cevapDogruMu == false">
+                    <img src="img/sad.gif" alt="Yanlış Cevap" style="width: 200px; height: 200px" />
+                    <h4 style="margin: 20px;">Maalesef yanlış seçeneği işaretlediniz !!!</h4>
+                    <p style="text-align: center;"> Doğru cevap: {{yanit | uppercase}}</p>
+                    <p ng-show="resimVarMi == true" class="resmiBuyutMsg">Cevap içerisindeki resimlere tıklayarak büyütüp yakınlaştırabilirsiniz.</p>
+                    <div class="aciklamaDiv" ng-bind-html="cevapAciklamasi">
+                       
+                        {{cevapAciklamasi}}
+                    </div>
+                    <p></p>
+                </div>
+
+                <div style="text-align: center" ng-show="cevapDogruMu == null">
+                    <h4 style="margin: 20px;">Herhangi bir şıkkı işaretlemediniz !!!</h4>
+                    <p style="text-align: center;"> Doğru cevap: {{yanit | uppercase}}</p>
+                    <br>
+                    <p ng-show="resimVarMi == true" class="resmiBuyutMsg">Cevap içerisindeki resimlere tıklayarak büyütüp yakınlaştırabilirsiniz.</p>
+                    <div class="aciklamaDiv" ng-bind-html="cevapAciklamasi">
+                        {{cevapAciklamasi}}
+                    </div>
+                    <p></p>
+                </div>
+
+
+                <div class="buttonsDiv" style="text-align: center">
+                    <button style="float: left" ng-click="modal.hide()" class="button button-assertive icon-left icon ion-loop">
+        Kapat
+        </button>
+
+                    <button style="float: right" ng-click="Next()" class="button button-balanced icon-right icon ion-ios-fastforward" ng-show="sira < sorular.length">
+        İleri
+        </button>
+                </div>
+                <p style="margin-bottom: 20px;"></p>
+
+            </ion-content>
+        </ion-modal-view>
+    </script>
+
+
+
+    <script id="templates/resultModal.html" type="text/ng-template">
+        <ion-modal-view>
+            <ion-header-bar class="bar bar-header bar-positive">
+                <h1 class="title">Sonuçlar</h1>
+                <button class="button button-clear button-primary" ng-click="resultModal.hide()">Kapat</button>
+            </ion-header-bar>
+            <ion-content class="padding">
+
+                <div style="text-align: center; font-size: 200px;">
+                    <img src="img/sad.gif" alt="Yanlış Cevap" style="width: 200px; height: 200px" ng-show="!basarili" />
+                    <img src="img/clap.gif" alt="Yanlış Cevap" style="width: 200px; height: 200px" ng-show="basarili" />
+                </div>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div style="text-align: center; font-size: x-large">
+                    <p style="padding: 10px">{{adetDogru}} Doğru , {{adetYanlis}} Yanlış, {{adetBos}} Boş </p>
+                    <p></p>
+                    <p></p>
+                    <p style="padding: 10px">Başarı oranı: %{{yuzde}}</p>
+                    <p style="padding: 10px" ng-show="!basarili"> Biraz daha çalışmalısın :/ </p>
+                    <p style="padding: 10px" ng-show="basarili"> Kesinlikle iyi gidiyorsun :) </p>
+                    <p style="margin-bottom: 40px;"></p>
+                </div>
+
+                <div class="buttonsDiv" style="text-align: center">
+                    <button ng-click="beginFromStart()" class="button button-assertive icon-left icon ion-loop">
+                    Tekrar Çöz
+                </button>
+
+                    <p></p>
+
+                    <button ng-click="gotoYillar()" class="button button-calm icon-right icon ion-easel">
+                    Başka yılın sorularına geç
+                </button>
+
+                    <p></p>
+
+
+                    <button ng-click="bosSorularaGit()" class="button button-dark icon-right icon ion-cloud">
+                    Boş sorulara tekrar bak
+                </button>
+
+                </div>
+
+            </ion-content>
+        </ion-modal-view>
+    </script>
+
+
+
+    <script id="templates/soruyuBildirModel.html" type="text/ng-template">
+        <ion-modal-view>
+            <ion-header-bar class="bar bar-header bar-positive">
+                <h1 class="title">Soruyu Bildir !</h1>
+                <button class="button button-clear button-primary" ng-click="soruyuBildirModel.hide()">Kapat</button>
+            </ion-header-bar>
+            <ion-content class="padding">
+
+                <textarea ng-model="formData.bildiri" style="width: 100%;border:solid 1px #95b807;" rows="10" placeholder="Problemi buraya giriniz."></textarea>
+
+                <br>
+<div style="text-align: center">
+
+
+                    <button ng-click="soruBildiriminiGonder()"  class="button button-dark icon-right icon ion-paper-airplane">
+                    Gönder
+                </button>
+
+                </div>
+
+            </ion-content>
+        </ion-modal-view>
+    </script>
+
+
+
+</ion-view>
