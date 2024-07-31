@@ -22,7 +22,7 @@
 
 - Anlam Uzaylarında Dil Bağımsız Kelime Yerleşimleri
 - Önceki maddede berlitilen anlam uzayındaki boyutların isimlerinin belirlenebilmesi için tokenler arasından ilgili boyuttaki değeri diğer boyutlardan 
-  çok büyük olan yani diğer boyutlarda sıfıra yakın ama ilgili boyutta önemli ölçüde büyük olan token veya token grubu seçilebilir.
+  çok daha büyük olan yani diğer boyutlarda sıfıra yakın ama ilgili boyutta önemli ölçüde büyük olan token veya token grubu seçilebilir.
 
 - Kelime yerleşimlerinin alana özgü olarak boyutlarının küçültülmesi için de ilgili alandaki tüm kelimeler tokenleştirilerek bu yerleşime göre
   vektörler oluşturulur. Bu vektörlerin çoğunda çok küçük değerlere sahip olan boyutların alanla ilgisinin zayıf olduğuna karar verilir ve
