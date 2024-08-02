@@ -27,3 +27,8 @@
 - Kelime yerleşimlerinin alana özgü olarak boyutlarının küçültülmesi için de ilgili alandaki tüm kelimeler tokenleştirilerek bu yerleşime göre
   vektörler oluşturulur. Bu vektörlerin çoğunda çok küçük değerlere sahip olan boyutların alanla ilgisinin zayıf olduğuna karar verilir ve
   bu boyutlar yerleşimden çıkarılır. Transformer mimarisinin sonraki tüm aşamları da bu şekilde küçültülebilir.
+
+- Dinamik Adapter Değişimli LLM Çalıştırma Çerçevesi
+- Birçok adaptörü çalışma esnasında dinamik olarak sisteme ekleyip çıkarabilecek bir kod çerçevesi hazırlanabilir. 
+
+- Token Tercümesi Yöntemiyle Modeli Düşük Kaynaklı Dil ve Alanlara Taşıma
