@@ -5,3 +5,7 @@ Orjinal cevaba GPT-3.5'in verdiği puan ortalaması,0.7727454909819663
 Bizim modelin ürettiği cevaba GPT-3.5'in verdiği puan ortalaması,0.7349999999999978
 Orjinal cevabın bizim modelin ürettiği cevaba benzerlik ortalamasındaki gelişme oranı,14.53
 Bizim modelin ürettiği cevaba GPT-3.5'in verdiği puan ortalamasındaki fark oranı,5.14
+Orjinal cevabın llama3_8b modelinin ürettiği cevaba benzerlik ortalaması (ragas),0.7872567928631206
+Orjinal cevabın bizim modelin ürettiği cevaba benzerlik ortalaması (ragas),0.8513982206499914
+Orjinal cevabın llama3_8b modelinin ürettiği cevaba benzerlik ortalaması (ragas),0.7872567928631206
+Orjinal cevabın bizim modelin ürettiği cevaba benzerlik ortalaması (ragas),0.8513982206499914
