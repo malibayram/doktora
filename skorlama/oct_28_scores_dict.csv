@@ -1,0 +1,7 @@
+Metric,Value
+Orjinal cevabın bizim modelin ürettiği cevaba benzerlik ortalaması,0.5151359999999999
+Orjinal cevabın llama3_8b modelin ürettiği cevaba benzerlik ortalaması,0.46271
+Orjinal cevaba GPT-3.5'in verdiği puan ortalaması,7.692
+Bizim modelin ürettiği cevaba GPT-3.5'in verdiği puan ortalaması,7.132
+Orjinal cevabın bizim modelin ürettiği cevaba benzerlik ortalamasındaki gelişme oranı,11.33
+Bizim modelin ürettiği cevaba GPT-3.5'in verdiği puan ortalamasındaki fark oranı,7.85
