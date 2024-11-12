@@ -16,3 +16,4 @@
 
 # binary files
 *.bin
+tokenizer/tr_gemma2_embeddings.pt
