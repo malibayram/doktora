@@ -1,8 +1,6 @@
 # Türkçe Yapay Zeka Alanında Yapılan Çalışmalar ve Katkılar
 
-## 📚 Akademik Yayınlar ve Araştırmalar
-
-### Hakemli Makaleler
+## 📚 Yayınlar ve Araştırmalar
 
 #### Healthcare-Focused Turkish LLM
 - **Başlık**: "Healthcare-Focused Turkish LLM: Training on Real Patient-Doctor Question-Answer Data for Enhanced Medical Insight"
