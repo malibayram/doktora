@@ -1,5 +1,3 @@
-Tabii ki, açıklamayı daha akıcı ve etkili bir şekilde düzenleyerek profesyonel bir doküman haline getirdim:
-
 # Doktora Tez İzleme Komitesi Toplantısı
 
 Bu toplantı, doktora tez çalışmalarımın ilerlemesini değerlendirmek ve akademik hedeflerime ulaşmamı desteklemek amacıyla düzenlenmiştir. Tez çalışmam, **sağlık hizmetleri** ve **hukuk** gibi kritik alanlarda özelleştirilmiş dil modellerinin geliştirilmesi ve değerlendirilmesi üzerine odaklanmaktadır.
