@@ -45,20 +45,30 @@ PhD candidate in Computer Engineering with a linguistic and multicultural backgr
 - **Programming Languages:** Python, C, C++, Java, Dart, JavaScript, Swift, SQL, HTML, CSS, Assembly, Bash.  
 - **Frameworks/Tools:** TensorFlow, PyTorch, Hugging Face, Docker, CI/CD, GitHub.  
 - **Libraries:** Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn.
+
 ## Selected Academic Publications & Research
+
+**Tokenization Revisited: Balancing Efficiency and Linguistic Integrity in Multilingual NLP:**  
+- *"Tokenization Revisited: Balancing Efficiency and Linguistic Integrity in Multilingual NLP"*  
+- **First Author:** Led the study exploring tokenization standards with a focus on morphological and semantic integrity, especially for morphologically complex and low-resource languages like Turkish.  
+- **Key Contributions:** Developed and implemented a novel framework to evaluate tokenizers using linguistic and semantic fidelity alongside conventional metrics.  
+- **Highlights:** Demonstrated that language-specific tokenization strategies improve downstream performance even in low-resource settings.  
+- **Collaboration:** Included contributions from an engineer at OpenAI and academic researchers, underscoring the significance of the study in the NLP community.  
+- **Future Directions:** Proposed further research into advanced morphological analysis, domain-specific customizations, and cross-linguistic comparisons to refine tokenization practices.
+
 **Healthcare-Focused Turkish LLM:**  
-- "Healthcare-Focused Turkish LLM: Training on Real Patient-Doctor Q&A Data"  
+- *"Healthcare-Focused Turkish LLM: Training on Real Patient-Doctor Q&A Data"*  
 - Fine-tuned Llama 3 (8B) with 167k+ patient-doctor Q&A.  
 - Applied LoRA adapters, SLerp merges, and evaluated against GPT-3.5 and expert feedback.
 
 **Turkish MMLU Benchmark:**  
-- "Setting Standards in Turkish NLP: TurkishMMLU for Large Language Model Evaluation"  
-- 6,200-question benchmark from 280k+ questions, covering 62 sections, 67 disciplines, 800+ topics.  
+- *"Setting Standards in Turkish NLP: TurkishMMLU for Large Language Model Evaluation"*  
+- Developed a 6,200-question benchmark from 280k+ questions, covering 62 sections, 67 disciplines, and 800+ topics.  
 - Established Turkish LLM performance standards and improved tokenization, semantics, and cross-domain adaptation.
 
 **Conference Paper on Adaptive Learning Rate:**  
-- "Data Quality-Based Adaptive Learning Rate: A Case Study on Medical Text Classification"  
-- Dynamic learning rate tied to content quality, improving convergence in a 167k medical dataset.  
+- *"Data Quality-Based Adaptive Learning Rate: A Case Study on Medical Text Classification"*  
+- Introduced a dynamic learning rate tied to content quality, improving convergence in a 167k medical dataset.  
 - Enhanced accuracy and efficiency for specialized NLP applications.
 
 ## Model Development & Contributions

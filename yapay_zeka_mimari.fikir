@@ -32,3 +32,6 @@
 - Birçok adaptörü çalışma esnasında dinamik olarak sisteme ekleyip çıkarabilecek bir kod çerçevesi hazırlanabilir. 
 
 - Token Tercümesi Yöntemiyle Modeli Düşük Kaynaklı Dil ve Alanlara Taşıma
+
+- "Next token prediction" yaparken doğrudan tokeni seçmek yerine çoğu zaman önce tokenin türünü seçmek yani gelecek tokenin bir sıfat, isim, fiil, 
+  edat.. mı olacağı tesbit edilip, sonradan ilgili küme içinden token seçimi yapmak

@@ -57,7 +57,7 @@ def son_sesli(kelime,tipi):
         if c in SESLILER:
             return c
 
-def sertmi(kok,tipi):
+def sertmi(kok, tipi):
     if 'YUM' in tipi:
         pass
     return kok[-1] in SERTLER
