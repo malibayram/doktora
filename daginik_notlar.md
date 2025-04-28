@@ -77,6 +77,7 @@ https://www.antitusif2024.com/viewforum.php?f=298
 - Yapay zeka ve dil modelleri alanında yeni gelişmeleri takip etmek, bunları uygulamak ve bunları en temel seviyeden anlam(ve t)mak
 - Çalışmalarımızı bilimsel bir şekilde yayınlamak ve bu yayınları ilgili platformlarda paylaşmak
 - Tubitak, Tüsep gibi yerli ve yabancı kuruluşlardan destek almak
+- Önce hukuk alanında da sağlık alandaki çalışmaların aynısını yapıp sonra RAG sistemlerine geç.
 
 ## İhtiyacımız Olan Çalışma Alanları ve Arkadaşları
 - Matematik ve istatistik bilgisi
