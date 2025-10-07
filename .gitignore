@@ -17,3 +17,19 @@
 # binary files
 *.bin
 tokenizer/tr_gemma2_embeddings.pt
+
+# latex related files
+*.log
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.bcf
+*.lof
+*.lot
+*.run.xml
+
+YTU_Thesis_Latex_Template_08_05_2024/main.bcf

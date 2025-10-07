@@ -5,11 +5,13 @@
 **Üniversite:** Yıldız Teknik Üniversitesi, Fen Bilimleri Enstitüsü  
 **Program:** Bilgisayar Mühendisliği Doktora Programı  
 **Tez Başlığı:** Düşük Kaynaklı Diller ve Ortamlara Büyük Dil Modellerinin Adapte Edilmesi  
-**Rapor Tarihi:** Mayıs 2025  
+**Rapor Tarihi:** Mayıs 2025
 
 ---
 
 ## 1. Bu Dönem Çalışmalarının Özeti
+
+**_Bu dönemin özeti olarak, düşük kaynaklı diller ve ortamlara büyük dil modellerinin adapte edilmesi için gerekli altyapı ve ölçüm araçlarının geliştirilmesi üzerine yoğunlaştım._**
 
 İkinci tez izleme raporunun ardından, doktora çalışmam kapsamında yürüttüğüm araştırmalar aşağıda özetlenmiştir:
 
@@ -28,12 +30,12 @@
 **Tarih:** 25-28 Haziran 2025  
 **Yer:** Işık Üniversitesi, Şile Yerleşkesi
 
-#### 📑 Bildiri 1: *Tokenizasyon Standartları ve Ölçümü: Türkçe Üzerinden Büyük Dil Modellerinin Karşılaştırmalı Analizi*
+#### 📑 Bildiri 1: _Tokenizasyon Standartları ve Ölçümü: Türkçe Üzerinden Büyük Dil Modellerinin Karşılaştırmalı Analizi_
 
 - Tokenizer benchmark'ı geliştirilmiş, %TR ve %Pure gibi yeni metriklerle değerlendirme yapılmıştır.
 - 15'ten fazla tokenizer karşılaştırılmıştır.
 
-#### 📑 Bildiri 2: *AI Destekli Türkçe Çoktan Seçmeli Sınav Veri Kümesi: Model Değerlendirme ve Karşılaştırmalı Analiz*
+#### 📑 Bildiri 2: _AI Destekli Türkçe Çoktan Seçmeli Sınav Veri Kümesi: Model Değerlendirme ve Karşılaştırmalı Analiz_
 
 - TR-MMLU veri seti tanıtılmıştır: 6200 soru, 62 kategori, 39 model.
 - Modeller Hugging Face üzerinden yayımlanan açık veri ve değerlendirme sistemleri ile analiz edilmiştir.
@@ -43,28 +45,32 @@
 
 ## 3. Dergi Makaleleri
 
-### 1. **Tokenization Standards for Linguistic Integrity: Turkish as a Benchmark**  
-- **Dergi:** ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)  
-- **Gönderim Tarihi:** 23 Nisan 2025  
-- **Durum:** İnceleme Aşamasında  
+### 1. **Tokenization Standards for Linguistic Integrity: Turkish as a Benchmark**
+
+- **Dergi:** ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+- **Gönderim Tarihi:** 23 Nisan 2025
+- **Durum:** İnceleme Aşamasında
 - **İçerik:** Tokenizasyon kalitesinin Türkçedeki model doğruluğuna etkisi gösterilmiş, benchmark metrikleri ve değerlendirme sistemi sunulmuştur.
 
-### 2. **Healthcare-Focused Turkish Medical LLM: Training on Real Patient-Doctor Question-Answer Data for Enhanced Medical Insight**  
-- **Dergi:** ACM TALLIP  
-- **Gönderim Tarihi:** 29 Kasım 2024  
-- **Durum:** İnceleme Aşamasında  
+### 2. **Healthcare-Focused Turkish Medical LLM: Training on Real Patient-Doctor Question-Answer Data for Enhanced Medical Insight**
+
+- **Dergi:** ACM TALLIP
+- **Gönderim Tarihi:** 29 Kasım 2024
+- **Durum:** İnceleme Aşamasında
 - **İçerik:** Gerçek Türkçe hasta-doktor verisiyle finetune edilmiş olan medikal LLM'in yapısı, doğruluğu ve sınıflandırma başarısı anlatılmıştır.
 
-### 3. **Tokens with Meaning: A Hybrid Tokenization Approach for NLP**  
-- **Dergi:** Language Resources and Evaluation (Springer Nature)  
-- **Gönderim Tarihi:** 23 Nisan 2025  
-- **Durum:** Editöre Atanma Aşamasında  
+### 3. **Tokens with Meaning: A Hybrid Tokenization Approach for NLP**
+
+- **Dergi:** Language Resources and Evaluation (Springer Nature)
+- **Gönderim Tarihi:** 23 Nisan 2025
+- **Durum:** Editöre Atanma Aşamasında
 - **İçerik:** Morfolojik yapıya duyarlı, hibrit bir tokenizer geliştirilmiş ve TR-MMLU üzerinde test edilmiştir.
 
-### 4. **Setting Standards in Turkish NLP: TR-MMLU for Large Language Model Evaluation**  
-- **Dergi:** International Journal of Pattern Recognition and Artificial Intelligence  
-- **Gönderim Tarihi:** 23 Nisan 2025  
-- **Durum:** İnceleme Sürecinde  
+### 4. **Setting Standards in Turkish NLP: TR-MMLU for Large Language Model Evaluation**
+
+- **Dergi:** International Journal of Pattern Recognition and Artificial Intelligence
+- **Gönderim Tarihi:** 23 Nisan 2025
+- **Durum:** İnceleme Sürecinde
 - **İçerik:** TR-MMLU veri seti, değerlendirme yöntemi, liderlik tablosu ve 39 modelin performansı sunulmuştur.
 
 ---

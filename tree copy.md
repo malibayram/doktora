@@ -1,175 +1,19 @@
-# Turkish AI Research and Contributions
+# M. Ali Bayram - Doktora Araştırma Özeti
 
-## 📚 Academic Publications and Research
+Doktora çalışması, düşük kaynaklı diller ve özel alanlara yönelik büyük dil modellerinin (LLM) geliştirilmesi ve/veya düşük kaynaklı ortamlara adaptasyonu üzerine yoğunlaşmaktadır. Araştırma sürecinde, Türkçe doğal dil işleme için kapsamlı benchmark sistemleri, alan-özel veri setleri, tokenizer yapıları ve öğrenme teknikleri geliştirilmiştir.
 
-### Peer-Reviewed Articles
+Türkçe eğitim sistemi temelli 6.200 sorudan oluşan TR-MMLU adlı çoktan seçmeli değerlendirme seti hazırlanmış ve 47 büyük dil modeli bu veri seti üzerinde test edilmiştir. Değerlendirme sistemi Hugging Face üzerinde açık kaynak olarak sunulmuş, ayrıca her modelin ayrıntılı sonuçları ve karşılaştırmaları yayımlanmıştır. Bu çalışma, **Türkçe için ilk defa bu düzeyde bir kıyaslama altyapısı** sunarak alandaki standartları belirlemiştir.
 
-#### Healthcare-Focused Turkish LLM
-- **Title**: "Healthcare-Focused Turkish LLM: Training on Real Patient-Doctor Question-Answer Data for Enhanced Medical Insight"
-- **Key Contributions**:
-  - Utilization of 167,000+ real patient-doctor Q&A data
-  - Customized fine-tuning on LLAMA 3 (8b) model
-  - Optimization using LoRA and slerp merge techniques
-  - Solutions for catastrophic forgetting problems
-  - Performance analysis with GPT-3.5 and expert evaluations
-- Link: https://docs.google.com/document/d/1I54QIwYtr3rQV0Oy-9zyJGmpcDrYGMaoZ0UdeVj2jMo/edit?usp=sharing
+Sağlık alanına yönelik 167.000'den fazla **gerçek hasta-doktor etkileşiminden oluşan bir veri seti derlenmiş**, bu veri setiyle Türkçe medikal LLM'ler eğitilmiştir. LLAMA ve Gemma modelleri üzerine kurulan DoctorLlama ve DoctorGemma serileri, LoRA ve SLerp gibi parametrik adaptasyon teknikleri kullanılarak modeller hem verimli hem de modüler biçimde uyarlanmıştır.
 
-#### Turkish MMLU Benchmark
-- **Title**: "Setting Standards in Turkish NLP: TurkishMMLU for Large Language Model Evaluation"
-- **Key Contributions**:
-  - 6,200 multiple choice questions
-  - 62 different sections, 100 questions each
-  - Selected from a pool of 280,000 questions
-  - 67 disciplines and 800+ topics
-  - Standard evaluation criteria for Turkish NLP
-- Link: https://docs.google.com/document/d/1b28ZQmAjh0EWE2_4aSpkvtHC_GIrvfdQu2YHmoP8Cw0/edit?usp=sharing
+Tokenizasyon alanında Türkçe'nin morfolojik yapısına duyarlı yeni bir tokenizer tasarlanmış, bu yapı 15’ten fazla tokenizer ile karşılaştırılmıştır. %TR (Dile özgü token oranı) ve %Pure (anlamsal bütünlük) gibi metrikler önerilmiş ve ölçülen performanslar, model doğruluğu ile doğrudan ilişkilendirilmiştir. Bu sayede yalnızca model değil, kullanılan tokenizasyon yaklaşımının da dil başarısına etkisi **ilk defa sistemli** olarak gösterilmiştir.
 
-### Conference Paper
+Geliştirilen veya katkı sağlanan açık kaynak projeler arasında tokenizer ve model mimarilerine dair kapsamlı kütüphaneler, Apple Silicon için optimizasyon içeren MLX örnekleri ve verimli LLM eğitimi sağlayan Unsloth araçları yer almaktadır. Tüm projeler GitHub ve Hugging Face profillerinde açık kaynak olarak paylaşılmıştır.
 
-#### Adaptive Learning Rate Study
-- **Title**: "Data Quality-Based Adaptive Learning Rate: A Case Study on Medical Text Classification"
-- **Key Contributions**:
-  - Data quality-based adaptive learning rate
-  - Customized approach for medical text classification
-  - Dynamic learning optimization based on expert level
-  - Implementation on 167,000 samples
-  - Performance and convergence improvements
-- Link: https://docs.google.com/document/d/13zBC-LaQyjo8wdJl158NpIPs2LRrToZn/edit?usp=sharing&ouid=100950721933293531716&rtpof=true&sd=true
+Araştırmanın ileri aşamalarında, küçük ölçekli Türkçe modellerin eğitimi, adapter tabanlı dinamik LLM servis sistemleri ve dilden bağımsız anlam uzaylarında model eğitimi gibi konular yer almaktadır.
 
-### Healthcare-Focused Models and Merge Operations
+Bu doktora süreci boyunca SIU 2025 konferansında iki bildiri kabul edilmiş, dört makale uluslararası dergilere gönderilmiştir. Ayrıca, Kasım 2024’te İzmir Bakırçay Üniversitesi ev sahipliğinde düzenlenen IV. Uluslararası Sağlıkta Yapay Zeka Kongresi’nde iki bildiri sunulmuştur. Bu sunumda ilk defa, **veri kalitesine dayalı öğrenme oranı** yaklaşımı önerilmiş ve Türkçe sağlık modellerinin sınıflandırma başarısı detaylı bir şekilde paylaşılmıştır.
 
-Models are shared on both huggingface.com/alibayram and ollama.com/alibayram.
+Ayrıca, **tamamen özgün Türkçe kaynaklardan oluşturulmuş 293.468 soruluk** dev bir soru havuzu hazırlanmıştır. Bu veri seti, TUS, KPSS gibi çok sayıda önemli sınavı kapsamaktadır. Veri seti Hugging Face ve Zenodo üzerinden açık kaynak olarak yayımlanmış, Türkiye'nin en kapsamlı NLP kaynaklarından biri haline gelmiştir.
 
-#### Doctor-Llama Series
-- **Doctor-Llama-3-8b-slerp-cosmos**
-  - Specialized in medical terminology and concepts
-  - Enhanced through multiple model merging
-  - Performance optimized with SLerp technique
-  - Customized for patient-doctor dialogues
-
-- **Doctor-Llama-3-8b-slerp**
-  - Built on Llama 3 base model
-  - Fine-tuned with Turkish medical literature
-  - Performance optimization with SLerp merge techniques
-
-#### DoctorGemma Series
-- **DoctorGemma2-9b**
-  - Medical version of the Gemma model
-  - Multiple fine-tuning phases:
-    1. General medical knowledge adaptation
-    2. Turkish health terminology optimization
-    3. Patient-doctor interaction fine-tuning
-
-- **DoctorGemma2-9b-adapter**
-  - Customized with LoRA adapters
-  - Easily updatable due to modular structure
-  - Adaptable to different medical sub-fields
-
-- **Doctor-Gemma2-9b-it**
-  - Optimized for specific use cases
-  - Iterative fine-tuning approach
-  - Continuous improvement with performance metrics
-
-### Model Merge and Optimization Techniques
-- **SLerp (Spherical Linear Interpolation)**
-  - Optimal combination of different checkpoints
-  - Knowledge transfer between models
-  - Performance/size balance optimization
-
-- **LoRA Adapters**
-  - Low-rank adaptation techniques
-  - Efficient fine-tuning strategies
-  - Modular model development approach
-
-# 📊 Datasets and Evaluations
-
-## Academic Evaluation Datasets
-
-### Turkish MMLU (Multi-task Massive Language Understanding)
-- **Scope**: Comprehensive evaluation set specific to Turkish education system
-- **Content**:
-  - Selected from 280,000+ question pool
-  - 67 different disciplines
-  - 800+ different topics
-- **Use Cases**:
-  - Model performance evaluation
-  - Academic proficiency measurement
-  - Comparative analysis of Turkish language models
-
-### MMLU Evaluation Sets
-1. **turkish_ai_mmlu_model_answers**
-   - Responses from different AI models
-   - Comparative performance analysis
-   - Model behavior examples
-
-2. **turkish_ai_mmlu_leaderboard**
-   - Model performance rankings
-   - Comparative metrics
-   - Development analysis over time
-
-3. **turkish_ai_mmlu_section_results**
-   - Detailed section-based analyses
-   - Topic-based performance evaluations
-   - Specific domain success rates
-
-## Professional Domain Datasets
-
-### Medical Dataset (doctorsite)
-- **Scope**: 167,000+ real patient-doctor interactions
-- **Features**:
-  - Expert doctor responses
-  - Various medical specialties
-  - Patient questions and complaints
-  - Diagnosis and treatment recommendations
-- **Use Cases**:
-  - Medical language model training
-  - Healthcare consulting systems
-  - Medical terminology analysis
-
-### Legal Dataset (legal_qa)
-- **Content**:
-  - Turkish law Q&A data
-  - Legal terminology and concepts
-  - Legal analysis examples
-- **Use Cases**:
-  - Legal text analysis
-  - Legal consulting systems
-  - Legal language modeling
-
-## User Feedback Datasets
-
-### E-commerce Reviews
-1. **hepsiburada_reviews**
-   - Product evaluations
-   - Customer satisfaction analysis
-   - Purchase experiences
-
-### Media and Entertainment Reviews
-1. **beyazperde_reviews**
-   - Movie and series evaluations
-   - Viewer comments
-   - Media content analysis
-
-2. **kitapyurdu_reviews**
-   - Book reviews
-   - Reader evaluations
-   - Literary content analysis
-
-### News and Content
-1. **onedio_news**
-   - News texts and headlines
-   - Content categories
-   - Current events
-
-## 💻 Open Source Contributions
-
-### GitHub Project Contributions
-- **mlx-examples**
-  - Apple Silicon optimized ML examples
-  - Performance improvements
-  - Turkish documentation
-
-- **unsloth**
-  - LLM optimization tools
-  - Training process acceleration
-  - Memory optimization
+Beyazperde, Hepsiburada, Kitapyurdu ve Yorumbudur platformlarından toplanan toplam **5.817.233 etiketli yorum toplanarak açık olarak yayınlanmıştır.** Bu çalışma, Türkçedeki duygusal ifade zenginliğini ve söylem çeşitliliğini veri temelli olarak ortaya koymakta, duygu analizi, kişiselleştirilmiş öneri sistemleri ve metin sınıflandırma gibi uygulamalara katkı sağlamaktadır.
